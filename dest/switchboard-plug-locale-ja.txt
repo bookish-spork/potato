@@ -1,0 +1,108 @@
+原文：Language & Region
+筆者訳：言語と地域
+Google翻訳：言語と地域
+
+原文：Manage languages, and configure region and format
+筆者訳：言語を管理し、地域と書式を設定します
+Google翻訳：言語を管理し、地域と形式を構成します
+
+原文：Region
+筆者訳：地域
+Google翻訳：領域
+
+原文：Formats
+筆者訳：書式
+Google翻訳：フォーマット
+
+原文：Temperature
+筆者訳：温度
+Google翻訳：温度
+
+原文：Some changes will not take effect until you log out
+筆者訳：一部の変更は、ログアウト後に反映されます
+Google翻訳：一部の変更は、ログアウトするまで有効になりません
+
+原文：Language support is not installed completely
+筆者訳：言語サポートが完全にはインストールされていません
+Google翻訳：言語サポートが完全にインストールされていません
+
+原文：Complete Installation
+筆者訳：インストールを完了
+Google翻訳：完全なインストール
+
+原文：Installing %s
+筆者訳：%s をインストールしています
+Google翻訳：％sのインストール
+
+原文：Removing %s
+筆者訳：%s を削除しています
+Google翻訳：％sを削除する
+
+原文：Installing missing language
+筆者訳：不足している言語をインストールしています
+Google翻訳：不足している言語のインストール
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Install Language
+筆者訳：言語をインストール
+Google翻訳：言語のインストール
+
+原文：Install %s
+筆者訳：%s をインストール
+Google翻訳：％sをインストールします
+
+原文：Installed Languages
+筆者訳：インストール済み言語
+Google翻訳：インストールされている言語
+
+原文：Currently active language
+筆者訳：現在の表示言語
+Google翻訳：現在アクティブな言語
+
+原文：Install language
+筆者訳：言語をインストール
+Google翻訳：言語のインストール
+
+原文：Remove language
+筆者訳：言語を削除
+Google翻訳：言語を削除する
+
+原文：Region: 
+筆者訳：地域: 
+Google翻訳：領域：
+
+原文：Formats: 
+筆者訳：書式: 
+Google翻訳：フォーマット：
+
+原文：Celsius
+筆者訳：摂氏
+Google翻訳：摂氏
+
+原文：Fahrenheit
+筆者訳：華氏
+Google翻訳：華氏
+
+原文：Temperature:
+筆者訳：温度:
+Google翻訳：温度：
+
+原文：Set Language
+筆者訳：ユーザーの表示言語に設定
+Google翻訳：言語を設定する
+
+原文：Set System Language
+筆者訳：システム言語に設定
+Google翻訳：システム言語を設定する
+
+原文：Set language for login screen, guest account and new user accounts
+筆者訳：ログイン画面、ゲストアカウント、新しいユーザーアカウントで使用される言語に設定します
+Google翻訳：ログイン画面、ゲストアカウント、新規ユーザーアカウントの言語を設定する
+
+原文：Keyboard Settings…
+筆者訳：キーボードの設定…
+Google翻訳：キーボード設定…
+

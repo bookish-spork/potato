@@ -1,0 +1,24 @@
+原文：Loading captive portal.
+筆者訳：キャプティブポータルを読み込んでいます。
+Google翻訳：キャプティブポータルを読み込んでいます。
+
+原文：The page is served over an unprotected connection.
+筆者訳：ページは保護されていない接続を介して提供されています。
+Google翻訳：このページは、保護されていない接続を介して提供されます。
+
+原文：The page is served over a protected connection.
+筆者訳：ページは保護された接続を介して提供されています。
+Google翻訳：ページは保護された接続を介して提供されます。
+
+原文：Some elements of this page are served over an unprotected connection.
+筆者訳：ページの一部の要素は保護されていない接続を介して提供されています。
+Google翻訳：このページの一部の要素は、保護されていない接続を介して提供されます。
+
+原文：Log in
+筆者訳：ログイン
+Google翻訳：ログイン
+
+原文：Load this address in the browser window
+筆者訳：ブラウザーウィンドウでこのアドレスを読み込みます
+Google翻訳：このアドレスをブラウザウィンドウにロードします
+

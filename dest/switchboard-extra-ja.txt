@@ -1,0 +1,64 @@
+原文：System Settings
+筆者訳：システム設定
+Google翻訳：システム設定
+
+原文：Change system and user settings
+筆者訳：システムとユーザーの設定を変更します
+Google翻訳：システムとユーザーの設定を変更する
+
+原文：Center;Control;Panel;Preferences;System;
+筆者訳：Center;Control;Panel;Preferences;System;センター;コントロール;パネル;設定;システム;
+Google翻訳：Center; Control; Panel; Preferences; System;
+
+原文：A system settings application that focuses on modularity and simplicity.
+筆者訳：モジュール性とシンプルさに重点を置いた、システム設定アプリケーションです。
+Google翻訳：モジュール性とシンプルさに焦点を当てたシステム設定アプリケーション。
+
+原文：Add multitouch navigation gestures
+筆者訳：マルチタッチジェスチャーでペインを移動できるように変更
+Google翻訳：マルチタッチナビゲーションジェスチャを追加する
+
+原文：Better support smaller displays
+筆者訳：ディスプレイの小さなデバイスでのサポートを強化
+Google翻訳：小さいディスプレイをより適切にサポート
+
+原文：Remove old GNOME Control Center compatibility layer
+筆者訳：GNOME の“設定”アプリとの互換性を維持していたレイヤーが古くなっていたので削除
+Google翻訳：古いGNOMEコントロールセンター互換性レイヤーを削除します
+
+原文：Stability and performance improvements
+筆者訳：安定性とパフォーマンスの改善
+Google翻訳：安定性とパフォーマンスの向上
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Redesign search results view
+筆者訳：検索結果表示のデザインを変更
+Google翻訳：検索結果ビューを再設計する
+
+原文：Tab key moves focus out of search
+筆者訳：Tab キーの押下で検索欄からフォーカスを移動するように修正
+Google翻訳：Tabキーを押すと、フォーカスが検索外に移動します
+
+原文：Fix an issue that prevented tiling on small displays
+筆者訳：小さいディスプレイでウィンドウのタイル表示ができない不具合を修正
+Google翻訳：小さなディスプレイでのタイリングを妨げていた問題を修正
+
+原文：Fix an issue with restoring the correct window size
+筆者訳：正しいウィンドウサイズを復元できない不具合を修正
+Google翻訳：正しいウィンドウサイズの復元に関する問題を修正します
+
+原文：Make the category grid fill the available space when maximized
+筆者訳：ウィンドウの最大化時にカテゴリーグリッドが利用可能な領域いっぱいまで広がるように修正
+Google翻訳：最大化されたときにカテゴリグリッドが使用可能なスペースを埋めるようにします
+
+原文：Pressing the "Down" arrow key from the search box correctly focuses the first row
+筆者訳：検索ボックスで下矢印キーを押した際に最初の行に正しくフォーカスするように修正
+Google翻訳：検索ボックスから「下」矢印キーを押すと、最初の行が正しくフォーカスされます
+
+原文：Drop dynamic items from the Dock secondary-click menu
+筆者訳：ドックのコンテキストメニューから動的な項目を削除
+Google翻訳：Dockのセカンダリクリックメニューから動的アイテムをドロップします
+

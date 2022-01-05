@@ -1,0 +1,176 @@
+原文：Videos
+筆者訳：ビデオ
+Google翻訳：ビデオ
+
+原文：Watch videos and movies
+筆者訳：動画や映画を見ます
+Google翻訳：ビデオや映画を見る
+
+原文：A modern video player that focuses on displaying video content instead of player controls. It remembers your last played video and playback position so you can pick up from where you left off.
+筆者訳：プレイヤーコントロールではなく動画内容の表示に重点を置いた、モダンなビデオプレイヤーです。最後に再生した動画と再生位置を記憶するので、前回中断したところから再生を再開できます。
+Google翻訳：プレーヤーコントロールではなく、ビデオコンテンツの表示に重点を置いた最新のビデオプレーヤー。最後に再生したビデオと再生位置が記憶されるため、中断したところから再開できます。
+
+原文：Additional features include:
+筆者訳：そのほかの機能:
+Google翻訳：追加機能は次のとおりです。
+
+原文：Subtitle support
+筆者訳：字幕のサポート
+Google翻訳：字幕のサポート
+
+原文：Play queue
+筆者訳：再生キュー
+Google翻訳：キューを再生
+
+原文：Thumbnail previews on the seek bar
+筆者訳：シークバー上のサムネイルプレビュー
+Google翻訳：シークバーのサムネイルプレビュー
+
+原文：Other updates:
+筆者訳：そのほかのアップデート:
+Google翻訳：その他の更新：
+
+原文：Fix an issue with removing videos from library
+筆者訳：ライブラリーからの動画の削除に関する不具合を修正
+Google翻訳：ライブラリから動画を削除する際の問題を修正
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Two-finger swipe to go back
+筆者訳：2本指のスワイプで前の画面に戻れるように変更
+Google翻訳：2本の指でスワイプして戻る
+
+原文：Translation updates
+筆者訳：翻訳の更新
+Google翻訳：翻訳の更新
+
+原文：Fix an issue with accessing library view
+筆者訳：ライブラリービューへの切り替えに関する不具合を修正
+Google翻訳：ライブラリビューへのアクセスに関する問題を修正します
+
+原文：Fix an issue with returning to the welcome page while playing multiple videos
+筆者訳：複数の動画を再生している際にようこそ画面に戻ると発生する不具合を修正
+Google翻訳：複数のビデオを再生しているときにウェルカムページに戻る問題を修正します
+
+原文：Prevent sleep while playing a video
+筆者訳：動画の再生中にスリープしないように修正
+Google翻訳：ビデオの再生中の睡眠を防ぐ
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Start up faster with large libraries
+筆者訳：ライブラリのサイズが大きい環境での起動を高速化
+Google翻訳：大規模なライブラリでより速く起動する
+
+原文：Fix cases where subtitles refused to load
+筆者訳：字幕の読み込みが拒否される不具合を修正
+Google翻訳：字幕の読み込みが拒否されたケースを修正
+
+原文：Handle if library folder is deleted or moved
+筆者訳：ライブラリフォルダーが削除または移動された場合に正しく処理できるように修正
+Google翻訳：ライブラリフォルダが削除または移動された場合の処理
+
+原文：Load external subtitles
+筆者訳：外部字幕の読み込みに対応
+Google翻訳：外部字幕を読み込む
+
+原文：Reliably update the replay button description and file
+筆者訳：再生ボタンの説明とファイルを確実に更新するように変更
+Google翻訳：再生ボタンの説明とファイルを確実に更新する
+
+原文：More consistently remember the last playing video and its play position
+筆者訳：最後に再生した動画と再生位置をより正確に保存
+Google翻訳：最後に再生したビデオとその再生位置をより一貫して覚えておく
+
+原文：Fix missing icon in episode view
+筆者訳：エピソードビューでアイコンが表示されていなかった不具合を修正
+Google翻訳：エピソードビューで欠落しているアイコンを修正
+
+原文：Option to automatically play next videos
+筆者訳：次の動画を自動的に再生できるオプション
+Google翻訳：次のビデオを自動的に再生するオプション
+
+原文：Navigate the playlist with the keyboard
+筆者訳：キーボードでプレイリストを操作できるように修正
+Google翻訳：キーボードでプレイリストをナビゲートする
+
+原文：Add a button to clear the playlist
+筆者訳：プレイリストを消去するボタンを追加
+Google翻訳：プレイリストをクリアするボタンを追加します
+
+原文：Show audio track language in settings
+筆者訳：設定にオーディオトラックの言語を表示
+Google翻訳：設定でオーディオトラックの言語を表示する
+
+原文：Show playlist item titles in their tooltips
+筆者訳：プレイリストの項目のタイトルをツールチップで表示するように修正
+Google翻訳：ツールチップにプレイリストアイテムのタイトルを表示する
+
+原文：Show an error for unsupported files
+筆者訳：非対応のファイルに対しエラーを表示するように修正
+Google翻訳：サポートされていないファイルのエラーを表示する
+
+原文：Fix disappearing cursor on headerbar
+筆者訳：ヘッダーバーでカーソルが消える不具合を修正
+Google翻訳：ヘッダーバーのカーソルが消えるのを修正
+
+原文：Hide seekbar preview when switching windows with Alt + Tab
+筆者訳：Alt + Tab キーでのウィンドウの切り替え時にシークバーのプレビューを表示しないように修正
+Google翻訳：Alt + Tabでウィンドウを切り替えるときに、シークバーのプレビューを非表示にする
+
+原文：Build fixes
+筆者訳：ビルドの修正
+Google翻訳：ビルドの修正
+
+原文：Window behavior improvements
+筆者訳：ウィンドウの挙動の改善
+Google翻訳：ウィンドウの動作の改善
+
+原文：Fix disappearing subtitle tracks
+筆者訳：字幕が消える不具合を修正
+Google翻訳：消える字幕トラックを修正
+
+原文：Disallow setting playback before start
+筆者訳：開始前に再生の設定をできないように修正
+Google翻訳：開始前の設定再生を禁止する
+
+原文：Limit consecutive spacebar pauses
+筆者訳：スペースキー連打時の一時停止を制限
+Google翻訳：連続するスペースバーの一時停止を制限する
+
+原文：Crash fixes
+筆者訳：クラッシュの修正
+Google翻訳：クラッシュの修正
+
+原文：Remove About dialog
+筆者訳：情報ダイアログを削除
+Google翻訳：[バージョン情報]ダイアログを削除
+
+原文：Minor bug fixes
+筆者訳：軽微なバグの修正
+Google翻訳：マイナーなバグ修正
+
+原文：Preview popover now closely follows cursor position
+筆者訳：プレビュー表示のポップオーバーがカーソルの位置に近くなるように修正
+Google翻訳：プレビューポップオーバーがカーソル位置に厳密に従うようになりました
+
+原文：Fix appstream date format
+筆者訳：AppStream の日付形式を修正
+Google翻訳：appstreamの日付形式を修正
+
+原文：Added a library view with search
+筆者訳：検索でライブラリービューを追加する
+Google翻訳：検索付きのライブラリビューを追加
+
+原文：Fixed a bug that prevents keyboard navigation
+筆者訳：キーボード操作を妨害するバグを修正
+Google翻訳：キーボードナビゲーションを妨げるバグを修正しました
+
+原文：Video Player
+筆者訳：ビデオプレーヤー
+Google翻訳：ビデオプレーヤー
+

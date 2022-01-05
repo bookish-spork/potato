@@ -1,0 +1,40 @@
+原文：Num Lock is on
+筆者訳：Num Lock は有効です
+Google翻訳：NumLockがオンになっています
+
+原文：Caps Lock is on
+筆者訳：Caps Lock は有効です
+Google翻訳：CapsLockがオンになっています
+
+原文：Show Keyboard Layout
+筆者訳：キーボードレイアウトを表示
+Google翻訳：キーボードレイアウトを表示
+
+原文：Keyboard Settings…
+筆者訳：キーボードの設定…
+Google翻訳：キーボード設定…
+
+原文：Middle-click to switch to the next layout
+筆者訳：次のレイアウトに切り替えるには中クリックしてください
+Google翻訳：中クリックして次のレイアウトに切り替えます
+
+原文：Keyboard Layout
+筆者訳：キーボードレイアウト
+Google翻訳：キーボード・レイアウト
+
+原文：Input Method
+筆者訳：インプットメソッド
+Google翻訳：入力方式
+
+原文：Default keyboard layout
+筆者訳：デフォルトのキーボードレイアウト
+Google翻訳：デフォルトのキーボードレイアウト
+
+原文：Keyboard Layout: %s
+筆者訳：キーボードレイアウト: %s
+Google翻訳：キーボードレイアウト：％s
+
+原文：Input Method: %s
+筆者訳：インプットメソッド: %s
+Google翻訳：入力方法：％s
+

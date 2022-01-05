@@ -1,0 +1,28 @@
+原文：Authentication Dialog
+筆者訳：認証ダイアログ
+Google翻訳：認証ダイアログ
+
+原文：Authentication Required
+筆者訳：認証が必要です
+Google翻訳：認証が必要
+
+原文：Password
+筆者訳：パスワード
+Google翻訳：パスワード
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Authenticate
+筆者訳：認証
+Google翻訳：認証する
+
+原文：Group: %s
+筆者訳：グループ: %s
+Google翻訳：グループ：％s
+
+原文：Authentication failed. Please try again.
+筆者訳：認証に失敗しました。もう一度お試しください。
+Google翻訳：認証に失敗しました。もう一度やり直してください。
+

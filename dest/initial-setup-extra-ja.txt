@@ -1,0 +1,56 @@
+原文：Set up elementary OS
+筆者訳：elementary OS をセットアップ
+Google翻訳：エレメンタリーOSをセットアップする
+
+原文：Set up the system
+筆者訳：システムをセットアップします
+Google翻訳：システムをセットアップする
+
+原文：Initial Setup
+筆者訳：初期設定
+Google翻訳：初期設定
+
+原文：Assists with essential tasks before a fresh install is usable, like choosing a language and creating a user account.
+筆者訳：言語の選択やユーザーアカウントの作成など、新規インストール時に必要な作業を支援します。
+Google翻訳：言語の選択やユーザーアカウントの作成など、新規インストールが使用可能になる前に重要なタスクを支援します。
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Confirm and change device name
+筆者訳：デバイス名を確認・変更できる機能を追加
+Google翻訳：デバイス名を確認して変更します
+
+原文：Two-finger swipe to navigate back
+筆者訳：2本指スワイプで1つ前の設定画面に戻れるように修正
+Google翻訳：2本の指でスワイプして戻る
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Translation updates
+筆者訳：翻訳の更新
+Google翻訳：翻訳の更新
+
+原文：Set keyboard layout in accountsservice
+筆者訳：AccountsService を利用してキーボードレイアウトを設定するように変更
+Google翻訳：accountserviceでキーボードレイアウトを設定する
+
+原文：Add multitouch gestures
+筆者訳：マルチタッチジェスチャーを追加
+Google翻訳：マルチタッチジェスチャを追加する
+
+原文：Set correct locales
+筆者訳：適切なロケールを設定するように修正
+Google翻訳：正しいロケールを設定する
+
+原文：New colorful avatar fallback
+筆者訳：アバター画像未設定時に背景を色付きで表示するように変更
+Google翻訳：新しいカラフルなアバターのフォールバック
+
+原文：Initial release
+筆者訳：最初のリリース
+Google翻訳：初回リリース
+

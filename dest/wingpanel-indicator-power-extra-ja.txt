@@ -1,0 +1,72 @@
+原文：Power Indicator
+筆者訳：電源インジケーター
+Google翻訳：電源インジケータ
+
+原文：View battery levels, adjust display brightness, and see apps using lots of power
+筆者訳：バッテリー残量を表示したり、ディスプレイの輝度を調整したり、電力の消費が激しいアプリを確認したりします
+Google翻訳：電池残量を表示したり、ディスプレイの明るさを調整したり、大量の電力を使用しているアプリを表示したりできます
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Show brightness level when scrolled
+筆者訳：インジケーター上でスクロールした際にディスプレイの輝度レベルを表示するように修正
+Google翻訳：スクロールしたときに輝度レベルを表示する
+
+原文：Show battery percentage automatically at 20% or lower
+筆者訳：バッテリー残量が 20% を切ると自動的に割合を表示するように変更
+Google翻訳：バッテリーのパーセンテージを20％以下で自動的に表示
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Match scroll direction with Sound indicator
+筆者訳：スクロールの方向をサウンドインジケーターと統一
+Google翻訳：スクロール方向をサウンドインジケーターと一致させる
+
+原文：Show "Fully Charged" at 100% when plugged in
+筆者訳：電源に接続されていてバッテリー残量が 100% の場合、"充電済み" と表示するように修正
+Google翻訳：プラグを差し込むと、100％で「フル充電済み」と表示されます
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Show battery statistics when selected
+筆者訳：デバイス選択時にバッテリーの統計情報を表示できる機能を追加
+Google翻訳：選択するとバッテリー統計を表示する
+
+原文：Launch apps using power when selected
+筆者訳：電力消費が激しいアプリを選択するとそのアプリを起動できる機能を追加
+Google翻訳：選択時に電源を使用してアプリを起動する
+
+原文：Control display brightness by scrolling the indicator
+筆者訳：インジケーター上でスクロールするとディスプレイの輝度を変更できる機能を追加
+Google翻訳：インジケーターをスクロールしてディスプレイの明るさを制御します
+
+原文：Improvements for desktops with peripherals
+筆者訳：周辺機器を接続したデスクトップPCでの表示を改善
+Google翻訳：周辺機器を備えたデスクトップの改善
+
+原文：Filter out internal devices
+筆者訳：内部デバイスを表示しないように修正
+Google翻訳：内部デバイスを除外する
+
+原文：Show tooltip on hover
+筆者訳：ホバー時にツールチップを表示するように変更
+Google翻訳：ホバーにツールチップを表示する
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Support for Controllers and Pens
+筆者訳：コントローラーとペンに対応
+Google翻訳：コントローラーとペンのサポート
+
+原文：Reduce spacing when percentage is shown
+筆者訳：残量の割合表示の余白を削減
+Google翻訳：パーセンテージが表示されている場合は間隔を狭くしてください
+

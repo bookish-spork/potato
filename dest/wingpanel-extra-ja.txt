@@ -1,0 +1,4 @@
+原文：Top panel that holds indicators and the applications menu
+筆者訳：インジケーターとアプリケーションメニューを表示する最上部のパネル
+Google翻訳：インジケーターとアプリケーションメニューを保持するトップパネル
+

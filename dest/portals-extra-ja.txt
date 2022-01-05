@@ -1,0 +1,28 @@
+原文：Portals
+筆者訳：ポータル
+Google翻訳：ポータル
+
+原文：Access system features in a secure way
+筆者訳：安全な方法でシステムの機能にアクセスします
+Google翻訳：安全な方法でシステム機能にアクセスする
+
+原文：Portals provide APIs to secure apps which enable them to access system features while requiring informed consent.
+筆者訳：“ポータル”は、安全なアプリが事前にユーザーからの許可を得てシステムの機能にアクセスできる API を提供します。
+Google翻訳：ポータルは、インフォームドコンセントを必要としている間にシステム機能にアクセスできるようにするアプリを保護するためのAPIを提供します。
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Prevent delay after logging in
+筆者訳：ログイン後の遅延を修正
+Google翻訳：ログイン後の遅延を防ぐ
+
+原文：First release!
+筆者訳：最初のリリース！
+Google翻訳：最初のリリース！
+
+原文：Add OpenURI Portal
+筆者訳：OpenURI ポータルを追加
+Google翻訳：OpenURIポータルを追加する
+

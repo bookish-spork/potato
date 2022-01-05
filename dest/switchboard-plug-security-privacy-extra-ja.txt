@@ -1,0 +1,32 @@
+原文：Authentication is required to run the Firewall Configuration
+筆者訳：ファイアウォールの設定を実行するには認証が必要です
+Google翻訳：ファイアウォール構成を実行するには認証が必要です
+
+原文：Security &amp; Privacy Settings
+筆者訳：セキュリティーとプライバシーの設定
+Google翻訳：セキュリティとプライバシー設定
+
+原文：Configure firewall, screen lock, and activity information
+筆者訳：ファイアウォール、スクリーンロックとアクティビティ情報を設定します
+Google翻訳：ファイアウォール、画面ロック、およびアクティビティ情報を構成します
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Add Downloads option to Housekeeping
+筆者訳：自動削除の対象に“ダウンロード”フォルダーを選択できるように修正
+Google翻訳：ハウスキーピングにダウンロードオプションを追加
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Translation updates
+筆者訳：翻訳の更新
+Google翻訳：翻訳の更新
+
+原文：Redesigned "Housekeeping" page
+筆者訳："自動削除"ペインのデザインを変更
+Google翻訳：再設計された「ハウスキーピング」ページ
+

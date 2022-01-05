@@ -1,0 +1,146 @@
+原文：You are not permitted to run this application
+筆者訳：このアプリケーションの実行は許可されていません
+Google翻訳：このアプリケーションを実行することは許可されていません
+
+原文：An administrator has restricted your access to this application.
+筆者訳：管理者がこのアプリケーションへのあなたのアクセスを制限しました。
+Google翻訳：管理者がこのアプリケーションへのアクセスを制限しています。
+
+原文：This computer will lock after %s.
+筆者訳：このコンピューターは%s後にロックされます。
+Google翻訳：このコンピュータは％s後にロックされます。
+
+原文（単数形）：%lu hour
+原文（複数形）：%lu hours
+筆者訳：%lu時間
+Google翻訳：％lu時間
+
+原文（単数形）：%lu minute
+原文（複数形）：%lu minutes
+筆者訳：%lu分
+Google翻訳：％lu分
+
+原文：Make sure to close all applications before your computer will be locked.
+筆者訳：コンピューターがロックされる前に、すべてのアプリケーションを必ず閉じるようにしてください。
+Google翻訳：コンピュータがロックされる前に、必ずすべてのアプリケーションを閉じてください。
+
+原文：Time left
+筆者訳：残り時間
+Google翻訳：残り時間
+
+原文：Prevent %s from using these apps:
+筆者訳：%s が以下のアプリを使うことを防ぐ:
+Google翻訳：％sがこれらのアプリを使用できないようにします。
+
+原文：Add Prevented Apps…
+筆者訳：制限するアプリを追加…
+Google翻訳：防止されたアプリを追加…
+
+原文：Remove Selected App
+筆者訳：選択されたアプリを削除
+Google翻訳：選択したアプリを削除する
+
+原文：Clear All
+筆者訳：すべて消去
+Google翻訳：すべてクリア
+
+原文：Allow access to these apps with admin permission:
+筆者訳：管理者の許可でこれらのアプリにアクセスすることを許可:
+Google翻訳：管理者権限でこれらのアプリへのアクセスを許可します。
+
+原文：Prevent %s from visiting these websites:
+筆者訳：%s が以下の Web サイトを参照することを防ぐ:
+Google翻訳：％sがこれらのWebサイトにアクセスしないようにします。
+
+原文：Add URL
+筆者訳：URL を追加
+Google翻訳：URLを追加
+
+原文：Add a new URL, for example: google.com
+筆者訳：新しい URL を追加してください。例: google.com
+Google翻訳：新しいURLを追加します。例：google.com
+
+原文：Invalid URL
+筆者訳：不適切な URL です
+Google翻訳：無効なURL
+
+原文：Weekdays
+筆者訳：平日
+Google翻訳：平日
+
+原文：Weekends
+筆者訳：週末
+Google翻訳：週末
+
+原文：From:
+筆者訳：開始:
+Google翻訳：から：
+
+原文：To:
+筆者訳：終了:
+Google翻訳：に：
+
+原文：Screen Time for %s will not be limited during this period on weekends.
+筆者訳：週末の以下の時間は、%s のスクリーンタイムは制限されません。
+Google翻訳：週末のこの期間中、％sのスクリーン時間は制限されません。
+
+原文：%s will only be able to log in during this time on weekends, and will be automatically logged out once this period ends:
+筆者訳：週末に %s がログイン可能なのは以下の時間帯のみです。これを超過すると自動的にログアウトされます。
+Google翻訳：％sは週末のこの時間帯にのみログインでき、この期間が終了すると自動的にログアウトされます。
+
+原文：Screen Time for %s will not be limited during this period on weekdays.
+筆者訳：平日の以下の時間は、%s のスクリーンタイムは制限されません。
+Google翻訳：平日のこの期間中、％sのスクリーン時間は制限されません。
+
+原文：%s will only be able to log in during this time on weekdays, and will be automatically logged out once this period ends:
+筆者訳：平日に %s がログイン可能なのは以下の時間帯のみです。これを超過すると自動的にログアウトされます。
+Google翻訳：％sは平日のこの時間帯にのみログインでき、この期間が終了すると自動的にログアウトされます。
+
+原文：Search Applications
+筆者訳：アプリケーションを検索
+Google翻訳：アプリケーションの検索
+
+原文：Screen Time
+筆者訳：スクリーンタイム
+Google翻訳：上映時間
+
+原文：Internet
+筆者訳：インターネット
+Google翻訳：インターネット
+
+原文：Applications
+筆者訳：アプリケーション
+Google翻訳：アプリケーション
+
+原文：My Account
+筆者訳：自分のアカウント
+Google翻訳：マイアカウント
+
+原文：Other Accounts
+筆者訳：ほかのアカウント
+Google翻訳：その他のアカウント
+
+原文：Some settings require administrator rights to be changed
+筆者訳：一部の設定変更には管理者権限が必要です
+Google翻訳：一部の設定では、管理者権限を変更する必要があります
+
+原文：Screen Time & Limits
+筆者訳：スクリーンタイムと制限
+Google翻訳：スクリーンタイムと制限
+
+原文：Configure time limits and restrict application usage
+筆者訳：時間制限を設定し、アプリケーションの使用を制限します
+Google翻訳：時間制限を構成し、アプリケーションの使用を制限する
+
+原文：Limit computer use
+筆者訳：コンピューターの利用を制限
+Google翻訳：コンピューターの使用を制限する
+
+原文：Prevent website access
+筆者訳：Web サイトへのアクセスを防止
+Google翻訳：Webサイトへのアクセスを防止する
+
+原文：Prevent application access
+筆者訳：アプリケーションへのアクセスを防止
+Google翻訳：アプリケーションへのアクセスを防止する
+

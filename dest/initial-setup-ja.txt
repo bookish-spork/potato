@@ -1,0 +1,112 @@
+原文：Create a User
+筆者訳：ユーザーを作成
+Google翻訳：ユーザーを作成する
+
+原文：Initial Setup could not create your user. Without it, you will not be able to log in and may need to reinstall the OS.
+筆者訳：アカウントを作成できませんでした。アカウントがないとログインできないため、OS の再インストールが必要になる可能性があります。
+Google翻訳：初期設定でユーザーを作成できませんでした。これがないと、ログインできず、OSの再インストールが必要になる場合があります。
+
+原文：Creating User '%s' Failed
+筆者訳：ユーザー '%s' の作成に失敗しました
+Google翻訳：ユーザー '％s'の作成に失敗しました
+
+原文：No Permission to Create User '%s'
+筆者訳：ユーザー '%s' を作成するために必要な権限がありません
+Google翻訳：ユーザー '％s'を作成する権限がありません
+
+原文：Initial Setup could not set your hostname.
+筆者訳：ホスト名を設定できませんでした。
+Google翻訳：初期設定でホスト名を設定できませんでした。
+
+原文：No Permission to set hostname '%s'
+筆者訳：ホスト名 '%s' を設定するために必要な権限がありません
+Google翻訳：ホスト名を設定する権限がありません '％s'
+
+原文：Unable to set Hostname '%s'
+筆者訳：ホスト名 '%s' を設定できません
+Google翻訳：ホスト名 '％s'を設定できません
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+
+原文：Create an Account
+筆者訳：アカウントを作成
+Google翻訳：アカウントを作成する
+
+原文：Full Name
+筆者訳：フルネーム
+Google翻訳：フルネーム
+
+原文：Username
+筆者訳：ユーザー名
+Google翻訳：ユーザー名
+
+原文：Choose a Password
+筆者訳：パスワードを入力
+Google翻訳：パスワードを決めて下さい
+
+原文：Confirm Password
+筆者訳：パスワードを確認
+Google翻訳：パスワードを認証する
+
+原文：Device name
+筆者訳：デバイス名
+Google翻訳：装置名
+
+原文：Visible to other devices when sharing, e.g. with Bluetooth or over the network.
+筆者訳：Bluetooth やネットワーク経由で共有する場合に、ほかのデバイスで表示される名前です。
+Google翻訳：共有時に他のデバイスに表示されます。 Bluetoothまたはネットワーク経由。
+
+原文：Back
+筆者訳：戻る
+Google翻訳：戻る
+
+原文：Finish Setup
+筆者訳：セットアップを完了
+Google翻訳：セットアップを終了します
+
+原文：Passwords do not match
+筆者訳：パスワードが一致しません
+Google翻訳：パスワードが一致していません
+
+原文：The chosen username is already taken
+筆者訳：指定されたユーザー名はすでに使われています
+Google翻訳：選択したユーザー名はすでに使用されています
+
+原文：A username must only contain lowercase letters and numbers, without spaces
+筆者訳：ユーザー名には小文字と数字のみが許可されます。空白は使用しないでください
+Google翻訳：ユーザー名には、スペースを含まない小文字と数字のみを含める必要があります
+
+原文：Select Keyboard Layout
+筆者訳：キーボードレイアウトを選択
+Google翻訳：キーボードレイアウトを選択
+
+原文：Type to test your layout
+筆者訳：入力してレイアウトを試してください
+Google翻訳：レイアウトをテストするために入力します
+
+原文：Show keyboard layout
+筆者訳：キーボードレイアウトを表示
+Google翻訳：キーボードレイアウトを表示する
+
+原文：Select
+筆者訳：選択
+Google翻訳：選択する
+
+原文：Input Language
+筆者訳：入力言語
+Google翻訳：入力言語
+
+原文：Languages
+筆者訳：言語
+Google翻訳：言語
+
+原文：Select a Language
+筆者訳：言語を選択してください
+Google翻訳：言語を選択してください
+
+原文：Currently active language
+筆者訳：現在使用可能な言語
+Google翻訳：現在アクティブな言語
+

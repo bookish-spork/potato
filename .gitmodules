@@ -1,0 +1,210 @@
+[submodule "submodule/appcenter"]
+	path = submodule/appcenter
+	url = https://github.com/elementary/appcenter
+[submodule "submodule/calcurator"]
+	path = submodule/calcurator
+	url = https://github.com/elementary/calculator.git
+[submodule "submodule/calendar"]
+	path = submodule/calendar
+	url = https://github.com/elementary/calendar.git
+[submodule "submodule/code"]
+	path = submodule/code
+	url = https://github.com/elementary/code.git
+[submodule "submodule/capnet-assist"]
+	path = submodule/capnet-assist
+	url = https://github.com/elementary/capnet-assist.git
+[submodule "submodule/dock"]
+	path = submodule/dock
+	url = https://github.com/elementary/dock.git
+[submodule "submodule/feedback"]
+	path = submodule/feedback
+	url = https://github.com/elementary/feedback.git
+[submodule "submodule/flatpak-platform"]
+	path = submodule/flatpak-platform
+	url = https://github.com/elementary/flatpak-platform.git
+[submodule "submodule/gala"]
+	path = submodule/gala
+	url = https://github.com/elementary/gala.git
+[submodule "submodule/pantheon-agent-geoclue2"]
+	path = submodule/pantheon-agent-geoclue2
+	url = https://github.com/elementary/pantheon-agent-geoclue2.git
+[submodule "submodule/granite"]
+	path = submodule/granite
+	url = https://github.com/elementary/granite.git
+[submodule "submodule/greeter"]
+	path = submodule/greeter
+	url = https://github.com/elementary/greeter.git
+[submodule "submodule/notifications"]
+	path = submodule/notifications
+	url = https://github.com/elementary/notifications.git
+[submodule "submodule/pantheon-agent-polkit"]
+	path = submodule/pantheon-agent-polkit
+	url = https://github.com/elementary/pantheon-agent-polkit.git
+[submodule "submodule/settings-daemon"]
+	path = submodule/settings-daemon
+	url = https://github.com/elementary/settings-daemon.git
+[submodule "submodule/shortcut-overlay"]
+	path = submodule/shortcut-overlay
+	url = https://github.com/elementary/shortcut-overlay.git
+[submodule "submodule/sideload"]
+	path = submodule/sideload
+	url = https://github.com/elementary/sideload.git
+[submodule "submodule/files"]
+	path = submodule/files
+	url = https://github.com/elementary/files.git
+[submodule "submodule/friends"]
+	path = submodule/friends
+	url = https://github.com/elementary/friends.git
+[submodule "submodule/initial-setup"]
+	path = submodule/initial-setup
+	url = https://github.com/elementary/initial-setup.git
+[submodule "submodule/installer"]
+	path = submodule/installer
+	url = https://github.com/elementary/installer.git
+[submodule "submodule/onboarding"]
+	path = submodule/onboarding
+	url = https://github.com/elementary/onboarding.git
+[submodule "submodule/mail"]
+	path = submodule/mail
+	url = https://github.com/elementary/mail.git
+[submodule "submodule/music"]
+	path = submodule/music
+	url = https://github.com/elementary/music.git
+[submodule "submodule/photos"]
+	path = submodule/photos
+	url = https://github.com/elementary/photos.git
+[submodule "submodule/screenshot"]
+	path = submodule/screenshot
+	url = https://github.com/elementary/screenshot.git
+[submodule "submodule/switchboard-plug-about"]
+	path = submodule/switchboard-plug-about
+	url = https://github.com/elementary/switchboard-plug-about.git
+[submodule "submodule/switchboard-plug-applications"]
+	path = submodule/switchboard-plug-applications
+	url = https://github.com/elementary/switchboard-plug-applications.git
+[submodule "submodule/switchboard-plug-bluetooth"]
+	path = submodule/switchboard-plug-bluetooth
+	url = https://github.com/elementary/switchboard-plug-bluetooth.git
+[submodule "submodule/switchboard-plug-datetime"]
+	path = submodule/switchboard-plug-datetime
+	url = https://github.com/elementary/switchboard-plug-datetime.git
+[submodule "submodule/switchboard-plug-pantheon-shell"]
+	path = submodule/switchboard-plug-pantheon-shell
+	url = https://github.com/elementary/switchboard-plug-pantheon-shell.git
+[submodule "submodule/switchboard-plug-display"]
+	path = submodule/switchboard-plug-display
+	url = https://github.com/elementary/switchboard-plug-display.git
+[submodule "submodule/switchboard-plug-keyboard"]
+	path = submodule/switchboard-plug-keyboard
+	url = https://github.com/elementary/switchboard-plug-keyboard.git
+[submodule "submodule/switchboard-plug-locale"]
+	path = submodule/switchboard-plug-locale
+	url = https://github.com/elementary/switchboard-plug-locale.git
+[submodule "submodule/switchboard-plug-mouse-touchpad"]
+	path = submodule/switchboard-plug-mouse-touchpad
+	url = https://github.com/elementary/switchboard-plug-mouse-touchpad.git
+[submodule "submodule/switchboard-plug-network"]
+	path = submodule/switchboard-plug-network
+	url = https://github.com/elementary/switchboard-plug-network.git
+[submodule "submodule/switchboard-plug-notifications"]
+	path = submodule/switchboard-plug-notifications
+	url = https://github.com/elementary/switchboard-plug-notifications.git
+[submodule "submodule/switchboard-plug-onlineaccounts"]
+	path = submodule/switchboard-plug-onlineaccounts
+	url = https://github.com/elementary/switchboard-plug-onlineaccounts.git
+[submodule "submodule/switchboard-plug-parental-controls"]
+	path = submodule/switchboard-plug-parental-controls
+	url = https://github.com/elementary/switchboard-plug-parental-controls.git
+[submodule "submodule/switchboard-plug-power"]
+	path = submodule/switchboard-plug-power
+	url = https://github.com/elementary/switchboard-plug-power.git
+[submodule "submodule/switchboard-plug-printers"]
+	path = submodule/switchboard-plug-printers
+	url = https://github.com/elementary/switchboard-plug-printers.git
+[submodule "submodule/switchboard-plug-security-privacy"]
+	path = submodule/switchboard-plug-security-privacy
+	url = https://github.com/elementary/switchboard-plug-security-privacy.git
+[submodule "submodule/switchboard-plug-sharing"]
+	path = submodule/switchboard-plug-sharing
+	url = https://github.com/elementary/switchboard-plug-sharing.git
+[submodule "submodule/switchboard-plug-sound"]
+	path = submodule/switchboard-plug-sound
+	url = https://github.com/elementary/switchboard-plug-sound.git
+[submodule "submodule/switchboard"]
+	path = submodule/switchboard
+	url = https://github.com/elementary/switchboard.git
+[submodule "submodule/switchboard-plug-a11y"]
+	path = submodule/switchboard-plug-a11y
+	url = https://github.com/elementary/switchboard-plug-a11y.git
+[submodule "submodule/switchboard-plug-useraccounts"]
+	path = submodule/switchboard-plug-useraccounts
+	url = https://github.com/elementary/switchboard-plug-useraccounts.git
+[submodule "submodule/switchboard-plug-wacom"]
+	path = submodule/switchboard-plug-wacom
+	url = https://github.com/elementary/switchboard-plug-wacom.git
+[submodule "submodule/switchboard-plug-wallet"]
+	path = submodule/switchboard-plug-wallet
+	url = https://github.com/elementary/switchboard-plug-wallet.git
+[submodule "submodule/tasks"]
+	path = submodule/tasks
+	url = https://github.com/elementary/tasks.git
+[submodule "submodule/terminal"]
+	path = submodule/terminal
+	url = https://github.com/elementary/terminal.git
+[submodule "submodule/videos"]
+	path = submodule/videos
+	url = https://github.com/elementary/videos.git
+[submodule "submodule/wingpanel-indicator-a11y"]
+	path = submodule/wingpanel-indicator-a11y
+	url = https://github.com/elementary/wingpanel-indicator-a11y.git
+[submodule "submodule/applications-menu"]
+	path = submodule/applications-menu
+	url = https://github.com/elementary/applications-menu.git
+[submodule "submodule/wingpanel-indicator-bluetooth"]
+	path = submodule/wingpanel-indicator-bluetooth
+	url = https://github.com/elementary/wingpanel-indicator-bluetooth.git
+[submodule "submodule/wingpanel-indicator-datetime"]
+	path = submodule/wingpanel-indicator-datetime
+	url = https://github.com/elementary/wingpanel-indicator-datetime.git
+[submodule "submodule/wingpanel-indicator-keyboard"]
+	path = submodule/wingpanel-indicator-keyboard
+	url = https://github.com/elementary/wingpanel-indicator-keyboard.git
+[submodule "submodule/wingpanel-indicator-network"]
+	path = submodule/wingpanel-indicator-network
+	url = https://github.com/elementary/wingpanel-indicator-network.git
+[submodule "submodule/wingpanel-indicator-nightlight"]
+	path = submodule/wingpanel-indicator-nightlight
+	url = https://github.com/elementary/wingpanel-indicator-nightlight.git
+[submodule "submodule/wingpanel-indicator-notifications"]
+	path = submodule/wingpanel-indicator-notifications
+	url = https://github.com/elementary/wingpanel-indicator-notifications.git
+[submodule "submodule/wingpanel-indicator-power"]
+	path = submodule/wingpanel-indicator-power
+	url = https://github.com/elementary/wingpanel-indicator-power.git
+[submodule "submodule/wingpanel-indicator-privacy"]
+	path = submodule/wingpanel-indicator-privacy
+	url = https://github.com/elementary/wingpanel-indicator-privacy.git
+[submodule "submodule/wingpanel-indicator-session"]
+	path = submodule/wingpanel-indicator-session
+	url = https://github.com/elementary/wingpanel-indicator-session.git
+[submodule "submodule/wingpanel-indicator-sound"]
+	path = submodule/wingpanel-indicator-sound
+	url = https://github.com/elementary/wingpanel-indicator-sound.git
+[submodule "submodule/wingpanel"]
+	path = submodule/wingpanel
+	url = https://github.com/elementary/wingpanel.git
+[submodule "submodule/stylesheet"]
+	path = submodule/stylesheet
+	url = https://github.com/elementary/stylesheet.git
+[submodule "submodule/icons"]
+	path = submodule/icons
+	url = https://github.com/elementary/icons.git
+[submodule "submodule/camera"]
+	path = submodule/camera
+	url = https://github.com/elementary/camera.git
+[submodule "submodule/portals"]
+	path = submodule/portals
+	url = https://github.com/elementary/portals.git
+[submodule "submodule/wallpapers"]
+	path = submodule/wallpapers
+	url = https://github.com/elementary/wallpapers.git

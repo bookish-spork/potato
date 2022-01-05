@@ -1,0 +1,248 @@
+原文：Authentication is required to change user data
+筆者訳：ユーザーデータを変更するには認証が必要です
+Google翻訳：ユーザーデータを変更するには認証が必要です
+
+原文：User Accounts
+筆者訳：ユーザーアカウント
+Google翻訳：ユーザーアカウント
+
+原文：Manage account permissions and configure user names, passwords, and photos
+筆者訳：アカウントの権限を管理し、ユーザー名・パスワード・アカウント画像を設定します
+Google翻訳：アカウントの権限を管理し、ユーザー名、パスワード、写真を構成します
+
+原文：Guest session changes will not take effect until you restart your system
+筆者訳：ゲストセッションの変更は、再起動後に反映されます
+Google翻訳：システムを再起動するまで、ゲストセッションの変更は有効になりません
+
+原文：Some settings require administrator rights to be changed
+筆者訳：一部の設定変更には管理者権限が必要です
+Google翻訳：一部の設定では、管理者権限を変更する必要があります
+
+原文：Avatar
+筆者訳：アバター
+Google翻訳：アバター
+
+原文：Full name
+筆者訳：フルネーム
+Google翻訳：フルネーム
+
+原文：Account type
+筆者訳：アカウントの種類
+Google翻訳：口座の種類
+
+原文：Language
+筆者訳：言語
+Google翻訳：言語
+
+原文：Log in automatically
+筆者訳：自動的にログイン
+Google翻訳：自動的にログイン
+
+原文：Change Password
+筆者訳：パスワードを変更
+Google翻訳：パスワードを変更する
+
+原文：Guest Session
+筆者訳：ゲストセッション
+Google翻訳：ゲストセッション
+
+原文：Crop & Position
+筆者訳：切り抜いて位置を調整
+Google翻訳：切り抜きと位置
+
+原文：Choose the part of the image to use as an avatar.
+筆者訳：画像全体のうち、アバターとして使用する部分を選択してください。
+Google翻訳：アバターとして使用する画像の部分を選択します。
+
+原文：Change Avatar
+筆者訳：アバターを変更
+Google翻訳：アバターを変更する
+
+原文：Current Password
+筆者訳：現在のパスワード
+Google翻訳：現在のパスワード
+
+原文：Press to authenticate
+筆者訳：認証するにはクリックしてください
+Google翻訳：を押して認証します
+
+原文：Authentication failed
+筆者訳：認証に失敗しました
+Google翻訳：認証に失敗しました
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Account Type
+筆者訳：アカウントの種類
+Google翻訳：口座の種類
+
+原文：Standard User
+筆者訳：標準ユーザー
+Google翻訳：標準ユーザー
+
+原文：Administrator
+筆者訳：管理者
+Google翻訳：管理者
+
+原文：Full Name
+筆者訳：フルネーム
+Google翻訳：フルネーム
+
+原文：Username
+筆者訳：ユーザー名
+Google翻訳：ユーザー名
+
+原文：Create User
+筆者訳：ユーザーを作成
+Google翻訳：ユーザーを作成
+
+原文：Username is already taken
+筆者訳：ユーザー名はすでに使われています
+Google翻訳：ユーザー名は既に使われています
+
+原文：Username can only contain lowercase letters and numbers, without spaces
+筆者訳：ユーザー名は小文字と数字のみを含むことができます。空白は使用しないでください
+Google翻訳：ユーザー名には、スペースを入れずに小文字と数字のみを含めることができます
+
+原文：The Guest Session allows someone to use a temporary default account without a password.
+筆者訳：ゲストセッションは、誰かが一時的なデフォルトのアカウントをパスワードなしに使うことを可能にします。
+Google翻訳：ゲストセッションでは、誰かがパスワードなしで一時的なデフォルトアカウントを使用できます。
+
+原文：Once they log out, all of their settings and data will be deleted.
+筆者訳：ログアウトすると、設定やデータは削除されます。
+Google翻訳：ログアウトすると、すべての設定とデータが削除されます。
+
+原文：Log In automatically:
+筆者訳：自動的にログイン:
+Google翻訳：自動的にログインします：
+
+原文：Create user account…
+筆者訳：ユーザーアカウントを追加…
+Google翻訳：ユーザーアカウントを作成…
+
+原文：Undo
+筆者訳：元に戻す
+Google翻訳：元に戻す
+
+原文：Unable to acquire permission
+筆者訳：権限を取得できません
+Google翻訳：許可を取得できません
+
+原文：A new account cannot be created without the required system permission.
+筆者訳：必要なシステム権限がないと、新しいアカウントを作成できません。
+Google翻訳：必要なシステム権限がないと、新しいアカウントを作成できません。
+
+原文：An account cannot be removed without the required system permission.
+筆者訳：必要なシステム権限がないと、アカウントを削除できません。
+Google翻訳：必要なシステム許可なしにアカウントを削除することはできません。
+
+原文：Removed “%s”
+筆者訳：“%s” を削除しました
+Google翻訳：「％s」を削除
+
+原文：Remove “%s” and their data
+筆者訳：“%s” とそのデータを削除
+Google翻訳：「％s」とそのデータを削除します
+
+原文：You cannot remove your own user account
+筆者訳：自分自身のユーザーアカウントは削除できません
+Google翻訳：自分のユーザーアカウントを削除することはできません
+
+原文：You do not have permission to change this
+筆者訳：これを変更する権限がありません
+Google翻訳：これを変更する権限がありません
+
+原文：You cannot change this for the currently active user
+筆者訳：現在アクティブなユーザーのため変更できません
+Google翻訳：現在アクティブなユーザーの場合、これを変更することはできません
+
+原文：You cannot remove the last administrator's privileges
+筆者訳：管理者が唯一の場合、その権限は削除できません
+Google翻訳：最後の管理者の権限を削除することはできません
+
+原文：Account type:
+筆者訳：アカウントの種類:
+Google翻訳：口座の種類：
+
+原文：Standard
+筆者訳：標準
+Google翻訳：標準
+
+原文：Language:
+筆者訳：言語:
+Google翻訳：言語：
+
+原文：Click to switch to Language & Locale Settings
+筆者訳：“言語と地域の設定”に切り替えるにはクリックしてください
+Google翻訳：クリックして言語とロケールの設定に切り替えます
+
+原文：Change Password…
+筆者訳：パスワードを変更…
+Google翻訳：パスワードを変更する…
+
+原文：Enable User Account
+筆者訳：アカウントを有効にする
+Google翻訳：ユーザーアカウントを有効にする
+
+原文：Disable User Account
+筆者訳：アカウントを無効にする
+Google翻訳：ユーザーアカウントを無効にする
+
+原文：Unable to change the password for %s
+筆者訳：%s のパスワードを変更できません
+Google翻訳：％sのパスワードを変更できません
+
+原文：Remove
+筆者訳：削除
+Google翻訳：削除する
+
+原文：Set from File…
+筆者訳：ファイルから設定…
+Google翻訳：ファイルから設定…
+
+原文：Images
+筆者訳：画像
+Google翻訳：画像
+
+原文：Select an image
+筆者訳：画像を選択
+Google翻訳：画像を選択
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：Choose a Password
+筆者訳：パスワードを選択
+Google翻訳：パスワードを決めて下さい
+
+原文：Confirm Password
+筆者訳：パスワードを確認
+Google翻訳：パスワードを認証する
+
+原文：Show passwords
+筆者訳：パスワードを表示
+Google翻訳：パスワードを表示する
+
+原文：Passwords do not match
+筆者訳：パスワードが一致しません
+Google翻訳：パスワードが一致していません
+
+原文：My Account
+筆者訳：自分のアカウント
+Google翻訳：マイアカウント
+
+原文：Other Accounts
+筆者訳：ほかのアカウント
+Google翻訳：その他のアカウント
+
+原文：Enabled
+筆者訳：有効
+Google翻訳：有効
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+

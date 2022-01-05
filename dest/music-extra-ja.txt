@@ -1,0 +1,192 @@
+原文：Music
+筆者訳：ミュージック
+Google翻訳：音楽
+
+原文：The official elementary music player
+筆者訳：elementary の公式ミュージックプレーヤー
+Google翻訳：公式エレメンタリーミュージックプレーヤー
+
+原文：Music is a fast and beautiful audio player with a focus on music and libraries. It handles external devices and album art.
+筆者訳：“ミュージック”は、音楽とライブラリに重点を置いた高速で美しいオーディオプレイヤーです。外部デバイス、アルバムアートを扱えます。
+Google翻訳：音楽は、音楽とライブラリに焦点を当てた高速で美しいオーディオプレーヤーです。外部デバイスとアルバムアートを処理します。
+
+原文：Drop support for Last.FM
+筆者訳：Last.FM への対応を終了
+Google翻訳：Last.FMのサポートを削除
+
+原文：Updated translations
+筆者訳：新しい翻訳
+Google翻訳：更新された翻訳
+
+原文：Fix an issue with saving smart playlists
+筆者訳：スマートプレイリストの保存時に発生する不具合を修正
+Google翻訳：スマートプレイリストの保存に関する問題を修正する
+
+原文：Drop support for CD-ROM
+筆者訳：CD-ROM への対応を終了
+Google翻訳：CD-ROMのサポートを終了します
+
+原文：Dark style support
+筆者訳：ダークスタイルへの対応
+Google翻訳：ダークスタイルのサポート
+
+原文：Minor visual improvements
+筆者訳：軽微な視覚上の改善
+Google翻訳：マイナーな視覚的改善
+
+原文：Fix removing items from the queue
+筆者訳：キューから項目を削除する際の不具合を修正
+Google翻訳：キューからのアイテムの削除を修正
+
+原文：Fix equalizer sliders not properly disabled sometimes
+筆者訳：イコライザーのスライダーが適切に無効にならないことがある不具合を修正
+Google翻訳：時々正しく無効にされないイコライザースライダーを修正
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Removed old gsignond vapi
+筆者訳：古い gsignond vapi を削除
+Google翻訳：古いgsignondvapiを削除しました
+
+原文：LibraryWindow: Use Granite.MessageDialog for showing alerts
+筆者訳：ライブラリーウィンドウ: 警告の表示に Granite.MessageDialog を使用
+Google翻訳：LibraryWindow：アラートを表示するためにGranite.MessageDialogを使用します
+
+原文：PlaylistsUtils: Use Gtk.FileChooserNative
+筆者訳：PlaylistsUtils: Gtk.FileChooserNative を使用
+Google翻訳：PlaylistsUtils：Gtk.FileChooserNativeを使用する
+
+原文：Accurately remember window size
+筆者訳：正確なウィンドウサイズを保存
+Google翻訳：ウィンドウサイズを正確に覚えておく
+
+原文：Scale album art properly at high resolutions
+筆者訳：高解像度においてアルバムアートの大きさを正しく調整
+Google翻訳：アルバムアートを高解像度で適切に拡大縮小する
+
+原文：Accurately select Music Folder Location for directories with spaces in name
+筆者訳：名前に空白が含まれるミュージックフォルダーの場所を正しく選択できるように修正
+Google翻訳：名前にスペースが含まれるディレクトリのミュージックフォルダの場所を正確に選択する
+
+原文：New MediaKeyListener path for gnome-settings-daemon
+筆者訳：gnome-settings-daemon に対する新しい MediaKeyListener のパスを使用
+Google翻訳：gnome-settings-daemonの新しいMediaKeyListenerパス
+
+原文：AlbumView: double-click to play album
+筆者訳：アルバムビュー: ダブルクリックでアルバムを再生
+Google翻訳：AlbumView：ダブルクリックしてアルバムを再生します
+
+原文：Associate with s3m files
+筆者訳：s3m ファイルとの関連付け
+Google翻訳：s3mファイルに関連付ける
+
+原文：Queue fixes
+筆者訳：キューの修正
+Google翻訳：キューの修正
+
+原文：Properly restore playlists
+筆者訳：プレイリストを正しく復元するように修正
+Google翻訳：プレイリストを適切に復元する
+
+原文：Always respect custom music folder setting
+筆者訳：カスタムミュージックフォルダーの設定を常に反映するように修正
+Google翻訳：カスタムミュージックフォルダの設定を常に尊重する
+
+原文：Minor bug fixes
+筆者訳：軽微なバグの修正
+Google翻訳：マイナーなバグ修正
+
+原文：Fix list and column view sorting
+筆者訳：リスト表示とコラム表示におけるファイルの表示順を修正
+Google翻訳：リストと列ビューの並べ替えを修正
+
+原文：Add orange accent color
+筆者訳：オレンジ色のアクセントカラーを追加
+Google翻訳：オレンジのアクセントカラーを追加
+
+原文：Add shortcut accels to tooltips
+筆者訳：ツールチップにショートカットアクセラレーターを追加
+Google翻訳：ツールチップにショートカット加速を追加
+
+原文：Various UI changes
+筆者訳：UI のさまざまな変更
+Google翻訳：さまざまなUIの変更
+
+原文：Shuffle fixes
+筆者訳：シャッフル再生の修正
+Google翻訳：シャッフルの修正
+
+原文：Initial MPRIS support
+筆者訳：MPRIS への最初の対応
+Google翻訳：初期MPRISサポート
+
+原文：Detect library changes at startup.
+筆者訳：起動時にライブラリーの変更を検出するように修正しました。
+Google翻訳：起動時にライブラリの変更を検出します。
+
+原文：Support searching by URI
+筆者訳：URI による検索に対応
+Google翻訳：URIによる検索をサポート
+
+原文：Change the queue mechanism to make it less confusing.
+筆者訳：キューの仕組みを単純化しました。
+Google翻訳：混乱を少なくするためにキューメカニズムを変更します。
+
+原文：Improve equalizer style.
+筆者訳：イコライザーのスタイルを改善しました。
+Google翻訳：イコライザースタイルを改善します。
+
+原文：Minor bug fixes.
+筆者訳：軽微なバグを修正しました。
+Google翻訳：マイナーなバグ修正。
+
+原文：Add rounded bottom window corner.
+筆者訳：ウィンドウ下部の角を丸くしました。
+Google翻訳：丸みを帯びた下部ウィンドウコーナーを追加します。
+
+原文：New translations
+筆者訳：新しい翻訳
+Google翻訳：新しい翻訳
+
+原文：Release for Loki.
+筆者訳：Loki 向けのリリースです。
+Google翻訳：ロキのリリース。
+
+原文：Add support for Opus Ogg
+筆者訳：Opus Ogg への対応
+Google翻訳：OpusOggのサポートを追加する
+
+原文：Fix Ctrl+Q support for non-Latin keyboard layouts
+筆者訳：非ラテンキーボードレイアウトへの Ctrl+Q キーの対応を修正
+Google翻訳：非ラテン語キーボードレイアウトのCtrl + Qサポートを修正
+
+原文：Reorganize media edition layout
+筆者訳：メディアエディションレイアウトを認識するように修正
+Google翻訳：メディア版のレイアウトを再編成
+
+原文：Port grid to support HiDPI displays
+筆者訳：グリッドの HiDPI ディスプレイへの対応
+Google翻訳：HiDPIディスプレイをサポートするポートグリッド
+
+原文：Update icons to latest elementary icon release
+筆者訳：最新の elementary アイコンテーマのアイコンに更新
+Google翻訳：アイコンを最新のエレメンタリーアイコンリリースに更新
+
+原文：Respect privacy mode
+筆者訳：プライバシーモードの設定を反映するように修正
+Google翻訳：プライバシーモードを尊重する
+
+原文：Music Player
+筆者訳：ミュージックプレーヤー
+Google翻訳：ミュージックプレーヤー
+
+原文：Listen to music
+筆者訳：音楽を聴きます
+Google翻訳：音楽を聴く
+
+原文：Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;Phone;Songs;
+筆者訳：Noise;Audio;Player;MP3;iPod;Play;Playlist;Media;Phone;Songs;オーディオ;プレーヤー;再生;プレイリスト;メディア;電話;曲;
+Google翻訳：Noise; Audio; Player; MP3; iPod; Play; Playlist; Media; Phone; Songs;
+

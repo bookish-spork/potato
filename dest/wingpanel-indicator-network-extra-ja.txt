@@ -1,0 +1,48 @@
+原文：Network Indicator
+筆者訳：ネットワークインジケーター
+Google翻訳：ネットワークインジケーター
+
+原文：Connect to wireless networks and manage VPNs
+筆者訳：無線ネットワークに接続したり VPN を管理したりします
+Google翻訳：ワイヤレスネットワークに接続し、VPNを管理します
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Prevent blank lines in VPN list
+筆者訳：VPN の一覧に名前のない VPN が表示される不具合を修正
+Google翻訳：VPNリストの空白行を防ぐ
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Don't launch Captive Network Assistant with full connectivity
+筆者訳：インターネットに接続できている場合は、キャプティブネットワークアシスタントを起動しないように修正
+Google翻訳：完全な接続でキャプティブネットワークアシスタントを起動しないでください
+
+原文：Fix VPN spinning after connecting
+筆者訳：VPN への接続後もスピンナーが表示される不具合を修正
+Google翻訳：接続後のVPNスピニングを修正
+
+原文：Improve detecting network encryption type
+筆者訳：ネットワーク暗号化の種類の検知に関する改善
+Google翻訳：ネットワーク暗号化タイプの検出を改善
+
+原文：Ellipsize long network names
+筆者訳：ネットワーク名が長い場合は省略表示するように修正
+Google翻訳：Ellipsizeの長いネットワーク名
+
+原文：Show tooltip on hover
+筆者訳：ホバー時にツールチップを表示するように変更
+Google翻訳：ホバーにツールチップを表示する
+
+原文：Prevent panel icon from showing in the dock
+筆者訳：パネルのアイコンがドックに表示される不具合を修正
+Google翻訳：パネルアイコンがドックに表示されないようにする
+

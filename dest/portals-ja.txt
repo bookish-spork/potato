@@ -1,0 +1,32 @@
+原文：Deny Access
+筆者訳：アクセスを拒否
+Google翻訳：アクセスを拒否する
+
+原文：Grant Access
+筆者訳：アクセスを許可
+Google翻訳：アクセス許可
+
+原文：An application requested to open a %s.
+筆者訳：アプリが %s を開こうとしています。
+Google翻訳：アプリケーションが％sを開くように要求しました。
+
+原文：“%s” requested to open a %s.
+筆者訳：“%s” が %s を開こうとしています。
+Google翻訳：「％s」は％sを開くように要求しました。
+
+原文：No installed apps can open %s
+筆者訳：%s を開くアプリがインストールされていません
+Google翻訳：インストールされているアプリは％sを開くことができません
+
+原文：New apps can be installed from AppCenter
+筆者訳：AppCenter からアプリをインストールできます
+Google翻訳：AppCenterから新しいアプリをインストールできます
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+

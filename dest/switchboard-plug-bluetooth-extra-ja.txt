@@ -1,0 +1,48 @@
+原文：Bluetooth Settings
+筆者訳：Bluetooth の設定
+Google翻訳：Bluetooth設定
+
+原文：Configure Bluetooth Settings
+筆者訳：Bluetooth の設定をします
+Google翻訳：Bluetooth設定を構成する
+
+原文：Minor updates
+筆者訳：軽微なアップデート
+Google翻訳：マイナーアップデート
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Security update
+筆者訳：セキュリティーアップデート
+Google翻訳：セキュリティアップデート
+
+原文：Fix a vulnerability that would allow a device to be paired without explicit user authorization (CVE-2021-21367)
+筆者訳：ユーザーの明示的な認証なしにデバイスのペアリングが許可される脆弱性を修正 (CVE-2021-21367)
+Google翻訳：明示的なユーザー認証なしでデバイスをペアリングできる脆弱性を修正しました（CVE-2021-21367）
+
+原文：Fallback to device type when name is not available
+筆者訳：デバイス名が利用できない場合、代わりにデバイスの種類を表示するように変更
+Google翻訳：名前が利用できない場合のデバイスタイプへのフォールバック
+
+原文：Show "Discovering" indicator in an overlay bar
+筆者訳：オーバーレイバーに検索中であることを表示するように変更
+Google翻訳：オーバーレイバーに「検出」インジケーターを表示する
+
+原文：Fixes
+筆者訳：修正点
+Google翻訳：修正
+
+原文：Fix crash on devices without Bluetooth
+筆者訳：Bluetooth が搭載されていないデバイスにおいてペインを開くとクラッシュする不具合を修正
+Google翻訳：Bluetoothのないデバイスでのクラッシュを修正
+
+原文：Move "forget device" button to each device row
+筆者訳："このデバイスの接続情報を削除"ボタンを各デバイスに対して表示するように変更
+Google翻訳：「デバイスを忘れる」ボタンを各デバイス行に移動します
+
+原文：Pair with devices that require a password, key code, or confirmation
+筆者訳：パスワードやキーコード、確認を必要とするデバイスとのペアリングに対応
+Google翻訳：パスワード、キーコード、または確認が必要なデバイスとペアリングする
+

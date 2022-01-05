@@ -1,0 +1,328 @@
+原文：Applications
+筆者訳：アプリケーション
+Google翻訳：アプリケーション
+
+原文：Open and search apps
+筆者訳：開いてアプリを検索します
+Google翻訳：アプリを開いて検索する
+
+原文：View as Grid
+筆者訳：グリット表示
+Google翻訳：グリッドとして表示
+
+原文：View by Category
+筆者訳：カテゴリー表示
+Google翻訳：カテゴリ別に表示
+
+原文：Search Apps
+筆者訳：アプリを検索
+Google翻訳：アプリを検索
+
+原文：Clear all
+筆者訳：すべて消去
+Google翻訳：すべてクリア
+
+原文：Accessories
+筆者訳：アクセサリー
+Google翻訳：付属品
+
+原文：Universal Access
+筆者訳：ユニバーサルアクセス
+Google翻訳：ユニバーサルアクセス
+
+原文：Programming
+筆者訳：プログラミング
+Google翻訳：プログラミング
+
+原文：Education
+筆者訳：教育
+Google翻訳：教育
+
+原文：Science
+筆者訳：科学
+Google翻訳：化学
+
+原文：Games
+筆者訳：ゲーム
+Google翻訳：ゲーム
+
+原文：Graphics
+筆者訳：グラフィックス
+Google翻訳：グラフィックス
+
+原文：Internet
+筆者訳：インターネット
+Google翻訳：インターネット
+
+原文：Sound & Video
+筆者訳：サウンドとビデオ
+Google翻訳：サウンドとビデオ
+
+原文：Office
+筆者訳：オフィス
+Google翻訳：オフィス
+
+原文：System Tools
+筆者訳：システムツール
+Google翻訳：システムツール
+
+原文：Other
+筆者訳：そのほか
+Google翻訳：他の
+
+原文：Run this command…
+筆者訳：このコマンドを実行…
+Google翻訳：このコマンドを実行します…
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+
+原文：Try changing search terms.
+筆者訳：検索用語を変更してみてください。
+Google翻訳：検索語を変更してみてください。
+
+原文：No Results for “%s”
+筆者訳：“%s” という検索結果はありません
+Google翻訳：「％s」の結果はありません
+
+原文：Open with %s Graphics
+筆者訳：%s グラフィックスを使用して開く
+Google翻訳：％sグラフィックで開く
+
+原文：Remove from _Dock
+筆者訳：ドックから削除(_D)
+Google翻訳：_Dockから削除します
+
+原文：Add to _Dock
+筆者訳：ドックに追加(_D)
+Google翻訳：_Dockに追加
+
+原文：Uninstall
+筆者訳：アンインストール
+Google翻訳：アンインストール
+
+原文：View in AppCenter
+筆者訳：AppCenter で表示
+Google翻訳：AppCenterで表示
+
+原文：Text
+筆者訳：テキスト
+Google翻訳：文章
+
+原文：Files
+筆者訳：ファイル
+Google翻訳：ファイル
+
+原文：Actions
+筆者訳：操作
+Google翻訳：行動
+
+原文：Search
+筆者訳：検索
+Google翻訳：検索
+
+原文：Contacts
+筆者訳：連絡先
+Google翻訳：連絡先
+
+原文：Settings
+筆者訳：設定
+Google翻訳：設定
+
+原文：Application Actions
+筆者訳：アプリケーションの操作
+Google翻訳：アプリケーションアクション
+
+原文：Bookmarks
+筆者訳：ブックマーク
+Google翻訳：ブックマーク
+
+原文：Copy to Clipboard
+筆者訳：クリップボードへコピー
+Google翻訳：クリップボードにコピー
+
+原文：Copy selection to clipboard
+筆者訳：選択範囲をクリップボードへコピーします
+Google翻訳：選択範囲をクリップボードにコピー
+
+原文：Run
+筆者訳：実行
+Google翻訳：走る
+
+原文：Run an application, action or script
+筆者訳：アプリケーション、アクションやスクリプトを実行します
+Google翻訳：アプリケーション、アクション、またはスクリプトを実行する
+
+原文：Run in Terminal
+筆者訳：ターミナルで実行
+Google翻訳：ターミナルで実行
+
+原文：Run application or command in terminal
+筆者訳：ターミナルでアプリケーションまたはコマンドを実行します
+Google翻訳：ターミナルでアプリケーションまたはコマンドを実行します
+
+原文：Search for %s in %s
+筆者訳：%s を %s で検索
+Google翻訳：％sで％sを検索
+
+原文：Search the app store
+筆者訳：ストアでアプリを検索します
+Google翻訳：アプリストアを検索する
+
+原文：Search for applications
+筆者訳：アプリケーションを検索します
+Google翻訳：アプリケーションを検索する
+
+原文：AppCenter is not installed
+筆者訳：AppCenter がインストールされていません
+Google翻訳：AppCenterがインストールされていません
+
+原文：Calculator
+筆者訳：電卓
+Google翻訳：電卓
+
+原文：Calculate basic expressions.
+筆者訳：基本的な式を計算します。
+Google翻訳：基本的な式を計算します。
+
+原文：bc is not installed
+筆者訳：bc がインストールされていません
+Google翻訳：bcがインストールされていません
+
+原文：Click to copy result to clipboard
+筆者訳：結果をクリップボードへコピーするにはクリックしてください
+Google翻訳：クリックして結果をクリップボードにコピーします
+
+原文：Execute '%s'
+筆者訳：'%s' を実行
+Google翻訳：'％s'を実行します
+
+原文：Run command
+筆者訳：コマンドを実行します
+Google翻訳：コマンドを実行
+
+原文：Find and execute arbitrary commands.
+筆者訳：任意のコマンドを検索して実行します。
+Google翻訳：任意のコマンドを見つけて実行します。
+
+原文：Search for and run applications on your computer.
+筆者訳：コンピューター上のアプリケーションを検索して実行します。
+Google翻訳：コンピューターでアプリケーションを検索して実行します。
+
+原文：Open with %s
+筆者訳：%s で開く
+Google翻訳：％sで開く
+
+原文：Opens current selection using %s
+筆者訳：現在選択しているものを %s で開きます
+Google翻訳：％sを使用して現在の選択を開きます
+
+原文：Open %s in default web browser
+筆者訳：デフォルトの Web ブラウザーで %s を開きます
+Google翻訳：デフォルトのWebブラウザで％sを開きます
+
+原文：Open %s in %s
+筆者訳：%s を %s で開く
+Google翻訳：％sを％sで開く
+
+原文：Open this link in default browser
+筆者訳：このリンクをデフォルトのブラウザーで開きます
+Google翻訳：このリンクをデフォルトのブラウザで開きます
+
+原文：Link
+筆者訳：リンク
+Google翻訳：リンク
+
+原文：Open link in default browser
+筆者訳：リンクをデフォルトのブラウザーで開きます
+Google翻訳：デフォルトのブラウザでリンクを開く
+
+原文：Open %s settings
+筆者訳：%s の設定を開きます
+Google翻訳：％s設定を開く
+
+原文：Find switchboard plugs and open them.
+筆者訳：システム設定の項目を検索して開きます。
+Google翻訳：配電盤のプラグを見つけて開きます。
+
+原文：Lock
+筆者訳：ロック
+Google翻訳：ロック
+
+原文：Lock this device
+筆者訳：このデバイスをロックします
+Google翻訳：このデバイスをロックする
+
+原文：lock
+筆者訳：ロック
+Google翻訳：ロック
+
+原文：Log Out
+筆者訳：ログアウト
+Google翻訳：ログアウト
+
+原文：Close all open applications and quit
+筆者訳：すべてのアプリケーションを閉じて終了します
+Google翻訳：開いているすべてのアプリケーションを閉じて終了します
+
+原文：logout
+筆者訳：ログアウト
+Google翻訳：ログアウト
+
+原文：Suspend
+筆者訳：サスペンド
+Google翻訳：つるす
+
+原文：Put your computer into suspend mode
+筆者訳：コンピューターをサスペンドモードにします
+Google翻訳：コンピューターをサスペンドモードにします
+
+原文：suspend
+筆者訳：サスペンド
+Google翻訳：つるす
+
+原文：Hibernate
+筆者訳：ハイバーネート
+Google翻訳：Hibernate
+
+原文：Put your computer into hibernation mode
+筆者訳：コンピューターをバイバーネートモードにします
+Google翻訳：コンピューターを休止状態モードにします
+
+原文：hibernate
+筆者訳：ハイバーネート
+Google翻訳：休止状態
+
+原文：Shut Down
+筆者訳：シャットダウン
+Google翻訳：シャットダウン
+
+原文：Turn your computer off
+筆者訳：コンピューターの電源を切ります
+Google翻訳：コンピューターの電源を切ります
+
+原文：shutdown;turn off
+筆者訳：シャットダウン;電源を切る
+Google翻訳：シャットダウン;オフ
+
+原文：Restart
+筆者訳：再起動
+Google翻訳：再起動
+
+原文：Restart your computer
+筆者訳：コンピューターを再起動します
+Google翻訳：コンピュータを再起動してください
+
+原文：restart;reboot
+筆者訳：再起動;リブート
+Google翻訳：再起動;再起動
+
+原文：Lock the session or Log Out from it. Suspend, hibernate, restart or shutdown your computer.
+筆者訳：セッションをロックまたはログアウトします。お使いのコンピューターをサスペンド、ハイバーネート、再起動、およびシャットダウンします。
+Google翻訳：セッションをロックするか、セッションからログアウトします。コンピュータを一時停止、休止状態、再起動、またはシャットダウンします。
+
+原文：ConsoleKit wasn't found
+筆者訳：ConsoleKit が見つかりませんでした
+Google翻訳：ConsoleKitが見つかりませんでした
+

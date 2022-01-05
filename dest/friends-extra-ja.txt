@@ -1,0 +1,12 @@
+原文：Find and connect with contacts
+筆者訳：連絡先を検索して連絡をとります
+Google翻訳：連絡先を見つけて接続する
+
+原文：Address Book
+筆者訳：アドレス帳
+Google翻訳：住所録
+
+原文：address;contacts;
+筆者訳：address;contacts;アドレス;住所録;連絡先;
+Google翻訳：住所;連絡先;
+

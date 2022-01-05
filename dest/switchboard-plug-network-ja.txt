@@ -1,0 +1,504 @@
+原文：Unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：Connected
+筆者訳：接続済み
+Google翻訳：接続済み
+
+原文：Disconnected
+筆者訳：未接続
+Google翻訳：切断されました
+
+原文：Unmanaged
+筆者訳：管理対象外
+Google翻訳：管理されていない
+
+原文：In preparation
+筆者訳：準備しています
+Google翻訳：準備中
+
+原文：Connecting…
+筆者訳：接続しています…
+Google翻訳：接続中…
+
+原文：Requires more information
+筆者訳：更なる情報が必要です
+Google翻訳：より多くの情報が必要です
+
+原文：Requesting addresses…
+筆者訳：アドレスを要求しています…
+Google翻訳：アドレスをリクエストしています…
+
+原文：Checking connection…
+筆者訳：接続を確認しています…
+Google翻訳：接続を確認しています…
+
+原文：Waiting for connection…
+筆者訳：接続を待機しています…
+Google翻訳：接続を待っています…
+
+原文：Disconnecting…
+筆者訳：切断しています…
+Google翻訳：切断中…
+
+原文：Failed to connect
+筆者訳：接続に失敗しました
+Google翻訳：接続に失敗した
+
+原文：Cable unplugged
+筆者訳：ケーブル未接続
+Google翻訳：ケーブルが抜かれている
+
+原文：Ethernet
+筆者訳：イーサネット
+Google翻訳：イーサネット
+
+原文：Not used
+筆者訳：未使用
+Google翻訳：使用されていない
+
+原文：WiMAX Broadband
+筆者訳：WiMAX ブロードバンド
+Google翻訳：WiMAXブロードバンド
+
+原文：Modem
+筆者訳：モデム
+Google翻訳：モデム
+
+原文：InfiniBand device
+筆者訳：InfiniBand デバイス
+Google翻訳：InfiniBandデバイス
+
+原文：Bond master
+筆者訳：Bond マスター
+Google翻訳：ボンドマスター
+
+原文：VLAN Interface
+筆者訳：VLAN インターフェース
+Google翻訳：VLANインターフェース
+
+原文：ADSL Modem
+筆者訳：ADSL モデム
+Google翻訳：ADSLモデム
+
+原文：Bridge master
+筆者訳：ブリッジマスター
+Google翻訳：ブリッジマスター
+
+原文：Network
+筆者訳：ネットワーク
+Google翻訳：通信網
+
+原文：Manage network devices and connectivity
+筆者訳：ネットワークデバイスと接続を管理します
+Google翻訳：ネットワークデバイスと接続を管理する
+
+原文：Wireless
+筆者訳：無線接続
+Google翻訳：無線
+
+原文：WLAN
+筆者訳：無線 LAN
+Google翻訳：WLAN
+
+原文：Proxy
+筆者訳：プロキシ
+Google翻訳：プロキシー
+
+原文：Airplane Mode
+筆者訳：機内モード
+Google翻訳：機内モード
+
+原文：IP Address
+筆者訳：IP アドレス
+Google翻訳：IPアドレス
+
+原文：Hotspot
+筆者訳：ホットスポット
+Google翻訳：ホットスポット
+
+原文：Airplane Mode Is Enabled
+筆者訳：機内モードが有効になっています
+Google翻訳：機内モードが有効になっている
+
+原文：While in Airplane Mode your device's Internet access and any wireless and ethernet connections, will be suspended.
+
+
+筆者訳：機内モードでは、お使いのデバイスのインターネットアクセスとすべての有線・無線接続が中断されます。
+
+
+Google翻訳：機内モードでは、デバイスのインターネットアクセスとワイヤレスおよびイーサネット接続が一時停止されます。
+
+
+
+原文：You will be unable to browse the web or use applications that require a network connection or Internet access.
+
+筆者訳：Web を参照したり、ネットワーク接続やインターネットアクセスを必要とするアプリケーションを使用したりできなくなります。
+
+Google翻訳：Webを閲覧したり、ネットワーク接続やインターネットアクセスを必要とするアプリケーションを使用したりすることはできなくなります。
+
+
+原文：Applications and other functions that do not require the Internet will be unaffected.
+筆者訳：インターネットを必要としないアプリケーションやそのほかの機能は影響を受けません。
+Google翻訳：インターネットを必要としないアプリケーションやその他の機能は影響を受けません。
+
+原文：There is nothing to do
+筆者訳：設定できるものがありません
+Google翻訳：やることが何もない
+
+原文：There are no available Wi-Fi connections or Wi-Fi devices connected to this computer.
+
+筆者訳：このコンピューターに接続されている Wi-Fi 接続や Wi-Fi デバイスがありません。
+
+Google翻訳：このコンピューターに接続されている利用可能なWi-Fi接続またはWi-Fiデバイスはありません。
+
+
+原文：Please connect at least one device to begin configuring the network.
+筆者訳：ネットワークの設定を行うには、少なくとも 1 つはデバイスを接続してください。
+Google翻訳：ネットワークの構成を開始するには、少なくとも1つのデバイスを接続してください。
+
+原文：This Wired Network is Unavailable
+筆者訳：この有線ネットワークは利用できません
+Google翻訳：この有線ネットワークは利用できません
+
+原文：A network cable is not plugged in or may be broken
+筆者訳：ネットワークケーブルが接続されていないか、破損している可能性があります
+Google翻訳：ネットワークケーブルが接続されていないか、壊れている可能性があります
+
+原文：Virtual network: %s
+筆者訳：仮想ネットワーク: %s
+Google翻訳：仮想ネットワーク：％s
+
+原文：Wired
+筆者訳：有線
+Google翻訳：有線
+
+原文：Enabling Hotspot will disconnect from any connected wireless networks. You will not be able to connect to a wireless network while Hotspot is active.
+筆者訳：ホットスポットを有効にすると、すべての接続済みの無線ネットワークから切断されます。ホットスポットが有効な間は、無線ネットワークに接続できません。
+Google翻訳：ホットスポットを有効にすると、接続されているワイヤレスネットワークから切断されます。ホットスポットがアクティブな間は、ワイヤレスネットワークに接続できなくなります。
+
+原文：Show Password
+筆者訳：パスワードを表示
+Google翻訳：パスワードを表示
+
+原文：Network Name:
+筆者訳：ネットワーク名:
+Google翻訳：ネットワーク名：
+
+原文：Password:
+筆者訳：パスワード:
+Google翻訳：パスワード：
+
+原文：New…
+筆者訳：新規…
+Google翻訳：新しい…
+
+原文：Connection:
+筆者訳：接続:
+Google翻訳：繋がり：
+
+原文：Hotspot Settings…
+筆者訳：ホットスポットの設定…
+Google翻訳：ホットスポット設定…
+
+原文：Hotspot %s
+筆者訳：ホットスポット %s
+Google翻訳：ホットスポット％s
+
+原文：Password needs to be at least 8 characters long
+筆者訳：パスワードは最低 8 文字以上の長さが必要です
+Google翻訳：パスワードは8文字以上である必要があります
+
+原文：Password is at least 8 characters long
+筆者訳：パスワードは最低 8 文字以上の長さです
+Google翻訳：パスワードは8文字以上の長さです
+
+原文：Modem: %s
+筆者訳：モデム: %s
+Google翻訳：モデム：％s
+
+原文：Mobile Broadband: %s
+筆者訳：モバイルブロードバンド: %s
+Google翻訳：モバイルブロードバンド：％s
+
+原文：Mobile Broadband
+筆者訳：モバイルブロードバンド
+Google翻訳：モバイルブロードバンド
+
+原文：Configuration
+筆者訳：設定
+Google翻訳：構成
+
+原文：Exceptions
+筆者訳：例外
+Google翻訳：例外
+
+原文：Virtual Private Network
+筆者訳：仮想プライベートネットワーク
+Google翻訳：仮想プライベートネットワーク
+
+原文：VPN removed
+筆者訳：VPN を削除しました
+Google翻訳：VPNが削除されました
+
+原文：Undo
+筆者訳：元に戻す
+Google翻訳：元に戻す
+
+原文：No VPN Connections
+筆者訳：VPN 接続がありません
+Google翻訳：VPN接続なし
+
+原文：Add a new VPN connection to begin.
+筆者訳：開始するには新しい VPN 接続を追加してください。
+Google翻訳：新しいVPN接続を追加して開始します。
+
+原文：Add VPN Connection…
+筆者訳：VPN 接続を追加…
+Google翻訳：VPN接続を追加…
+
+原文：Forget selected VPN…
+筆者訳：選択された VPN を削除…
+Google翻訳：選択したVPNを忘れて…
+
+原文：Edit VPN connection…
+筆者訳：VPN 接続を編集…
+Google翻訳：VPN接続を編集…
+
+原文：Failed to remove VPN connection
+筆者訳：VPN 接続を削除できませんでした
+Google翻訳：VPN接続の削除に失敗しました
+
+原文：Cannot remove an active VPN connection.
+筆者訳：使用中の VPN 接続は削除できません。
+Google翻訳：アクティブなVPN接続を削除できません。
+
+原文：Failed to run Connection Editor
+筆者訳：接続エディターを実行できませんでした
+Google翻訳：接続エディターの実行に失敗しました
+
+原文：The program "nm-connection-editor" may not be installed.
+筆者訳：プログラム "nm-connection-editor" がインストールされていない可能性があります。
+Google翻訳：プログラム「nm-connection-editor」がインストールされていない可能性があります。
+
+原文：This device is in Hotspot Mode
+筆者訳：このデバイスはホットスポットモードです
+Google翻訳：このデバイスはホットスポットモードです
+
+原文：Turn off the Hotspot Mode to connect to other Access Points.
+筆者訳：ほかのアクセスポイントに接続するには、ホットスポットモードを無効にしてください。
+Google翻訳：ホットスポットモードをオフにして、他のアクセスポイントに接続します。
+
+原文：Connect to Hidden Network…
+筆者訳：非公開のネットワークに接続…
+Google翻訳：隠しネットワークに接続…
+
+原文：No Access Points Available
+筆者訳：アクセスポイントが利用できません
+Google翻訳：利用可能なアクセスポイントがありません
+
+原文：There are no wireless access points within range.
+筆者訳：範囲内に無線アクセスポイントがありません。
+Google翻訳：範囲内にワイヤレスアクセスポイントはありません。
+
+原文：Wireless Is Disabled
+筆者訳：無線は無効になっています
+Google翻訳：ワイヤレスが無効になっている
+
+原文：Enable wireless to discover nearby wireless access points.
+筆者訳：近くの無線アクセスポイントを見つけるには無線を有効にしてください。
+Google翻訳：ワイヤレスを有効にして、近くのワイヤレスアクセスポイントを検出します。
+
+原文：Scanning for Access Points…
+筆者訳：アクセスポイントを検索しています…
+Google翻訳：アクセスポイントのスキャン…
+
+原文：Disconnect
+筆者訳：切断
+Google翻訳：切断する
+
+原文：Settings…
+筆者訳：設定…
+Google翻訳：設定…
+
+原文：Edit Connections…
+筆者訳：接続を編集…
+Google翻訳：接続の編集…
+
+原文：Advanced Settings…
+筆者訳：高度な設定…
+Google翻訳：高度な設定…
+
+原文：Unknown Device
+筆者訳：不明なデバイス
+Google翻訳：未知のディバイス
+
+原文：Unknown type: %s 
+筆者訳：不明な種類: %s 
+Google翻訳：不明なタイプ：％s
+
+原文：Failed To Disconnect
+筆者訳：切断できませんでした
+Google翻訳：切断に失敗しました
+
+原文：Unable to disconnect from the currently connected network
+筆者訳：現在接続中のネットワークから切断できません
+Google翻訳：現在接続されているネットワークから切断できません
+
+原文：Sent
+筆者訳：送信
+Google翻訳：送信済
+
+原文：Received
+筆者訳：受信
+Google翻訳：受け取った
+
+原文：IP Address:
+筆者訳：IP アドレス:
+Google翻訳：IPアドレス：
+
+原文：IPv6 Address:
+筆者訳：IPv6 アドレス:
+Google翻訳：IPv6アドレス：
+
+原文：Subnet mask:
+筆者訳：サブネットマスク:
+Google翻訳：サブネットマスク：
+
+原文：Router:
+筆者訳：ルーター:
+Google翻訳：ルーター：
+
+原文：Virtual
+筆者訳：仮想
+Google翻訳：バーチャル
+
+原文：Devices
+筆者訳：デバイス
+Google翻訳：デバイス
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+
+原文：Enabled (manual mode)
+筆者訳：有効 (手動モード)
+Google翻訳：有効（手動モード）
+
+原文：Enabled (auto mode)
+筆者訳：有効 (自動モード)
+Google翻訳：有効（自動モード）
+
+原文：Connect
+筆者訳：接続
+Google翻訳：接続
+
+原文：40/64-bit WEP encrypted
+筆者訳：40/64 ビット WEP 暗号化通信
+Google翻訳：暗号化された40/64ビットWEP
+
+原文：104/128-bit WEP encrypted
+筆者訳：104/128 ビット WEP 暗号化通信
+Google翻訳：104/128ビットWEP暗号化
+
+原文：WPA encrypted
+筆者訳：WPA 暗号化通信
+Google翻訳：WPA暗号化
+
+原文：Encrypted
+筆者訳：暗号化通信
+Google翻訳：暗号化
+
+原文：Unsecured
+筆者訳：セキュリティー保護なし
+Google翻訳：保護されていない
+
+原文：Could not be connected to
+筆者訳：接続できませんでした
+Google翻訳：接続できませんでした
+
+原文：Connecting
+筆者訳：接続試行中
+Google翻訳：接続する
+
+原文：VPN Type: 
+筆者訳：VPN の種類: 
+Google翻訳：VPNタイプ：
+
+原文：Username: 
+筆者訳：ユーザー名: 
+Google翻訳：ユーザー名：
+
+原文：Gateway: 
+筆者訳：ゲートウェイ: 
+Google翻訳：ゲートウェイ：
+
+原文：Ignored hosts
+筆者訳：無視するホスト
+Google翻訳：無視されたホスト
+
+原文：Exception to add (separate with commas to add multiple)
+筆者訳：追加する例外 (コンマ区切りで複数追加できます)
+Google翻訳：追加する例外（複数を追加するにはコンマで区切ります）
+
+原文：Add Exception
+筆者訳：例外を追加
+Google翻訳：例外を追加
+
+原文：Automatic proxy configuration
+筆者訳：自動プロキシ設定
+Google翻訳：自動プロキシ構成
+
+原文：Manual proxy configuration
+筆者訳：手動プロキシ設定
+Google翻訳：手動プロキシ設定
+
+原文：URL to configuration script
+筆者訳：設定スクリプトの URL
+Google翻訳：構成スクリプトへのURL
+
+原文：HTTP Proxy:
+筆者訳：HTTP プロキシ:
+Google翻訳：HTTPプロキシ：
+
+原文：Port:
+筆者訳：ポート:
+Google翻訳：ポート：
+
+原文：Use this proxy server for all protocols
+筆者訳：このプロキシ設定をすべてのプロトコルで使う
+Google翻訳：このプロキシサーバーをすべてのプロトコルに使用する
+
+原文：HTTPS Proxy:
+筆者訳：HTTPS プロキシ:
+Google翻訳：HTTPSプロキシ：
+
+原文：FTP Proxy:
+筆者訳：FTP プロキシ:
+Google翻訳：FTPプロキシ：
+
+原文：SOCKS Host:
+筆者訳：SOCKS ホスト:
+Google翻訳：SOCKSホスト：
+
+原文：Apply
+筆者訳：適用
+Google翻訳：申し込み
+
+原文：Reset all settings
+筆者訳：すべての設定をリセット
+Google翻訳：すべての設定をリセット
+
+原文：Are you sure you want to reset all Proxy settings?
+筆者訳：すべてのプロキシ設定をリセットしてもよろしいですか？
+Google翻訳：すべてのプロキシ設定をリセットしてもよろしいですか？
+
+原文：All host and port settings will be cleared and can not be restored.
+筆者訳：ホストとポートの設定はすべて消去され、復元できません。
+Google翻訳：すべてのホストとポートの設定がクリアされ、復元できなくなります。
+
+原文：Reset Settings
+筆者訳：設定をリセット
+Google翻訳：設定をリセット
+

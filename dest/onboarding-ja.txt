@@ -1,0 +1,200 @@
+原文：Set up %s
+筆者訳：%s をセットアップ
+Google翻訳：％sを設定する
+
+原文：Skip All
+筆者訳：すべてスキップ
+Google翻訳：全部スキップ
+
+原文：Get Started
+筆者訳：始めましょう
+Google翻訳：はじめに
+
+原文：Next
+筆者訳：次へ
+Google翻訳：次
+
+原文：Get the apps you need on AppCenter. Curated apps are made for elementary OS and reviewed by elementary.
+筆者訳：必要なアプリを AppCenter で入手しましょう。アプリは elementary OS 向けに作られており、elementary が厳選・審査しています。
+Google翻訳：AppCenterで必要なアプリを入手してください。厳選されたアプリは、エレメンタリーOS向けに作成され、エレメンタリーによってレビューされます。
+
+原文：Get Some Apps
+筆者訳：アプリを入手
+Google翻訳：いくつかのアプリを入手
+
+原文：Browse AppCenter…
+筆者訳：AppCenter を閲覧…
+Google翻訳：AppCenterを閲覧…
+
+原文：You can also sideload Flatpak apps e.g. from %s
+筆者訳：%s などから、AppCenter を経由せずに Flatpak アプリをインストールすることもできます
+Google翻訳：Flatpakアプリをサイドローディングすることもできます。 ％sから
+
+原文：This pre-release version of %s should not be used in production. <b>It will not be possible to upgrade to the stable release</b> from this installation.
+筆者訳：この %s はプレリリース版です。メイン環境での使用は推奨されません。また、<b>安定版へのアップグレードはできません</b>。
+Google翻訳：このプレリリースバージョンの％sは、本番環境では使用しないでください。 <b>このインストールから安定版リリースにアップグレードすることはできません</ b>。
+
+原文：Early Access Build
+筆者訳：早期アクセスビルド
+Google翻訳：早期アクセスビルド
+
+原文：Major Known Issues
+筆者訳：主な既知の不具合
+Google翻訳：主な既知の問題
+
+原文：Some features may be missing or incomplete
+筆者訳：機能が不足または完成していないことがあります
+Google翻訳：一部の機能が欠落しているか、不完全である可能性があります
+
+原文：Enjoy using %s! You can always visit System Settings to set up hardware or change your preferences.
+筆者訳：どうぞ %s をご利用ください！　“システム設定”を開くと、ハードウェアをセットアップしたり、設定を変更したりできます。
+Google翻訳：％sをお楽しみください！いつでもシステム設定にアクセスして、ハードウェアをセットアップしたり、設定を変更したりできます。
+
+原文：Ready to Go
+筆者訳：準備が完了しました
+Google翻訳：準備完了
+
+原文：Open System Settings…
+筆者訳：“システム設定”を開く…
+Google翻訳：システム設定を開く…
+
+原文：Housekeeping
+筆者訳：自動削除
+Google翻訳：ハウスキーピング
+
+原文：Automatically Delete:
+筆者訳：以下のファイルを自動的に削除:
+Google翻訳：自動的に削除：
+
+原文：Old temporary files
+筆者訳：不要な一時ファイル
+Google翻訳：古い一時ファイル
+
+原文：Downloaded files
+筆者訳：ダウンロードしたファイル
+Google翻訳：ダウンロードしたファイル
+
+原文：Trashed files
+筆者訳：ゴミ箱に移動したファイル
+Google翻訳：ゴミ箱に入れられたファイル
+
+原文：Old files can be automatically deleted after %u days to save space and help protect your privacy.
+筆者訳：古いファイルは%u日後に自動的に削除されます。これにより、空き領域を確保でき、プライバシーの保護に役立ちます。
+Google翻訳：スペースを節約し、プライバシーを保護するために、％u日後に古いファイルを自動的に削除できます。
+
+原文：Make the colors of your display warmer at night to help prevent eye strain and sleeplessness.
+筆者訳：夜間にディスプレイの色を暖色にします。これは、目の疲れと不眠の防止に役立ちます。
+Google翻訳：目の疲れや不眠を防ぐために、夜間はディスプレイの色を暖かくしてください。
+
+原文：Night Light
+筆者訳：夜間モード
+Google翻訳：夜の光
+
+原文：Night Light:
+筆者訳：夜間モード:
+Google翻訳：夜の光：
+
+原文：Adjust schedule and temperature…
+筆者訳：スケジュールと色温度を調節…
+Google翻訳：スケジュールと温度を調整…
+
+原文：Use Mail, Calendar, and Tasks with an existing online account to sync emails, events, and tasks with this device.
+筆者訳：“メール”や“カレンダー”、“タスク”アプリに既存のオンラインアカウントを接続して、メールや予定、タスクをこのデバイスと同期しましょう。
+Google翻訳：メール、カレンダー、およびタスクを既存のオンラインアカウントで使用して、電子メール、イベント、およびタスクをこのデバイスと同期します。
+
+原文：Online Accounts
+筆者訳：オンラインアカウント
+Google翻訳：オンラインアカウント
+
+原文：Connect Online Accounts…
+筆者訳：オンラインアカウントを接続…
+Google翻訳：オンラインアカウントを接続する…
+
+原文：Make it your own by choosing a visual style and accent color. Apps may override these with their own look.
+筆者訳：視覚スタイルとアクセントカラーを選んで、オリジナリティーを出しましょう。アプリによっては、独自の視覚スタイルとアクセントカラーが使用されることもあります。
+Google翻訳：視覚的なスタイルとアクセントカラーを選択して、自分だけのものにしましょう。アプリは、これらを独自の外観でオーバーライドする場合があります。
+
+原文：Choose Your Look
+筆者訳：外観を選択
+Google翻訳：あなたの外観を選択してください
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+
+原文：Dark
+筆者訳：ダーク
+Google翻訳：闇
+
+原文：Blueberry
+筆者訳：ブルーベリー
+Google翻訳：ブルーベリー
+
+原文：Mint
+筆者訳：ミント
+Google翻訳：ミント
+
+原文：Lime
+筆者訳：ライム
+Google翻訳：ライム
+
+原文：Banana
+筆者訳：バナナ
+Google翻訳：バナナ
+
+原文：Orange
+筆者訳：オレンジ
+Google翻訳：オレンジ
+
+原文：Strawberry
+筆者訳：ストロベリー
+Google翻訳：いちご
+
+原文：Bubblegum
+筆者訳：ピンク
+Google翻訳：バブルガム
+
+原文：Grape
+筆者訳：グレープ
+Google翻訳：葡萄
+
+原文：Cocoa
+筆者訳：ココア
+Google翻訳：ココア
+
+原文：Slate
+筆者訳：スレート
+Google翻訳：スレート
+
+原文：Automatic based on wallpaper
+筆者訳：壁紙に基づいて自動的に設定
+Google翻訳：壁紙に基づく自動
+
+原文：Continue to set up some useful new features. For more detailed information about updates, check out <a href='https://blog.elementary.io'>our blog</a>.
+筆者訳：続行して、便利な新機能をセットアップしましょう。アップデートに関する詳細な情報は、<a href='https://blog.elementary.io'>ブログ</a>で確認できます。
+Google翻訳：いくつかの便利な新機能の設定を続けます。アップデートの詳細については、<ahref = 'https：//blog.elementary.io'>ブログ</a>をご覧ください。
+
+原文：What’s New
+筆者訳：最新情報
+Google翻訳：新着情報
+
+原文：Continue to set up some useful features. Visit the links below for more information about %s.
+筆者訳：続行して、便利な機能をセットアップしましょう。%s についての詳細な情報を知るには、以下のリンクにアクセスしてください。
+Google翻訳：引き続きいくつかの便利な機能を設定します。 ％sの詳細については、以下のリンクにアクセスしてください。
+
+原文：Welcome to %s!
+筆者訳：%s へようこそ！
+Google翻訳：％sへようこそ！
+
+原文：Basics Guide…
+筆者訳：基本操作ガイド…
+Google翻訳：基本ガイド…
+
+原文：Community Support…
+筆者訳：コミュニティーサポート…
+Google翻訳：コミュニティサポート…
+
+原文：Get Involved…
+筆者訳：開発に参加…
+Google翻訳：参加する…
+

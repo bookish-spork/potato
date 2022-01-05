@@ -1,0 +1,120 @@
+原文：Screenshots
+筆者訳：スクリーンショット
+Google翻訳：スクリーンショット
+
+原文：Capture area
+筆者訳：取得する範囲
+Google翻訳：キャプチャエリア
+
+原文：Capture the whole screen
+筆者訳：画面全体を取得します
+Google翻訳：画面全体をキャプチャする
+
+原文：Capture active window
+筆者訳：アクティブなウィンドウを取得します
+Google翻訳：アクティブなウィンドウをキャプチャする
+
+原文：Take screenshot after specified delay
+筆者訳：指定された遅延の後にスクリーンショットを撮ります
+Google翻訳：指定された遅延後にスクリーンショットを撮る
+
+原文：Seconds
+筆者訳：秒
+Google翻訳：秒
+
+原文：Include the pointer with the screenshot
+筆者訳：スクリーンショットにマウスポインターを含めます
+Google翻訳：スクリーンショットにポインタを含める
+
+原文：Redact system text
+筆者訳：システムテキストを隠します
+Google翻訳：システムテキストを編集する
+
+原文：Save screenshot to clipboard
+筆者訳：スクリーンショットをクリップボードに保存します
+Google翻訳：スクリーンショットをクリップボードに保存
+
+原文：Grab the whole screen
+筆者訳：画面全体を取得します
+Google翻訳：画面全体をつかむ
+
+原文：Grab the current window
+筆者訳：現在のウィンドウを取得します
+Google翻訳：現在のウィンドウを取得します
+
+原文：Select area to grab
+筆者訳：取得する範囲を選択します
+Google翻訳：取得する領域を選択します
+
+原文：Grab pointer:
+筆者訳：ポインター部分を取得:
+Google翻訳：ポインタをつかむ：
+
+原文：Close after saving:
+筆者訳：保存後に閉じる:
+Google翻訳：保存後に閉じる：
+
+原文：Conceal text:
+筆者訳：テキストを隠す:
+Google翻訳：テキストを隠す：
+
+原文：Delay in seconds:
+筆者訳：遅延する秒数:
+Google翻訳：秒単位の遅延：
+
+原文：Take Screenshot
+筆者訳：スクリーンショットを撮る
+Google翻訳：スクリーンショットを撮ります
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：Screenshot from %s
+筆者訳：%s のスクリーンショット
+Google翻訳：％sのスクリーンショット
+
+原文：Could not capture screenshot
+筆者訳：スクリーンショットを取得できませんでした
+Google翻訳：スクリーンショットをキャプチャできませんでした
+
+原文：Image not saved
+筆者訳：画像は保存されていません
+Google翻訳：画像が保存されていません
+
+原文：Screenshot
+筆者訳：スクリーンショット
+Google翻訳：スクリーンショット
+
+原文：Save Image as…
+筆者訳：名前を付けて画像を保存…
+Google翻訳：画像を保存します…
+
+原文：Name:
+筆者訳：名前:
+Google翻訳：名前：
+
+原文：Format:
+筆者訳：形式:
+Google翻訳：フォーマット：
+
+原文：Folder:
+筆者訳：フォルダー:
+Google翻訳：フォルダ：
+
+原文：Select Screenshots Folder…
+筆者訳：スクリーンショットフォルダーを選択…
+Google翻訳：スクリーンショットフォルダを選択…
+
+原文：Copy to Clipboard
+筆者訳：クリップボードにコピー
+Google翻訳：クリップボードにコピー
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+

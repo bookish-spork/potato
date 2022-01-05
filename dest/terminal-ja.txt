@@ -1,0 +1,200 @@
+原文：Process completed
+筆者訳：プロセスが完了しました
+Google翻訳：プロセスが完了しました
+
+原文：Process exited with errors
+筆者訳：プロセスはエラーで終了しました
+Google翻訳：プロセスがエラーで終了しました
+
+原文：Show version
+筆者訳：バージョンを表示します
+Google翻訳：バージョンを表示
+
+原文：Run a program in terminal
+筆者訳：ターミナルでプログラムを実行します
+Google翻訳：ターミナルでプログラムを実行する
+
+原文：Run remainder of line as a command in terminal. Can also use '--' as flag
+筆者訳：行の残りの部分をコマンドとしてターミナルで実行します。フラグとして '--' も使用できます
+Google翻訳：ターミナルでコマンドとして行の残りを実行します。フラグとして「-」を使用することもできます
+
+原文：Open a new terminal window
+筆者訳：新しいターミナルウィンドウを開く
+Google翻訳：新しいターミナルウィンドウを開く
+
+原文：Open a new terminal tab
+筆者訳：新しいターミナルタブを開く
+Google翻訳：新しいターミナルタブを開く
+
+原文：Show help
+筆者訳：ヘルプを表示します
+Google翻訳：ヘルプを表示
+
+原文：Set shell working directory
+筆者訳：シェルのカレントディレクトリを設定します
+Google翻訳：シェルの作業ディレクトリを設定する
+
+原文：Copy
+筆者訳：コピー
+Google翻訳：コピー
+
+原文：Copy Last Output
+筆者訳：最後の出力をコピー
+Google翻訳：最後の出力をコピー
+
+原文：Paste
+筆者訳：貼り付け
+Google翻訳：ペースト
+
+原文：Select All
+筆者訳：すべて選択
+Google翻訳：すべて選択
+
+原文：Find…
+筆者訳：検索…
+Google翻訳：探す…
+
+原文：Zoom out
+筆者訳：ズームアウト
+Google翻訳：ズームアウトする
+
+原文：Default zoom level
+筆者訳：デフォルトのズームレベル
+Google翻訳：デフォルトのズームレベル
+
+原文：Zoom in
+筆者訳：ズームイン
+Google翻訳：ズームイン
+
+原文：High Contrast
+筆者訳：ハイコントラスト
+Google翻訳：ハイコントラスト
+
+原文：Dark
+筆者訳：ダーク
+Google翻訳：闇
+
+原文：Natural Copy/Paste
+筆者訳：ナチュラルコピー & ペースト
+Google翻訳：ナチュラルコピー/ペースト
+
+原文：Shortcuts don’t require Shift; may interfere with CLI apps
+筆者訳：Shift キーなしでショートカットを実行できます。CLI アプリと干渉する可能性があります
+Google翻訳：ショートカットにはShiftは必要ありません。 CLIアプリに干渉する可能性があります
+
+原文：Settings
+筆者訳：設定
+Google翻訳：設定
+
+原文：New Tab
+筆者訳：新しいタブ
+Google翻訳：新しいタブ
+
+原文：Show in %s
+筆者訳：%sで表示
+Google翻訳：％sで表示
+
+原文：Default application
+筆者訳：デフォルトのアプリケーション
+Google翻訳：デフォルトのアプリケーション
+
+原文：Close Tab
+筆者訳：タブを閉じる
+Google翻訳：タブを閉じる
+
+原文：Duplicate
+筆者訳：タブを複製
+Google翻訳：複製
+
+原文：Reload
+筆者訳：再読み込み
+Google翻訳：リロード
+
+原文：The pasted text may be trying to gain administrative access
+筆者訳：貼り付けされたテキストは管理者権限を取得しようとしています
+Google翻訳：貼り付けたテキストが管理アクセスを取得しようとしている可能性があります
+
+原文：The pasted text may contain multiple commands
+筆者訳：貼り付けされたテキストは複数のコマンドを含んでいます
+Google翻訳：貼り付けたテキストに複数のコマンドが含まれている場合があります
+
+原文：Hide find bar
+筆者訳：検索バーを非表示にします
+Google翻訳：検索バーを非表示
+
+原文：Are you sure you want to close this tab?
+筆者訳：このタブを閉じてもよろしいですか？
+Google翻訳：このタブを閉じてもよろしいですか？
+
+原文：There is an active process on this tab.
+筆者訳：このタブにはアクティブなプロセスがあります。
+Google翻訳：このタブにはアクティブなプロセスがあります。
+
+原文：If you close it, the process will end.
+筆者訳：タブを閉じた場合、プロセスは終了します。
+Google翻訳：それを閉じると、プロセスは終了します。
+
+原文：Are you sure you want to quit Terminal?
+筆者訳：“ターミナル”を終了してもよろしいですか？
+Google翻訳：ターミナルを終了してもよろしいですか？
+
+原文：There is an active process on this terminal.
+筆者訳：このターミナルにはアクティブなプロセスがあります。
+Google翻訳：この端末にはアクティブなプロセスがあります。
+
+原文：If you quit Terminal, the process will end.
+筆者訳：“ターミナル”を終了した場合、プロセスは終了します。
+Google翻訳：ターミナルを終了すると、プロセスは終了します。
+
+原文：Quit Terminal
+筆者訳：“ターミナル”を終了
+Google翻訳：ターミナルを終了します
+
+原文：Are you sure you want to reload this tab?
+筆者訳：このタブを再読み込みしてもよろしいですか？
+Google翻訳：このタブをリロードしてもよろしいですか？
+
+原文：There is an active process on this tab. If you reload it, the process will end.
+筆者訳：このタブにはアクティブなプロセスがあります。再読み込みすると、このプロセスは終了します。
+Google翻訳：このタブにはアクティブなプロセスがあります。リロードすると、プロセスは終了します。
+
+原文：Reload Tab
+筆者訳：タブを再読み込み
+Google翻訳：[リロード]タブ
+
+原文：Copying commands into Terminal can be dangerous. Be sure you understand what each part of the pasted text does before continuing.
+筆者訳：“ターミナル”へのコマンドの貼り付けは、危険な場合があります。続行する前に、貼り付けされたテキストの各部分が実行する内容を必ず理解するようにしてください。
+Google翻訳：コマンドをターミナルにコピーすると危険な場合があります。続行する前に、貼り付けたテキストの各部分が何をするかを必ず理解してください。
+
+原文：Show paste protection warnings
+筆者訳：貼り付け時に保護警告を表示
+Google翻訳：貼り付け保護の警告を表示する
+
+原文：Don't Paste
+筆者訳：貼り付けしない
+Google翻訳：貼り付けないでください
+
+原文：Paste Anyway
+筆者訳：了解して貼り付け
+Google翻訳：とにかく貼り付け
+
+原文：Find
+筆者訳：検索
+Google翻訳：探す
+
+原文：Previous result
+筆者訳：前の結果
+Google翻訳：前の結果
+
+原文：Next result
+筆者訳：次の結果
+Google翻訳：次の結果
+
+原文：Cyclic search
+筆者訳：循環検索
+Google翻訳：循環検索
+
+原文：Terminal
+筆者訳：ターミナル
+Google翻訳：ターミナル
+

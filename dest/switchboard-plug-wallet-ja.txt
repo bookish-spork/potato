@@ -1,0 +1,68 @@
+原文：Add a new card
+筆者訳：新しいカードを追加
+Google翻訳：新しいカードを追加する
+
+原文：Card information is stored encrypted, on your device.
+筆者訳：カード情報は、暗号化された状態でお使いのデバイスに保存されます。
+Google翻訳：カード情報は暗号化されてデバイスに保存されます。
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Add Card
+筆者訳：カードを追加
+Google翻訳：カードを追加
+
+原文：%s ending in %s
+筆者訳：%s (末尾 %s)
+Google翻訳：％sで終わる％s
+
+原文：Card Number
+筆者訳：カード番号
+Google翻訳：カード番号
+
+原文：Delete
+筆者訳：削除
+Google翻訳：消去
+
+原文：Expires %s
+筆者訳：有効期限 %s
+Google翻訳：有効期限％s
+
+原文：Wallet
+筆者訳：ウォレット
+Google翻訳：財布
+
+原文：Save payment methods for later
+筆者訳：支払い方法を保存します
+Google翻訳：後で使用するために支払い方法を保存します
+
+原文：Add payment methods to Wallet by clicking the icon in the toolbar below.
+筆者訳：下のツールバーにあるアイコンをクリックすると、ウォレットに支払い方法を追加できます。
+Google翻訳：下のツールバーのアイコンをクリックして、ウォレットに支払い方法を追加します。
+
+原文：Add Payment Method…
+筆者訳：支払い方法を追加…
+Google翻訳：お支払い方法を追加…
+
+原文：Manage payment methods
+筆者訳：支払い方法を管理します
+Google翻訳：お支払い方法を管理する
+
+原文：Credit Card
+筆者訳：クレジットカード
+Google翻訳：クレジットカード
+
+原文：Debit Card
+筆者訳：デビットカード
+Google翻訳：デビットカード
+
+原文：Payments
+筆者訳：支払い
+Google翻訳：支払い
+
+原文：Fund
+筆者訳：資金提供
+Google翻訳：基金
+

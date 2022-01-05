@@ -1,0 +1,734 @@
+原文：On this computer
+筆者訳：このコンピューター
+Google翻訳：このコンピューターで
+
+原文：User:
+筆者訳：ユーザー:
+Google翻訳：ユーザー：
+
+原文：Email:
+筆者訳：メール:
+Google翻訳：Eメール：
+
+原文：Keep a copy locally
+筆者訳：ローカルにコピーを保管
+Google翻訳：ローカルにコピーを保持する
+
+原文：user.name or user.name@gmail.com
+筆者訳：user.name または user.name@gmail.com
+Google翻訳：user.nameまたはuser.name@gmail.com
+
+原文：Use a secure connection
+筆者訳：安全な接続を使う
+Google翻訳：安全な接続を使用する
+
+原文：Server handles meeting invitations
+筆者訳：サーバーが会議の招待を処理
+Google翻訳：サーバーは会議の招待状を処理します
+
+原文：Your upcoming events will be displayed here when you select a date with events.
+筆者訳：予定が入っている日付を選択すると、ここに予定の内容が表示されます。
+Google翻訳：イベントのある日付を選択すると、今後のイベントがここに表示されます。
+
+原文：During the day
+筆者訳：日中
+Google翻訳：日中
+
+原文：All day
+筆者訳：終日
+Google翻訳：一日中
+
+原文：Tomorrow
+筆者訳：明日
+Google翻訳：明日
+
+原文：This Week
+筆者訳：今週
+Google翻訳：今週
+
+原文：Next Week
+筆者訳：来週
+Google翻訳：次の週
+
+原文：This Month
+筆者訳：今月
+Google翻訳：今月
+
+原文：Next Month
+筆者訳：来月
+Google翻訳：来月
+
+原文：Create an event
+筆者訳：予定を作成します
+Google翻訳：イベントを作成する
+
+原文：Focus the given day
+筆者訳：指定の日に移動します
+Google翻訳：与えられた日に焦点を合わせる
+
+原文：date
+筆者訳：日付
+Google翻訳：日にち
+
+原文：Calendar
+筆者訳：カレンダー
+Google翻訳：カレンダー
+
+原文：Select a Calendar to Import Into
+筆者訳：インポート先のカレンダーを選択
+Google翻訳：インポートするカレンダーを選択します
+
+原文：Events from "%s" will be merged with this calendar:
+筆者訳："%s" にある予定は、以下のカレンダーと統合されます:
+Google翻訳：「％s」からのイベントは、次のカレンダーにマージされます。
+
+原文（単数形）：Events from %d file will be merged with this calendar:
+原文（複数形）：Events from %d files will be merged with this calendar:
+筆者訳：%d個のファイルにある予定は、以下のカレンダーと統合されます:
+Google翻訳：％dファイルのイベントは次のカレンダーにマージされます。
+
+原文：Import
+筆者訳：インポート
+Google翻訳：輸入
+
+原文：Add Event
+筆者訳：予定を追加
+Google翻訳：イベントを追加
+
+原文：Edit Event
+筆者訳：予定を編集
+Google翻訳：イベントの編集
+
+原文：General Informations
+筆者訳：一般的な情報
+Google翻訳：一般情報
+
+原文：Location
+筆者訳：場所
+Google翻訳：位置
+
+原文：Guests
+筆者訳：ゲスト
+Google翻訳：ゲスト
+
+原文：Reminders
+筆者訳：リマインダー
+Google翻訳：リマインダー
+
+原文：Repeat
+筆者訳：繰り返し
+Google翻訳：繰り返す
+
+原文：Delete Event
+筆者訳：予定を削除
+Google翻訳：イベントの削除
+
+原文：Create Event
+筆者訳：予定を作成
+Google翻訳：イベントの作成
+
+原文：Save Changes
+筆者訳：変更を保存
+Google翻訳：変更内容を保存
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Accepted
+筆者訳：受諾済
+Google翻訳：受け入れられました
+
+原文：Declined
+筆者訳：辞退
+Google翻訳：辞退
+
+原文：Maybe
+筆者訳：不確実
+Google翻訳：多分
+
+原文：Participants:
+筆者訳：参加者:
+Google翻訳：参加者：
+
+原文：No Participants
+筆者訳：参加者はいません
+Google翻訳：参加者なし
+
+原文：Invite
+筆者訳：招待
+Google翻訳：招待
+
+原文：From:
+筆者訳：開始:
+Google翻訳：から：
+
+原文：All day:
+筆者訳：終日:
+Google翻訳：一日中：
+
+原文：To:
+筆者訳：終了:
+Google翻訳：に：
+
+原文：Time zone:
+筆者訳：タイムゾーン:
+Google翻訳：タイムゾーン：
+
+原文：Title:
+筆者訳：タイトル:
+Google翻訳：タイトル：
+
+原文：Name of Event
+筆者訳：予定の名前
+Google翻訳：イベント名
+
+原文：Press enter to parse event
+筆者訳：予定を解析するには Enter キーを押してください
+Google翻訳：Enterキーを押してイベントを解析します
+
+原文：Calendar:
+筆者訳：カレンダー:
+Google翻訳：カレンダー：
+
+原文：Comments:
+筆者訳：コメント:
+Google翻訳：コメント：
+
+原文：Location:
+筆者訳：場所:
+Google翻訳：位置：
+
+原文：John Smith OR Example St.
+筆者訳：場所を入力
+Google翻訳：ジョンスミスまたは例セント。
+
+原文：Reminders:
+筆者訳：リマインダー:
+Google翻訳：リマインダー：
+
+原文：No Reminders
+筆者訳：リマインダーがありません
+Google翻訳：リマインダーなし
+
+原文：Add Reminder
+筆者訳：リマインダーを追加
+Google翻訳：リマインダーを追加
+
+原文：At time of event
+筆者訳：予定の時刻
+Google翻訳：イベント時
+
+原文：1 minute before
+筆者訳：1分前
+Google翻訳：1分前
+
+原文：5 minutes before
+筆者訳：5分前
+Google翻訳：5分前
+
+原文：10 minutes before
+筆者訳：10分前
+Google翻訳：10分前
+
+原文：15 minutes before
+筆者訳：15分前
+Google翻訳：15分前
+
+原文：20 minutes before
+筆者訳：20分前
+Google翻訳：20分前
+
+原文：25 minutes before
+筆者訳：25分前
+Google翻訳：25分前
+
+原文：30 minutes before
+筆者訳：30分前
+Google翻訳：30分前
+
+原文：45 minutes before
+筆者訳：45分前
+Google翻訳：45分前
+
+原文：1 hour before
+筆者訳：1時間前
+Google翻訳：1時間前
+
+原文：2 hours before
+筆者訳：2時間前
+Google翻訳：2時間前
+
+原文：3 hours before
+筆者訳：3時間前
+Google翻訳：3時間前
+
+原文：12 hours before
+筆者訳：12時間前
+Google翻訳：12時間前
+
+原文：24 hours before
+筆者訳：24時間前
+Google翻訳：24時間前
+
+原文：2 days before
+筆者訳：2日前
+Google翻訳：2日前
+
+原文：1 week before
+筆者訳：1週間前
+Google翻訳：1週間前
+
+原文：Repeat:
+筆者訳：繰り返し:
+Google翻訳：繰り返す：
+
+原文：Daily
+筆者訳：毎日
+Google翻訳：毎日
+
+原文：Weekly
+筆者訳：毎週
+Google翻訳：毎週
+
+原文：Monthly
+筆者訳：毎月
+Google翻訳：毎月
+
+原文：Yearly
+筆者訳：毎年
+Google翻訳：毎年
+
+原文：Every:
+筆者訳：間隔:
+Google翻訳：毎日：
+
+原文（単数形）：Day
+原文（複数形）：Days
+筆者訳：日
+Google翻訳：日
+
+原文（単数形）：Week
+原文（複数形）：Weeks
+筆者訳：週
+Google翻訳：週
+
+原文（単数形）：Month
+原文（複数形）：Months
+筆者訳：か月
+Google翻訳：月
+
+原文（単数形）：Year
+原文（複数形）：Years
+筆者訳：年
+Google翻訳：年
+
+原文：Ends:
+筆者訳：終了:
+Google翻訳：終了：
+
+原文（単数形）：Repeat
+原文（複数形）：Repeats
+筆者訳：繰り返し
+Google翻訳：繰り返す
+
+原文：Never
+筆者訳：なし
+Google翻訳：一度もない
+
+原文：Until
+筆者訳：次の日付まで
+Google翻訳：それまで
+
+原文：After
+筆者訳：次の回数繰り返した後
+Google翻訳：後
+
+原文：The same day every month
+筆者訳：毎月同じ日
+Google翻訳：毎月同じ日
+
+原文：Exceptions:
+筆者訳：例外:
+Google翻訳：例外：
+
+原文：No Exceptions
+筆者訳：例外はありません
+Google翻訳：例外なく
+
+原文：Add Exception
+筆者訳：例外を追加
+Google翻訳：例外を追加
+
+原文：Every last Sunday
+筆者訳：毎月最後の日曜日
+Google翻訳：毎週日曜日
+
+原文：Every last Monday
+筆者訳：毎月最後の月曜日
+Google翻訳：毎週月曜日
+
+原文：Every last Tuesday
+筆者訳：毎月最後の火曜日
+Google翻訳：先週の火曜日
+
+原文：Every last Wednesday
+筆者訳：毎月最後の水曜日
+Google翻訳：毎週水曜日
+
+原文：Every last Thursday
+筆者訳：毎月最後の木曜日
+Google翻訳：毎週木曜日
+
+原文：Every last Friday
+筆者訳：毎月最後の金曜日
+Google翻訳：毎週金曜日
+
+原文：Every last Saturday
+筆者訳：毎月最後の土曜日
+Google翻訳：毎週土曜日
+
+原文：Every first Sunday
+筆者訳：毎月最初の日曜日
+Google翻訳：毎週日曜日
+
+原文：Every first Monday
+筆者訳：毎月最初の月曜日
+Google翻訳：毎週月曜日
+
+原文：Every first Tuesday
+筆者訳：毎月最初の火曜日
+Google翻訳：毎週火曜日
+
+原文：Every first Wednesday
+筆者訳：毎月最初の水曜日
+Google翻訳：毎週水曜日
+
+原文：Every first Thursday
+筆者訳：毎月最初の木曜日
+Google翻訳：毎週木曜日
+
+原文：Every first Friday
+筆者訳：毎月最初の金曜日
+Google翻訳：毎週金曜日
+
+原文：Every first Saturday
+筆者訳：毎月最初の土曜日
+Google翻訳：毎週第1土曜日
+
+原文：Every second Sunday
+筆者訳：毎月第 2 日曜日
+Google翻訳：毎週日曜日
+
+原文：Every second Monday
+筆者訳：毎月第 2 月曜日
+Google翻訳：毎週月曜日
+
+原文：Every second Tuesday
+筆者訳：毎月第 2 火曜日
+Google翻訳：毎週火曜日
+
+原文：Every second Wednesday
+筆者訳：毎月第 2 水曜日
+Google翻訳：毎週水曜日
+
+原文：Every second Thursday
+筆者訳：毎月第 2 木曜日
+Google翻訳：毎週木曜日
+
+原文：Every second Friday
+筆者訳：毎月第 2 金曜日
+Google翻訳：毎週金曜日
+
+原文：Every second Saturday
+筆者訳：毎月第 2 土曜日
+Google翻訳：毎週土曜日
+
+原文：Every third Sunday
+筆者訳：毎月第 3 日曜日
+Google翻訳：第3日曜日
+
+原文：Every third Monday
+筆者訳：毎月第 3 月曜日
+Google翻訳：第3月曜日
+
+原文：Every third Tuesday
+筆者訳：毎月第 3 火曜日
+Google翻訳：第3火曜日
+
+原文：Every third Wednesday
+筆者訳：毎月第 3 水曜日
+Google翻訳：第3水曜日ごと
+
+原文：Every third Thursday
+筆者訳：毎月第 3 木曜日
+Google翻訳：第3木曜日
+
+原文：Every third Friday
+筆者訳：毎月第 3 金曜日
+Google翻訳：第3金曜日
+
+原文：Every third Saturday
+筆者訳：毎月第 3 土曜日
+Google翻訳：第3土曜日
+
+原文：Every fourth Sunday
+筆者訳：毎月第 4 日曜日
+Google翻訳：第4日曜日
+
+原文：Every fourth Monday
+筆者訳：毎月第 4 月曜日
+Google翻訳：第4月曜日
+
+原文：Every fourth Tuesday
+筆者訳：毎月第 4 火曜日
+Google翻訳：第4火曜日ごと
+
+原文：Every fourth Wednesday
+筆者訳：毎月第 4 水曜日
+Google翻訳：第4水曜日
+
+原文：Every fourth Thursday
+筆者訳：毎月第 4 木曜日
+Google翻訳：第4木曜日
+
+原文：Every fourth Friday
+筆者訳：毎月第 4 金曜日
+Google翻訳：第4金曜日
+
+原文：Every fourth Saturday
+筆者訳：毎月第 4 土曜日
+Google翻訳：第4土曜日
+
+原文：Every fifth Sunday
+筆者訳：毎月第 5 日曜日
+Google翻訳：第5日曜日
+
+原文：Every fifth Monday
+筆者訳：毎月第 5 月曜日
+Google翻訳：第5月曜日
+
+原文：Every fifth Tuesday
+筆者訳：毎月第 5 火曜日
+Google翻訳：第5火曜日ごと
+
+原文：Every fifth Wednesday
+筆者訳：毎月第 5 水曜日
+Google翻訳：第5水曜日ごと
+
+原文：Every fifth Thursday
+筆者訳：毎月第 5 木曜日
+Google翻訳：第5木曜日ごと
+
+原文：Every fifth Friday
+筆者訳：毎月第 5 金曜日
+Google翻訳：第5金曜日ごと
+
+原文：Every fifth Saturday
+筆者訳：毎月第 5 土曜日
+Google翻訳：第5土曜日
+
+原文：Mon
+筆者訳：月
+Google翻訳：月曜日
+
+原文：Tue
+筆者訳：火
+Google翻訳：火曜日
+
+原文：Wed
+筆者訳：水
+Google翻訳：結婚した
+
+原文：Thu
+筆者訳：木
+Google翻訳：木曜日
+
+原文：Fri
+筆者訳：金
+Google翻訳：金
+
+原文：Sat
+筆者訳：土
+Google翻訳：土
+
+原文：Sun
+筆者訳：日
+Google翻訳：太陽
+
+原文：Hide Week Numbers
+筆者訳：週番号を表示しない
+Google翻訳：週番号を非表示
+
+原文：Show Week Numbers
+筆者訳：週番号を表示
+Google翻訳：週番号を表示する
+
+原文：%u more…
+筆者訳：ほか%u件…
+Google翻訳：％uもっと…
+
+原文：Create
+筆者訳：作成
+Google翻訳：作成
+
+原文：Name:
+筆者訳：名前:
+Google翻訳：名前：
+
+原文：Calendar Name
+筆者訳：カレンダー名
+Google翻訳：カレンダー名
+
+原文：Type:
+筆者訳：種類:
+Google翻訳：タイプ：
+
+原文：Color:
+筆者訳：色:
+Google翻訳：色：
+
+原文：Mark as default calendar
+筆者訳：デフォルトのカレンダーに設定
+Google翻訳：デフォルトのカレンダーとしてマーク
+
+原文：Create Calendar
+筆者訳：カレンダーを作成
+Google翻訳：カレンダーを作成する
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+
+原文：appointment;meeting
+筆者訳：appointment;meeting;約束;予定;アポイントメント;ミーティング
+Google翻訳：予定;会議
+
+原文：birthday;anniversary;party
+筆者訳：birthday;anniversary;party;誕生日;記念日;パーティー
+Google翻訳：誕生日;記念日;パーティー
+
+原文：call;phone;telephone;ring
+筆者訳：call;phone;telephone;ring;電話;携帯電話
+Google翻訳：電話;電話;電話;リング
+
+原文：bar;cocktails;drinks;happy hour
+筆者訳：bar;cocktails;drinks;happy hour;バー;居酒屋;カクテル;酒;乾杯;打ち上げ
+Google翻訳：バー;カクテル;ドリンク;ハッピーアワー
+
+原文：car;drive;driving;road trip;
+筆者訳：car;drive;driving;road trip;車;運転;ドライブ;旅行;
+Google翻訳：車;ドライブ;運転;ロードトリップ;
+
+原文：flight;airport;
+筆者訳：flight;airport;フライト;飛行;空港;
+Google翻訳：フライト;空港;
+
+原文：breakfast;brunch;dinner;lunch;supper;steakhouse;burger;meal;barbecue
+筆者訳：breakfast;brunch;dinner;lunch;supper;steakhouse;burger;meal;barbecue;朝食;ブランチ;夕食;ディナー;昼食;ランチ;軽食;ステーキハウス;バーガー;食事;バーベキュー
+Google翻訳：朝食;ブランチ;ディナー;ランチ;夕食;ステーキハウス;ハンバーガー;食事;バーベキュー
+
+原文：court;jury;tax;attorney;lawyer;contract
+筆者訳：court;jury;tax;attorney;lawyer;contract;裁判;陪審;税;弁護士;代理人;契約
+Google翻訳：裁判所;陪審;税;弁護士;弁護士;契約
+
+原文：movie;film
+筆者訳：映画;ムービー
+Google翻訳：映画;映画
+
+原文：wedding
+筆者訳：結婚式;ウェディング
+Google翻訳：結婚式
+
+原文：%s, %s – %s, %s
+筆者訳：%s %s – %s %s
+Google翻訳：％s、％s –％s、％s
+
+原文：%s at %s
+筆者訳：%s %s
+Google翻訳：％sで％s
+
+原文：%s, %s – %s
+筆者訳：%s %s – %s
+Google翻訳：％s、％s –％s
+
+原文：Export Calendar…
+筆者訳：カレンダーをエクスポート…
+Google翻訳：カレンダーのエクスポート…
+
+原文：calendar.ics
+筆者訳：カレンダー.ics
+Google翻訳：calendar.ics
+
+原文：Edit…
+筆者訳：編集…
+Google翻訳：編集…
+
+原文：Duplicate…
+筆者訳：複製…
+Google翻訳：複製…
+
+原文：Remove Event
+筆者訳：予定を削除
+Google翻訳：イベントを削除
+
+原文：Remove Occurrence
+筆者訳：出来事を削除
+Google翻訳：オカレンスを削除します
+
+原文：Remove
+筆者訳：削除
+Google翻訳：削除する
+
+原文：Create a new event
+筆者訳：新しい予定を作成
+Google翻訳：新しいイベントを作成する
+
+原文：Go to today's date
+筆者訳：今日の日付へ移動
+Google翻訳：今日の日付に移動します
+
+原文：Manage Calendars
+筆者訳：カレンダーを管理
+Google翻訳：カレンダーを管理する
+
+原文：Export or Share the default Calendar
+筆者訳：デフォルトのカレンダーをエクスポートまたは共有
+Google翻訳：デフォルトのカレンダーをエクスポートまたは共有する
+
+原文：Add New Calendar…
+筆者訳：新しいカレンダーを作成…
+Google翻訳：新しいカレンダーを追加…
+
+原文：Import iCalendar File…
+筆者訳：iCalendar ファイルをインポート…
+Google翻訳：iCalendarファイルをインポート…
+
+原文：Online Accounts Settings…
+筆者訳：オンラインアカウントの設定…
+Google翻訳：オンラインアカウント設定…
+
+原文：Select ICS File to Import
+筆者訳：インポートする ICS ファイルを選択
+Google翻訳：インポートするICSファイルを選択します
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：Not Removable
+筆者訳：削除できません
+Google翻訳：取り外し不可
+
+原文：Not Editable
+筆者訳：編集できません
+Google翻訳：編集不可
+
+原文：Undo
+筆者訳：元に戻す
+Google翻訳：元に戻す
+
+原文："%s" removed
+筆者訳："%s" は削除されました
+Google翻訳：「％s」が削除されました
+

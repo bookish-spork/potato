@@ -1,0 +1,108 @@
+原文：Tasks
+筆者訳：タスク
+Google翻訳：タスク
+
+原文：Synced tasks and reminders
+筆者訳：タスクやリマインダーを同期できます
+Google翻訳：同期されたタスクとリマインダー
+
+原文：Designed and built to help manage all of your tasks and reminders. Create and complete tasks, manage lists and sync them across your machines using CalDAV.
+筆者訳：タスクとリマインダーを一元に管理できるようデザイン・開発されています。タスクを作成したり、完了済みとしてマークしたり、リストを管理したり、CalDAV を使用してデバイス間で同期したりできます。
+Google翻訳：すべてのタスクとリマインダーの管理に役立つように設計および構築されています。 CalDAVを使用して、タスクを作成して完了し、リストを管理して、マシン間で同期します。
+
+原文：Features:
+筆者訳：機能:
+Google翻訳：特徴：
+
+原文：Drag and drop tasks between lists
+筆者訳：リスト間でタスクをドラッグアンドドロップできる機能を追加
+Google翻訳：リスト間でタスクをドラッグアンドドロップします
+
+原文：Follow email and web links in the task description with Control + Click
+筆者訳：Ctrl + クリックでタスクの説明欄内のメールアドレスや Web リンクを開ける機能を追加
+Google翻訳：Control + Clickを使用して、タスクの説明にある電子メールとWebリンクをたどります
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Improved time zone handling
+筆者訳：タイムゾーンの処理を改善
+Google翻訳：タイムゾーン処理の改善
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Prevent account name headers from being displayed multiple times in the sidebar
+筆者訳：サイドバーにアカウント名が複数回ヘッダーとして表示されてしまう不具合を修正
+Google翻訳：アカウント名のヘッダーがサイドバーに複数回表示されないようにする
+
+原文：Long descriptions are truncated at the end instead of the beginning
+筆者訳：長い説明文の最初を省略するのではなく、最後を省略して表示するように修正
+Google翻訳：長い説明は、先頭ではなく末尾で切り捨てられます
+
+原文：Removing descriptions is now saved
+筆者訳：説明文を削除すると保存されるように修正
+Google翻訳：説明の削除が保存されるようになりました
+
+原文：Placing the cursor in descriptions works consistently
+筆者訳：タスクの説明欄をクリックした位置にカーソルが配置されるように修正
+Google翻訳：説明にカーソルを置くと、一貫して機能します
+
+原文：Replace the Delete shortcut key with Ctrl + Backspace
+筆者訳：削除に使うショートカットキーを Delete から Ctrl + Backspace に変更
+Google翻訳：DeleteショートカットキーをCtrl + Backspaceに置き換えます
+
+原文：Add a confirmation dialog when deleting a task list
+筆者訳：タスクの削除時に確認ダイアログを表示するように修正
+Google翻訳：タスクリストを削除するときに確認ダイアログを追加する
+
+原文：Improve performance in lists with lots of completed tasks
+筆者訳：完了済みタスクが非常に多い環境におけるタスクリストのパフォーマンスを改善
+Google翻訳：完了したタスクが多いリストのパフォーマンスを向上させる
+
+原文：Fix crash on start with certain hardware
+筆者訳：特定のハードウェア上で起動時にクラッシュする不具合を修正
+Google翻訳：特定のハードウェアでの起動時のクラッシュを修正
+
+原文：Fix the order of the scheduled view
+筆者訳：スケジュールされたタスクの一覧の表示順序を修正
+Google翻訳：スケジュールされたビューの順序を修正する
+
+原文：First release!
+筆者訳：最初のリリースです！
+Google翻訳：最初のリリース！
+
+原文：Support the dark style
+筆者訳：ダークスタイルへの対応
+Google翻訳：ダークスタイルをサポート
+
+原文：Add and remove task lists with custom colors
+筆者訳：カスタムカラーを設定したタスクリストの追加と削除に対応
+Google翻訳：カスタムカラーのタスクリストを追加および削除します
+
+原文：See scheduled tasks from all lists at once
+筆者訳：すべてのタスクからスケジュールされたタスクを直感的に識別できるように表示
+Google翻訳：すべてのリストからスケジュールされたタスクを一度に表示
+
+原文：Set due dates
+筆者訳：期日を設定する機能を追加
+Google翻訳：期日を設定する
+
+原文：Create and track the progress of tasks
+筆者訳：タスクの作成と進捗管理をします
+Google翻訳：タスクの進行状況を作成および追跡する
+
+原文：Todo;Reminders;
+筆者訳：Todo;Reminders;リマインダー;
+Google翻訳：Todo;リマインダー;
+

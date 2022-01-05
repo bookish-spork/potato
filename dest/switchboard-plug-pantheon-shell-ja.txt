@@ -1,0 +1,371 @@
+原文：Desktop
+筆者訳：デスクトップ
+Google翻訳：デスクトップ
+
+原文：Configure the dock, hot corners, and change wallpaper
+筆者訳：ドック、ホットコーナーを設定し、壁紙を変更します
+Google翻訳：ドック、ホットコーナーを構成し、壁紙を変更します
+
+原文：Wallpaper
+筆者訳：壁紙
+Google翻訳：壁紙
+
+原文：Appearance
+筆者訳：外観
+Google翻訳：外観
+
+原文：Text
+筆者訳：テキスト
+Google翻訳：文章
+
+原文：Dock & Panel
+筆者訳：ドックとパネル
+Google翻訳：ドック＆パネル
+
+原文：Multitasking
+筆者訳：マルチタスク
+Google翻訳：マルチタスク
+
+原文：Hide Mode
+筆者訳：隠す方法
+Google翻訳：非表示モード
+
+原文：Icon Size
+筆者訳：アイコンサイズ
+Google翻訳：アイコンサイズ
+
+原文：Pressure reveal
+筆者訳：押し込んで表示
+Google翻訳：圧力が明らかに
+
+原文：Display
+筆者訳：ディスプレイ
+Google翻訳：画面
+
+原文：Panel translucency
+筆者訳：パネルを透過
+Google翻訳：パネルの半透明性
+
+原文：Dark style
+筆者訳：ダークスタイル
+Google翻訳：ダークスタイル
+
+原文：Accent color
+筆者訳：アクセントカラー
+Google翻訳：アクセントの色
+
+原文：Size
+筆者訳：サイズ
+Google翻訳：サイズ
+
+原文：Dyslexia-friendly
+筆者訳：ディスレクシア対応
+Google翻訳：失読症にやさしい
+
+原文：Hot Corners
+筆者訳：ホットコーナー
+Google翻訳：ホットコーナー
+
+原文：Move windows to a new workspace
+筆者訳：以下の場合にウィンドウを新しいワークスペースに移動
+Google翻訳：ウィンドウを新しいワークスペースに移動する
+
+原文：Window animations
+筆者訳：ウィンドウアニメーション
+Google翻訳：ウィンドウアニメーション
+
+原文：Set as _Desktop Background
+筆者訳：デスクトップの背景として設定(_D)
+Google翻訳：デスクトップの背景として設定
+
+原文：Set selected image to be the new desktop background
+筆者訳：選択された画像を新しいデスクトップの背景として設定します
+Google翻訳：選択した画像を新しいデスクトップの背景に設定します
+
+原文：Style:
+筆者訳：スタイル:
+Google翻訳：スタイル：
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+
+原文：Dark
+筆者訳：ダーク
+Google翻訳：闇
+
+原文：Preferred visual style for system components. Apps may also choose to follow this preference.
+筆者訳：システムコンポーネントで使用される視覚スタイルを選択します。一部のアプリもこの設定に従うことがあります。
+Google翻訳：システムコンポーネントに適した視覚スタイル。アプリは、この設定に従うことも選択できます。
+
+原文：Schedule:
+筆者訳：スケジュール:
+Google翻訳：スケジュール：
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+
+原文：Sunset to Sunrise
+筆者訳：日没から日の出まで
+Google翻訳：日没から日の出まで
+
+原文：Manual
+筆者訳：手動
+Google翻訳：マニュアル
+
+原文：From:
+筆者訳：開始:
+Google翻訳：から：
+
+原文：To:
+筆者訳：終了:
+Google翻訳：に：
+
+原文：Accent:
+筆者訳：アクセント:
+Google翻訳：アクセント：
+
+原文：Blueberry
+筆者訳：ブルーベリー
+Google翻訳：ブルーベリー
+
+原文：Mint
+筆者訳：ミント
+Google翻訳：ミント
+
+原文：Lime
+筆者訳：ライム
+Google翻訳：ライム
+
+原文：Banana
+筆者訳：バナナ
+Google翻訳：バナナ
+
+原文：Orange
+筆者訳：オレンジ
+Google翻訳：オレンジ
+
+原文：Strawberry
+筆者訳：ストロベリー
+Google翻訳：いちご
+
+原文：Bubblegum
+筆者訳：ピンク
+Google翻訳：バブルガム
+
+原文：Grape
+筆者訳：グレープ
+Google翻訳：葡萄
+
+原文：Cocoa
+筆者訳：ココア
+Google翻訳：ココア
+
+原文：Slate
+筆者訳：スレート
+Google翻訳：スレート
+
+原文：Automatic based on wallpaper
+筆者訳：壁紙に基づいて自動的に設定
+Google翻訳：壁紙に基づく自動
+
+原文：Used across the system by default. Apps can always use their own accent color.
+筆者訳：デフォルトでは、システム全体に適用されます。各アプリは、独自のアクセントカラーを使用できます。
+Google翻訳：デフォルトでシステム全体で使用されます。アプリは常に独自のアクセントカラーを使用できます。
+
+原文：Dock
+筆者訳：ドック
+Google翻訳：ドック
+
+原文：Small
+筆者訳：小
+Google翻訳：小さい
+
+原文：Large
+筆者訳：大
+Google翻訳：大きい
+
+原文：Focused window is maximized
+筆者訳：フォーカスされたウィンドウが最大化されたとき
+Google翻訳：フォーカスされたウィンドウが最大化されます
+
+原文：Focused window overlaps the dock
+筆者訳：フォーカスされたウィンドウが重なったとき
+Google翻訳：フォーカスされたウィンドウがドックと重なっています
+
+原文：Any window overlaps the dock
+筆者訳：いずれかのウィンドウが重なったとき
+Google翻訳：すべてのウィンドウがドックと重なっています
+
+原文：Not being used
+筆者訳：使われていないとき
+Google翻訳：使用されていません
+
+原文：Primary display:
+筆者訳：プライマリーディスプレイ:
+Google翻訳：プライマリディスプレイ：
+
+原文：Display:
+筆者訳：ディスプレイ:
+Google翻訳：画面：
+
+原文：Icon size:
+筆者訳：アイコンサイズ:
+Google翻訳：アイコンサイズ：
+
+原文：Hide when:
+筆者訳：隠す場合:
+Google翻訳：いつ非表示にする：
+
+原文：Pressure reveal:
+筆者訳：押し込んで表示:
+Google翻訳：圧力が明らかに：
+
+原文：Panel
+筆者訳：パネル
+Google翻訳：パネル
+
+原文：Panel translucency:
+筆者訳：パネルを透過:
+Google翻訳：パネルの半透明性：
+
+原文：Monitor %d
+筆者訳：モニター %d
+Google翻訳：％dを監視する
+
+原文：Display %d
+筆者訳：ディスプレイ %d
+Google翻訳：％dを表示
+
+原文：When the cursor enters the corner of the display:
+筆者訳：カーソルがディスプレイの隅に入ったときの動作:
+Google翻訳：カーソルがディスプレイの隅に入ると：
+
+原文：Custom command:
+筆者訳：カスタムコマンド:
+Google翻訳：カスタムコマンド：
+
+原文：Move windows to a new workspace:
+筆者訳：以下の場合にウィンドウを新しいワークスペースに移動:
+Google翻訳：ウィンドウを新しいワークスペースに移動します。
+
+原文：When entering fullscreen
+筆者訳：全画面表示にした場合
+Google翻訳：フルスクリーンに入るとき
+
+原文：When maximizing
+筆者訳：最大化した場合
+Google翻訳：最大化する場合
+
+原文：Window animations:
+筆者訳：ウィンドウアニメーション:
+Google翻訳：ウィンドウアニメーション：
+
+原文：Do nothing
+筆者訳：何もしない
+Google翻訳：何もしない
+
+原文：Multitasking View
+筆者訳：マルチタスク画面
+Google翻訳：マルチタスクビュー
+
+原文：Maximize current window
+筆者訳：現在のウィンドウを最大化
+Google翻訳：現在のウィンドウを最大化
+
+原文：Show Applications Menu
+筆者訳：アプリケーションメニューを表示
+Google翻訳：アプリケーションメニューを表示
+
+原文：Show all windows
+筆者訳：すべてのウィンドウを表示
+Google翻訳：すべてのウィンドウを表示
+
+原文：Switch to new workspace
+筆者訳：新しいワークスペースに切り替え
+Google翻訳：新しいワークスペースに切り替えます
+
+原文：Execute custom command
+筆者訳：カスタムコマンドを実行
+Google翻訳：カスタムコマンドを実行する
+
+原文：Size:
+筆者訳：サイズ:
+Google翻訳：サイズ：
+
+原文：Dyslexia-friendly:
+筆者訳：ディスレクシアに対応:
+Google翻訳：失読症にやさしい：
+
+原文：Bottom-heavy shapes and increased character spacing can help improve legibility and reading speed.
+筆者訳：下部が強調され、字間が確保された書体を使用することで、可読性と読む速度の改善に役立つ可能性があります。
+Google翻訳：下部が重い形状と文字間隔の拡大は、読みやすさと読み取り速度の向上に役立ちます。
+
+原文：Import Photo…
+筆者訳：写真をインポート…
+Google翻訳：写真をインポート…
+
+原文：Centered
+筆者訳：中央に表示
+Google翻訳：中央揃え
+
+原文：Zoom
+筆者訳：ズーム
+Google翻訳：ズーム
+
+原文：Spanned
+筆者訳：敷き詰め
+Google翻訳：スパン
+
+原文：Import Photo
+筆者訳：写真をインポート
+Google翻訳：写真をインポート
+
+原文：Import
+筆者訳：インポート
+Google翻訳：輸入
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Remove
+筆者訳：削除
+Google翻訳：削除する
+
+原文：Artist: %s
+筆者訳：アーティスト: %s
+Google翻訳：アーティスト：％s
+
+原文（単数形）：%d second
+原文（複数形）：%d seconds
+筆者訳：%d秒
+Google翻訳：％d秒
+
+原文（単数形）：%d minute
+原文（複数形）：%d minutes
+筆者訳：%d分
+Google翻訳：％d分
+
+原文（単数形）：%d hour
+原文（複数形）：%d hours
+筆者訳：%d時間
+Google翻訳：％d時間
+
+原文：1 day
+筆者訳：1 日
+Google翻訳：1日
+
+原文：Show each photo for
+筆者訳：それぞれの写真を表示する時間
+Google翻訳：の各写真を表示
+
+原文：Set As Desktop Slideshow
+筆者訳：デスクトップスライドショーとして設定
+Google翻訳：デスクトップスライドショーとして設定
+
+原文：Create Slideshow
+筆者訳：スライドショーを作成
+Google翻訳：スライドショーを作成する
+

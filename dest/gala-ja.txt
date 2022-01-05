@@ -1,0 +1,256 @@
+原文：Screenshots
+筆者訳：スクリーンショット
+Google翻訳：スクリーンショット
+
+原文：Screenshot taken
+筆者訳：スクリーンショットが取得されました
+Google翻訳：撮影したスクリーンショット
+
+原文：Keep new display settings?
+筆者訳：新しいディスプレイの設定を維持しますか？
+Google翻訳：新しい表示設定を保持しますか？
+
+原文：Changes will automatically revert after 30 seconds.
+筆者訳：変更は30秒後に自動的に元に戻ります。
+Google翻訳：変更は30秒後に自動的に元に戻ります。
+
+原文：Keep Settings
+筆者訳：設定を維持
+Google翻訳：設定を維持する
+
+原文：Use Previous Settings
+筆者訳：以前の設定を使う
+Google翻訳：以前の設定を使用
+
+原文：Screenshot from %s
+筆者訳：スクリーンショット %s
+Google翻訳：％sのスクリーンショット
+
+原文：Hide
+筆者訳：非表示
+Google翻訳：隠れる
+
+原文：Move
+筆者訳：移動
+Google翻訳：動く
+
+原文：Resize
+筆者訳：サイズの変更
+Google翻訳：サイズ変更
+
+原文：Always on Top
+筆者訳：最前面に維持
+Google翻訳：常にトップに
+
+原文：Always on Visible Workspace
+筆者訳：すべてのワークスペースに表示
+Google翻訳：常に表示されているワークスペース
+
+原文：Move to Workspace Left
+筆者訳：左のワークスペースへ移動
+Google翻訳：ワークスペース左に移動
+
+原文：Move to Workspace Right
+筆者訳：右のワークスペースへ移動
+Google翻訳：ワークスペースを右に移動
+
+原文：Take Screenshot
+筆者訳：スクリーンショットを撮る
+Google翻訳：スクリーンショットを撮ります
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：Untile
+筆者訳：タイル表示を解除
+Google翻訳：まで
+
+原文：Unmaximize
+筆者訳：元のサイズに戻す
+Google翻訳：最大化しない
+
+原文：Maximize
+筆者訳：最大化
+Google翻訳：最大化
+
+原文：Change Wallpaper…
+筆者訳：壁紙を変更…
+Google翻訳：壁紙を変更…
+
+原文：Display Settings…
+筆者訳：ディスプレイの設定…
+Google翻訳：ディスプレイの設定…
+
+原文：System Settings…
+筆者訳：システム設定…
+Google翻訳：システム設定…
+
+原文：Multitasking &amp; Window Management
+筆者訳：マルチタスクとウィンドウ管理
+Google翻訳：マルチタスク＆amp;ウィンドウ管理
+
+原文：A window &amp; compositing manager for Pantheon
+筆者訳：Pantheon 向けのコンポジット型ウィンドウマネージャー
+Google翻訳：窓とパンテオンの合成マネージャー
+
+原文：A window &amp; compositing manager based on libmutter and designed by elementary for use with Pantheon.
+筆者訳：libmutter をベースに elementary がデザインし、Pantheon での使用を想定した、コンポジット型ウィンドウマネージャーです。
+Google翻訳：窓とlibmutterに基づいており、Pantheonで使用するためにエレメンタリーによって設計されたコンポジットマネージャー。
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Use access portal for display settings confirmation dialog
+筆者訳：ディスプレイの設定確認ダイアログにアクセスポータルを使うように修正
+Google翻訳：表示設定確認ダイアログにアクセスポータルを使用
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Fix shadow clipping on server-side decorated windows
+筆者訳：サーバサイドデコレーションを使用するウィンドウの影が途切れていた不具合を修正
+Google翻訳：サーバー側の装飾されたウィンドウのシャドウクリッピングを修正
+
+原文：Support for high-resolution scroll events
+筆者訳：高精度のスクロールイベントへの対応
+Google翻訳：高解像度のスクロールイベントのサポート
+
+原文：Redesigned Alt + Tab switcher
+筆者訳：Alt + Tab スイッチャーのデザインを変更
+Google翻訳：再設計されたAlt +タブスイッチャー
+
+原文：Dim the parents of modal dialogs
+筆者訳：モーダルダイアログの親ウィンドウを薄暗くするように修正
+Google翻訳：モーダルダイアログの親を暗くする
+
+原文：Dialogs fall down on parents instead of shooting out
+筆者訳：ダイアログを親ウィンドウ上にフェードして表示するように修正
+Google翻訳：ダイアログは、撃ち抜くのではなく、親に落ちます
+
+原文：Fix a potential crash when taking screenshots
+筆者訳：スクリーンショットを撮る際に起こりうるクラッシュを修正
+Google翻訳：スクリーンショットを撮るときに発生する可能性のあるクラッシュを修正
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Stash the picture-in-picture window by pushing it off screen
+筆者訳：ピクチャーインピクチャーのウィンドウを画面端に隠せる機能を追加
+Google翻訳：ピクチャーインピクチャーウィンドウを画面から押し出して隠します
+
+原文：Fix a potential crash while changing wallpapers
+筆者訳：壁紙の変更時に起こりうるクラッシュを修正
+Google翻訳：壁紙の変更中に発生する可能性のあるクラッシュを修正
+
+原文：Include window decorations in screenshots for server-side decorated windows
+筆者訳：サーバサイドデコレーションを使用するウィンドウのスクリーンショットにデコレーション部分も取得されるように修正
+Google翻訳：サーバー側の装飾されたウィンドウのスクリーンショットにウィンドウの装飾を含める
+
+原文：Add multitouch gestures
+筆者訳：マルチタッチジェスチャーを追加
+Google翻訳：マルチタッチジェスチャを追加する
+
+原文：Show window titles in multitasking view
+筆者訳：マルチタスキング画面でウィンドウのタイトルを表示するように変更
+Google翻訳：マルチタスクビューでウィンドウタイトルを表示する
+
+原文：Close the Alt + Tab switcher by pressing Esc without releasing Alt
+筆者訳：Alt + Tab でのウィンドウの切り替え時に Alt キーを離さずに Esc キーを押すと、ウィンドウの切り替えを終了できるように変更
+Google翻訳：Altを離さずにEscキーを押して、Alt + Tabスイッチャーを閉じます。
+
+原文：Increase maximum zoom level and provide feedback when unable to zoom
+筆者訳：拡大レベルの上限を大きくし、拡大できない場合はユーザーに知らせるように変更
+Google翻訳：最大ズームレベルを上げ、ズームできないときにフィードバックを提供する
+
+原文：Show a context menu when secondary clicking the background
+筆者訳：壁紙の副クリック時にコンテキストメニューを表示するように変更
+Google翻訳：背景を2番目にクリックしたときにコンテキストメニューを表示する
+
+原文：New Dwell Click and Locate Pointer animations
+筆者訳：ホバークリック時とポインターの位置を強調する際に、アニメーション表示するように変更
+Google翻訳：新しいドウェルクリックアンドロケートポインタアニメーション
+
+原文：Add Take Screenshot to window context menu
+筆者訳：ウィンドウのコンテキストメニューに“スクリーンショットを撮る”を追加
+Google翻訳：ウィンドウのコンテキストメニューにスクリーンショットを追加
+
+原文：Always play shutter sound when taking screenshots
+筆者訳：スクリーンショットを取得する際、常にシャッター音が鳴るように変更
+Google翻訳：スクリーンショットを撮るときは常にシャッター音を鳴らしてください
+
+原文：Minor visual improvements
+筆者訳：軽微な視覚上の改善
+Google翻訳：マイナーな視覚的改善
+
+原文：HiDPI fixes
+筆者訳：HiDPI に関する修正
+Google翻訳：HiDPIの修正
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Fix “Always on Visible Workspace” windows disappearing when changing workspaces
+筆者訳：ワークスペースの切り替え時に、“すべてのワークスペースに表示” を有効にしたウィンドウが消滅する不具合を修正
+Google翻訳：ワークスペースを変更すると「常に表示されているワークスペース」ウィンドウが表示されなくなる問題を修正
+
+原文：Fix windows on non-primary displays disappearing when changing workspaces
+筆者訳：ワークスペースの切り替え時に、外部モニターに表示中のウィンドウが消滅する不具合を修正
+Google翻訳：ワークスペースを変更すると、プライマリ以外のディスプレイのウィンドウが消える問題を修正
+
+原文：Fix crash when changing workspaces while a transient window is opening
+筆者訳：一時的なウィンドウが開いている際にワークスペースを切り替えるとクラッシュする不具合を修正
+Google翻訳：一時的なウィンドウが開いているときにワークスペースを変更するとクラッシュする問題を修正
+
+原文：Don't show Gala Background Services in the dock
+筆者訳：ドックに Gala Background Services というアイコンが表示される不具合を修正
+Google翻訳：ドックにガラバックグラウンドサービスを表示しないでください
+
+原文：Fixes for media key handling
+筆者訳：メディアキーの処理に関する修正
+Google翻訳：メディアキー処理の修正
+
+原文：Show keyboard shortcuts in HeaderBar menus
+筆者訳：ヘッダーバーのメニューにキーボードショートカットを表示するように修正
+Google翻訳：HeaderBarメニューにキーボードショートカットを表示する
+
+原文：Improve window shadows for legacy apps
+筆者訳：レガシーなアプリのウィンドウの影を改善
+Google翻訳：レガシーアプリのウィンドウシャドウを改善する
+
+原文：Fix potential crash when taking screenshots
+筆者訳：スクリーンショットを撮る際に起こりうるクラッシュを修正
+Google翻訳：スクリーンショットを撮るときに発生する可能性のあるクラッシュを修正
+
+原文：Fix notification position after changing DPI
+筆者訳：DPI を変更すると通知が間違った位置に表示される不具合を修正
+Google翻訳：DPIを変更した後の通知位置を修正
+
+原文：Fix animations for moving and maximizing tiled windows
+筆者訳：タイル表示にしたウィンドウを移動したり最大化したりする際のアニメーションを修正
+Google翻訳：タイル型ウィンドウを移動して最大化するためのアニメーションを修正
+
+原文：Multitasking View
+筆者訳：マルチタスク画面
+Google翻訳：マルチタスクビュー
+
+原文：View all open windows and workspaces
+筆者訳：すべての開いているウィンドウとワークスペースを参照します
+Google翻訳：開いているすべてのウィンドウとワークスペースを表示する
+
+原文：Other
+筆者訳：そのほか
+Google翻訳：他の
+
+原文：Fallback desktop file for notifications from outdated applications.
+筆者訳：従来のアプリケーションからの通知用のフォールバックデスクトップファイルです。
+Google翻訳：古いアプリケーションからの通知用のフォールバックデスクトップファイル。
+

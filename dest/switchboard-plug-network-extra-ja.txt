@@ -1,0 +1,60 @@
+原文：Network Settings
+筆者訳：ネットワークの設定
+Google翻訳：ネットワーク設定
+
+原文：Manage network devices and connectivity
+筆者訳：ネットワークデバイスと接続を管理します
+Google翻訳：ネットワークデバイスと接続を管理する
+
+原文：Minor updates
+筆者訳：軽微なアップデート
+Google翻訳：マイナーアップデート
+
+原文：Fix a crash on startup for some devices
+筆者訳：一部のデバイスでプラグを開いた際にクラッシュする不具合を修正
+Google翻訳：一部のデバイスの起動時のクラッシュを修正
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Show message when Ethernet is unplugged
+筆者訳：イーサネットが切断された場合にメッセージを表示するように修正
+Google翻訳：イーサネットが接続されていないときにメッセージを表示する
+
+原文：Show DNS info
+筆者訳：DNS 情報を表示
+Google翻訳：DNS情報を表示する
+
+原文：Better status when wireless network is disabled
+筆者訳：無線ネットワークが無効の場合に、状態をより適切に表示するように変更
+Google翻訳：ワイヤレスネットワークが無効になっているときのステータスが向上
+
+原文：Improvements
+筆者訳：改善点
+Google翻訳：改善
+
+原文：Better support for various network encryption types
+筆者訳：各種ネットワーク暗号化への対応を強化
+Google翻訳：さまざまなネットワーク暗号化タイプのサポートが向上
+
+原文：More accurately report encryption type
+筆者訳：暗号化の種類をより正確に表示するように修正
+Google翻訳：暗号化タイプをより正確に報告する
+
+原文：Redesigned Wireless page
+筆者訳：無線ページのデザインを変更
+Google翻訳：再設計されたワイヤレスページ
+
+原文：Redesigned Hotspot and VPN pages
+筆者訳：ホットスポットと VPN ページのデザインを変更
+Google翻訳：再設計されたホットスポットとVPNページ
+
+原文：Fix subnet mask calculation
+筆者訳：サブネットマスクの計算の不具合を修正
+Google翻訳：サブネットマスクの計算を修正
+
+原文：Show an error dialog if we fail to disconnect from a network
+筆者訳：ネットワークから切断できなかった場合にエラーダイアログを表示するように修正
+Google翻訳：ネットワークからの切断に失敗した場合にエラーダイアログを表示する
+

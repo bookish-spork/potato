@@ -1,0 +1,156 @@
+原文：Photo Viewer
+筆者訳：フォトビューアー
+Google翻訳：フォトビューアー
+
+原文：Photos
+筆者訳：フォト
+Google翻訳：写真
+
+原文：Organize your photos
+筆者訳：写真を整理します
+Google翻訳：写真を整理する
+
+原文：Photo Manager
+筆者訳：フォトマネージャー
+Google翻訳：フォトマネージャー
+
+原文：album;cameras;crop;edit;enhance;export;gallery;images;import;organize;photographs;photos;pictures;photography;print;publish;rotate;share;tags;video;
+筆者訳：album;cameras;crop;edit;enhance;export;gallery;images;import;organize;photographs;photos;pictures;photography;print;publish;rotate;share;tags;video;アルバム;カメラ;切り抜き;編集;補正;エクスポート;ギャラリー;画像;インポート;オーガナイズ;写真;フォト;ピクチャー;写真撮影;印刷;公開;回転;共有;タグ;動画;
+Google翻訳：アルバム;カメラ;作物;編集;強化;エクスポート;ギャラリー;画像;インポート;整理;写真;写真;写真;写真;印刷;公開;回転;共有;タグ;ビデオ;
+
+原文：Photos is an easy-to-use, fast photo organizer. It allows you to import photos from your camera or disk, organize them by date and subject matter, even ratings. It also offers basic photo editing, like crop, red-eye correction, color adjustments, and straighten. Photos' non-destructive photo editor does not alter your master photos, making it easy to experiment and correct errors.
+筆者訳：“フォト”は使い勝手のいい高速なフォトオーガナイザーです。カメラやディスクから写真を取り入れ、日付や件名、さらには評価によってそれらを整理することを可能にします。さらに、トリミングや赤目補正、色調整および補正といった、基本的な写真編集機能を提供します。"フォト" の非破壊的なフォトエディターはあなたの写真をベストショットをいじらずして、実験やエラー修正を簡単に行います。
+Google翻訳：写真は、使いやすく、高速な写真オーガナイザーです。カメラやディスクから写真をインポートし、日付や主題、さらには評価で整理することができます。また、トリミング、赤目補正、色調整、矯正などの基本的な写真編集も提供します。写真の非破壊写真エディタはマスター写真を変更しないため、実験やエラーの修正が簡単にできます。
+
+原文：Photos supports JPEG, PNG, TIFF, and a variety of RAW file formats.
+筆者訳：JPEG・PNG・TIFF・各種 RAW ファイル形式がサポートされています。
+Google翻訳：写真は、JPEG、PNG、TIFF、およびさまざまなRAWファイル形式をサポートしています。
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Focus photos on startup when previewing to fix navigating with left and right arrow keys
+筆者訳：フォトビューアーの起動時に写真にフォーカスするように変更し、左右キーで画像を変更できなかった不具合を修正
+Google翻訳：プレビュー時に起動時に写真に焦点を合わせて、左右の矢印キーでのナビゲーションを修正します
+
+原文：Fix a possible crash with invalid date and time info
+筆者訳：撮影日時の情報が間違っているとクラッシュすることがある不具合を修正
+Google翻訳：無効な日付と時刻の情報で発生する可能性のあるクラッシュを修正
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Move Toggle Sidebar and Toggle Photo Info actions to the main menubutton
+筆者訳：“サイドバーの表示／非表示”と“画像情報の表示／非表示”アクションをメインのメニューボタンに移動
+Google翻訳：ToggleSidebarおよびTogglePhotoInfoアクションをメインメニューボタンに移動します
+
+原文：Translation updates
+筆者訳：翻訳の更新
+Google翻訳：翻訳の更新
+
+原文：Draw selection rectangle when dragging to select
+筆者訳：ドラッグして写真を選択した際に、選択箇所を長方形で描画するように修正
+Google翻訳：ドラッグして選択するときに選択長方形を描画します
+
+原文：Show image titles in preview mode
+筆者訳：画像ビューアーでも画像のタイトルを表示するように修正
+Google翻訳：プレビューモードで画像のタイトルを表示する
+
+原文：Fix keyboard activation in tool windows
+筆者訳：ツールウィンドウでキーボードが有効にならない不具合を修正
+Google翻訳：ツールウィンドウでのキーボードアクティベーションを修正
+
+原文：Show saved state correctly in the context-menu
+筆者訳：コンテキストメニューに表示されるアプリの保存状態が間違っている不具合を修正
+Google翻訳：保存された状態をコンテキストメニューに正しく表示する
+
+原文：Add Open In menu to the photo viewer
+筆者訳：フォトビューアーに “指定した方法で開く” メニューを追加
+Google翻訳：フォトビューアに[開く]メニューを追加する
+
+原文：Add checkerboard behind semi-transparent photos in grid view
+筆者訳：グリッドビューで半透明な画像の背景にチェック柄を追加
+Google翻訳：グリッドビューで半透明の写真の後ろにチェッカーボードを追加します
+
+原文：Fix pasting in comment box
+筆者訳：コメント欄への貼り付けの際の不具合を修正
+Google翻訳：コメントボックスへの貼り付けを修正
+
+原文：Make sure we show the right apps in the Open In menu
+筆者訳：“指定した方法で開く” メニューに正しいアプリを表示するように修正
+Google翻訳：[開く]メニューに適切なアプリが表示されていることを確認してください
+
+原文：Redesign a large number of dialogs
+筆者訳：各ダイアログのデザインを変更
+Google翻訳：多数のダイアログを再設計する
+
+原文：Fix building against latest gexiv2
+筆者訳：最新の gexiv2 を使用した際のビルドの修正
+Google翻訳：最新のgexiv2に対するビルドを修正
+
+原文：Use Granite.MessageDialog throughout
+筆者訳：一貫的な Granite.MessageDialog の利用
+Google翻訳：Granite.MessageDialogを全体で使用する
+
+原文：Use Gtk.FileChooserNative throughout
+筆者訳：一貫的な Gtk.FileChooserNative の利用
+Google翻訳：全体でGtk.FileChooserNativeを使用する
+
+原文：Minor bug fixes
+筆者訳：軽微なバグの修正
+Google翻訳：マイナーなバグ修正
+
+原文：Fix plugin windows not expanding
+筆者訳：プラグインウィンドウが拡大されない不具合を修正
+Google翻訳：プラグインウィンドウが拡張しない問題を修正
+
+原文：Search box no longer loses focus after character input
+筆者訳：文字入力後に検索ボックスがフォーカスを失う不具合を修正
+Google翻訳：文字入力後に検索ボックスがフォーカスを失うことはなくなりました
+
+原文：Colorized tint and temperature scales
+筆者訳：彩度と色温度のスケールのカラー表示
+Google翻訳：色付きの色合いと温度の尺度
+
+原文：Add zoom to fit page button
+筆者訳：“ズームしてページに合わせる”ボタンを追加
+Google翻訳：ページボタンに合わせてズームを追加
+
+原文：Various UI fixes and improvements
+筆者訳：UI に関する各種の修正と改善
+Google翻訳：さまざまなUIの修正と改善
+
+原文：Prefer dark theme
+筆者訳：ダークテーマの使用
+Google翻訳：ダークテーマを好む
+
+原文：WebP format support
+筆者訳：WebP 形式への対応
+Google翻訳：WebP形式のサポート
+
+原文：Improved HiDPI support
+筆者訳：HiDPI への対応を改善
+Google翻訳：改善されたHiDPIサポート
+
+原文：Preserve metadata when opening photo directly from the filesystem
+筆者訳：ファイルシステムから画像を直接写真を開くときにメタデータを保持
+Google翻訳：ファイルシステムから直接写真を開くときにメタデータを保持する
+
+原文：Fix navigation to next photo with left/right arrow keys on keyboard
+筆者訳：キーボードの左右矢印キーを使用した次の写真へのナビゲーションを修正
+Google翻訳：キーボードの左/右矢印キーで次の写真へのナビゲーションを修正
+
+原文：Left bracket key rotates counterclockwise now
+筆者訳：左のブラケットキーが反時計回りに回転するように
+Google翻訳：左角かっこキーが反時計回りに回転します
+
+原文：Moved search into the headerbar and fixed a bug that prevents typing into the searchbox
+筆者訳：ヘッダーバーに検索が移動し、検索ボックスへの入力ができないバグを修正
+Google翻訳：検索をヘッダーバーに移動し、検索ボックスに入力できないバグを修正しました
+
+原文：Removed star and rejected ratings
+筆者訳：スターを削除し、評価を拒否
+Google翻訳：星を削除し、評価を拒否しました
+

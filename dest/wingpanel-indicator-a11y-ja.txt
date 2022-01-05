@@ -1,0 +1,40 @@
+原文：Screen Reader
+筆者訳：スクリーンリーダー
+Google翻訳：スクリーンリーダー
+
+原文：Onscreen Keyboard
+筆者訳：オンスクリーンキーボード
+Google翻訳：オンスクリーンキーボード
+
+原文：Decrease text size
+筆者訳：テキストサイズを縮小
+Google翻訳：テキストサイズを小さくする
+
+原文：Default text size
+筆者訳：デフォルトのテキストサイズ
+Google翻訳：デフォルトのテキストサイズ
+
+原文：Increase text size
+筆者訳：テキストサイズを拡大
+Google翻訳：テキストサイズを大きくする
+
+原文：Slow Keys
+筆者訳：スローキー
+Google翻訳：遅いキー
+
+原文：Bounce Keys
+筆者訳：バウンスキー
+Google翻訳：バウンスキー
+
+原文：Sticky Keys
+筆者訳：固定キー
+Google翻訳：スティッキーキー
+
+原文：Dwell Click
+筆者訳：ホバークリック
+Google翻訳：ドウェルクリック
+
+原文：Universal Access Settings…
+筆者訳：ユニバーサルアクセスの設定…
+Google翻訳：ユニバーサルアクセス設定…
+

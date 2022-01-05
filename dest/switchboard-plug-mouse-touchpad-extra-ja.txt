@@ -1,0 +1,68 @@
+原文：Mouse &amp; Touchpad Settings
+筆者訳：マウスとタッチパッドの設定
+Google翻訳：マウス＆amp;タッチパッドの設定
+
+原文：Configure mouse and touchpad
+筆者訳：マウスとタッチパッドを設定します
+Google翻訳：マウスとタッチパッドを構成する
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：New toggle for “Double-tap and move to drag”
+筆者訳：“ダブルタップして指を動かすとドラッグ操作として扱う”スイッチを追加
+Google翻訳：「ダブルタップしてドラッグに移動」の新しいトグル
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Multitouch gesture options
+筆者訳：マルチタッチジェスチャーのオプションを追加
+Google翻訳：マルチタッチジェスチャーオプション
+
+原文：Add more snap points to pointer speed sliders
+筆者訳：ポインターの速度を調節するスライダーにスナップポイントをさらに追加
+Google翻訳：ポインター速度スライダーにスナップポイントを追加します
+
+原文：Redesigned touchpad settings
+筆者訳：タッチパッドの設定のデザインを変更
+Google翻訳：再設計されたタッチパッド設定
+
+原文：Fix stretched switches when using large text
+筆者訳：フォントサイズが大きい場合にスイッチが平たくつぶれて表示される不具合を修正
+Google翻訳：大きなテキストを使用する場合のストレッチスイッチの修正
+
+原文：Add Dwell Click and Pointer size settings
+筆者訳：ホバークリックとポインターサイズの設定を追加
+Google翻訳：ドウェルクリックとポインタサイズの設定を追加する
+
+原文：Other updates:
+筆者訳：そのほかのアップデート:
+Google翻訳：その他の更新：
+
+原文：Also listen to secondary button clicks when selecting Primary Button
+筆者訳：主ボタンの選択をする際に副ボタンでのクリックも検知するように修正
+Google翻訳：プライマリボタンを選択するときにもセカンダリボタンのクリックを聞く
+
+原文：Fix an issue where primary button selection doesn't apply in left-to-right languages
+筆者訳：左横書き言語の環境において主ボタンの選択が適用されない不具合を修正
+Google翻訳：プライマリボタンの選択が左から右の言語に適用されない問題を修正します
+
+原文：New Sidebar navigation
+筆者訳：新しいサイドバーのナビゲーション
+Google翻訳：新しいサイドバーナビゲーション
+
+原文：Fix middle click not appearing
+筆者訳：中クリックの設定が表示されない不具合を修正
+Google翻訳：ミドルクリックが表示されない問題を修正
+
+原文：Add Double-Click speed
+筆者訳：ダブルクリックの速度の設定を追加
+Google翻訳：ダブルクリック速度を追加
+

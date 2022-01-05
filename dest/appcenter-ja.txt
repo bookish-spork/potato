@@ -1,0 +1,872 @@
+原文：Could not parse the media type %s
+筆者訳：メディアタイプ %s を解析できませんでした
+Google翻訳：メディアタイプ％sを解析できませんでした
+
+原文：Specified link '%s' could not be found, searching instead
+筆者訳：指定されたリンク '%s' が見つからなかったので、代わりに検索しています
+Google翻訳：指定されたリンク '％s'が見つかりませんでした。代わりに検索します
+
+原文：The app has been installed
+筆者訳：アプリをインストールしました
+Google翻訳：アプリがインストールされました
+
+原文：“%s” has been installed
+筆者訳：“%s” をインストールしました
+Google翻訳：「％s」がインストールされました
+
+原文：Failed to launch “%s“
+筆者訳：“%s” を起動できませんでした
+Google翻訳：「％s」の起動に失敗しました
+
+原文：Home
+筆者訳：ホーム
+Google翻訳：家
+
+原文：Installed
+筆者訳：インストール済み
+Google翻訳：インストール済み
+
+原文：Search Apps
+筆者訳：アプリを検索
+Google翻訳：アプリを検索
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：Starting
+筆者訳：開始しています
+Google翻訳：起動
+
+原文：Waiting
+筆者訳：待機しています
+Google翻訳：待っている
+
+原文：Running
+筆者訳：実行しています
+Google翻訳：ランニング
+
+原文：Querying
+筆者訳：検索しています
+Google翻訳：クエリ
+
+原文：Getting information
+筆者訳：情報を入手しています
+Google翻訳：情報を教えてもらう
+
+原文：Removing packages
+筆者訳：パッケージを削除しています
+Google翻訳：パッケージの削除
+
+原文：Downloading
+筆者訳：ダウンロードしています
+Google翻訳：ダウンロード
+
+原文：Installing
+筆者訳：インストールしています
+Google翻訳：インストール
+
+原文：Refreshing software list
+筆者訳：ソフトウェアリストを更新しています
+Google翻訳：ソフトウェアリストを更新する
+
+原文：Installing updates
+筆者訳：アップデートをインストールしています
+Google翻訳：アップデートのインストール
+
+原文：Cleaning up packages
+筆者訳：パッケージをクリーンアップしています
+Google翻訳：パッケージのクリーンアップ
+
+原文：Obsoleting packages
+筆者訳：古いパッケージを取り除いています
+Google翻訳：廃止されたパッケージ
+
+原文：Resolving dependencies
+筆者訳：依存関係を解決しています
+Google翻訳：依存関係の解決
+
+原文：Checking signatures
+筆者訳：署名を確認しています
+Google翻訳：署名の確認
+
+原文：Testing changes
+筆者訳：変更を確認しています
+Google翻訳：変更のテスト
+
+原文：Committing changes
+筆者訳：変更を適用しています
+Google翻訳：変更のコミット
+
+原文：Requesting data
+筆者訳：データを要求しています
+Google翻訳：データのリクエスト
+
+原文：Finished
+筆者訳：完了しました
+Google翻訳：終了した
+
+原文：Cancelling
+筆者訳：キャンセルしています
+Google翻訳：キャンセル
+
+原文：Downloading repository information
+筆者訳：リポジトリの情報をダウンロードしています
+Google翻訳：リポジトリ情報のダウンロード
+
+原文：Downloading list of packages
+筆者訳：パッケージリストをダウンロードしています
+Google翻訳：パッケージのリストをダウンロードしています
+
+原文：Downloading file lists
+筆者訳：ファイルリストをダウンロードしています
+Google翻訳：ファイルリストのダウンロード
+
+原文：Downloading lists of changes
+筆者訳：変更リストをダウンロードしています
+Google翻訳：変更リストのダウンロード
+
+原文：Downloading groups
+筆者訳：グループをダウンロードしています
+Google翻訳：グループのダウンロード
+
+原文：Downloading update information
+筆者訳：アップデート情報をダウンロードしています
+Google翻訳：更新情報のダウンロード
+
+原文：Repackaging files
+筆者訳：ファイルを再パッケージしています
+Google翻訳：ファイルの再パッケージ化
+
+原文：Loading cache
+筆者訳：キャッシュを読み込んでいます
+Google翻訳：キャッシュを読み込んでいます
+
+原文：Scanning applications
+筆者訳：アプリケーションを検索しています
+Google翻訳：スキャンアプリケーション
+
+原文：Generating package lists
+筆者訳：パッケージリストを生成しています
+Google翻訳：パッケージリストの生成
+
+原文：Waiting for package manager lock
+筆者訳：パッケージマネージャーのロックを待機しています
+Google翻訳：パッケージマネージャーのロックを待っています
+
+原文：Waiting for authentication
+筆者訳：認証を待機しています
+Google翻訳：認証を待っています
+
+原文：Updating running applications
+筆者訳：実行中のアプリケーションをアップデートしています
+Google翻訳：実行中のアプリケーションの更新
+
+原文：Checking applications in use
+筆者訳：使用中のアプリケーションを確認しています
+Google翻訳：使用中のアプリケーションを確認する
+
+原文：Checking libraries in use
+筆者訳：使用中のライブラリを確認しています
+Google翻訳：使用中のライブラリを確認しています
+
+原文：Copying files
+筆者訳：ファイルをコピーしています
+Google翻訳：ファイルのコピー
+
+原文：Unknown state
+筆者訳：不明な状態
+Google翻訳：状態不明
+
+原文：package operations are being performed
+筆者訳：パッケージ操作が進行中です
+Google翻訳：パッケージ操作が実行されています
+
+原文（単数形）：Update Available
+原文（複数形）：Updates Available
+筆者訳：アップデートが利用可能です
+Google翻訳：利用可能なアップデート
+
+原文（単数形）：%u update is available for your system
+原文（複数形）：%u updates are available for your system
+筆者訳：システムに%u件のアップデートが利用可能です
+Google翻訳：％uアップデートがシステムで利用可能です
+
+原文：Uninstalling
+筆者訳：アンインストールしています
+Google翻訳：アンインストール
+
+原文：Updating
+筆者訳：アップデートしています
+Google翻訳：更新
+
+原文：%s Developers
+筆者訳：%s の開発者
+Google翻訳：％s開発者
+
+原文：elementary Updates
+筆者訳：elementary のアップデート
+Google翻訳：初歩的なアップデート
+
+原文：Ubuntu (non-curated)
+筆者訳：Ubuntu (キュレーションされていないアプリ)
+Google翻訳：Ubuntu（キュレーションされていない）
+
+原文：%s (system-wide)
+筆者訳：%s (システム全体で利用可能)
+Google翻訳：％s（システム全体）
+
+原文：Ubuntu Drivers
+筆者訳：Ubuntu ドライバー
+Google翻訳：Ubuntuドライバー
+
+原文：Unknown Origin (non-curated)
+筆者訳：提供元不明 (キュレーションされていないアプリ)
+Google翻訳：出所不明（キュレーションなし）
+
+原文：Application state not set as installed in AppCenter for package: %s
+筆者訳：以下のパッケージのアプリケーションは AppCenter でインストール済みの状態になっていません: %s
+Google翻訳：パッケージのAppCenterにインストールされているように設定されていないアプリケーションの状態：％s
+
+原文：%s (local)
+筆者訳：%s (ローカル)
+Google翻訳：％s（ローカル）
+
+原文：Operating System Updates
+筆者訳：オペレーティングシステムのアップデート
+Google翻訳：オペレーティングシステムの更新
+
+原文：Updates to system components
+筆者訳：システムコンポーネントのアップデート
+Google翻訳：システムコンポーネントの更新
+
+原文：Version: %s
+筆者訳：バージョン: %s
+Google翻訳：バージョン：％s
+
+原文：Flatpak runtime
+筆者訳：Flatpak ランタイム
+Google翻訳：Flatpakランタイム
+
+原文：No components with updates
+筆者訳：アップデートのあるコンポーネントはありません
+Google翻訳：更新されたコンポーネントはありません
+
+原文（単数形）：%u component with updates
+原文（複数形）：%u components with updates
+筆者訳：アップデートのあるコンポーネントが%u項目あります
+Google翻訳：更新された％uコンポーネント
+
+原文：Restart Required
+筆者訳：再起動が必要です
+Google翻訳：再起動が必要
+
+原文：Please restart your system to finalize updates
+筆者訳：アップデートを完了するには再起動してください
+Google翻訳：システムを再起動して更新を完了してください
+
+原文：This may be a temporary issue or could have been caused by external or manually compiled software.
+筆者訳：これは一時的な不具合か、外部のソフトウェアやコンパイルしてインストールされたソフトウェアによって発生した不具合の可能性があります。
+Google翻訳：これは一時的な問題であるか、外部または手動でコンパイルされたソフトウェアが原因である可能性があります。
+
+原文：Failed to install app
+筆者訳：アプリをインストールできませんでした
+Google翻訳：アプリのインストールに失敗しました
+
+原文：Failed to install “%s”
+筆者訳：“%s” をインストールできませんでした
+Google翻訳：「％s」のインストールに失敗しました
+
+原文：Non-Curated Warning
+筆者訳：キュレーションに関する警告
+Google翻訳：キュレーションされていない警告
+
+原文：Install non-curated app?
+筆者訳：キュレーションされていないアプリをインストールしますか？
+Google翻訳：キュレーションされていないアプリをインストールしますか？
+
+原文：“%s” is not curated by elementary and has not been reviewed for security, privacy, or system integration.
+筆者訳：elementary は “%s” をキュレーションしておらず、セキュリティー・プライバシー・システム統合に関する安全性は審査されていません。
+Google翻訳：「％s」はエレメンタリーによってキュレーションされておらず、セキュリティ、プライバシー、またはシステム統合についてレビューされていません。
+
+原文：It may not receive bug fix or feature updates
+筆者訳：バグ修正や機能アップデートを受けられない可能性があります
+Google翻訳：バグ修正や機能更新を受け取らない場合があります
+
+原文：It may access or change system or personal files without permission
+筆者訳：許可なくシステムや個人ファイルへアクセス・改変する可能性があります
+Google翻訳：システムまたは個人のファイルに許可なくアクセスまたは変更する可能性があります
+
+原文：Show non-curated warnings
+筆者訳：キュレーションに関する警告を表示
+Google翻訳：キュレーションされていない警告を表示する
+
+原文：Don’t Install
+筆者訳：インストールしない
+Google翻訳：インストールしないでください
+
+原文：Install Anyway
+筆者訳：了解してインストール
+Google翻訳：とにかくインストール
+
+原文：An error occurred while processing the card. Please try again later. We apologize for any inconvenience caused.
+筆者訳：カードの処理中にエラーが発生しました。後ほどもう一度お試しください。ご迷惑おかけして申し訳ありません。
+Google翻訳：カードの処理中にエラーが発生しました。後でもう一度やり直してください。ご不便をおかけして申し訳ございません。
+
+原文：Please review your payment info and try again.
+筆者訳：支払い情報を見直して、もう一度お試しください。
+Google翻訳：お支払い情報を確認して、もう一度お試しください。
+
+原文：Payment
+筆者訳：支払い
+Google翻訳：支払い
+
+原文：Pay $%d for %s
+筆者訳：%dドルを %s に払う
+Google翻訳：％sに$％dを支払う
+
+原文：This is a one time payment suggested by the developer. You can also choose your own price.
+筆者訳：開発者の提案した価格を一括で支払います。ご自身で価格を決めることもできます。
+Google翻訳：これは、開発者によって提案された1回限りの支払いです。自分で価格を選ぶこともできます。
+
+原文：or
+筆者訳：または
+Google翻訳：また
+
+原文：Email
+筆者訳：メール
+Google翻訳：Eメール
+
+原文：Only used to send you a receipt. You will not be subscribed to any mailing list.
+筆者訳：領収書を送信するためだけに使用されます。メーリングリストには一切追加されません。
+Google翻訳：領収書の送信にのみ使用されます。メーリングリストには登録されません。
+
+原文：Privacy Policy
+筆者訳：プライバシーポリシー
+Google翻訳：プライバシーポリシー
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Pay $%d.00
+筆者訳：%d.00ドル払う
+Google翻訳：$％d.00を支払う
+
+原文：Processing
+筆者訳：処理しています
+Google翻訳：処理
+
+原文：There Was a Problem Processing Your Payment
+筆者訳：支払いの処理中に不具合が発生しました
+Google翻訳：お支払いの処理に問題がありました
+
+原文：Pay Later
+筆者訳：後で支払う
+Google翻訳：後払い
+
+原文：Retry
+筆者訳：もう一度試す
+Google翻訳：リトライ
+
+原文：The card number is incorrect. Please try again using the correct card number.
+筆者訳：カード番号が違います。正しいカード番号を使用して、もう一度お試しください。
+Google翻訳：カード番号が間違っています。正しいカード番号を使用して再試行してください。
+
+原文：The expiration month is invalid. Please try again using the correct expiration date.
+筆者訳：有効期限の月が不適切です。正しい有効期限を使用して、もう一度お試しください。
+Google翻訳：有効期限の月が無効です。正しい有効期限を使用して再試行してください。
+
+原文：The expiration year is invalid. Please try again using the correct expiration date.
+筆者訳：有効期限の年が不適切です。正しい有効期限を使用して、もう一度お試しください。
+Google翻訳：有効期限は無効です。正しい有効期限を使用して再試行してください。
+
+原文：The CVC number is incorrect. Please try again using the correct CVC.
+筆者訳：CVC 番号が違います。正しい CVC 番号を使用して、もう一度お試しください。
+Google翻訳：CVC番号が正しくありません。正しいCVCを使用して再試行してください。
+
+原文：The card has expired. Please try again with a different card.
+筆者訳：カードが期限切れです。別のカードを使用して、もう一度お試しください。
+Google翻訳：カードの有効期限が切れています。別のカードでもう一度お試しください。
+
+原文：There are too many payment requests at the moment, please retry later.
+筆者訳：ただいま基準以上の支払い要求があります。後ほどお試しください。
+Google翻訳：現在、支払いリクエストが多すぎます。しばらくしてからもう一度お試しください。
+
+原文：This card does not support this kind of transaction. Please try again with a different card.
+筆者訳：このカードはこの種類の取引をサポートしません。別のカードを使用して、もう一度お試しください。
+Google翻訳：このカードはこの種の取引をサポートしていません。別のカードでもう一度お試しください。
+
+原文：The currency is not supported by this card. Please try again with a different card.
+筆者訳：この種類の取引においてこの通貨はサポートされていません。別のカードを使用して、もう一度お試しください。
+Google翻訳：通貨はこのカードではサポートされていません。別のカードでもう一度お試しください。
+
+原文：The transaction has already been processed.
+筆者訳：支払いはすでに行われました。
+Google翻訳：トランザクションはすでに処理されています。
+
+原文：The ZIP/Postal code is incorrect. Please try again using the correct ZIP/postal code.
+筆者訳：郵便番号が違います。正しい郵便番号を使用して、もう一度お試しください。
+Google翻訳：郵便番号が正しくありません。正しい郵便番号を使用して再試行してください。
+
+原文：You don't have enough funds. Please use an alternative payment method.
+筆者訳：残高が十分ではありません。代替の決済方法を使用してください。
+Google翻訳：十分な資金がありません。別のお支払い方法をご利用ください。
+
+原文：The amount is incorrect. Please try again using a valid amount.
+筆者訳：金額が違います。妥当な金額を使用して、もう一度お試しください。
+Google翻訳：金額が正しくありません。有効な金額を使用して再試行してください。
+
+原文：The PIN number is incorrect. Please try again using the correct PIN.
+筆者訳：PIN 番号が違います。正しい PIN を使用して、もう一度お試しください。
+Google翻訳：PIN番号が正しくありません。正しいPINを使用して再試行してください。
+
+原文：There has been too many PIN attempts. Please try again with a different card.
+筆者訳：過度の PIN の試行がありました。別のカードを使用して、もう一度お試しください。
+Google翻訳：PINの試行回数が多すぎます。別のカードでもう一度お試しください。
+
+原文：Unable to complete the transaction. Please contact your bank for further information.
+筆者訳：処理を完了できませんでした。詳細を知るには銀行へ連絡してください。
+Google翻訳：トランザクションを完了できません。詳細については、銀行にお問い合わせください。
+
+原文：The balance or credit limit on the card has been reached.
+筆者訳：カードの残高か与信限度額に達しました。
+Google翻訳：カードの残高またはクレジットの制限に達しました。
+
+原文：The given card is a test card. Please use a real card to proceed.
+筆者訳：指定されたカードはテスト用です。続行するには本物のカードを使用してください。
+Google翻訳：与えられたカードはテストカードです。続行するには、実際のカードを使用してください。
+
+原文：Uninstalling this app may also delete its data.
+筆者訳：このアプリをアンインストールすると、関連するデータも削除される可能性があります。
+Google翻訳：このアプリをアンインストールすると、データも削除される可能性があります。
+
+原文：Uninstall app?
+筆者訳：アプリをアンインストールしますか？
+Google翻訳：アプリをアンインストールしますか？
+
+原文：Uninstall “%s”?
+筆者訳：“%s” をアンインストールしますか？
+Google翻訳：「％s」をアンインストールしますか？
+
+原文：Uninstall
+筆者訳：アンインストール
+Google翻訳：アンインストール
+
+原文：This may have been caused by external or manually compiled software.
+筆者訳：これは外部のソフトウェアか、コンパイルしてインストールされたソフトウェアによって発生した可能性があります。
+Google翻訳：これは、外部または手動でコンパイルされたソフトウェアが原因である可能性があります。
+
+原文：Failed to uninstall app
+筆者訳：アプリをアンインストールできませんでした
+Google翻訳：アプリのアンインストールに失敗しました
+
+原文：Failed to uninstall “%s”
+筆者訳：“%s” をアンインストールできませんでした
+Google翻訳：「％s」のアンインストールに失敗しました
+
+原文：Failed to Fetch Updates
+筆者訳：アップデートを取得できませんでした
+Google翻訳：更新の取得に失敗しました
+
+原文：This may have been caused by external, manually added software repositories or a corrupted sources file.
+筆者訳：これは外部の手動で追加されたソフトウェアリポジトリか、壊れたソースファイルにより発生した可能性があります。
+Google翻訳：これは、外部の手動で追加されたソフトウェアリポジトリまたは破損したソースファイルが原因である可能性があります。
+
+原文：Ignore
+筆者訳：無視
+Google翻訳：無視
+
+原文：Try Again
+筆者訳：再試行
+Google翻訳：再試行する
+
+原文：Failed to update app
+筆者訳：アプリをアップデートできませんでした
+Google翻訳：アプリの更新に失敗しました
+
+原文：Failed to update “%s”
+筆者訳：“%s” をアップデートできませんでした
+Google翻訳：「％s」の更新に失敗しました
+
+原文：Illicit Substances
+筆者訳：危険な薬物
+Google翻訳：違法な物質
+
+原文：Presence of or references to alcohol, narcotics, or tobacco
+筆者訳：アルコールや薬物、たばこが表示されたり、テキストに含まれたりします
+Google翻訳：アルコール、麻薬、またはタバコの存在または言及
+
+原文：Sex & Nudity
+筆者訳：性的描写やヌード画像
+Google翻訳：セックスとヌード
+
+原文：Adult nudity or sexual themes
+筆者訳：ヌードや性を題材にしたアダルトなコンテンツが含まれます
+Google翻訳：成人向けヌードまたは性的なテーマ
+
+原文：Offensive Language
+筆者訳：攻撃的な言葉
+Google翻訳：憎まれ口
+
+原文：Profanity, discriminatory language, or adult humor
+筆者訳：失礼・差別的な言葉や、アダルトなジョークが含まれます
+Google翻訳：冒とく的な表現、差別的な言葉、または成人向けのユーモア
+
+原文：Gambling
+筆者訳：ギャンブル
+Google翻訳：ギャンブル
+
+原文：Realistic or participatory gambling
+筆者訳：現実味があるか、参加型のギャンブルです
+Google翻訳：現実的または参加型のギャンブル
+
+原文：Non-Curated
+筆者訳：キュレーション対象外
+Google翻訳：非キュレーション
+
+原文：Not reviewed by elementary for security, privacy, or system integration
+筆者訳：elementary によるセキュリティー・プライバシー・システム統合に関する安全性の審査がされていません
+Google翻訳：セキュリティ、プライバシー、またはシステム統合について、小学校によるレビューはありません
+
+原文：Conflict
+筆者訳：戦闘
+Google翻訳：対立
+
+原文：Depictions of unsafe situations or aggressive conflict
+筆者訳：危険な状況や攻撃的な戦闘に関する描写があります
+Google翻訳：安全でない状況または攻撃的な紛争の描写
+
+原文：Violence
+筆者訳：暴力
+Google翻訳：暴力
+
+原文：Fantasy Violence
+筆者訳：物語内での暴力
+Google翻訳：ファンタジー暴力
+
+原文：Graphic violence, bloodshed, or death
+筆者訳：暴力や血、死体が描画されます
+Google翻訳：暴力場面、流血、または死
+
+原文：Multiplayer
+筆者訳：マルチプレイ
+Google翻訳：マルチプレイヤー
+
+原文：Online play with other people
+筆者訳：他人とオンラインでプレイするゲームです
+Google翻訳：他の人とのオンラインプレイ
+
+原文：Unmoderated Audio, Video, or Text messaging with other people
+筆者訳：他人と行う、非承認性のオーディオ・ビデオ・テキストメッセージングアプリです
+Google翻訳：他の人とのモデレートされていないオーディオ、ビデオ、またはテキストメッセージング
+
+原文：Moderated Audio, Video, or Text messaging with other people
+筆者訳：他人と行う、承認性のオーディオ・ビデオ・テキストメッセージングアプリです
+Google翻訳：他の人とのモデレートされたオーディオ、ビデオ、またはテキストメッセージング
+
+原文：Online Interactions
+筆者訳：インターネット通信
+Google翻訳：オンラインインタラクション
+
+原文：Location Sharing
+筆者訳：位置情報の共有
+Google翻訳：ロケーション共有
+
+原文：Other people can see your real-world location
+筆者訳：現実世界でのあなたの現在地を他人が確認できます
+Google翻訳：他の人があなたの実際の場所を見ることができます
+
+原文：Collects anonymous usage data
+筆者訳：匿名の使用状況データの収集
+Google翻訳：匿名の使用状況データを収集します
+
+原文：Collects usage data that could be used to identify you
+筆者訳：ユーザーの特定に使用される可能性があるユーザーデータが収集されます
+Google翻訳：あなたを特定するために使用できる使用状況データを収集します
+
+原文：Info Sharing
+筆者訳：情報の共有
+Google翻訳：情報共有
+
+原文：Screenshot Not Available
+筆者訳：スクリーンショットがありません
+Google翻訳：スクリーンショットは利用できません
+
+原文：Homepage
+筆者訳：ホームページ
+Google翻訳：ホームページ
+
+原文：Translate
+筆者訳：翻訳作業に参加
+Google翻訳：翻訳
+
+原文：Send Feedback
+筆者訳：フィードバックを送信
+Google翻訳：フィードバックを送信する
+
+原文：Help
+筆者訳：ヘルプ
+Google翻訳：ヘルプ
+
+原文：What's New:
+筆者訳：更新情報:
+Google翻訳：新着情報：
+
+原文：Extensions:
+筆者訳：拡張機能:
+Google翻訳：拡張機能：
+
+原文：Link copied to clipboard
+筆者訳：リンクをクリップボードにコピーしました
+Google翻訳：リンクがクリップボードにコピーされました
+
+原文：Check out %s on AppCenter:
+筆者訳：AppCenter で %s を確認:
+Google翻訳：AppCenterで％sを確認してください。
+
+原文：Share
+筆者訳：共有
+Google翻訳：シェア
+
+原文：Public Domain
+筆者訳：パブリックドメイン
+Google翻訳：パブリックドメイン
+
+原文：https://en.wikipedia.org/wiki/Public_domain
+筆者訳：https://ja.wikipedia.org/wiki/パブリックドメイン
+Google翻訳：https://en.wikipedia.org/wiki/Public_domain
+
+原文：Free Software
+筆者訳：自由ソフトウェア
+Google翻訳：自由ソフトウェア
+
+原文：https://www.gnu.org/philosophy/free-sw
+筆者訳：https://www.gnu.org/philosophy/free-sw.ja.html
+Google翻訳：https://www.gnu.org/philosophy/free-sw
+
+原文：Proprietary
+筆者訳：プロプライエタリー
+Google翻訳：専有
+
+原文：Unknown License
+筆者訳：不明なライセンス
+Google翻訳：不明なライセンス
+
+原文：Fund
+筆者訳：資金提供
+Google翻訳：基金
+
+原文：Fund the development of this app
+筆者訳：このアプリの開発に資金を提供します
+Google翻訳：このアプリの開発に資金を提供する
+
+原文：Other Apps by %s
+筆者訳：%s によるほかのアプリ
+Google翻訳：％sによる他のアプリ
+
+原文：Checking for Updates
+筆者訳：アップデートを確認しています
+Google翻訳：アップデートの確認
+
+原文：Downloading a list of available updates to the OS and installed apps
+筆者訳：OS とインストール済みアプリの、利用可能なアップデートの一覧をダウンロードしています
+Google翻訳：OSとインストール済みアプリに利用可能なアップデートのリストをダウンロードする
+
+原文：A restart is required to finish installing updates
+筆者訳：アップデートのインストールを完了するには再起動が必要です
+Google翻訳：アップデートのインストールを完了するには、再起動が必要です
+
+原文：Restart Now
+筆者訳：今すぐ再起動
+Google翻訳：今すぐ再起動
+
+原文：Requesting a restart failed. Restart manually to finish installing updates
+筆者訳：再起動できませんでした。アップデートのインストールを完了するには、セッションインジケーターから再起動してください
+Google翻訳：再起動の要求に失敗しました。手動で再起動して、更新のインストールを完了します
+
+原文：Update All
+筆者訳：すべてアップデート
+Google翻訳：すべて更新
+
+原文：No Apps Found
+筆者訳：アプリが見つかりません
+Google翻訳：アプリが見つかりません
+
+原文：Try changing search terms. You can also sideload Flatpak apps e.g. from %s
+筆者訳：検索用語を変更してみてください。%s などから、AppCenter を経由せずに Flatpak アプリをインストールすることもできます
+Google翻訳：検索語を変更してみてください。 Flatpakアプリをサイドローディングすることもできます。 ％sから
+
+原文：Non-Curated Apps
+筆者訳：キュレーションされていないアプリ
+Google翻訳：キュレーションされていないアプリ
+
+原文：Paid Apps
+筆者訳：有料アプリ
+Google翻訳：有料アプリ
+
+原文：Free Apps
+筆者訳：無料アプリ
+Google翻訳：無料アプリ
+
+原文：Recently Updated
+筆者訳：最近アップデートされたアプリ
+Google翻訳：最新のアップデート
+
+原文：Categories
+筆者訳：カテゴリー
+Google翻訳：カテゴリ
+
+原文：Search %s
+筆者訳：%s を検索
+Google翻訳：％sを検索
+
+原文：Search
+筆者訳：検索
+Google翻訳：検索
+
+原文：Card Number
+筆者訳：カード番号
+Google翻訳：カード番号
+
+原文：Accessories
+筆者訳：アクセサリー
+Google翻訳：付属品
+
+原文：Audio
+筆者訳：オーディオ
+Google翻訳：オーディオ
+
+原文：Communication
+筆者訳：コミュニケーション
+Google翻訳：コミュニケーション
+
+原文：Development
+筆者訳：開発
+Google翻訳：発達
+
+原文：Education
+筆者訳：教育
+Google翻訳：教育
+
+原文：Finance
+筆者訳：ファイナンス
+Google翻訳：ファイナンス
+
+原文：Games
+筆者訳：ゲーム
+Google翻訳：ゲーム
+
+原文：Graphics
+筆者訳：グラフィックス
+Google翻訳：グラフィックス
+
+原文：Internet
+筆者訳：インターネット
+Google翻訳：インターネット
+
+原文：Math, Science, & Engineering
+筆者訳：数学・科学・工学
+Google翻訳：数学、科学、工学
+
+原文：Media Production
+筆者訳：メディア製作
+Google翻訳：メディア制作
+
+原文：Office
+筆者訳：オフィス
+Google翻訳：オフィス
+
+原文：System
+筆者訳：システム
+Google翻訳：システム
+
+原文：Universal Access
+筆者訳：ユニバーサルアクセス
+Google翻訳：ユニバーサルアクセス
+
+原文：Video
+筆者訳：動画
+Google翻訳：ビデオ
+
+原文：Writing & Language
+筆者訳：文書作成と言語
+Google翻訳：ライティングと言語
+
+原文：Privacy & Security
+筆者訳：プライバシーとセキュリティー
+Google翻訳：プライバシーとセキュリティ
+
+原文：Requires payments, which are not enabled
+筆者訳：支払いが必要ですが、有効になっていません
+Google翻訳：有効になっていない支払いが必要です
+
+原文：Free
+筆者訳：無料
+Google翻訳：無料
+
+原文：Install
+筆者訳：インストール
+Google翻訳：インストール
+
+原文：$%d.00
+筆者訳：%d.00ドル
+Google翻訳：$％d.00
+
+原文：$%d
+筆者訳：%dドル
+Google翻訳：$％d
+
+原文：Network Not Available.
+筆者訳：ネットワークが利用できません。
+Google翻訳：ネットワークは利用できません。
+
+原文：Connect to the Internet to browse and install apps.
+筆者訳：アプリを検索したりインストールしたりするには、インターネットに接続してください。
+Google翻訳：インターネットに接続して、アプリを閲覧およびインストールします。
+
+原文：Network Settings…
+筆者訳：ネットワークの設定…
+Google翻訳：ネットワーク設定…
+
+原文：Unknown version
+筆者訳：不明なバージョン
+Google翻訳：不明なバージョン
+
+原文：No description available
+筆者訳：説明はありません
+Google翻訳：説明はありません
+
+原文：Copy link
+筆者訳：リンクをコピー
+Google翻訳：リンクをコピーする
+
+原文：Actual Download Size Likely to Be Smaller
+筆者訳：実際のダウンロードサイズは小さくなる可能性があります
+Google翻訳：実際のダウンロードサイズは小さくなる可能性があります
+
+原文：Only the parts of apps and updates that are needed will be downloaded.
+筆者訳：アプリとアップデートの、必要な部分のみをダウンロードします。
+Google翻訳：必要なアプリとアップデートの部分のみがダウンロードされます。
+
+原文：Up to %s
+筆者訳：最大 %s
+Google翻訳：最大％s
+
+原文（単数形）：%u Update Available
+原文（複数形）：%u Updates Available
+筆者訳：%u件のアップデートが利用可能です
+Google翻訳：％uアップデートが利用可能
+
+原文：Drivers
+筆者訳：ドライバー
+Google翻訳：運転手
+
+原文：Up to Date
+筆者訳：最新の状態
+Google翻訳：最新の
+
+原文：Update
+筆者訳：アップデート
+Google翻訳：アップデート
+

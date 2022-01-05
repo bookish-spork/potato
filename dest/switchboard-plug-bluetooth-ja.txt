@@ -1,0 +1,160 @@
+原文：Configure Bluetooth Settings
+筆者訳：Bluetooth の設定をします
+Google翻訳：Bluetooth設定を構成する
+
+原文：No Devices Found
+筆者訳：デバイスが見つかりませんでした
+Google翻訳：デバイスが見つかりません
+
+原文：Please ensure that your devices are visible and ready for pairing.
+筆者訳：デバイスが検出可能でペアリングの準備ができているか確認してください。
+Google翻訳：デバイスが表示され、ペアリングの準備ができていることを確認してください。
+
+原文：Discovering
+筆者訳：探しています
+Google翻訳：発見
+
+原文：Now discoverable as "%s". Not discoverable when this page is closed
+筆者訳："%s" として検出できます。このページが閉じている場合は検出できません
+Google翻訳：「％s」として検出できるようになりました。このページを閉じると検出できません
+
+原文：Unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：Not discoverable while Bluetooth is powered off
+筆者訳：Bluetooth の電源がオフの間は検出できません
+Google翻訳：Bluetoothの電源がオフになっている間は検出できません
+
+原文：Not discoverable
+筆者訳：検出できません
+Google翻訳：発見できない
+
+原文：Paired Devices
+筆者訳：ペアリング中のデバイス
+Google翻訳：ペアリングされたデバイス
+
+原文：Nearby Devices
+筆者訳：近くのデバイス
+Google翻訳：近くのデバイス
+
+原文：Confirm Bluetooth Pairing
+筆者訳：Bluetooth のペアリングを確認
+Google翻訳：Bluetoothペアリングを確認する
+
+原文：Confirm Bluetooth Passkey
+筆者訳：Bluetooth のパスコードを確認
+Google翻訳：Bluetoothパスキーを確認する
+
+原文：Enter Bluetooth PIN
+筆者訳：Bluetooth の PIN を入力
+Google翻訳：BluetoothPINを入力してください
+
+原文：Unknown Bluetooth Device
+筆者訳：不明な Bluetooth デバイス
+Google翻訳：不明なBluetoothデバイス
+
+原文：Make sure the code displayed on “%s” matches the one below.
+筆者訳：“%s” に表示されているコードが以下のものに一致することを確認してください。
+Google翻訳：「％s」に表示されているコードが以下のコードと一致していることを確認してください。
+
+原文：Pair
+筆者訳：ペアリング
+Google翻訳：ペア
+
+原文：“%s” would like to pair with this device. Make sure the code displayed on “%s” matches the one below.
+筆者訳：“%s” はこのデバイスとペアリングしようとしています。“%s” に表示されているコードが以下のものに一致することを確認してください。
+Google翻訳：「％s」はこのデバイスとペアリングしたいと考えています。 「％s」に表示されているコードが以下のコードと一致していることを確認してください。
+
+原文：Type the code displayed below on “%s”, followed by Enter.
+筆者訳：以下に表示されているコードを “%s” に入力してから、Enter キーを押してください。
+Google翻訳：以下に表示されるコードを「％s」に入力し、Enterキーを押します。
+
+原文：“%s” would like to pair with this device.
+筆者訳：“%s” はこのデバイスとペアリングしようとしています。
+Google翻訳：「％s」はこのデバイスとペアリングしたいと考えています。
+
+原文：Available
+筆者訳：利用可能
+Google翻訳：利用可能
+
+原文：Pairing…
+筆者訳：ペアリングしています…
+Google翻訳：ペアリング…
+
+原文：Connected
+筆者訳：接続済み
+Google翻訳：接続済み
+
+原文：Connecting…
+筆者訳：接続しています…
+Google翻訳：接続中…
+
+原文：Disconnecting…
+筆者訳：切断しています…
+Google翻訳：切断中…
+
+原文：Unable to Connect
+筆者訳：接続できません
+Google翻訳：接続することができません
+
+原文：Not Connected
+筆者訳：接続していません
+Google翻訳：接続されていません
+
+原文：Speaker
+筆者訳：スピーカー
+Google翻訳：スピーカー
+
+原文：Controller
+筆者訳：コントローラー
+Google翻訳：コントローラ
+
+原文：Keyboard
+筆者訳：キーボード
+Google翻訳：キーボード
+
+原文：Mouse
+筆者訳：マウス
+Google翻訳：ねずみ
+
+原文：Tablet
+筆者訳：タブレット
+Google翻訳：タブレット
+
+原文：Touchpad
+筆者訳：タッチパッド
+Google翻訳：タッチパッド
+
+原文：Phone
+筆者訳：スマートフォン
+Google翻訳：電話
+
+原文：Forget this device
+筆者訳：このデバイスの接続情報を削除
+Google翻訳：このデバイスを忘れて
+
+原文：Sound Settings
+筆者訳：サウンドの設定
+Google翻訳：サウンド設定
+
+原文：Keyboard Settings
+筆者訳：キーボードの設定
+Google翻訳：キーボード設定
+
+原文：Mouse & Touchpad Settings
+筆者訳：マウスとタッチパッドの設定
+Google翻訳：マウスとタッチパッドの設定
+
+原文：Printer Settings
+筆者訳：プリンターの設定
+Google翻訳：プリンター設定
+
+原文：Disconnect
+筆者訳：切断
+Google翻訳：切断する
+
+原文：Connect
+筆者訳：接続
+Google翻訳：接続
+

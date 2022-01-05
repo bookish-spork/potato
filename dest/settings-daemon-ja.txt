@@ -1,0 +1,12 @@
+原文：Settings Daemon
+筆者訳：設定デーモン
+Google翻訳：設定デーモン
+
+原文：Manage settings and background tasks
+筆者訳：設定とバックグラウンドタスクを管理します
+Google翻訳：設定とバックグラウンドタスクを管理する
+
+原文：This process sync settings to the greeter and manages background tasks like scheduling dark mode and Housekeeping.
+筆者訳：このプロセスは Greeter と設定を同期し、ダークモードのスケジュールや不要になったファイルの削除などのバックグラウンドタスクを管理します。
+Google翻訳：このプロセスは設定をグリーターに同期し、ダークモードのスケジューリングやハウスキーピングなどのバックグラウンドタスクを管理します。
+

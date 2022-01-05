@@ -1,0 +1,136 @@
+原文：Shortcuts
+筆者訳：ショートカット
+Google翻訳：ショートカット
+
+原文：Keyboard Settings…
+筆者訳：キーボードの設定…
+Google翻訳：キーボード設定…
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+
+原文：Windows
+筆者訳：ウィンドウ
+Google翻訳：ウィンドウズ
+
+原文：Close window:
+筆者訳：ウィンドウを閉じる:
+Google翻訳：ウィンドウを閉じる：
+
+原文：Cycle windows:
+筆者訳：ウィンドウを切り替え:
+Google翻訳：サイクルウィンドウ：
+
+原文：Toggle maximized:
+筆者訳：最大化を切り替え:
+Google翻訳：最大化されたトグル：
+
+原文：Tile left:
+筆者訳：左に整列:
+Google翻訳：左のタイル：
+
+原文：Tile right:
+筆者訳：右に整列:
+Google翻訳：右のタイル：
+
+原文：Move to left workspace:
+筆者訳：左のワークスペースに移動:
+Google翻訳：左のワークスペースに移動します。
+
+原文：Move to right workspace:
+筆者訳：右のワークスペースに移動:
+Google翻訳：右のワークスペースに移動します。
+
+原文：Picture in Picture Mode:
+筆者訳：ピクチャーインピクチャーモード:
+Google翻訳：ピクチャーモードのピクチャー：
+
+原文：Workspaces
+筆者訳：ワークスペース
+Google翻訳：ワークスペース
+
+原文：Multitasking View:
+筆者訳：マルチタスク画面:
+Google翻訳：マルチタスクビュー：
+
+原文：Switch left:
+筆者訳：左に切り替え:
+Google翻訳：左に切り替えます：
+
+原文：Switch right:
+筆者訳：右に切り替え:
+Google翻訳：右に切り替えます：
+
+原文：Switch to first:
+筆者訳：最初に切り替え:
+Google翻訳：最初に切り替えます：
+
+原文：Switch to new:
+筆者訳：新規に切り替え:
+Google翻訳：新規に切り替えます：
+
+原文：Cycle workspaces:
+筆者訳：ワークスペースを切り替え:
+Google翻訳：ワークスペースを循環させる：
+
+原文：System
+筆者訳：システム
+Google翻訳：システム
+
+原文：Applications Menu:
+筆者訳：アプリケーションメニュー:
+Google翻訳：アプリケーションメニュー：
+
+原文：Cycle display mode:
+筆者訳：ディスプレイモードを切り替え:
+Google翻訳：サイクル表示モード：
+
+原文：Zoom in:
+筆者訳：ズームイン:
+Google翻訳：ズームイン：
+
+原文：Zoom out:
+筆者訳：ズームアウト:
+Google翻訳：ズームアウトする：
+
+原文：Lock screen:
+筆者訳：スクリーンをロック:
+Google翻訳：ロック画面：
+
+原文：Log out:
+筆者訳：ログアウト:
+Google翻訳：ログアウト：
+
+原文：Switch keyboard layout:
+筆者訳：キーボードレイアウトを切り替え:
+Google翻訳：キーボードレイアウトの切り替え：
+
+原文：Screenshots
+筆者訳：スクリーンショット
+Google翻訳：スクリーンショット
+
+原文：Grab the whole screen:
+筆者訳：スクリーン全体を取得:
+Google翻訳：画面全体をつかむ：
+
+原文：Copy the whole screen to clipboard:
+筆者訳：スクリーン全体をクリップボードにコピー:
+Google翻訳：画面全体をクリップボードにコピーします。
+
+原文：Grab the current window:
+筆者訳：現在のウィンドウを取得:
+Google翻訳：現在のウィンドウを取得します。
+
+原文：Copy the current window to clipboard:
+筆者訳：現在のウィンドウをクリップボードにコピー:
+Google翻訳：現在のウィンドウをクリップボードにコピーします。
+
+原文：Select an area to grab:
+筆者訳：範囲を選択して取得:
+Google翻訳：取得する領域を選択します。
+
+原文：Copy an area to clipboard:
+筆者訳：範囲を選択してクリップボードにコピー:
+Google翻訳：エリアをクリップボードにコピーします。
+

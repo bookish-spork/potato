@@ -1,0 +1,203 @@
+原文：Videos
+筆者訳：ビデオ
+Google翻訳：ビデオ
+
+原文：Back
+筆者訳：戻る
+Google翻訳：戻る
+
+原文：Library
+筆者訳：ライブラリ
+Google翻訳：としょうかん
+
+原文：Episodes
+筆者訳：エピソード
+Google翻訳：エピソード
+
+原文：Search Videos
+筆者訳：動画を検索
+Google翻訳：ビデオを検索
+
+原文：Play one video
+筆者訳：連続再生しない
+Google翻訳：1つのビデオを再生する
+
+原文：Automatically play next videos
+筆者訳：次の動画を自動的に再生
+Google翻訳：次の動画を自動的に再生する
+
+原文：Restore
+筆者訳：復元
+Google翻訳：戻す
+
+原文：Video '%s' Removed.
+筆者訳：動画 '%s' が削除されました。
+Google翻訳：ビデオ '％s'が削除されました。
+
+原文：All files
+筆者訳：すべてのファイル
+Google翻訳：すべてのファイル
+
+原文：Video files
+筆者訳：動画ファイル
+Google翻訳：ビデオファイル
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：_Open
+筆者訳：開く(_O)
+Google翻訳：_開ける
+
+原文：_Cancel
+筆者訳：キャンセル(_C)
+Google翻訳：_キャンセル
+
+原文：Unrecognized file format
+筆者訳：ファイル形式を認識できません
+Google翻訳：認識されないファイル形式
+
+原文：Videos might not be able to play the file '%s'.
+筆者訳：“ビデオ”はファイル '%s' を再生できない可能性があります。
+Google翻訳：ビデオはファイル '％s'を再生できない場合があります。
+
+原文：Play Anyway
+筆者訳：強制的に再生
+Google翻訳：とにかくプレイ
+
+原文：Unable to play file at: %s
+The file is not a video ("%s").
+筆者訳：以下のファイルを再生できません: %s
+指定されたファイルは動画 ("%s") ではありません。
+Google翻訳：次の場所でファイルを再生できません：％s
+ファイルはビデオ（ "％s"）ではありません。
+
+原文：No Videos Open
+筆者訳：開いている動画はありません
+Google翻訳：動画が開いていません
+
+原文：Select a source to begin playing.
+筆者訳：再生を開始するにはソースを選択してください。
+Google翻訳：再生を開始するソースを選択します。
+
+原文：Open file
+筆者訳：ファイルを開く
+Google翻訳：ファイルを開く
+
+原文：Open a saved file.
+筆者訳：保存されたファイルを開きます。
+Google翻訳：保存したファイルを開きます。
+
+原文：Replay last video
+筆者訳：最後の動画をリプレイ
+Google翻訳：最後のビデオを再生する
+
+原文：Play from Disc
+筆者訳：ディスクを再生
+Google翻訳：ディスクから再生
+
+原文：Watch a DVD or open a file from disc
+筆者訳：DVD を見たり、ディスクからファイルを開いたりします
+Google翻訳：DVDを見るか、ディスクからファイルを開きます
+
+原文：Browse Library
+筆者訳：ライブラリを探す
+Google翻訳：ライブラリを閲覧する
+
+原文：Watch a movie from your library
+筆者訳：ライブラリにある映画を見ます
+Google翻訳：ライブラリから映画を見る
+
+原文：Resume last video
+筆者訳：最後の動画を再開します
+Google翻訳：最後のビデオを再開する
+
+原文：Try changing search terms.
+筆者訳：検索用語を変更してみてください。
+Google翻訳：検索語を変更してみてください。
+
+原文：No Results for “%s”
+筆者訳：“%s” という検索結果はありません
+Google翻訳：「％s」の結果はありません
+
+原文：Move to Trash
+筆者訳：ゴミ箱に移動
+Google翻訳：ゴミ箱に移動
+
+原文：Set Artwork
+筆者訳：アートワークを設定
+Google翻訳：アートワークを設定します
+
+原文：Image files
+筆者訳：画像ファイル
+Google翻訳：画像ファイル
+
+原文：Play
+筆者訳：再生
+Google翻訳：演奏する
+
+原文：Playlist
+筆者訳：プレイリスト
+Google翻訳：プレイリスト
+
+原文：Settings
+筆者訳：設定
+Google翻訳：設定
+
+原文：Pause
+筆者訳：一時停止
+Google翻訳：一時停止
+
+原文：Unfullscreen
+筆者訳：全画面表示の解除
+Google翻訳：フルスクリーンではない
+
+原文：A video is playing
+筆者訳：動画が再生中です
+Google翻訳：ビデオが再生されています
+
+原文：Clear Playlist
+筆者訳：プレイリストを消去
+Google翻訳：プレイリストをクリア
+
+原文：Enable Repeat
+筆者訳：リピートを有効にする
+Google翻訳：リピートを有効にする
+
+原文：Disable Repeat
+筆者訳：リピートを無効にする
+Google翻訳：リピートを無効にする
+
+原文：Subtitle files
+筆者訳：字幕ファイル
+Google翻訳：字幕ファイル
+
+原文：External Subtitles
+筆者訳：外部字幕
+Google翻訳：外部字幕
+
+原文：Audio:
+筆者訳：オーディオ:
+Google翻訳：オーディオ：
+
+原文：Subtitles:
+筆者訳：字幕:
+Google翻訳：字幕：
+
+原文：External Subtitles:
+筆者訳：外部字幕:
+Google翻訳：外部字幕：
+
+原文：Track %u
+筆者訳：トラック %u
+Google翻訳：％uを追跡する
+
+原文：None
+筆者訳：なし
+Google翻訳：なし
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+

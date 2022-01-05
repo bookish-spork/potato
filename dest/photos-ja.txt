@@ -1,0 +1,3344 @@
+原文：Unable to create cache directory %s: %s
+筆者訳：キャッシュディレクトリ %s を作成できません: %s
+Google翻訳：キャッシュディレクトリ％sを作成できません：％s
+
+原文：Unable to create data directory %s: %s
+筆者訳：データディレクトリ %s を作成できません: %s
+Google翻訳：データディレクトリ％sを作成できません：％s
+
+原文：Pictures
+筆者訳：ピクチャ
+Google翻訳：ピクチャー
+
+原文：Unable to create temporary directory %s: %s
+筆者訳：一時ディレクトリ %s を作成できません: %s
+Google翻訳：一時ディレクトリ％sを作成できません：％s
+
+原文：Unable to create data subdirectory %s: %s
+筆者訳：データサブディレクトリ %s を作成できません: %s
+Google翻訳：データサブディレクトリ％sを作成できません：％s
+
+原文：A fatal error occurred when accessing Photos' library. Photos cannot continue.
+
+%s
+筆者訳：“フォト”のライブラリへのアクセス中に致命的なエラーが発生しました。“フォト”を続行できません。
+
+%s
+Google翻訳：写真のライブラリにアクセスするときに致命的なエラーが発生しました。写真を続けることはできません。
+
+％s
+
+原文：Undo
+筆者訳：元に戻す
+Google翻訳：元に戻す
+
+原文：Redo
+筆者訳：やり直し
+Google翻訳：やり直し
+
+原文：Success
+筆者訳：成功
+Google翻訳：成功
+
+原文：File error
+筆者訳：ファイルエラー
+Google翻訳：ファイルエラー
+
+原文：Unable to decode file
+筆者訳：ファイルをデコードできません
+Google翻訳：ファイルをデコードできません
+
+原文：Database error
+筆者訳：データベースエラー
+Google翻訳：データベースエラー
+
+原文：User aborted import
+筆者訳：ユーザーがインポートを中断しました
+Google翻訳：ユーザーがインポートを中止しました
+
+原文：Not a file
+筆者訳：ファイルではありません
+Google翻訳：ファイルではありません
+
+原文：File already exists in database
+筆者訳：ファイルがデータベースにすでに存在します
+Google翻訳：ファイルはデータベースにすでに存在します
+
+原文：Unsupported file format
+筆者訳：サポートされていないファイル形式です
+Google翻訳：サポートされていないファイル形式
+
+原文：Not an image file
+筆者訳：画像ファイルではありません
+Google翻訳：画像ファイルではありません
+
+原文：Disk failure
+筆者訳：ディスク障害です
+Google翻訳：ディスク障害
+
+原文：Disk full
+筆者訳：ディスクがいっぱいです
+Google翻訳：ディスクがいっぱいです
+
+原文：Camera error
+筆者訳：カメラエラーです
+Google翻訳：カメラエラー
+
+原文：File write error
+筆者訳：ファイル書き込みエラー
+Google翻訳：ファイル書き込みエラー
+
+原文：Corrupt image file
+筆者訳：画像ファイルが壊れています
+Google翻訳：破損した画像ファイル
+
+原文：Imported failed (%d)
+筆者訳：インポートに失敗しました (%d)
+Google翻訳：インポートに失敗しました（％d）
+
+原文：Reverting
+筆者訳：取り消す
+Google翻訳：元に戻す
+
+原文：Undoing Revert
+筆者訳：取り消しを元に戻す
+Google翻訳：元に戻す元に戻す
+
+原文：Enhancing
+筆者訳：強調
+Google翻訳：強化
+
+原文：Undoing Enhance
+筆者訳：強調を元に戻す
+Google翻訳：エンハンスを元に戻す
+
+原文：UnEnhancing
+筆者訳：非強調
+Google翻訳：強化しない
+
+原文：Undoing UnEnhance
+筆者訳：非強調を元に戻す
+Google翻訳：UnEnhanceを元に戻す
+
+原文：Applying Color Transformations
+筆者訳：色変換を適用
+Google翻訳：色変換の適用
+
+原文：Undoing Color Transformations
+筆者訳：色変換を元に戻す
+Google翻訳：色変換を元に戻す
+
+原文：Creating New Event
+筆者訳：新しいイベントの作成
+Google翻訳：新しいイベントの作成
+
+原文：Removing Event
+筆者訳：イベントの削除
+Google翻訳：イベントの削除
+
+原文：Moving Photos to New Event
+筆者訳：写真を新しいイベントに移動
+Google翻訳：写真を新しいイベントに移動する
+
+原文：Setting Photos to Previous Event
+筆者訳：写真を以前のイベントに設定
+Google翻訳：写真を前のイベントに設定する
+
+原文：Merging
+筆者訳：マージ
+Google翻訳：マージ
+
+原文：Unmerging
+筆者訳：マージを元に戻す
+Google翻訳：マージ解除
+
+原文：Duplicating photos
+筆者訳：重複した写真
+Google翻訳：写真の複製
+
+原文：Removing duplicated photos
+筆者訳：重複した写真を削除しています
+Google翻訳：重複した写真を削除する
+
+原文（単数形）：Unable to duplicate one photo due to a file error
+原文（複数形）：Unable to duplicate %d photos due to file errors
+筆者訳：ファイルエラーのため%d枚の写真を複製できません
+Google翻訳：ファイルエラーのため、1枚の写真を複製できません
+
+原文：Setting RAW developer
+筆者訳：RAW 現像の設定
+Google翻訳：RAW開発者の設定
+
+原文：Restoring previous RAW developer
+筆者訳：以前の RAW 現像に戻す
+Google翻訳：以前のRAW開発者を復元する
+
+原文：Set Developer
+筆者訳：現像を設定
+Google翻訳：開発者を設定する
+
+原文：Original photo could not be adjusted.
+筆者訳：元の写真を調整できませんでした。
+Google翻訳：元の写真を調整できませんでした。
+
+原文：Adjusting Date and Time
+筆者訳：日付と時刻の調整
+Google翻訳：日時の調整
+
+原文：Undoing Date and Time Adjustment
+筆者訳：日付と時刻の調整を元に戻す
+Google翻訳：日付と時刻の調整を元に戻す
+
+原文（単数形）：One original photo could not be adjusted.
+原文（複数形）：The following original photos could not be adjusted.
+筆者訳：以下の元写真は調整できませんでした。
+Google翻訳：元の写真1枚を調整できませんでした。
+
+原文：Time Adjustment Error
+筆者訳：時刻調整エラー
+Google翻訳：時間調整エラー
+
+原文（単数形）：Time adjustments could not be undone on the following photo file.
+原文（複数形）：Time adjustments could not be undone on the following photo files.
+筆者訳：以下の写真ファイルへの時間調整を元に戻せませんでした。
+Google翻訳：次の写真ファイルでは、時間調整を元に戻すことができませんでした。
+
+原文：Create Tag
+筆者訳：タグの作成
+Google翻訳：タグを作成
+
+原文：Move Tag "%s"
+筆者訳：タグを "%s" に移動
+Google翻訳：タグ「％s」を移動
+
+原文：Move Photos to Trash
+筆者訳：写真をゴミ箱に移動
+Google翻訳：写真をゴミ箱に移動
+
+原文：Restore Photos from Trash
+筆者訳：ゴミ箱から写真を元に戻す
+Google翻訳：ゴミ箱から写真を復元する
+
+原文：Move the photos to the Photos trash
+筆者訳：写真を“フォト”のゴミ箱に移動します
+Google翻訳：写真を写真のゴミ箱に移動します
+
+原文：Restore the photos back to the Photos library
+筆者訳：写真を“フォト”のライブラリに戻します
+Google翻訳：写真をフォトライブラリに復元します
+
+原文：Moving Photos to Trash
+筆者訳：写真をゴミ箱に移動しています
+Google翻訳：写真をゴミ箱に移動する
+
+原文：Restoring Photos From Trash
+筆者訳：ゴミ箱から写真を元に戻しています
+Google翻訳：ゴミ箱から写真を復元する
+
+原文：Flag selected photos
+筆者訳：選択された写真にフラグを付ける
+Google翻訳：選択した写真にフラグを付ける
+
+原文：Unflag selected photos
+筆者訳：選択された写真のフラグを外す
+Google翻訳：選択した写真のフラグを解除します
+
+原文：Flagging selected photos
+筆者訳：選択された写真にフラグを付けています
+Google翻訳：選択した写真にフラグを付ける
+
+原文：Unflagging selected photos
+筆者訳：選択された写真のフラグを外しています
+Google翻訳：選択した写真のフラグを解除する
+
+原文：Flag
+筆者訳：フラグを付ける
+Google翻訳：国旗
+
+原文：Unflag
+筆者訳：フラグを外す
+Google翻訳：フラグを解除する
+
+原文：Original size
+筆者訳：元のサイズ
+Google翻訳：オリジナルサイズ
+
+原文：Width or height
+筆者訳：幅または高さ
+Google翻訳：幅または高さ
+
+原文：Width
+筆者訳：幅
+Google翻訳：幅
+
+原文：Height
+筆者訳：高さ
+Google翻訳：高さ
+
+原文：Unable to monitor %s: Not a directory (%s)
+筆者訳：%s を監視できません: ディレクトリではありません (%s)
+Google翻訳：％sを監視できません：ディレクトリではありません（％s）
+
+原文：Event %s
+筆者訳：イベント %s
+Google翻訳：イベント％s
+
+原文：Unable to generate a temporary file for %s: %s
+筆者訳：%s 用の作業ファイルを作成できません: %s
+Google翻訳：％sの一時ファイルを生成できません：％s
+
+原文：Exporting
+筆者訳：エクスポートしています
+Google翻訳：エクスポート
+
+原文：Export
+筆者訳：エクスポート
+Google翻訳：輸出
+
+原文：File %s already exists. Replace?
+筆者訳：ファイル %s はすでに存在します。置き換えますか？
+Google翻訳：ファイル％sはすでに存在します。交換？
+
+原文：_Skip
+筆者訳：スキップ(_S)
+Google翻訳：_スキップ
+
+原文：Replace _All
+筆者訳：すべて置き換え(_A)
+Google翻訳：_Allを置き換えます
+
+原文：_Cancel
+筆者訳：キャンセル(_C)
+Google翻訳：_キャンセル
+
+原文：_Replace
+筆者訳：置き換え(_R)
+Google翻訳：_交換
+
+原文：Pin the toolbar open
+筆者訳：ツールバーを開いた状態で固定します
+Google翻訳：ツールバーを固定して開きます
+
+原文：Leave fullscreen
+筆者訳：全画面表示の解除
+Google翻訳：フルスクリーンのままにする
+
+原文：Your Photo Library Is Not Compatible With This Version of Photos
+筆者訳：写真ライブラリはこのバージョンの“フォト”と互換性がありません
+Google翻訳：フォトライブラリはこのバージョンの写真と互換性がありません
+
+原文：It appears it was created by Photos %s (schema %d). This version is %s (schema %d). Please use the latest version of Photos.
+筆者訳：このライブラリは“フォト” %s (スキーマ %d) で作成されたもののようです。このバージョンは %s (スキーマ %d) です。最新バージョンの“フォト”を使用してください。
+Google翻訳：写真％s（スキーマ％d）によって作成されたようです。このバージョンは％s（スキーマ％d）です。最新バージョンの写真を使用してください。
+
+原文：Photos Was Unable To Upgrade Your Photo Library From Version %s (Schema %d) to %s (Schema %d)
+筆者訳：“フォト”は写真ライブラリのバージョンを %s (スキーマ %d) から %s (スキーマ %d) にアップグレードできませんでした
+Google翻訳：写真がフォトライブラリをバージョン％s（スキーマ％d）から％s（スキーマ％d）にアップグレードできませんでした
+
+原文：For more information please check the Photos Wiki at %s
+筆者訳：詳細情報は、%s にある“フォト”の Wiki をご覧ください
+Google翻訳：詳細については、％sのPhotosWikiを確認してください。
+
+原文：It appears it was created by Photos %s (schema %d). This version is %s (schema %d). Please clear your library by deleting %s and re-import your photos.
+筆者訳：このライブラリは“フォト” %s (スキーマ %d) で作成されたもののようです。このバージョンは %s (スキーマ %d) です。%s を削除してライブラリを消去した上で、写真を再インポートしてください。
+Google翻訳：写真％s（スキーマ％d）によって作成されたようです。このバージョンは％s（スキーマ％d）です。 ％sを削除してライブラリをクリアし、写真を再インポートしてください。
+
+原文：Unknown Error Attempting To Verify Photos' Database
+筆者訳：“フォト”のデータベースの検査中に不明なエラーが発生しました
+Google翻訳：写真のデータベースを確認しようとしたときに不明なエラーが発生しました
+
+原文：Loading Photos
+筆者訳：“フォト”を読み込んでいます
+Google翻訳：写真を読み込んでいます
+
+原文：Path to Photos' private data
+筆者訳：“フォト”のプライベートデータのパス
+Google翻訳：写真の個人データへのパス
+
+原文：DIRECTORY
+筆者訳：ディレクトリ
+Google翻訳：ディレクトリ
+
+原文：Do not monitor library directory at runtime for changes
+筆者訳：変更処理実行時にライブラリのディレクトリを監視しない
+Google翻訳：実行時にライブラリディレクトリの変更を監視しないでください
+
+原文：Don't display startup progress meter
+筆者訳：起動時のプログレスバーを表示しない
+Google翻訳：起動進捗メーターを表示しない
+
+原文：Show the application's version
+筆者訳：アプリケーションのバージョンを表示します
+Google翻訳：アプリケーションのバージョンを表示する
+
+原文：Show extra debugging output
+筆者訳：追加のデバッグ出力を表示します
+Google翻訳：追加のデバッグ出力を表示する
+
+原文：[FILE]
+筆者訳：[ファイル]
+Google翻訳：[ファイル]
+
+原文：Run '%s --help' to see a full list of available command line options.
+
+筆者訳：利用可能なコマンドラインオプションの一覧を表示するには '%s --help' を実行してください。
+
+Google翻訳：'％s --help'を実行して、使用可能なコマンドラインオプションの完全なリストを表示します。
+
+
+原文：Unable to process monitoring updates: %s
+筆者訳：監視中のアップデートを処理できませんでした: %s
+Google翻訳：監視の更新を処理できません：％s
+
+原文：modified
+筆者訳：変更済み
+Google翻訳：変更
+
+原文：Fill the entire page
+筆者訳：ページ全体に合わせる
+Google翻訳：ページ全体を埋める
+
+原文：2 images per page
+筆者訳：ページあたり画像2枚
+Google翻訳：1ページに2枚の画像
+
+原文：4 images per page
+筆者訳：ページあたり画像4枚
+Google翻訳：1ページに4枚の画像
+
+原文：6 images per page
+筆者訳：ページあたり画像6枚
+Google翻訳：1ページあたり6枚の画像
+
+原文：8 images per page
+筆者訳：ページあたり画像8枚
+Google翻訳：1ページあたり8枚の画像
+
+原文：16 images per page
+筆者訳：ページあたり画像16枚
+Google翻訳：1ページあたり16枚の画像
+
+原文：32 images per page
+筆者訳：ページあたり画像32枚
+Google翻訳：1ページあたり32枚の画像
+
+原文：Wallet (2 x 3 in.)
+筆者訳：ウォレット (2 x 3 インチ)
+Google翻訳：ウォレット（2 x 3インチ）
+
+原文：Notecard (3 x 5 in.)
+筆者訳：ノートカード (3 x 5 インチ)
+Google翻訳：ノートカード（3 x 5インチ）
+
+原文：4 x 6 in.
+筆者訳：4 x 6 インチ
+Google翻訳：4 x6インチ
+
+原文：5 x 7 in.
+筆者訳：5 x 7 インチ
+Google翻訳：5 x7インチ
+
+原文：8 x 10 in.
+筆者訳：8 x 10 インチ
+Google翻訳：8 x10インチ
+
+原文：11 x 14 in.
+筆者訳：11 x 14 インチ
+Google翻訳：11 x14インチ
+
+原文：16 x 20 in.
+筆者訳：16 x 20 インチ
+Google翻訳：16 x20インチ
+
+原文：Metric Wallet (9 x 13 cm)
+筆者訳：メトリック・ウォレット (9 x 13 cm)
+Google翻訳：メートル法の財布（9 x 13 cm）
+
+原文：Postcard (10 x 15 cm)
+筆者訳：ポストカード (10 x 15 cm)
+Google翻訳：はがき（10 x 15 cm）
+
+原文：Image Settings
+筆者訳：画像の設定
+Google翻訳：画像設定
+
+原文：Printing…
+筆者訳：印刷しています…
+Google翻訳：印刷…
+
+原文：Unable to print photo:
+
+%s
+筆者訳：写真を印刷できません:
+
+%s
+Google翻訳：写真を印刷できません：
+
+％s
+
+原文：Photos
+筆者訳：フォト
+Google翻訳：写真
+
+原文：Photo Manager
+筆者訳：フォトマネージャー
+Google翻訳：フォトマネージャー
+
+原文：Photo Viewer
+筆者訳：フォトビューアー
+Google翻訳：フォトビューアー
+
+原文：Rotate _Right
+筆者訳：右回転(_R)
+Google翻訳：右に回る
+
+原文：Rotate Right
+筆者訳：右回転
+Google翻訳：右に回る
+
+原文：Rotate the photos right (press Ctrl to rotate left)
+筆者訳：写真を右に回転します (Ctrl を押すと左に回転します)
+Google翻訳：写真を右に回転します（Ctrlキーを押して左に回転します）
+
+原文：Rotate _Left
+筆者訳：左回転(_L)
+Google翻訳：左に回転
+
+原文：Rotate Left
+筆者訳：左回転
+Google翻訳：左に回転
+
+原文：Rotate the photos left
+筆者訳：写真を左に回転します
+Google翻訳：写真を左に回転
+
+原文：Flip Hori_zontally
+筆者訳：左右反転(_Z)
+Google翻訳：Hori_zontallyを反転します
+
+原文：Flip Horizontally
+筆者訳：左右反転
+Google翻訳：水平方向に反転
+
+原文：Flip the image horizontally (press Ctrl to flip vertically)
+筆者訳：画像を水平方向に反転します (Ctrl を押すと垂直方向に反転します)
+Google翻訳：画像を水平方向に反転します（Ctrlキーを押して垂直方向に反転します）
+
+原文：Flip Verti_cally
+筆者訳：上下反転(_C)
+Google翻訳：Verti_callyを反転します
+
+原文：Flip Vertically
+筆者訳：上下反転
+Google翻訳：垂直に反転
+
+原文：Flip the image vertically
+筆者訳：画像を垂直方向に反転
+Google翻訳：画像を垂直方向に反転します
+
+原文：_Enhance
+筆者訳：強調(_E)
+Google翻訳：_強化する
+
+原文：Enhance
+筆者訳：強調
+Google翻訳：強化する
+
+原文：Automatically improve the photo's appearance 
+(Overwrites previous color adjustments)
+筆者訳：自動的に写真の見た目を向上させます
+(以前の色調整を上書きします)
+Google翻訳：写真の外観を自動的に改善します
+（以前の色調整を上書きします）
+
+原文：Revert _Enhancement
+筆者訳：補正を元に戻す(_E)
+Google翻訳：_Enhancementを元に戻す
+
+原文：Revert Enhancement
+筆者訳：補正を元に戻す
+Google翻訳：エンハンスメントを元に戻す
+
+原文：_Copy Color Adjustments
+筆者訳：色調整をコピー(_C)
+Google翻訳：_コピーカラー調整
+
+原文：_Paste Color Adjustments
+筆者訳：色調整を貼り付け(_P)
+Google翻訳：_貼り付け色の調整
+
+原文：Paste Color Adjustments
+筆者訳：色調整を貼り付け
+Google翻訳：貼り付け色の調整
+
+原文：Apply copied color adjustments to the selected photos
+筆者訳：コピーした色調整を選択された写真へ適用します
+Google翻訳：選択した写真にコピーした色調整を適用します
+
+原文：Crop
+筆者訳：切り抜く
+Google翻訳：作物
+
+原文：Crop the photo's size
+筆者訳：写真サイズを切り抜きます
+Google翻訳：写真のサイズを切り抜く
+
+原文：Straighten
+筆者訳：傾き補正
+Google翻訳：まっすぐにする
+
+原文：Straighten the photo
+筆者訳：写真の傾きを補正します
+Google翻訳：写真をまっすぐにする
+
+原文：Red-eye
+筆者訳：赤目
+Google翻訳：赤眼
+
+原文：Reduce or eliminate any red-eye effects in the photo
+筆者訳：写真のすべての赤目現象を軽減または除去します
+Google翻訳：写真の赤目効果を減らすか、なくします
+
+原文：Adjust
+筆者訳：調整
+Google翻訳：調整
+
+原文：Adjust the photo's color and tone
+筆者訳：写真の色とトーンを調整します
+Google翻訳：写真の色とトーンを調整します
+
+原文：Re_vert to Original
+筆者訳：元に戻す(_V)
+Google翻訳：元に戻す
+
+原文：Revert to Original
+筆者訳：元の状態に戻す
+Google翻訳：元に戻す
+
+原文：Re_name Event…
+筆者訳：イベント名の変更(_N)…
+Google翻訳：Re_nameイベント…
+
+原文：Rename Event
+筆者訳：イベント名を変更
+Google翻訳：イベントの名前を変更
+
+原文：Make _Key Photo for Event
+筆者訳：イベントのキー写真に設定(_K)
+Google翻訳：イベントの_KeyPhotoを作成する
+
+原文：Make Key Photo for Event
+筆者訳：イベントのキーとなる写真に設定します
+Google翻訳：イベントのキー写真を作成する
+
+原文：_New Event
+筆者訳：新しいイベント(_N)
+Google翻訳：_新しいイベント
+
+原文：New Event
+筆者訳：新しいイベント
+Google翻訳：新しいイベント
+
+原文：Move Photos
+筆者訳：写真を移動
+Google翻訳：写真を移動する
+
+原文：Move photos to an event
+筆者訳：写真をイベントに移動します
+Google翻訳：写真をイベントに移動する
+
+原文：_Merge Events
+筆者訳：イベントを統合(_M)
+Google翻訳：_マージイベント
+
+原文：Merge
+筆者訳：統合
+Google翻訳：マージ
+
+原文：Combine events into a single event
+筆者訳：イベントを一つにまとめる
+Google翻訳：イベントを1つのイベントに結合する
+
+原文：_Filter Photos
+筆者訳：写真のフィルタリング(_F)
+Google翻訳：_フィルター写真
+
+原文：_Duplicate
+筆者訳：複製(_D)
+Google翻訳：_複製
+
+原文：Duplicate
+筆者訳：複製
+Google翻訳：複製
+
+原文：Make a duplicate of the photo
+筆者訳：写真の複製を作成します
+Google翻訳：写真の複製を作成します
+
+原文：_Export…
+筆者訳：エクスポート(_E)…
+Google翻訳：_輸出…
+
+原文：Show info panel
+筆者訳：情報パネルを表示します
+Google翻訳：情報パネルを表示
+
+原文：Hide info panel
+筆者訳：情報パネルを非表示にします
+Google翻訳：情報パネルを非表示
+
+原文：_Print…
+筆者訳：印刷(_P)…
+Google翻訳：_印刷…
+
+原文：Pu_blish…
+筆者訳：公開(_B)…
+Google翻訳：公開…
+
+原文：Publish to various websites
+筆者訳：さまざまな Web サイトに公開します
+Google翻訳：さまざまなWebサイトに公開する
+
+原文：Edit Title
+筆者訳：タイトルの編集
+Google翻訳：タイトルを編集
+
+原文：Edit Comment
+筆者訳：コメントの編集
+Google翻訳：コメントを編集
+
+原文：_Adjust Date and Time…
+筆者訳：日付と時刻の調整(_A)…
+Google翻訳：_日付と時刻を調整…
+
+原文：Adjust Date and Time
+筆者訳：日付と時刻の調整
+Google翻訳：日付と時刻を調整する
+
+原文：_Open In
+筆者訳：指定した方法で開く(_O)
+Google翻訳：_Open In
+
+原文：_Open With RAW Editor…
+筆者訳：RAW エディターで開く(_O)…
+Google翻訳：_RAWエディターで開く…
+
+原文：Find
+筆者訳：検索
+Google翻訳：探す
+
+原文：_Flag
+筆者訳：フラグを付ける(_F)
+Google翻訳：_国旗
+
+原文：Un_flag
+筆者訳：フラグを外す(_F)
+Google翻訳：Un_flag
+
+原文：Unable to launch editor: %s
+筆者訳：エディターを起動できません: %s
+Google翻訳：エディターを起動できません：％s
+
+原文：Add Tag "%s"
+筆者訳：タグ "%s" を追加
+Google翻訳：タグを追加する"
+
+原文：Add Tags "%s" and "%s"
+筆者訳：タグ "%s" と "%s" を追加
+Google翻訳：タグ「％s」と「％s」を追加
+
+原文：Add Tags
+筆者訳：タグを追加
+Google翻訳：タグを追加する
+
+原文：_Delete Tag "%s"
+筆者訳：タグ "%s" を削除(_D)
+Google翻訳：_タグ "％s"を削除
+
+原文：Delete Tag "%s"
+筆者訳：タグ "%s" を削除
+Google翻訳：タグ「％s」を削除
+
+原文：Delete Tag
+筆者訳：タグを削除
+Google翻訳：タグを削除
+
+原文：_Delete
+筆者訳：削除(_D)
+Google翻訳：_消去
+
+原文：_New
+筆者訳：新規(_N)
+Google翻訳：_新しい
+
+原文：Re_name Tag "%s"…
+筆者訳：タグ "%s" の名前を変更(_N)…
+Google翻訳：Re_nameタグ "％s"…
+
+原文：Rename Tag "%s" to "%s"
+筆者訳：タグ "%s" の名前を "%s" に変更します
+Google翻訳：タグ「％s」の名前を「％s」に変更
+
+原文：_Rename…
+筆者訳：名前を変更(_R)…
+Google翻訳：_名前の変更…
+
+原文：Modif_y Tags…
+筆者訳：タグを修正(_Y)…
+Google翻訳：Modif_yタグ…
+
+原文：Modify Tags
+筆者訳：タグを修正
+Google翻訳：タグを変更する
+
+原文（単数形）：Tag Photo as "%s"
+原文（複数形）：Tag Photos as "%s"
+筆者訳：写真にタグ "%s" を付ける
+Google翻訳：写真に「％s」のタグを付ける
+
+原文（単数形）：Remove Tag "%s" From _Photo
+原文（複数形）：Remove Tag "%s" From _Photos
+筆者訳：写真からタグ "%s" を削除(_P)
+Google翻訳：_Photoからタグ "％s"を削除します
+
+原文（単数形）：Remove Tag "%s" From Photo
+原文（複数形）：Remove Tag "%s" From Photos
+筆者訳：写真からタグ "%s" を削除します
+Google翻訳：写真からタグ「％s」を削除
+
+原文：Unable to rename tag to "%s" because the tag already exists.
+筆者訳：すでにタグが存在しているため、タグ名を "%s" に変更できません。
+Google翻訳：タグがすでに存在するため、タグの名前を「％s」に変更できません。
+
+原文：Unable to rename search to "%s" because the search already exists.
+筆者訳：すでに検索が存在しているため、検索名を "%s" に変更できません。
+Google翻訳：検索がすでに存在するため、検索の名前を「％s」に変更できません。
+
+原文：Smart Album
+筆者訳：スマートアルバム
+Google翻訳：スマートアルバム
+
+原文：Delete Album
+筆者訳：アルバムを削除
+Google翻訳：アルバムを削除
+
+原文：_Edit…
+筆者訳：編集(_E)…
+Google翻訳：_編集…
+
+原文：Re_name…
+筆者訳：名前を変更(_N)…
+Google翻訳：Re_name…
+
+原文：Rename Search "%s" to "%s"
+筆者訳：検索 "%s" の名前を "%s" に変更します
+Google翻訳：検索の名前を「％s」から「％s」に変更
+
+原文：Delete Search "%s"
+筆者訳：検索 "%s" を削除
+Google翻訳：検索「％s」を削除
+
+原文：_Delete Selection
+筆者訳：選択項目を削除(_D)
+Google翻訳：_選択を削除
+
+原文：Remove the selected photos from the trash
+筆者訳：選択された写真をゴミ箱から削除します
+Google翻訳：選択した写真をゴミ箱から削除します
+
+原文：Remove the selected photos from the library
+筆者訳：選択された写真をライブラリから削除します
+Google翻訳：選択した写真をライブラリから削除します
+
+原文：_Restore Selection
+筆者訳：選択項目を復元(_R)
+Google翻訳：_選択を復元
+
+原文：Move the selected photos back into the library
+筆者訳：選択された写真をライブラリに戻します
+Google翻訳：選択した写真をライブラリに戻します
+
+原文：File Mana_ger
+筆者訳：ファイルマネージャー(_G)
+Google翻訳：ファイルマネージャー
+
+原文：Unable to open in file manager: %s
+筆者訳：ファイルマネージャーで開けません: %s
+Google翻訳：ファイルマネージャで開くことができません：％s
+
+原文：R_emove From Library
+筆者訳：ライブラリから削除(_E)
+Google翻訳：ライブラリからのR_emove
+
+原文：_Move to Trash
+筆者訳：ゴミ箱に移動(_M)
+Google翻訳：_ゴミ箱に移動
+
+原文：Select _All
+筆者訳：すべて選択(_A)
+Google翻訳：すべて選択
+
+原文：Select all items
+筆者訳：すべての項目を選択します
+Google翻訳：すべてのアイテムを選択
+
+原文：%-I:%M %p
+筆者訳：%p %-I:%M
+Google翻訳：％-I：％M％p
+
+原文：%-I:%M:%S %p
+筆者訳：%p %-I:%M:%S
+Google翻訳：％-I：％M：％S％p
+
+原文：%a %b %d, %Y
+筆者訳：%Y年%m月%d日 (%a)
+Google翻訳：％a％b％d、％Y
+
+原文：%a %b %d
+筆者訳：%m月%d日 (%a)
+Google翻訳：％a％b％d
+
+原文：Search Photos
+筆者訳：写真を検索
+Google翻訳：写真を検索
+
+原文：untitled
+筆者訳：名称未設定
+Google翻訳：無題
+
+原文：Export Videos
+筆者訳：動画をエクスポート
+Google翻訳：ビデオのエクスポート
+
+原文：Cameras
+筆者訳：カメラ
+Google翻訳：カメラ
+
+原文：Camera
+筆者訳：カメラ
+Google翻訳：カメラ
+
+原文：_Apply
+筆者訳：適用(_A)
+Google翻訳：_申し込み
+
+原文：AM
+筆者訳：午前
+Google翻訳：午前
+
+原文：PM
+筆者訳：午後
+Google翻訳：午後
+
+原文：24 Hr
+筆者訳：24時間
+Google翻訳：24時間
+
+原文：_Shift photos/videos by the same amount
+筆者訳：写真と動画を同じ時間だけずらす(_S)
+Google翻訳：_写真/ビデオを同じ量だけシフトする
+
+原文：Set _all photos/videos to this time
+筆者訳：すべての写真と動画をこの時間に設定(_A)
+Google翻訳：_all photos / videosをこの時間に設定します
+
+原文（単数形）：_Modify original photo file
+原文（複数形）：_Modify original photo files
+筆者訳：元の写真ファイルを修正(_M)
+Google翻訳：_元の写真ファイルを変更する
+
+原文（単数形）：_Modify original file
+原文（複数形）：_Modify original files
+筆者訳：元のファイルを修正(_M)
+Google翻訳：_元のファイルを変更する
+
+原文：Original: %s
+筆者訳：元のファイル: %s
+Google翻訳：オリジナル：％s
+
+原文：%m/%d/%Y, %H:%M:%S
+筆者訳：%Y年%m月%d日 %H:%M:%S
+Google翻訳：％m /％d /％Y、％H：％M：％S
+
+原文：%m/%d/%Y, %I:%M:%S %p
+筆者訳：%Y年%m月%d日 %p %I:%M:%S
+Google翻訳：％m /％d /％Y、％I：％M：％S％p
+
+原文：Exposure time will be shifted forward by
+%d %s, %d %s, %d %s, and %d %s.
+筆者訳：撮影時刻を以下の時間だけ未来に進めます
+%d %s %d %s %d %s %d %s
+Google翻訳：露光時間は前にシフトされます
+％d％s、％d％s、％d％s、および％d％s。
+
+原文：Exposure time will be shifted backward by
+%d %s, %d %s, %d %s, and %d %s.
+筆者訳：撮影時刻を以下の時間だけ過去に戻します
+%d %s %d %s %d %s %d %s
+Google翻訳：露光時間は後方にシフトされます
+％d％s、％d％s、％d％s、および％d％s。
+
+原文（単数形）：day
+原文（複数形）：days
+筆者訳：日
+Google翻訳：日
+
+原文（単数形）：hour
+原文（複数形）：hours
+筆者訳：時間
+Google翻訳：時間
+
+原文（単数形）：minute
+原文（複数形）：minutes
+筆者訳：分
+Google翻訳：分
+
+原文（単数形）：second
+原文（複数形）：seconds
+筆者訳：秒
+Google翻訳：2番目
+
+原文（単数形）：This will remove the tag "%s" from one photo. Continue?
+原文（複数形）：This will remove the tag "%s" from %d photos. Continue?
+筆者訳：この操作はタグ "%s" を%d枚の写真から削除します。続行しますか？
+Google翻訳：これにより、1枚の写真からタグ「％s」が削除されます。継続する？
+
+原文：This will remove the smart album "%s". Continue?
+筆者訳：この操作はスマートアルバム "%s" を削除します。続行しますか？
+Google翻訳：これにより、スマートアルバム「％s」が削除されます。継続する？
+
+原文（単数形）：Switching developers will undo all changes you have made to this photo in Photos
+原文（複数形）：Switching developers will undo all changes you have made to these photos in Photos
+筆者訳：現像を切り替えると、“フォト”内の写真に加えたすべての変更は元に戻ります
+Google翻訳：開発者を切り替えると、フォトでこの写真に加えたすべての変更が取り消されます
+
+原文：Are You Sure You Want to Switch Developers?
+筆者訳：現像を切り替えてもよろしいですか？
+Google翻訳：開発者を切り替えてもよろしいですか？
+
+原文：_Switch Developer
+筆者訳：現像を変更(_S)
+Google翻訳：_Switch開発者
+
+原文：Export Video
+筆者訳：動画をエクスポート
+Google翻訳：ビデオのエクスポート
+
+原文（単数形）：Export Photo
+原文（複数形）：Export Photos
+筆者訳：写真をエクスポート
+Google翻訳：写真のエクスポート
+
+原文：_Save
+筆者訳：保存(_S)
+Google翻訳：_保存する
+
+原文：Export Photos
+筆者訳：写真をエクスポート
+Google翻訳：写真のエクスポート
+
+原文：_Select
+筆者訳：選択(_S)
+Google翻訳：_選択する
+
+原文：Photos couldn't create a file for editing this photo because you do not have permission to write to %s.
+筆者訳：%s への書き込み権限がないため、“フォト”はこの写真を編集する際のファイルを作成できませんでした。
+Google翻訳：％sに書き込む権限がないため、写真はこの写真を編集するためのファイルを作成できませんでした。
+
+原文：Unable to export the following photo due to a file error.
+
+
+筆者訳：ファイルエラーのため以下の写真をエクスポートできません。
+
+
+Google翻訳：ファイルエラーのため、次の写真をエクスポートできません。
+
+
+
+原文：
+
+Would you like to continue exporting?
+筆者訳：
+
+エクスポートを続行しますか？
+Google翻訳：
+
+エクスポートを続行しますか？
+
+原文：Con_tinue
+筆者訳：続行(_T)
+Google翻訳：継続する
+
+原文：Save Details…
+筆者訳：詳細を保存…
+Google翻訳：詳細を保存…
+
+原文：Save Details
+筆者訳：詳細を保存
+Google翻訳：詳細を保存
+
+原文：(and %d more)
+
+筆者訳：(そのほか%d項目)
+
+Google翻訳：（および％d以上）
+
+
+原文：Import Results Report
+筆者訳：インポート結果のレポート
+Google翻訳：インポート結果レポート
+
+原文（単数形）：Attempted to import %d file.
+原文（複数形）：Attempted to import %d files.
+筆者訳：%d個のファイルのインポートを試みました。
+Google翻訳：％dファイルをインポートしようとしました。
+
+原文（単数形）：Of these, %d file was successfully imported.
+原文（複数形）：Of these, %d files were successfully imported.
+筆者訳：以下の%d個のファイルは正常にインポートされました。
+Google翻訳：これらのうち、％dファイルは正常にインポートされました。
+
+原文：Duplicate Photos/Videos Not Imported:
+筆者訳：重複した写真または動画はインポートされませんでした:
+Google翻訳：インポートされていない重複した写真/ビデオ：
+
+原文：duplicates existing media item
+筆者訳：は、以下の既存のメディア項目と重複しています
+Google翻訳：既存のメディアアイテムを複製します
+
+原文：Photos/Videos Not Imported Due to Camera Errors:
+筆者訳：カメラ側のエラーにより、写真または動画はインポートされませんでした:
+Google翻訳：カメラエラーのためにインポートされない写真/ビデオ：
+
+原文：error message:
+筆者訳：エラーメッセージ:
+Google翻訳：エラーメッセージ：
+
+原文：Files Not Imported Because They Weren't Recognized as Photos or Videos:
+筆者訳：写真または動画として認識されなかったため、ファイルはインポートされませんでした:
+Google翻訳：写真またはビデオとして認識されなかったためにインポートされなかったファイル：
+
+原文：Photos/Videos Not Imported Because They Weren't in a Format Photos Understands:
+筆者訳：“フォト”が認識できる形式ではなかったため、写真または動画はインポートされませんでした:
+Google翻訳：写真/ビデオがフォーマットされていないためにインポートされない写真が理解する：
+
+原文：Photos/Videos Not Imported Because Photos Couldn't Copy Them into its Library:
+筆者訳：“フォト”がライブラリにコピーできなかったため、写真または動画はインポートされませんでした:
+Google翻訳：写真をライブラリにコピーできなかったため、写真/ビデオがインポートされませんでした。
+
+原文：couldn't copy %s
+	to %s
+筆者訳：%s を %s にコピー
+	できませんでした
+Google翻訳：％sをコピーできませんでした
+％sへ
+
+原文：Photos/Videos Not Imported Because Files Are Corrupt:
+筆者訳：ファイルが壊れているため、写真または動画はインポートされませんでした:
+Google翻訳：ファイルが破損しているためにインポートされない写真/ビデオ：
+
+原文：Photos/Videos Not Imported for Other Reasons:
+筆者訳：ほかの理由により写真または動画はインポートされませんでした:
+Google翻訳：他の理由でインポートされていない写真/ビデオ：
+
+原文（単数形）：1 duplicate photo was not imported:
+
+原文（複数形）：%d duplicate photos were not imported:
+
+筆者訳：%d枚の重複した写真はインポートされませんでした:
+
+Google翻訳：1枚の重複写真がインポートされませんでした：
+
+
+原文（単数形）：1 duplicate video was not imported:
+
+原文（複数形）：%d duplicate videos were not imported:
+
+筆者訳：%d本の重複した動画はインポートされませんでした:
+
+Google翻訳：1つの重複したビデオがインポートされませんでした：
+
+
+原文（単数形）：1 duplicate photo/video was not imported:
+
+原文（複数形）：%d duplicate photos/videos were not imported:
+
+筆者訳：%d個の重複した写真または動画はインポートされませんでした:
+
+Google翻訳：1つの重複した写真/ビデオがインポートされませんでした：
+
+
+原文（単数形）：1 photo failed to import due to a file or hardware error:
+
+原文（複数形）：%d photos failed to import due to a file or hardware error:
+
+筆者訳：ファイルまたはハードウェアエラーのため、%d枚の写真をインポートできませんでした:
+
+Google翻訳：ファイルまたはハードウェアエラーのため、1枚の写真をインポートできませんでした：
+
+
+原文（単数形）：1 video failed to import due to a file or hardware error:
+
+原文（複数形）：%d videos failed to import due to a file or hardware error:
+
+筆者訳：ファイルまたはハードウェアエラーのため、%d本の動画はインポートに失敗しました:
+
+Google翻訳：ファイルまたはハードウェアエラーのため、1つのビデオをインポートできませんでした：
+
+
+原文（単数形）：1 photo/video failed to import due to a file or hardware error:
+
+原文（複数形）：%d photos/videos failed to import due to a file or hardware error:
+
+筆者訳：ファイルまたはハードウェアエラーのため、%d個の写真と動画をインポートできませんでした:
+
+Google翻訳：ファイルまたはハードウェアエラーのため、1枚の写真/ビデオをインポートできませんでした：
+
+
+原文（単数形）：1 file failed to import due to a file or hardware error:
+
+原文（複数形）：%d files failed to import due to a file or hardware error:
+
+筆者訳：ファイルまたはハードウェアエラーのため、%d個のファイルをインポートできませんでした:
+
+Google翻訳：ファイルまたはハードウェアエラーのため、1つのファイルをインポートできませんでした：
+
+
+原文（単数形）：1 photo failed to import because the photo library folder was not writable:
+
+原文（複数形）：%d photos failed to import because the photo library folder was not writable:
+
+筆者訳：写真ライブラリフォルダーが書き込み可能ではないため、%d枚の写真をインポートできませんでした:
+
+Google翻訳：フォトライブラリフォルダが書き込み可能ではなかったため、1枚の写真をインポートできませんでした。
+
+
+原文（単数形）：1 video failed to import because the photo library folder was not writable:
+
+原文（複数形）：%d videos failed to import because the photo library folder was not writable:
+
+筆者訳：写真ライブラリフォルダーが書き込み可能ではないため、%d本の動画をインポートできませんでした:
+
+Google翻訳：フォトライブラリフォルダが書き込み可能ではなかったため、1つのビデオをインポートできませんでした：
+
+
+原文（単数形）：1 photo/video failed to import because the photo library folder was not writable:
+
+原文（複数形）：%d photos/videos failed to import because the photo library folder was not writable:
+
+筆者訳：写真ライブラリフォルダーが書き込み可能ではないため、%d個の写真と動画をインポートできませんでした:
+
+Google翻訳：フォトライブラリフォルダが書き込み可能ではなかったため、1枚の写真/ビデオをインポートできませんでした：
+
+
+原文（単数形）：1 file failed to import because the photo library folder was not writable:
+
+原文（複数形）：%d files failed to import because the photo library folder was not writable:
+
+筆者訳：写真ライブラリフォルダーが書き込み可能ではないため、%d個のファイルをインポートできませんでした:
+
+Google翻訳：フォトライブラリフォルダが書き込み可能ではなかったため、1つのファイルをインポートできませんでした。
+
+
+原文（単数形）：1 photo failed to import due to a camera error:
+
+原文（複数形）：%d photos failed to import due to a camera error:
+
+筆者訳：カメラのエラーのため、%d枚の写真をインポートできませんでした:
+
+Google翻訳：カメラエラーのため、1枚の写真をインポートできませんでした：
+
+
+原文（単数形）：1 video failed to import due to a camera error:
+
+原文（複数形）：%d videos failed to import due to a camera error:
+
+筆者訳：カメラのエラーのため、%d本の動画をインポートできませんでした:
+
+Google翻訳：カメラエラーが原因で1本のビデオをインポートできませんでした：
+
+
+原文（単数形）：1 photo/video failed to import due to a camera error:
+
+原文（複数形）：%d photos/videos failed to import due to a camera error:
+
+筆者訳：カメラのエラーのため、%d個の写真と動画をインポートできませんでした:
+
+Google翻訳：カメラエラーのため、1枚の写真/ビデオをインポートできませんでした：
+
+
+原文（単数形）：1 file failed to import due to a camera error:
+
+原文（複数形）：%d files failed to import due to a camera error:
+
+筆者訳：カメラのエラーのため、%d個のファイルをインポートできませんでした:
+
+Google翻訳：カメラエラーのため、1つのファイルをインポートできませんでした：
+
+
+原文（単数形）：1 photo failed to import because it was corrupt:
+
+原文（複数形）：%d photos failed to import because they were corrupt:
+
+筆者訳：破損しているため、%d枚の写真をインポートできませんでした:
+
+Google翻訳：1枚の写真が破損しているためインポートに失敗しました：
+
+
+原文（単数形）：1 video failed to import because it was corrupt:
+
+原文（複数形）：%d videos failed to import because they were corrupt:
+
+筆者訳：破損しているため、%d本の動画をインポートできませんでした:
+
+Google翻訳：1つのビデオが破損しているため、インポートに失敗しました：
+
+
+原文（単数形）：1 photo/video failed to import because it was corrupt:
+
+原文（複数形）：%d photos/videos failed to import because they were corrupt:
+
+筆者訳：破損しているため、%d個の写真と動画をインポートできませんでした:
+
+Google翻訳：1枚の写真/ビデオが破損しているためインポートに失敗しました：
+
+
+原文（単数形）：1 file failed to import because it was corrupt:
+
+原文（複数形）：%d files failed to import because it was corrupt:
+
+筆者訳：破損しているため、%d個のファイルをインポートできませんでした:
+
+Google翻訳：1つのファイルが破損しているため、インポートに失敗しました：
+
+
+原文（単数形）：1 unsupported photo skipped:
+
+原文（複数形）：%d unsupported photos skipped:
+
+筆者訳：%d枚のサポートされていない写真をスキップしました:
+
+Google翻訳：サポートされていない写真1枚がスキップされました：
+
+
+原文（単数形）：1 non-image file skipped.
+
+原文（複数形）：%d non-image files skipped.
+
+筆者訳：%d個の画像以外のファイルをスキップしました。
+
+Google翻訳：1つの非画像ファイルがスキップされました。
+
+
+原文（単数形）：1 photo skipped due to user cancel:
+
+原文（複数形）：%d photos skipped due to user cancel:
+
+筆者訳：ユーザのキャンセルにより%d枚の写真をスキップしました:
+
+Google翻訳：ユーザーがキャンセルしたために1枚の写真がスキップされました：
+
+
+原文（単数形）：1 video skipped due to user cancel:
+
+原文（複数形）：%d videos skipped due to user cancel:
+
+筆者訳：ユーザのキャンセルにより%d本の動画をスキップしました:
+
+Google翻訳：ユーザーがキャンセルしたために1本の動画がスキップされました：
+
+
+原文（単数形）：1 photo/video skipped due to user cancel:
+
+原文（複数形）：%d photos/videos skipped due to user cancel:
+
+筆者訳：ユーザのキャンセルにより%d個の写真と動画をスキップしました:
+
+Google翻訳：ユーザーがキャンセルしたために1枚の写真/ビデオがスキップされました：
+
+
+原文（単数形）：1 file skipped due to user cancel:
+
+原文（複数形）：%d file skipped due to user cancel:
+
+筆者訳：ユーザのキャンセルにより%d個のファイルをスキップしました:
+
+Google翻訳：ユーザーがキャンセルしたために1つのファイルがスキップされました：
+
+
+原文（単数形）：1 photo successfully imported.
+
+原文（複数形）：%d photos successfully imported.
+
+筆者訳：%d枚の写真は正常にインポートされました。
+
+Google翻訳：1枚の写真が正常にインポートされました。
+
+
+原文（単数形）：1 video successfully imported.
+
+原文（複数形）：%d videos successfully imported.
+
+筆者訳：%d本の動画は正常にインポートされました。
+
+Google翻訳：1本のビデオが正常にインポートされました。
+
+
+原文（単数形）：1 photo/video successfully imported.
+
+原文（複数形）：%d photos/videos successfully imported.
+
+筆者訳：%d個の写真と動画は正常にインポートされました。
+
+Google翻訳：1枚の写真/ビデオが正常にインポートされました。
+
+
+原文：No photos or videos imported.
+
+筆者訳：インポートした写真または動画はありません。
+
+Google翻訳：写真やビデオはインポートされません。
+
+
+原文：Import Complete
+筆者訳：インポート完了
+Google翻訳：インポート完了
+
+原文：_Done
+筆者訳：完了(_D)
+Google翻訳：_終わり
+
+原文：Name:
+筆者訳：名前:
+Google翻訳：名前：
+
+原文（単数形）：Revert External Edit?
+原文（複数形）：Revert External Edits?
+筆者訳：外部での編集を元に戻しますか？
+Google翻訳：外部編集を元に戻しますか？
+
+原文（単数形）：This will destroy all changes made to the external file. Continue?
+原文（複数形）：This will destroy all changes made to %d external files. Continue?
+筆者訳：この操作は%d個の外部ファイルに対して行なったすべての変更点を破棄します。続行しますか？
+Google翻訳：これにより、外部ファイルに加えられたすべての変更が破棄されます。継続する？
+
+原文（単数形）：Re_vert External Edit
+原文（複数形）：Re_vert External Edits
+筆者訳：外部での編集を元に戻す(_V)
+Google翻訳：Re_vert外部編集
+
+原文：Remove Photo From Library
+筆者訳：ライブラリから写真を削除
+Google翻訳：ライブラリから写真を削除する
+
+原文：Remove Photos From Library
+筆者訳：ライブラリから写真を削除
+Google翻訳：ライブラリから写真を削除する
+
+原文（単数形）：This will remove the photo from the library. Continue?
+原文（複数形）：This will remove %d photos from the library. Continue?
+筆者訳：この操作はライブラリから%d枚の写真を削除します。続行しますか？
+Google翻訳：これにより、ライブラリから写真が削除されます。継続する？
+
+原文：_Remove
+筆者訳：削除(_R)
+Google翻訳：_削除する
+
+原文（単数形）：
+
+And %d other.
+原文（複数形）：
+
+And %d others.
+筆者訳：
+
+そのほか%d項目。
+Google翻訳：
+
+そして％dその他。
+
+原文：Photos can copy the photos into your library folder or it can import them without copying.
+筆者訳：“フォト”はライブラリフォルダーに写真をコピーしたり、写真をコピーせずにインポートしたりすることができます。
+Google翻訳：写真は、写真をライブラリフォルダーにコピーすることも、コピーせずにインポートすることもできます。
+
+原文：Import to Library
+筆者訳：ライブラリにインポート
+Google翻訳：ライブラリにインポート
+
+原文：Co_py Photos
+筆者訳：写真をコピー(_P)
+Google翻訳：Co_py写真
+
+原文：_Import in Place
+筆者訳：元の場所でインポート(_I)
+Google翻訳：_インプレースでインポート
+
+原文：Remove From Library
+筆者訳：ライブラリから削除
+Google翻訳：ライブラリから削除
+
+原文（単数形）：Removing Photo From Library
+原文（複数形）：Removing Photos From Library
+筆者訳：ライブラリから写真を削除しています
+Google翻訳：ライブラリから写真を削除する
+
+原文（単数形）：The photo or video cannot be deleted.
+原文（複数形）：%d photos/videos cannot be deleted.
+筆者訳：%d個の写真と動画を削除できません。
+Google翻訳：写真や動画は削除できません。
+
+原文：Unmodified
+筆者訳：変更なし
+Google翻訳：変更なし
+
+原文：Current
+筆者訳：現在のファイル形式
+Google翻訳：電流
+
+原文：_Format:
+筆者訳：形式(_F):
+Google翻訳：_フォーマット：
+
+原文：_Quality:
+筆者訳：品質(_Q):
+Google翻訳：_品質：
+
+原文：_Scaling constraint:
+筆者訳：サイズ変更の基準(_S):
+Google翻訳：_スケーリング制約：
+
+原文：_Size in pixels:
+筆者訳：サイズ (ピクセル) (_S):
+Google翻訳：_ピクセル単位のサイズ：
+
+原文：Export metadata
+筆者訳：メタデータをエクスポート
+Google翻訳：メタデータのエクスポート
+
+原文：_Export
+筆者訳：エクスポート(_E)
+Google翻訳：_輸出
+
+原文：Library
+筆者訳：ライブラリ
+Google翻訳：としょうかん
+
+原文：_Import photos to:
+筆者訳：写真のインポート先(_I):
+Google翻訳：_写真のインポート先：
+
+原文：Watch library for new files:
+筆者訳：ライブラリの新規ファイルを監視:
+Google翻訳：ライブラリで新しいファイルを監視します。
+
+原文：R_ename imported files to lowercase:
+筆者訳：インポートしたファイルを小文字の名前に変更(_E):
+Google翻訳：R_enameはファイルを小文字にインポートしました：
+
+原文：Write _metadata to files:
+筆者訳：ファイルにメタデータを書き込む(_M):
+Google翻訳：_metadataをファイルに書き込みます。
+
+原文：RAW Developer
+筆者訳：RAW 現像
+Google翻訳：RAW開発者
+
+原文：De_fault:
+筆者訳：デフォルト(_F):
+Google翻訳：ディフォルト：
+
+原文：Plugins
+筆者訳：プラグイン
+Google翻訳：プラグイン
+
+原文：_Close
+筆者訳：閉じる(_C)
+Google翻訳：_選ぶ
+
+原文：Add
+筆者訳：追加
+Google翻訳：追加
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+
+原文：_Match
+筆者訳：以下のうち(_M)
+Google翻訳：_マッチ
+
+原文：any
+筆者訳：いずれか
+Google翻訳：どれか
+
+原文：all
+筆者訳：すべて
+Google翻訳：全て
+
+原文：none
+筆者訳：なし
+Google翻訳：なし
+
+原文：of the following:
+筆者訳：が一致:
+Google翻訳：次の：
+
+原文：Add rule
+筆者訳：ルールを追加
+Google翻訳：ルールを追加
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Unable to open/create photo database %s: error code %d
+筆者訳：写真データベース %s を開いたり作成したりできません: エラーコード %d
+Google翻訳：写真データベース％sを開く/作成できません：エラーコード％d
+
+原文：Unable to write to photo database file:
+ %s
+筆者訳：写真データベースファイルに書き込めませんでした:
+ %s
+Google翻訳：写真データベースファイルに書き込めません：
+ ％s
+
+原文：Error accessing database file:
+ %s
+
+Error was: 
+%s
+筆者訳：データベースのアクセス時にエラーが発生しました:
+ %s
+
+エラーは以下の通りです:
+%s
+Google翻訳：データベースファイルへのアクセスエラー：
+ ％s
+
+エラーは次のとおりです。
+％s
+
+原文：Save photo
+筆者訳：写真を保存します
+Google翻訳：写真を保存する
+
+原文：Save photo with a different name
+筆者訳：写真を別の名前で保存します
+Google翻訳：別の名前で写真を保存する
+
+原文：Exposure:
+筆者訳：露出:
+Google翻訳：暴露：
+
+原文：Saturation:
+筆者訳：彩度:
+Google翻訳：飽和：
+
+原文：Tint:
+筆者訳：色合い:
+Google翻訳：色合い：
+
+原文：Temperature:
+筆者訳：温度:
+Google翻訳：温度：
+
+原文：Shadows:
+筆者訳：シャドウ:
+Google翻訳：影：
+
+原文：Highlights:
+筆者訳：ハイライト:
+Google翻訳：ハイライト：
+
+原文：_Reset
+筆者訳：リセット(_R)
+Google翻訳：_リセット
+
+原文：Reset Colors
+筆者訳：色をリセット
+Google翻訳：色をリセット
+
+原文：Reset all color adjustments to original
+筆者訳：すべての色調整を元の状態に戻します
+Google翻訳：すべての色調整を元にリセットします
+
+原文：Temperature
+筆者訳：温度
+Google翻訳：温度
+
+原文：Tint
+筆者訳：色合い
+Google翻訳：色合い
+
+原文：Saturation
+筆者訳：彩度
+Google翻訳：飽和
+
+原文：Exposure
+筆者訳：露出
+Google翻訳：暴露
+
+原文：Shadows
+筆者訳：シャドウ
+Google翻訳：影
+
+原文：Highlights
+筆者訳：ハイライト
+Google翻訳：ハイライト
+
+原文：Contrast Expansion
+筆者訳：コントラストの拡張
+Google翻訳：コントラスト拡張
+
+原文：Pivot the crop rectangle between portrait and landscape orientations
+筆者訳：切り抜く長方形の縦方向と横方向を回転させます
+Google翻訳：縦向きと横向きの間でクロップ長方形を回転させます
+
+原文：Unconstrained
+筆者訳：制限なし
+Google翻訳：制約なし
+
+原文：Square
+筆者訳：正方形
+Google翻訳：平方
+
+原文：Screen
+筆者訳：画面
+Google翻訳：画面
+
+原文：Original Size
+筆者訳：元のサイズ
+Google翻訳：オリジナルサイズ
+
+原文：SD Video (4 : 3)
+筆者訳：SD ビデオ (4:3)
+Google翻訳：SDビデオ（4：3）
+
+原文：HD Video (16 : 9)
+筆者訳：HD ビデオ (16:9)
+Google翻訳：HDビデオ（16：9）
+
+原文：Letter (8.5 x 11 in.)
+筆者訳：レター (8.5 x 11 インチ)
+Google翻訳：レター（8.5 x 11インチ）
+
+原文：Tabloid (11 x 17 in.)
+筆者訳：タブロイド (11 x 17 インチ)
+Google翻訳：タブロイド紙（11 x 17インチ）
+
+原文：Custom
+筆者訳：カスタム
+Google翻訳：カスタム
+
+原文：Size:
+筆者訳：サイズ:
+Google翻訳：サイズ：
+
+原文：Close the red-eye tool
+筆者訳：赤目ツールを閉じる
+Google翻訳：赤目ツールを閉じます
+
+原文：Remove any red-eye effects in the selected region
+筆者訳：選択された範囲で赤目現象を取り除きます
+Google翻訳：選択した領域の赤目効果をすべて削除します
+
+原文：Angle:
+筆者訳：角度:
+Google翻訳：角度：
+
+原文：_Straighten
+筆者訳：傾き補正(_S)
+Google翻訳：_まっすぐにする
+
+原文（単数形）：%d Photo/Video
+原文（複数形）：%d Photos/Videos
+筆者訳：%d個の写真と動画
+Google翻訳：％d写真/ビデオ
+
+原文（単数形）：%d Video
+原文（複数形）：%d Videos
+筆者訳：%d本の動画
+Google翻訳：％dビデオ
+
+原文（単数形）：%d Photo
+原文（複数形）：%d Photos
+筆者訳：%d枚の写真
+Google翻訳：％d写真
+
+原文：All Photos
+筆者訳：すべての写真
+Google翻訳：すべての写真
+
+原文：_Import From Folder…
+筆者訳：フォルダーからインポート(_I)…
+Google翻訳：_フォルダからインポート…
+
+原文：Toggle Sidebar
+筆者訳：サイドバーを表示／非表示
+Google翻訳：サイドバーを切り替えます
+
+原文：Toggle Photo Info
+筆者訳：画像情報を表示／非表示
+Google翻訳：写真情報を切り替える
+
+原文：_Preferences
+筆者訳：設定(_P)
+Google翻訳：_環境設定
+
+原文：Settings
+筆者訳：設定
+Google翻訳：設定
+
+原文：Sort _Events
+筆者訳：イベントを並べ替え(_E)
+Google翻訳：_Eventsを並べ替える
+
+原文：View Eve_nt for Photo
+筆者訳：写真のイベントを表示(_N)
+Google翻訳：写真のEve_ntを表示
+
+原文：New Smart Album…
+筆者訳：新しいスマートアルバム…
+Google翻訳：新しいスマートアルバム…
+
+原文：Edit Photo In_fo
+筆者訳：画像情報を編集(_F)
+Google翻訳：写真の編集In_fo
+
+原文：_Ascending
+筆者訳：昇順(_A)
+Google翻訳：_上昇
+
+原文：Sort photos in an ascending order
+筆者訳：写真を昇順で並び替えます
+Google翻訳：写真を昇順で並べ替える
+
+原文：D_escending
+筆者訳：降順(_D)
+Google翻訳：D_escending
+
+原文：Sort photos in a descending order
+筆者訳：写真を降順で並び替えます
+Google翻訳：写真を降順で並べ替える
+
+原文：Import From Folder
+筆者訳：フォルダーからインポート
+Google翻訳：フォルダからインポート
+
+原文：Import
+筆者訳：インポート
+Google翻訳：輸入
+
+原文：Photos is configured to import photos to your home directory.
+We recommend changing this in <span weight="bold">Edit %s Preferences</span>.
+Do you want to continue importing photos?
+筆者訳：“フォト”はホームディレクトリに写真をインポートする設定になっています。
+<span weight="bold">%s 設定を編集</span>でこの設定を変更することを推奨します。
+写真のインポートを続行してもよろしいですか？
+Google翻訳：写真は、写真をホームディレクトリにインポートするように構成されています。
+<span weight = "bold">％s設定の編集</ span>でこれを変更することをお勧めします。
+写真のインポートを続行しますか？
+
+原文：_Import
+筆者訳：インポート(_I)
+Google翻訳：_輸入
+
+原文：Library Location
+筆者訳：ライブラリの場所
+Google翻訳：ライブラリの場所
+
+原文：Photos cannot be imported from this directory.
+筆者訳：このディレクトリから写真のインポートができませんでした。
+Google翻訳：このディレクトリから写真をインポートすることはできません。
+
+原文：Updating library…
+筆者訳：ライブラリを更新しています…
+Google翻訳：ライブラリを更新しています…
+
+原文：Preparing to auto-import photos…
+筆者訳：写真を自動インポートする準備をしています…
+Google翻訳：写真を自動インポートする準備をしています…
+
+原文：Auto-importing photos…
+筆者訳：写真を自動インポートしています…
+Google翻訳：写真の自動インポート…
+
+原文：Writing metadata to files…
+筆者訳：ファイルにメタデータを書き込んでいます…
+Google翻訳：ファイルへのメタデータの書き込み…
+
+原文：Import Photos
+筆者訳：写真をインポート
+Google翻訳：写真をインポートする
+
+原文：Copy photos from a folder or external device.
+筆者訳：フォルダーや外部デバイスから写真をコピーします。
+Google翻訳：フォルダまたは外部デバイスから写真をコピーします。
+
+原文：Change Library Folder
+筆者訳：ライブラリフォルダーを変更
+Google翻訳：ライブラリフォルダを変更する
+
+原文：Choose where to keep your photos.
+筆者訳：写真を保管する場所を選択します。
+Google翻訳：写真を保存する場所を選択します。
+
+原文：Low (%d%%)
+筆者訳：低 (%d%%)
+Google翻訳：低（％d %%）
+
+原文：Medium (%d%%)
+筆者訳：中 (%d%%)
+Google翻訳：中（％d %%）
+
+原文：High (%d%%)
+筆者訳：高 (%d%%)
+Google翻訳：高（％d %%）
+
+原文：Maximum (%d%%)
+筆者訳：最高 (%d%%)
+Google翻訳：最大（％d %%）
+
+原文：About
+筆者訳：情報
+Google翻訳：約
+
+原文：Preparing for upload
+筆者訳：アップロードの準備をしています
+Google翻訳：アップロードの準備
+
+原文：Uploading %d of %d
+筆者訳：全%2$d項目中%1$d項目目をアップロードしています
+Google翻訳：％dの％dをアップロードしています
+
+原文：Publishing to %s can't continue because an error occurred:
+筆者訳：エラーが発生したため %s への公開を続けることができません。
+Google翻訳：エラーが発生したため、％sへの公開を続行できません：
+
+原文：To try publishing to another service, select one from the above menu.
+筆者訳：ほかのサービスへの公開を試すには、上のメニューから選択してください。
+Google翻訳：別のサービスに公開するには、上記のメニューからサービスを選択してください。
+
+原文：_Login
+筆者訳：ログイン(_L)
+Google翻訳：_ログイン
+
+原文：The selected photos/videos were successfully published.
+筆者訳：選択された写真/動画は正常に公開されました。
+Google翻訳：選択した写真/ビデオが正常に公開されました。
+
+原文：The selected videos were successfully published.
+筆者訳：選択された動画は正常に公開されました。
+Google翻訳：選択した動画は正常に公開されました。
+
+原文：The selected photos were successfully published.
+筆者訳：選択された写真は正常に公開されました。
+Google翻訳：選択した写真は正常に公開されました。
+
+原文：The selected video was successfully published.
+筆者訳：選択された動画は正常に公開されました。
+Google翻訳：選択した動画は正常に公開されました。
+
+原文：The selected photo was successfully published.
+筆者訳：選択された写真は正常に公開されました。
+Google翻訳：選択した写真が正常に公開されました。
+
+原文：Fetching account information…
+筆者訳：アカウント情報を取得しています…
+Google翻訳：アカウント情報を取得しています…
+
+原文：Logging in…
+筆者訳：ログインしています…
+Google翻訳：ログイン…
+
+原文：Publish Photos
+筆者訳：写真の公開
+Google翻訳：写真を公開する
+
+原文：Publish photos _to:
+筆者訳：写真の公開先(_T):
+Google翻訳：写真を公開する_to：
+
+原文：Publish Videos
+筆者訳：動画の公開
+Google翻訳：ビデオを公開する
+
+原文：Publish videos _to
+筆者訳：動画の公開先(_T)
+Google翻訳：動画を公開する_to
+
+原文：Publish Photos and Videos
+筆者訳：写真と動画の公開
+Google翻訳：写真とビデオを公開する
+
+原文：Publish photos and videos _to
+筆者訳：写真と動画の公開先(_T)
+Google翻訳：写真やビデオを公開する_to
+
+原文：Unable to publish
+筆者訳：公開できません
+Google翻訳：公開できません
+
+原文：Photos cannot publish the selected items because you do not have a compatible publishing plugin enabled. To correct this, choose <b>Edit %s Preferences</b> and enable one or more of the publishing plugins on the <b>Plugins</b> tab.
+筆者訳：一致する公開プラグインが有効になっていないため、“フォト”は選択された項目を公開できません。これを修正するには、<b>%s 設定を編集</b>を選択して、<b>プラグイン</b>タブにあるいずれかの公開プラグインを有効にしてください。
+Google翻訳：互換性のある公開プラグインが有効になっていないため、写真は選択したアイテムを公開できません。これを修正するには、<b> [％s設定の編集] </ b>を選択し、[<b>プラグイン</ b>]タブで1つ以上の公開プラグインを有効にします。
+
+原文：Publishing
+筆者訳：公開
+Google翻訳：出版
+
+原文：Smart Albums
+筆者訳：スマートアルバム
+Google翻訳：スマートアルバム
+
+原文：Any text
+筆者訳：いずれかのテキスト
+Google翻訳：任意のテキスト
+
+原文：Title
+筆者訳：タイトル
+Google翻訳：タイトル
+
+原文：Tag
+筆者訳：タグ
+Google翻訳：鬼ごっこ
+
+原文：Comment
+筆者訳：コメント
+Google翻訳：コメント
+
+原文：Event name
+筆者訳：イベント名
+Google翻訳：イベント名
+
+原文：File name
+筆者訳：ファイル名
+Google翻訳：ファイル名
+
+原文：Media type
+筆者訳：メディアタイプ
+Google翻訳：メディアタイプ
+
+原文：Flag state
+筆者訳：フラグの状態
+Google翻訳：旗国
+
+原文：Photo state
+筆者訳：写真の状態
+Google翻訳：写真の状態
+
+原文：Date
+筆者訳：日付
+Google翻訳：日にち
+
+原文：New _Tag…
+筆者訳：新しいタグ(_T)…
+Google翻訳：新しい_Tag…
+
+原文：Items:
+筆者訳：項目:
+Google翻訳：アイテム：
+
+原文（単数形）：%d Event
+原文（複数形）：%d Events
+筆者訳：%d件のイベント
+Google翻訳：％dイベント
+
+原文：Date:
+筆者訳：日付:
+Google翻訳：日にち：
+
+原文：From:
+筆者訳：最古:
+Google翻訳：から：
+
+原文：To:
+筆者訳：最新:
+Google翻訳：に：
+
+原文（単数形）：%.1f second
+原文（複数形）：%.1f seconds
+筆者訳：%.1f 秒
+Google翻訳：％.1f秒
+
+原文：Developer:
+筆者訳：現像:
+Google翻訳：デベロッパー：
+
+原文：Aperture
+筆者訳：絞り
+Google翻訳：絞り
+
+原文：Focal length
+筆者訳：焦点距離
+Google翻訳：焦点距離
+
+原文：Exposure bias
+筆者訳：露出補正
+Google翻訳：露出バイアス
+
+原文：Flash
+筆者訳：フラッシュ
+Google翻訳：閃光
+
+原文：Location:
+筆者訳：場所:
+Google翻訳：位置：
+
+原文：Exposure date:
+筆者訳：撮影日:
+Google翻訳：暴露日：
+
+原文：Exposure time:
+筆者訳：撮影時間:
+Google翻訳：曝露時間：
+
+原文：Artist:
+筆者訳：アーティスト:
+Google翻訳：アーティスト：
+
+原文：Copyright:
+筆者訳：著作者:
+Google翻訳：著作権：
+
+原文：Tags, separated by commas
+筆者訳：コンマ区切りでタグを入力
+Google翻訳：カンマで区切られたタグ
+
+原文：No items selected
+筆者訳：何も選択されていません
+Google翻訳：アイテムが選択されていません
+
+原文：Today
+筆者訳：今日
+Google翻訳：今日
+
+原文：Yesterday
+筆者訳：昨日
+Google翻訳：昨日
+
+原文：Slideshow Transitions
+筆者訳：スライドショーのトランジション
+Google翻訳：スライドショーのトランジション
+
+原文：(None)
+筆者訳：(なし)
+Google翻訳：（なし）
+
+原文：None
+筆者訳：なし
+Google翻訳：なし
+
+原文：Random
+筆者訳：ランダム
+Google翻訳：ランダム
+
+原文：Tags
+筆者訳：タグ
+Google翻訳：タグ
+
+原文：Photos cannot be exported to this directory.
+筆者訳：写真をこのディレクトリにエクスポートできません。
+Google翻訳：写真をこのディレクトリにエクスポートすることはできません。
+
+原文：No photos/videos
+筆者訳：写真や動画がありません
+Google翻訳：写真/ビデオはありません
+
+原文：No photos/videos found
+筆者訳：写真や動画が見つかりませんでした
+Google翻訳：写真/ビデオが見つかりません
+
+原文：Play a slideshow
+筆者訳：スライドショーを開始します
+Google翻訳：スライドショーを再生する
+
+原文：_Developer
+筆者訳：現像(_D)
+Google翻訳：_デベロッパー
+
+原文：Other Actions
+筆者訳：ほかの操作
+Google翻訳：その他のアクション
+
+原文（単数形）：Export Photo/Video
+原文（複数形）：Export Photos/Videos
+筆者訳：写真や動画をエクスポート
+Google翻訳：写真/ビデオのエクスポート
+
+原文：Rotating
+筆者訳：回転
+Google翻訳：回転
+
+原文：Undoing Rotate
+筆者訳：回転を元に戻す
+Google翻訳：回転を元に戻す
+
+原文：Flipping Horizontally
+筆者訳：左右反転
+Google翻訳：水平方向に反転
+
+原文：Undoing Flip Horizontally
+筆者訳：左右反転を元に戻す
+Google翻訳：水平方向のフリップを元に戻す
+
+原文：Flipping Vertically
+筆者訳：上下反転
+Google翻訳：垂直に反転
+
+原文：Undoing Flip Vertically
+筆者訳：上下反転を元に戻す
+Google翻訳：垂直方向の反転を元に戻す
+
+原文：%s does not exist.
+筆者訳：%s は存在しません。
+Google翻訳：％sは存在しません。
+
+原文：%s is not a file.
+筆者訳：%s はファイルではありません。
+Google翻訳：％sはファイルではありません。
+
+原文：%s does not support the file format of
+%s.
+筆者訳：%s は %s のファイル形式をサポートしていません。
+Google翻訳：％sはのファイル形式をサポートしていません
+％s。
+
+原文：_Save a Copy
+筆者訳：コピーを保存(_S)
+Google翻訳：_コピーを保存
+
+原文：Lose changes to %s?
+筆者訳：%s への変更を破棄しますか？
+Google翻訳：％sへの変更を失いますか？
+
+原文：Close _without Saving
+筆者訳：保存せずに閉じる(_W)
+Google翻訳：_保存せずに閉じる
+
+原文：Error while saving to %s: %s
+筆者訳：%s への保存中にエラーが発生しました: %s
+Google翻訳：％sへの保存中にエラーが発生しました：％s
+
+原文：Save As
+筆者訳：名前を付けて保存
+Google翻訳：名前を付けて保存
+
+原文：Zoom to fit page
+筆者訳：ズームしてページに合わせる
+Google翻訳：ページに合わせてズーム
+
+原文：Zoom 1:1
+筆者訳：100% ズーム
+Google翻訳：ズーム1：1
+
+原文：Previous photo
+筆者訳：前の写真
+Google翻訳：前の写真
+
+原文：Next photo
+筆者訳：次の写真
+Google翻訳：次の写真
+
+原文：Photo source file missing: %s
+筆者訳：元の写真ファイルが見つかりません: %s
+Google翻訳：写真ソースファイルがありません：％s
+
+原文：All Events
+筆者訳：すべてのイベント
+Google翻訳：すべてのイベント
+
+原文：No Event
+筆者訳：イベントがありません
+Google翻訳：イベントなし
+
+原文：Merge events
+筆者訳：イベントを統合
+Google翻訳：イベントをマージする
+
+原文：Fulls_creen
+筆者訳：全画面表示(_C)
+Google翻訳：全画面表示
+
+原文：_Comments
+筆者訳：コメント(_C)
+Google翻訳：_コメント
+
+原文：Display the comment of each event
+筆者訳：各イベントのコメントを表示します
+Google翻訳：各イベントのコメントを表示する
+
+原文：No events
+筆者訳：イベントがありません
+Google翻訳：イベントなし
+
+原文：No events found
+筆者訳：イベントが見つかりませんでした
+Google翻訳：イベントが見つかりません
+
+原文：Events
+筆者訳：イベント
+Google翻訳：イベント
+
+原文：Undated
+筆者訳：日付なし
+Google翻訳：日付なし
+
+原文：Flagged
+筆者訳：フラグ付き
+Google翻訳：フラグ付き
+
+原文：Unable to unmount camera. Try unmounting the camera from the file manager.
+筆者訳：カメラをアンマウントできません。ファイルマネージャーからカメラのアンマウントをしてみてください。
+Google翻訳：カメラをアンマウントできません。ファイルマネージャからカメラをアンマウントしてみてください。
+
+原文：Hide photos already imported
+筆者訳：すでにインポートされた写真を表示しない
+Google翻訳：インポート済みの写真を非表示
+
+原文：Only display photos that have not been imported
+筆者訳：インポートされてない写真のみを表示します
+Google翻訳：インポートされていない写真のみを表示します
+
+原文：_Titles
+筆者訳：タイトル(_T)
+Google翻訳：_タイトル
+
+原文：Import _Selected
+筆者訳：選択されたものをインポート(_S)
+Google翻訳：インポート_選択済み
+
+原文：Import _All
+筆者訳：すべてインポート(_A)
+Google翻訳：インポート_すべて
+
+原文：Starting import, please wait…
+筆者訳：インポートを開始しています。お待ちください…
+Google翻訳：インポートを開始します、お待ちください…
+
+原文：Display the title of each photo
+筆者訳：写真のタイトルを表示します
+Google翻訳：各写真のタイトルを表示します
+
+原文：Import the selected photos into your library
+筆者訳：選択された写真をライブラリにインポートします
+Google翻訳：選択した写真をライブラリにインポートします
+
+原文：Import all the photos into your library
+筆者訳：すべての写真をライブラリにインポートします
+Google翻訳：すべての写真をライブラリにインポートします
+
+原文：The Camera Cannot Be Accessed While Mounted
+筆者訳：カメラがマウントされている間はアクセスできません
+Google翻訳：取り付け中はカメラにアクセスできません
+
+原文：Photos needs to unmount the camera from the filesystem in order to access it.
+筆者訳：“フォト”がこのカメラにアクセスするには、ファイルシステムからカメラをアンマウントする必要があります。
+Google翻訳：写真にアクセスするには、ファイルシステムからカメラをアンマウントする必要があります。
+
+原文：_Unmount
+筆者訳：アンマウント(_U)
+Google翻訳：_アンマウント
+
+原文：Please unmount the camera.
+筆者訳：カメラをアンマウントしてください。
+Google翻訳：カメラをアンマウントしてください。
+
+原文：The Camera Is Locked By Another Application
+筆者訳：カメラがほかのアプリケーションによってロックされています
+Google翻訳：カメラが別のアプリケーションによってロックされています
+
+原文：Photos can only access the camera when it's unlocked. Please close any other application using the camera and try again.
+筆者訳：“フォト”はカメラがロックされていない時のみアクセスできます。カメラを使用しているほかのすべてのアプリケーションを閉じて、もう一度お試しください。
+Google翻訳：写真は、ロックが解除されている場合にのみカメラにアクセスできます。カメラを使用している他のアプリケーションをすべて閉じて、再試行してください。
+
+原文：Please close any other application using the camera.
+筆者訳：カメラを利用しているほかのすべてのアプリケーションを閉じてください。
+Google翻訳：カメラを使用している他のアプリケーションをすべて閉じてください。
+
+原文：Unable to fetch previews from the camera:
+%s
+筆者訳：カメラからプレビューを取得できません:
+%s
+Google翻訳：カメラからプレビューを取得できません：
+％s
+
+原文：Unmounting…
+筆者訳：アンマウントしています…
+Google翻訳：アンマウント…
+
+原文：Fetching photo information
+筆者訳：写真情報を取得しています
+Google翻訳：写真情報の取得
+
+原文：Fetching preview for %s
+筆者訳：%s のプレビューを取得しています
+Google翻訳：％sのプレビューを取得しています
+
+原文：Unable to lock camera: %s
+筆者訳：カメラをロックできません: %s
+Google翻訳：カメラをロックできません：％s
+
+原文（単数形）：Delete this photo from camera?
+原文（複数形）：Delete these %d photos from camera?
+筆者訳：カメラから%d枚の写真を削除しますか？
+Google翻訳：この写真をカメラから削除しますか？
+
+原文（単数形）：Delete this video from camera?
+原文（複数形）：Delete these %d videos from camera?
+筆者訳：カメラから%d本の動画を削除しますか？
+Google翻訳：このビデオをカメラから削除しますか？
+
+原文（単数形）：Delete this photo/video from camera?
+原文（複数形）：Delete these %d photos/videos from camera?
+筆者訳：カメラから%d個の写真と動画を削除しますか？
+Google翻訳：この写真/ビデオをカメラから削除しますか？
+
+原文（単数形）：Delete these files from camera?
+原文（複数形）：Delete these %d files from camera?
+筆者訳：カメラから%d個のファイルを削除しますか？
+Google翻訳：これらのファイルをカメラから削除しますか？
+
+原文：Delete
+筆者訳：削除
+Google翻訳：消去
+
+原文：_Keep
+筆者訳：保持(_K)
+Google翻訳：_保つ
+
+原文：Removing photos/videos from camera
+筆者訳：カメラから写真と動画を削除しています
+Google翻訳：カメラから写真/ビデオを削除する
+
+原文（単数形）：Unable to delete %d photo/video from the camera due to errors.
+原文（複数形）：Unable to delete %d photos/videos from the camera due to errors.
+筆者訳：エラーのためカメラから%d個の写真と動画を削除できません。
+Google翻訳：エラーのため、カメラから％dの写真/ビデオを削除できません。
+
+原文：Importing…
+筆者訳：インポートしています…
+Google翻訳：インポート中…
+
+原文：_Stop Import
+筆者訳：インポートを停止(_S)
+Google翻訳：_インポートの停止
+
+原文：Stop importing photos
+筆者訳：画像のインポートを停止します
+Google翻訳：写真のインポートを停止します
+
+原文：Preparing to import…
+筆者訳：インポートの準備をしています…
+Google翻訳：インポートの準備をしています…
+
+原文：Imported %s
+筆者訳：%s をインポートしました
+Google翻訳：インポートされた％s
+
+原文：Last Import
+筆者訳：最後にインポートされたもの
+Google翻訳：最終インポート
+
+原文：Unable to export %s: %s
+筆者訳：%s をエクスポートできません: %s
+Google翻訳：％sをエクスポートできません：％s
+
+原文：Missing Files
+筆者訳：見つからないファイル
+Google翻訳：不足しているファイル
+
+原文：Deleting…
+筆者訳：削除しています…
+Google翻訳：削除中…
+
+原文：Ta_gs
+筆者訳：タグ(_G)
+Google翻訳：Ta_gs
+
+原文：Sort _Photos
+筆者訳：写真を並べ替え(_P)
+Google翻訳：並べ替え_写真
+
+原文：By _Title
+筆者訳：タイトルで並べ替え(_T)
+Google翻訳：_タイトル
+
+原文：By Exposure _Date
+筆者訳：撮影日で並べ替え(_D)
+Google翻訳：露出別_日付
+
+原文：By _File Modification Time
+筆者訳：ファイルの変更時刻で並べ替え(_F)
+Google翻訳：_ファイル変更時間
+
+原文：Display the comment of each photo
+筆者訳：各写真のコメントを表示します
+Google翻訳：各写真のコメントを表示する
+
+原文：Display each photo's tags
+筆者訳：写真のタグを表示します
+Google翻訳：各写真のタグを表示する
+
+原文：Sort photos by title
+筆者訳：写真をタイトルで並べ替えます
+Google翻訳：写真をタイトルで並べ替える
+
+原文：Sort photos by exposure date
+筆者訳：写真を撮影日で並べ替えます
+Google翻訳：露出日で写真を並べ替える
+
+原文：Sort photos by import timestamp
+筆者訳：写真をインポート時のタイムスタンプで並べ替えます
+Google翻訳：インポートタイムスタンプで写真を並べ替える
+
+原文：Photos was unable to play the selected video:
+%s
+筆者訳：“フォト”は選択された動画を再生できませんでした:
+%s
+Google翻訳：写真は選択したビデオを再生できませんでした：
+％s
+
+原文：Add Some Photos
+筆者訳：写真を追加しましょう
+Google翻訳：写真を追加
+
+原文：No Photos were found in your library.
+筆者訳：ライブラリ内に写真が見つかりませんでした。
+Google翻訳：ライブラリに写真が見つかりませんでした。
+
+原文：Raw Photos
+筆者訳：RAW 写真
+Google翻訳：生の写真
+
+原文：Raws
+筆者訳：RAW
+Google翻訳：生
+
+原文：Slideshow
+筆者訳：スライドショー
+Google翻訳：スライドショー
+
+原文：Go to the previous photo
+筆者訳：前の写真に戻る
+Google翻訳：前の写真に移動
+
+原文：Pause the slideshow
+筆者訳：スライドショーの一時停止
+Google翻訳：スライドショーを一時停止します
+
+原文：Go to the next photo
+筆者訳：次の写真に進む
+Google翻訳：次の写真に移動
+
+原文：Show Photo Titles
+筆者訳：写真のタイトルを表示
+Google翻訳：写真のタイトルを表示する
+
+原文：Transition Speed
+筆者訳：トランジションの時間
+Google翻訳：遷移速度
+
+原文：Faster
+筆者訳：速い
+Google翻訳：もっと早く
+
+原文：Slower
+筆者訳：遅い
+Google翻訳：もっとゆっくり
+
+原文：All photo source files are missing.
+筆者訳：元の写真すべてが見つかりません。
+Google翻訳：すべての写真ソースファイルがありません。
+
+原文：Continue the slideshow
+筆者訳：スライドショーの続行
+Google翻訳：スライドショーを続ける
+
+原文：Trash
+筆者訳：ゴミ箱
+Google翻訳：ごみ
+
+原文：_Empty Trash
+筆者訳：ゴミ箱を空にする(_E)
+Google翻訳：_空のごみ箱
+
+原文：Delete all photos in the trash
+筆者訳：ゴミ箱にあるすべての写真を削除します
+Google翻訳：ゴミ箱にあるすべての写真を削除する
+
+原文：Trash is empty
+筆者訳：ゴミ箱は空です
+Google翻訳：ゴミ箱は空です
+
+原文（単数形）：Deleting a Photo
+原文（複数形）：Deleting Photos
+筆者訳：写真を削除しています
+Google翻訳：写真を削除する
+
+原文：Empty Trash
+筆者訳：ゴミ箱を空にする
+Google翻訳：空のごみ箱
+
+原文：Emptying Trash…
+筆者訳：ゴミ箱を空にしています…
+Google翻訳：ゴミ箱を空にする…
+
+原文：Videos
+筆者訳：動画
+Google翻訳：ビデオ
+
+原文：Transition Effect
+筆者訳：トランジション効果
+Google翻訳：遷移効果
+
+原文：Zoom Out
+筆者訳：縮小
+Google翻訳：ズームアウトする
+
+原文：Adjust Zoom
+筆者訳：拡大率を変更
+Google翻訳：ズームを調整する
+
+原文：%s + Scroll
+筆者訳：%s + スクロール
+Google翻訳：％s +スクロール
+
+原文：Zoom In
+筆者訳：拡大
+Google翻訳：ズームイン
+
+原文：Remove rule
+筆者訳：ルールを削除
+Google翻訳：ルールを削除
+
+原文：is exactly
+筆者訳：が完全に一致
+Google翻訳：正確に
+
+原文：is after
+筆者訳：が指定日より後
+Google翻訳：後です
+
+原文：is before
+筆者訳：が指定日より前
+Google翻訳：前です
+
+原文：is between
+筆者訳：が以下の間
+Google翻訳：は間に
+
+原文：is not set
+筆者訳：がセットされていない
+Google翻訳：設定されていません
+
+原文：and
+筆者訳：から
+Google翻訳：と
+
+原文：flagged
+筆者訳：フラグ付き
+Google翻訳：フラグが立てられました
+
+原文：not flagged
+筆者訳：フラグなし
+Google翻訳：フラグが立てられていません
+
+原文：is
+筆者訳：が次である
+Google翻訳：は
+
+原文：is not
+筆者訳：が次でない
+Google翻訳：ではありません
+
+原文：any photo
+筆者訳：いずれかの写真
+Google翻訳：写真
+
+原文：a raw photo
+筆者訳：RAW 画像
+Google翻訳：生の写真
+
+原文：a video
+筆者訳：動画
+Google翻訳：ビデオ
+
+原文：has
+筆者訳：次を含む
+Google翻訳：もっている
+
+原文：has no
+筆者訳：次を含まない
+Google翻訳：ありません
+
+原文：modifications
+筆者訳：画像補正がある
+Google翻訳：変更
+
+原文：internal modifications
+筆者訳：内部機能で画像補正がある
+Google翻訳：内部変更
+
+原文：external modifications
+筆者訳：外部エディターで画像補正がある
+Google翻訳：外部修正
+
+原文：contains
+筆者訳：が次を含む
+Google翻訳：含む
+
+原文：starts with
+筆者訳：が次で始まる
+Google翻訳：で始まる
+
+原文：ends with
+筆者訳：が次で終わる
+Google翻訳：で終わる
+
+原文：does not contain
+筆者訳：が次を含まない
+Google翻訳：含まれていません
+
+原文：Printed Image Size
+筆者訳：印刷する画像サイズ
+Google翻訳：印刷画像サイズ
+
+原文：Use a _standard size:
+筆者訳：標準サイズを使う(_S):
+Google翻訳：_standardサイズを使用します：
+
+原文：Use a c_ustom size:
+筆者訳：カスタムサイズを使う(_U):
+Google翻訳：c_ustomサイズを使用します。
+
+原文：_Autosize:
+筆者訳：自動サイズ調整(_A):
+Google翻訳：_自動サイズ設定：
+
+原文：in.
+筆者訳：インチ
+Google翻訳：の。
+
+原文：cm
+筆者訳：センチメートル
+Google翻訳：CM
+
+原文：_Match photo aspect ratio
+筆者訳：写真のアスペクト比に合わせる(_M)
+Google翻訳：_写真のアスペクト比を一致させる
+
+原文：Titles
+筆者訳：タイトル
+Google翻訳：タイトル
+
+原文：Print image _title
+筆者訳：画像のタイトルを印刷(_T)
+Google翻訳：画像を印刷する_title
+
+原文：Pixel Resolution
+筆者訳：ピクセル解像度
+Google翻訳：ピクセル解像度
+
+原文：_Output photo at:
+筆者訳：写真の出力先(_O):
+Google翻訳：_出力写真：
+
+原文：pixels per inch
+筆者訳：ピクセル/インチ
+Google翻訳：1インチあたりのピクセル数
+
+原文：You are not currently logged into YouTube.
+
+You must have already signed up for a Google account and set it up for use with YouTube to continue. You can set up most accounts by using your browser to log into the YouTube site at least once.
+筆者訳：現在 YouTube にログインしていません。
+
+続けるには、Google アカウントにサインアップした上で、YouTube を利用するための設定を行う必要があります。少なくとも一度ブラウザーを使って YouTube のサイトにログインしておけば、ほとんどのアカウントを設定できます。
+Google翻訳：現在、YouTubeにログインしていません。
+
+続行するには、すでにGoogleアカウントにサインアップし、YouTubeで使用できるように設定しておく必要があります。ブラウザを使用してYouTubeサイトに少なくとも1回ログインすることで、ほとんどのアカウントを設定できます。
+
+原文：A file required for publishing is unavailable. Publishing to Youtube can't continue.
+筆者訳：公開に必要なファイルが利用できません。YouTube への公開を続行できません。
+Google翻訳：公開に必要なファイルが利用できません。 YouTubeへの公開を続行できません。
+
+原文：You are logged into YouTube as %s.
+筆者訳：%s として YouTube にログインしています。
+Google翻訳：％sとしてYouTubeにログインしています。
+
+原文：Videos will appear in '%s'
+筆者訳：動画は '%s' で表示されます
+Google翻訳：動画は「％s」で表示されます
+
+原文：Public listed
+筆者訳：公開
+Google翻訳：上場
+
+原文：Public unlisted
+筆者訳：限定公開
+Google翻訳：非公開
+
+原文：Private
+筆者訳：非公開
+Google翻訳：民間
+
+原文：Core Publishing Services
+筆者訳：メインの公開サービス
+Google翻訳：コアパブリッシングサービス
+
+原文：A temporary file needed for publishing is unavailable
+筆者訳：公開するために必要な作業ファイルが利用できません
+Google翻訳：公開に必要な一時ファイルが利用できません
+
+原文：You have already logged in and out of a Google service during this session.
+
+To continue publishing to Google services, quit and restart this software, then try publishing again.
+筆者訳：このセッション中にすでに Google サービスへログインとログアウトをしています。
+
+Googleサービスへの公開を続けるには、このソフトウェアを終了して再起動してから、もう一度公開してみてください。
+Google翻訳：このセッション中に、すでにGoogleサービスにログインおよびログアウトしています。
+
+Googleサービスへの公開を続行するには、このソフトウェアを終了して再起動してから、もう一度公開してみてください。
+
+原文：Visit the Yorba web site
+筆者訳：Yorba の Web サイトを参照
+Google翻訳：YorbaのWebサイトにアクセスします
+
+原文：translator-credits
+筆者訳：Shushi Kurose <md81bird@hitaki.net>
+Slackhideo <burajirugaijin@yahoo.co.jp>
+Yohsuke Ooi <meke@momonga-linux.org>
+Hajime Taira <htaira@redhat.com>
+
+Launchpad Contributions:
+  BALLOON https://translations.launchpad.net/~balloon
+  Hajime Taira https://translations.launchpad.net/~htaira
+  Jun Takeda https://translations.launchpad.net/~takeda-jun
+  Ryo Nakano https://translations.launchpad.net/~ryonakano-deactivatedaccount
+  Shushi Kurose https://translations.launchpad.net/~kuromabo
+  elementary Apps team https://translations.launchpad.net/~elementary-apps
+Google翻訳：翻訳者-クレジット
+
+原文：Creating album %s…
+筆者訳：アルバム %s を作成しています…
+Google翻訳：アルバム％sを作成しています…
+
+原文：An error message occurred when publishing to Piwigo. Please try again.
+筆者訳：Piwigo への公開中にエラーが発生しました。もう一度お試しください。
+Google翻訳：Piwigoへの公開中にエラーメッセージが発生しました。もう一度やり直してください。
+
+原文：Enter the URL of your Piwigo photo library as well as the username and password associated with your Piwigo account for that library.
+筆者訳：ご使用の Piwigo フォトライブラリの URL と、このライブラリ用の Piwigo アカウントに関連しているユーザー名とパスワードを入力してください。
+Google翻訳：PiwigoフォトライブラリのURLと、そのライブラリのPiwigoアカウントに関連付けられているユーザー名とパスワードを入力します。
+
+原文：Photos cannot contact your Piwigo photo library. Please verify the URL you entered
+筆者訳：“フォト”はご使用の Piwigo フォトライブラリにアクセスできません。入力した URL を確認してください
+Google翻訳：写真はPiwigoフォトライブラリに接続できません。入力したURLを確認してください
+
+原文：Username and/or password invalid. Please try again
+筆者訳：ユーザー名もしくはパスワードが不適切です。もう一度お試しください
+Google翻訳：ユーザー名またはパスワード、あるいはその両方が無効です。もう一度やり直してください
+
+原文：Invalid URL
+筆者訳：不適切な URL
+Google翻訳：無効なURL
+
+原文：Invalid User Name or Password
+筆者訳：ユーザー名またはパスワードが不適切です
+Google翻訳：ユーザー名かパスワードが無効
+
+原文：Photos Connect
+筆者訳：フォトコネクト
+Google翻訳：写真コネクト
+
+原文：Everyone
+筆者訳：全員
+Google翻訳：みんな
+
+原文：Admins, Family, Friends, Contacts
+筆者訳：管理者、家族、友達、連絡先
+Google翻訳：管理者、家族、友達、連絡先
+
+原文：Admins, Family, Friends
+筆者訳：管理者、家族、友達
+Google翻訳：管理者、家族、友達
+
+原文：Admins, Family
+筆者訳：管理者、家族
+Google翻訳：管理者、家族
+
+原文：Admins
+筆者訳：管理者
+Google翻訳：管理者
+
+原文：500 x 375 pixels
+筆者訳：500 x 375 ピクセル
+Google翻訳：500 x375ピクセル
+
+原文：1024 x 768 pixels
+筆者訳：1024 x 768 ピクセル
+Google翻訳：1024 x768ピクセル
+
+原文：2048 x 1536 pixels
+筆者訳：2048 x 1536 ピクセル
+Google翻訳：2048 x1536ピクセル
+
+原文：4096 x 3072 pixels
+筆者訳：4096 x 3072 ピクセル
+Google翻訳：4096 x3072ピクセル
+
+原文：You are not currently logged into Google Photos.
+
+Click Login to log into Google Photos in your Web browser. You will have to authorize elementary OS to link to your Google Photos account.
+筆者訳：現在 Google フォトにログインしていません。
+
+ログインをクリックして、Web ブラウザーで Google フォトにログインしてください。Google フォトのアカウントへのリンクに接続するには、elementary OS を認証する必要があります。
+Google翻訳：現在、Googleフォトにログインしていません。
+
+[ログイン]をクリックして、WebブラウザでGoogleフォトにログインします。 Googleフォトアカウントにリンクするには、エレメンタリーOSを承認する必要があります。
+
+原文：A file required for publishing is unavailable. Publishing to Picasa can't continue.
+筆者訳：公開に必要なファイルが利用できません。Picasa への公開を続行できません。
+Google翻訳：公開に必要なファイルが利用できません。 Picasaへの公開を続行できません。
+
+原文：You are logged into Picasa Web Albums as %s.
+筆者訳：%s として Picasa Web Album にログインしています。
+Google翻訳：Picasaウェブアルバムに％sとしてログインしています。
+
+原文：Small (640 x 480 pixels)
+筆者訳：小 (640 x 480 ピクセル)
+Google翻訳：小（640 x 480ピクセル）
+
+原文：Medium (1024 x 768 pixels)
+筆者訳：中 (1024 x 768 ピクセル)
+Google翻訳：中（1024 x 768ピクセル）
+
+原文：Recommended (1600 x 1200 pixels)
+筆者訳：推奨 (1600 x 1200 ピクセル)
+Google翻訳：推奨（1600 x 1200ピクセル）
+
+原文：Google+ (2048 x 1536 pixels)
+筆者訳：Google+ (2048 x 1536 ピクセル)
+Google翻訳：Google+（2048 x 1536ピクセル）
+
+原文：You are not currently logged into Flickr.
+
+Click Login to log into Flickr in your Web browser. You will have to authorize Photos Connect to link to your Flickr account.
+筆者訳：現在 Flickr にログインしていません。
+
+“ログイン”をクリックして、Web ブラウザーで Flickr にログインしてください。Flickr アカウントへのリンクに接続するには、“フォトコネクト”を認証する必要があります。
+Google翻訳：現在、Flickrにログインしていません。
+
+[ログイン]をクリックして、WebブラウザでFlickrにログインします。 Flickrアカウントにリンクするには、PhotosConnectを承認する必要があります。
+
+原文：You have already logged in and out of Flickr during this Photos session.
+To continue publishing to Flickr, quit and restart Photos, then try publishing again.
+筆者訳：この“フォト”のセッション中にすでに Flickr へログインとログアウトをしています。
+Flickr への公開を続けるには、“フォト”を終了して再起動してから、もう一度公開してみてください。
+Google翻訳：このフォトセッション中に、すでにFlickrにログインおよびログアウトしています。
+Flickrへの公開を続行するには、フォトを終了して再起動してから、もう一度公開してみてください。
+
+原文：Preparing for login…
+筆者訳：ログインの準備をしています…
+Google翻訳：ログインの準備…
+
+原文：A file required for publishing is unavailable. Publishing to Flickr can't continue.
+筆者訳：公開に必要なファイルが利用できません。Flickr への公開を続けることができません。
+Google翻訳：公開に必要なファイルが利用できません。 Flickrへの公開を続行できません。
+
+原文：Verifying authorization…
+筆者訳：認証を確認しています…
+Google翻訳：承認の確認…
+
+原文：You are logged into Flickr as %s.
+
+
+筆者訳：%s として Flickr にログインしています。
+
+
+Google翻訳：Flickrに％sとしてログインしています。
+
+
+
+原文：Your free Flickr account limits how much data you can upload per month.
+This month, you have %d megabytes remaining in your upload quota.
+筆者訳：お使いの無料の Flickr アカウントは月ごとのアップロード可能なデータ量に制限があります。
+今月は %d メガバイトのアップロードの割り当てが残っています。
+Google翻訳：無料のFlickrアカウントでは、1か月にアップロードできるデータの量が制限されています。
+今月は、アップロードクォータに％dメガバイトが残っています。
+
+原文：Your Flickr Pro account entitles you to unlimited uploads.
+筆者訳：あなたの Flickr Pro アカウントは無制限のアップロード容量が与えられています。
+Google翻訳：Flickr Proアカウントでは、無制限にアップロードできます。
+
+原文：Photos _visible to:
+筆者訳：写真を公開する範囲(_V):
+Google翻訳：写真_表示先：
+
+原文：Videos _visible to:
+筆者訳：動画を公開する範囲(_V):
+Google翻訳：_visible to：
+
+原文：Photos and videos _visible to:
+筆者訳：写真と動画を公開する範囲(_V):
+Google翻訳：写真とビデオ_visibleto：
+
+原文：Friends & family only
+筆者訳：友人と家族のみ
+Google翻訳：友達と家族のみ
+
+原文：Family only
+筆者訳：家族専用
+Google翻訳：家族のみ
+
+原文：Friends only
+筆者訳：友達専用
+Google翻訳：友達のみ
+
+原文：Just me
+筆者訳：自分のみ
+Google翻訳：私だけ
+
+原文：You are not currently logged into Facebook.
+
+If you don't yet have a Facebook account, you can create one during the login process. During login, Photos Connect may ask you for permission to upload photos and publish to your feed. These permissions are required for Photos Connect to function.
+筆者訳：現在 Facebook にログインしていません。
+
+Facebook アカウントを持っていないのであれば、ログイン処理の間にアカウントを作成できます。ログイン中、“フォトコネクト”に写真のアップロードやフィードへの公開権限を許可するかの確認が行われる可能性があります。これらの権限は“フォトコネクト”が動作するのに必要です。
+Google翻訳：現在、Facebookにログインしていません。
+
+Facebookアカウントをまだお持ちでない場合は、ログインプロセス中に作成できます。ログイン中に、PhotosConnectは写真をアップロードしてフィードに公開する許可を求める場合があります。これらの権限は、PhotosConnectが機能するために必要です。
+
+原文：You have already logged in and out of Facebook during this Photos session.
+To continue publishing to Facebook, quit and restart Photos, then try publishing again.
+筆者訳：この“フォト”のセッション中に、すでに Facebook へログインとログアウトを行なっています。
+Facebook への公開を続けるには、“フォト”を終了して再起動してから、もう一度公開してみてください。
+Google翻訳：このフォトセッション中に、すでにFacebookにログインおよびログアウトしています。
+Facebookへの公開を続行するには、フォトを終了して再起動してから、もう一度公開してみてください。
+
+原文：Standard (720 pixels)
+筆者訳：標準 (720 ピクセル)
+Google翻訳：標準（720ピクセル）
+
+原文：Large (2048 pixels)
+筆者訳：大 (2048ピクセル)
+Google翻訳：大（2048ピクセル）
+
+原文：Testing connection to Facebook…
+筆者訳：Facebook への接続をテストしています…
+Google翻訳：Facebookへの接続をテストしています…
+
+原文：Creating album…
+筆者訳：アルバムを作成しています…
+Google翻訳：アルバムを作成しています…
+
+原文：A file required for publishing is unavailable. Publishing to Facebook can't continue.
+筆者訳：公開に必要なファイルが利用できません。Facebook への公開を続行できません。
+Google翻訳：公開に必要なファイルが利用できません。 Facebookへの公開を続行できません。
+
+原文：Server redirect URL contained no access token
+筆者訳：サーバーのリダイレクト URL にアクセストークンが含まれていません
+Google翻訳：サーバーリダイレクトURLにアクセストークンが含まれていません
+
+原文：You are logged into Facebook as %s.
+
+
+筆者訳：%s として Facebook にログインしています。
+
+
+Google翻訳：Facebookに％sとしてログインしています。
+
+
+
+原文：Where would you like to publish the selected photos?
+筆者訳：選択された写真をどこに公開しますか？
+Google翻訳：選択した写真をどこに公開しますか？
+
+原文：Upload _size:
+筆者訳：アップロードサイズ(_S):
+Google翻訳：アップロード_size：
+
+原文：Friends
+筆者訳：友達
+Google翻訳：友達
+
+原文：Video privacy _setting:
+筆者訳：動画のプライバシー設定(_S):
+Google翻訳：ビデオプライバシー_設定：
+
+原文：_Logout
+筆者訳：ログアウト(_L)
+Google翻訳：_ログアウト
+
+原文：_Publish
+筆者訳：公開(_P)
+Google翻訳：_公開
+
+原文：Photos will appear in:
+筆者訳：写真の表示先:
+Google翻訳：写真は次の場所に表示されます。
+
+原文：An _existing category:
+筆者訳：既存のカテゴリー(_E):
+Google翻訳：_existingカテゴリ：
+
+原文：A _new album named:
+筆者訳：新しいアルバム名(_N):
+Google翻訳：次の名前の_新しいアルバム：
+
+原文：within category:
+筆者訳：カテゴリー内:
+Google翻訳：カテゴリ内：
+
+原文：Album comment:
+筆者訳：アルバムコメント:
+Google翻訳：アルバムコメント：
+
+原文：Photos will be _visible by:
+筆者訳：写真が表示可能(_V):
+Google翻訳：写真は次の人によって_表示されます：
+
+原文：Photo size:
+筆者訳：写真サイズ:
+Google翻訳：写真サイズ：
+
+原文：_Remove location, camera, and other identifying information before uploading
+筆者訳：アップロード前に撮影場所やカメラ、そのほかの識別情報を削除(_R)
+Google翻訳：_アップロードする前に、場所、カメラ、その他の識別情報を削除します
+
+原文：_If a title is set and comment unset, use title as comment
+筆者訳：タイトルが設定されコメントが設定されていない場合、タイトルをコメントに使う(_I)
+Google翻訳：_タイトルが設定されていてコメントが設定されていない場合は、タイトルをコメントとして使用します
+
+原文：_Do no upload tags
+筆者訳：タグをアップロードしない(_D)
+Google翻訳：_タグをアップロードしない
+
+原文：Logout
+筆者訳：ログアウト
+Google翻訳：ログアウト
+
+原文：Publish
+筆者訳：公開
+Google翻訳：公開
+
+原文：_URL of your Piwigo photo library
+筆者訳：Piwigo フォトライブラリの URL(_U)
+Google翻訳：_PiwigoフォトライブラリのURL
+
+原文：User _name
+筆者訳：ユーザー名(_N)
+Google翻訳：ユーザー名
+
+原文：_Password
+筆者訳：パスワード(_P)
+Google翻訳：_パスワード
+
+原文：_Remember Password
+筆者訳：パスワードを記憶(_R)
+Google翻訳：_パスワードを覚える
+
+原文：Login
+筆者訳：ログイン
+Google翻訳：ログイン
+
+原文：'you are logged in as $name'
+(populated in the application code)
+筆者訳：'$name としてログインしています'
+(この文章はソースコード内で上書きされます)
+Google翻訳：'あなたは$ nameとしてログインしています'
+（アプリケーションコードに入力）
+
+原文：Photo _size preset:
+筆者訳：プリセットの写真サイズ(_S):
+Google翻訳：写真_サイズプリセット：
+
+原文：You are logged into Flickr as (name).
+
+(this label's string is populated and set inside the code, 
+so changes made here will not display)
+筆者訳：(名前) として Flickr にログインしています。
+
+(このラベルの文字列はソースコード内で上書きされるので、
+この翻訳文は表示されません)
+Google翻訳：（名前）としてFlickrにログインしています。
+
+（このラベルの文字列は、コード内に入力および設定され、
+したがって、ここで行った変更は表示されません）
+
+原文：_visibility label (populated in the code)
+筆者訳：公開範囲に関するラベル (この文章はソースコード内で上書きされます)(_V)
+Google翻訳：_visibilityラベル（コードに入力）
+
+原文：Photo _size:
+筆者訳：写真サイズ(_S):
+Google翻訳：写真_サイズ：
+
+原文：Enter the confirmation number which appears after you log into Flickr in your Web browser.
+筆者訳：Web ブラウザーで Flickr にログインした後に表示された確認番号を入力してください。
+Google翻訳：WebブラウザでFlickrにログインした後に表示される確認番号を入力します。
+
+原文：Authorization _Number:
+筆者訳：認証番号(_N):
+Google翻訳：承認_番号：
+
+原文： (text depends on fb username and is modified in the app - 
+anything put into this field won't display)
+筆者訳： (テキストは Facebook のユーザー名に基づき、アプリ内で変更されます - 
+この枠内に入力されたものは表示されません)
+Google翻訳： （テキストはfbユーザー名に依存し、アプリで変更されます-
+このフィールドに入力されたものは表示されません）
+
+原文：Publish to an e_xisting album:
+筆者訳：既存のアルバムに公開(_X):
+Google翻訳：e_xistingアルバムに公開します。
+
+原文：Create a _new album named:
+筆者訳：新しいアルバムを次の名前で作成(_N):
+Google翻訳：次の名前の_newアルバムを作成します。
+
+原文：Videos and new photo albums _visible to:
+筆者訳：動画と新しいフォトアルバムを公開する範囲(_V):
+Google翻訳：ビデオと新しいフォトアルバム_visibleto：
+
+原文：Visit the Yandex.Fotki web site
+筆者訳：Yandex.Fotki の Web サイトを参照
+Google翻訳：Yandex.FotkiのWebサイトにアクセスします
+
+原文：You are not currently logged into Yandex.Fotki.
+筆者訳：現在 Yandex.Fotki にログインしていません。
+Google翻訳：現在、Yandex.Fotkiにログインしていません。
+
+原文：1280 x 853 pixels
+筆者訳：1280 x 853 ピクセル
+Google翻訳：1280 x853ピクセル
+
+原文：'%s' isn't a valid response to an OAuth authentication request
+筆者訳：'%s' は OAuth 認証要求に対して有効な応答ではありません
+Google翻訳：'％s'はOAuth認証リクエストへの有効な応答ではありません
+
+原文：TumblrPublisher: start( ): can't start; this publisher is not restartable.
+筆者訳：TumblrPublisher: start( ): 開始できません。このパブリッシャーは再開可能ではありません。
+Google翻訳：TumblrPublisher：start（）：開始できません。このパブリッシャーは再起動できません。
+
+原文：Enter the username and password associated with your Tumblr account.
+筆者訳：ご使用の Tumblr アカウントに関連したユーザー名とパスワードを入力してください。
+Google翻訳：Tumblrアカウントに関連付けられているユーザー名とパスワードを入力します。
+
+原文：Could not load UI: %s
+筆者訳：UI を読み込めません: %s
+Google翻訳：UIを読み込めませんでした：％s
+
+原文：You are logged into Tumblr as %s.
+
+
+筆者訳：%s として Tumblr にログインしています。
+
+
+Google翻訳：％sとしてTumblrにログインしています。
+
+
+
+原文：Photos Extra Publishing Services
+筆者訳：“フォト”追加公開サービス
+Google翻訳：写真エクストラパブリッシングサービス
+
+原文：You have already logged in and out of a Google service during this Photos session.
+
+To continue publishing to Google services, quit and restart Photos, then try publishing again.
+筆者訳：この“フォト”のセッション中に、すでに Google サービスへログインとログアウトを行なっています。
+
+Google サービスへの公開を続けるには、“フォト”を終了して再起動してから、もう一度公開してみてください。
+Google翻訳：このフォトセッション中に、すでにGoogleサービスにログインおよびログアウトしています。
+
+Googleサービスへの公開を続行するには、フォトを終了して再起動してから、もう一度公開してみてください。
+
+原文：_Albums (or write new):
+筆者訳：アルバム (または新規書き込み)(_A):
+Google翻訳：_アルバム（または新規書き込み）：
+
+原文：Access _type:
+筆者訳：アクセスタイプ(_T):
+Google翻訳：アクセス_type：
+
+原文：Disable _comments
+筆者訳：コメントを無効にする(_C)
+Google翻訳：_commentsを無効にする
+
+原文：_Forbid downloading original photo
+筆者訳：元の写真のダウンロードを禁止(_F)
+Google翻訳：_元の写真のダウンロードを禁止する
+
+原文：Public
+筆者訳：公開
+Google翻訳：公衆
+
+原文：You are logged into Tumblr as (name).
+
+(this label's string is populated and set inside the code, 
+so changes made here will not display)
+筆者訳：(名前) として Tumblr にログインしています。
+
+(このラベルの文字列はソースコード内で上書きされるので、
+この翻訳文は表示されません)
+Google翻訳：（名前）としてTumblrにログインしています。
+
+（このラベルの文字列は、コード内に入力および設定され、
+したがって、ここで行った変更は表示されません）
+
+原文：Blogs:
+筆者訳：ブログ:
+Google翻訳：ブログ：
+
+原文：label
+筆者訳：ラベル
+Google翻訳：ラベル
+
+原文：_Email address
+筆者訳：メールアドレス(_E)
+Google翻訳：_電子メールアドレス
+
+原文：Stripes
+筆者訳：ストライプ
+Google翻訳：ストライプ
+
+原文：Squares
+筆者訳：正方形
+Google翻訳：正方形
+
+原文：Slide
+筆者訳：スライド
+Google翻訳：滑り台
+
+原文：Core Slideshow Transitions
+筆者訳：メインのスライドショーのトランジション
+Google翻訳：コアスライドショートランジション
+
+原文：Fade
+筆者訳：フェード
+Google翻訳：フェード
+
+原文：Crumble
+筆者訳：崩壊
+Google翻訳：クランブル
+
+原文：Clock
+筆者訳：クロック
+Google翻訳：時計
+
+原文：Circles
+筆者訳：円形
+Google翻訳：サークル
+
+原文：Circle
+筆者訳：サークル
+Google翻訳：丸
+
+原文：Chess
+筆者訳：チェス
+Google翻訳：チェス
+
+原文：Blinds
+筆者訳：ブラインド
+Google翻訳：ブラインド
+

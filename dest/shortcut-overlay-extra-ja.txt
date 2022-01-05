@@ -1,0 +1,36 @@
+原文：Shortcuts
+筆者訳：ショートカット
+Google翻訳：ショートカット
+
+原文：Shortcut Overlay
+筆者訳：ショートカットオーバーレイ
+Google翻訳：ショートカットオーバーレイ
+
+原文：View system shortcuts
+筆者訳：システムのショートカットを表示します
+Google翻訳：システムショートカットを表示する
+
+原文：cheatsheet;shortcut;overlay;keyboard;
+筆者訳：cheatsheet;shortcut;overlay;keyboard;チートシート;ショートカット;オーバーレイ;キーボード;
+Google翻訳：虎の巻;ショートカット;オーバーレイ;キーボード;
+
+原文：Fix the app not launching if a shortcut key is set to blank
+筆者訳：ショートカットキーが設定されていない場合にアプリが起動しない不具合を修正
+Google翻訳：ショートカットキーが空白に設定されている場合にアプリが起動しない問題を修正
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Add screenshot shortcuts
+筆者訳：スクリーンショットのショートカットを追加
+Google翻訳：スクリーンショットのショートカットを追加する
+
+原文：Fix issues with multiple windows
+筆者訳：ウィンドウが複数表示される不具合を修正
+Google翻訳：複数のウィンドウに関する問題を修正する
+
+原文：Add "Switch Layout" and "Close Window", shortcuts
+筆者訳："レイアウトを切り替え"と"ウィンドウを閉じる"ショートカットを追加
+Google翻訳：「レイアウトの切り替え」と「ウィンドウを閉じる」のショートカットを追加します
+

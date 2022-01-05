@@ -1,0 +1,256 @@
+原文：Terminal
+筆者訳：ターミナル
+Google翻訳：ターミナル
+
+原文：Use the command line
+筆者訳：コマンドラインを使用します
+Google翻訳：コマンドラインを使用する
+
+原文：Terminal is a terminal emulator application for accessing a UNIX shell environment which can be used to run programs available on your system.
+筆者訳：“ターミナル”は、システム上のプログラムを実行するのに使用される UNIX のシェル環境にアクセスするための端末エミュレータアプリケーションです。
+Google翻訳：ターミナルは、システムで使用可能なプログラムを実行するために使用できるUNIXシェル環境にアクセスするためのターミナルエミュレータアプリケーションです。
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Properly restore zoom levels for all locales
+筆者訳：ロケールに関わらず、拡大レベルを適切に復元するように修正
+Google翻訳：すべてのロケールのズームレベルを適切に復元する
+
+原文：Other updates:
+筆者訳：そのほかのアップデート:
+Google翻訳：その他の更新：
+
+原文：Use XTerm title for window title if available
+筆者訳：XTerm のタイトルが利用可能であればウィンドウタイトルに使うように修正
+Google翻訳：可能な場合は、ウィンドウタイトルにXTermタイトルを使用します
+
+原文：Change "Reload Tab" shortcut to Shift + F5 to avoid clash with some foreground processes
+筆者訳：フォアグラウンドのプロセスがクラッシュしないように、“タブを再読み込み”のショートカットキーを Shift + F5 に変更
+Google翻訳：一部のフォアグラウンドプロセスとの衝突を回避するために、[タブの再読み込み]ショートカットをShift + F5に変更します
+
+原文：Change preferred shortcut for "Reload Tab" to Shift + Control + R
+筆者訳：“タブを再読み込み”のデフォルトのショートカットキーを Shift + Ctrl + R に変更
+Google翻訳：「タブの再読み込み」の優先ショートカットをShift + Control + Rに変更します
+
+原文：Translation updates
+筆者訳：翻訳の更新
+Google翻訳：翻訳の更新
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Move tabs with the shortcut Ctrl + Alt + ←/→
+筆者訳：Ctrl + Alt + ←/→ でタブを移動できるように変更
+Google翻訳：ショートカットCtrl + Alt +←/→でタブを移動します
+
+原文：Switch tabs with the shortcuts Ctrl + Tab and Ctrl + Shift + Tab
+筆者訳：Ctrl + Tab / Ctrl + Shift + Tab でタブを切り替えられるように変更
+Google翻訳：Ctrl + TabおよびCtrl + Shift + Tabのショートカットを使用してタブを切り替えます
+
+原文：Zoom levels are now remembered per-tab
+筆者訳：タブごとに拡大率が記録されるように変更
+Google翻訳：ズームレベルがタブごとに記憶されるようになりました
+
+原文：Also warn about multi-line pastes
+筆者訳：複数行あるテキストを貼り付けた場合にも警告する機能を追加
+Google翻訳：複数行のペーストについても警告します
+
+原文：Show text details in unsafe paste dialogs
+筆者訳：貼り付けようとしているテキストの内容を、安全でない貼り付けに関する警告ダイアログに表示するように変更
+Google翻訳：安全でない貼り付けダイアログにテキストの詳細を表示する
+
+原文：Open Link option when secondary clicking
+筆者訳：副クリックしてリンク先を表示できるオプションを追加
+Google翻訳：二次クリック時にリンクオプションを開く
+
+原文：Reload tabs in the context menu or with the shortcut Ctrl + Shift + R
+筆者訳：コンテキストメニューまたは Ctrl + Shift + R でタブを再読み込みできるように変更
+Google翻訳：コンテキストメニューまたはショートカットCtrl + Shift + Rでタブをリロードします
+
+原文：Notifications indicate if a process exited with errors or not
+筆者訳：プロセスがエラー終了したか正常終了したかを通知でお知らせ
+Google翻訳：通知は、プロセスがエラーで終了したかどうかを示します
+
+原文：Show keyboard shortcuts in tab context menus
+筆者訳：タブのコンテキストメニューにキーボードショートカットを表示
+Google翻訳：タブのコンテキストメニューにキーボードショートカットを表示する
+
+原文：Fix an issue with keyboard shortcuts not activating the first time they're pressed
+筆者訳：キーボードショートカットが初回押下時有効にならない不具合を修正
+Google翻訳：キーボードショートカットが最初に押されたときにアクティブにならない問題を修正します
+
+原文：Avoid losing focus when closing background tabs
+筆者訳：バックグラウンドにあるタブを閉じた場合にフォーカス状態が解除される不具合を修正
+Google翻訳：背景タブを閉じるときにフォーカスを失うことを避けます
+
+原文：Validate custom palette
+筆者訳：Dconf エディターで設定されたテーマカラーを正しく復元するように修正
+Google翻訳：カスタムパレットを検証する
+
+原文：Add commandline option for New Tab (-t)
+筆者訳：新しいタブを開くコマンドラインオプション (-t) を追加
+Google翻訳：新規タブのコマンドラインオプションを追加（-t）
+
+原文：Fix URL selection
+筆者訳：一部の URL がクリックできない不具合を修正
+Google翻訳：URL選択を修正
+
+原文：Add commandline option for "Show version" (-v, --version)
+筆者訳："バージョンを表示"コマンドラインオプション (-v, --version) を追加
+Google翻訳：「バージョンを表示」のコマンドラインオプションを追加（-v、-version）
+
+原文：Add commandline option for New Window (-n)
+筆者訳：新しいウィンドウを開くコマンドラインオプション (-n) を追加
+Google翻訳：新しいウィンドウのコマンドラインオプションを追加（-n）
+
+原文：Prevent duplicate tab on startup
+筆者訳：起動時に同じタブが複数開く不具合を修正
+Google翻訳：起動時にタブが重複しないようにする
+
+原文：Prevent unnecessary Home tab on startup
+筆者訳：起動時にホームタブも開かれてしまう不具合を修正
+Google翻訳：起動時に不要な[ホーム]タブを防ぐ
+
+原文：Turn Natural Copy/Paste on or off in the Settings menu
+筆者訳：設定メニューでナチュラルコピー & ペーストの設定を変更できるように修正
+Google翻訳：[設定]メニューで[自然なコピー/貼り付け]をオンまたはオフにします
+
+原文：Zoom with Ctrl + Scroll
+筆者訳：Ctrl + スクロールでの拡大・縮小に対応
+Google翻訳：Ctrl +スクロールでズーム
+
+原文：Include sudo password prompt when copying last output
+筆者訳：最後の出力のコピーに sudo パスワードの確認が含まれるように修正
+Google翻訳：最後の出力をコピーするときにsudoパスワードプロンプトを含める
+
+原文：Apply font changes without restarting
+筆者訳：再起動しなくてもフォントの変更が反映されるように修正
+Google翻訳：再起動せずにフォントの変更を適用する
+
+原文：Don't remember tabs when History is disabled in System Settings
+筆者訳：システム設定で履歴記録の設定が無効の場合はタブを記録しないように修正
+Google翻訳：システム設定で履歴が無効になっている場合は、タブを覚えていない
+
+原文：Show keyboard shortcuts in the secondary-click menu
+筆者訳：コンテキストメニューにキーボードショートカットを表示するように修正
+Google翻訳：セカンダリクリックメニューにキーボードショートカットを表示する
+
+原文：Middle-click paste now properly follows System Settings
+筆者訳：システム設定の中クリックによる貼り付けの設定を利用するように修正
+Google翻訳：ミドルクリック貼り付けがシステム設定に正しく従うようになりました
+
+原文：Shift + Control + D to duplicate tabs
+筆者訳：Shift + Control + D でタブを複製するように修正
+Google翻訳：Shift + Control + Dでタブを複製
+
+原文：Use neutral colors for the dark style scheme
+筆者訳：ダークテーマに無彩色を使うように変更
+Google翻訳：ダークスタイルのスキームには中間色を使用します
+
+原文：Slightly pad text from the edge of the window
+筆者訳：テキストをウィンドウの端から少し離して表示するように修正
+Google翻訳：ウィンドウの端からテキストを少し埋めます
+
+原文：Pressing the Menu key now opens the context menu
+筆者訳：メニューキーをクリックした際にコンテキストメニューを表示するように修正
+Google翻訳：メニューキーを押すと、コンテキストメニューが開きます
+
+原文：Store state with GSettings
+筆者訳：GSettings を使用して状態を保存するように修正
+Google翻訳：GSettingsを使用して状態を保存する
+
+原文：Support Ctrl+Equal key combo to zoom in
+筆者訳：Ctrl+イコールキーでの拡大に対応
+Google翻訳：Ctrl + Equalキーコンボをサポートしてズームイン
+
+原文：Fix a wrong foreground process response code
+筆者訳：フォアグラウンド処理のレスポンスに関するコードが間違っていた不具合を修正
+Google翻訳：間違ったフォアグラウンドプロセスの応答コードを修正する
+
+原文：Return focus after popover menu closes
+筆者訳：ポップオーバーメニューが閉じたあとにフォーカスを復元するように修正
+Google翻訳：ポップオーバーメニューが閉じた後にフォーカスを戻す
+
+原文：Prevent search and style buttons from receiving focus
+筆者訳：検索ボタンとスタイルボタンにフォーカスが移動しないように修正
+Google翻訳：検索ボタンとスタイルボタンがフォーカスを受け取らないようにする
+
+原文：Hide the cursor while typing
+筆者訳：入力中にカーソルを表示しないように修正
+Google翻訳：入力中にカーソルを非表示にする
+
+原文：Fix erratic search text highlightning behavior
+筆者訳：一般的ではない検索テキストのハイライト挙動を修正
+Google翻訳：不規則な検索テキストの強調表示の動作を修正
+
+原文：Support -h flag for help
+筆者訳：-h フラグでのヘルプの表示に対応
+Google翻訳：ヘルプの-hフラグをサポート
+
+原文：Disable audible bell
+筆者訳：デフォルトで音声ベルを無効化
+Google翻訳：可聴ベルを無効にする
+
+原文：Add Alt+↑ action to scroll to last command
+筆者訳：Alt+↑ で最後のコマンドにスクロールするアクションを追加
+Google翻訳：Alt +↑アクションを追加して、最後のコマンドまでスクロールします
+
+原文：Add Alt+c action to copy last output
+筆者訳：Alt+c で最後の出力をコピーするアクションを追加
+Google翻訳：Alt + cアクションを追加して、最後の出力をコピーします
+
+原文：Add accels to tooltips
+筆者訳：ツールチップにアクセラレーターを追加
+Google翻訳：ツールチップに加速を追加する
+
+原文：Fix zsh notifications
+筆者訳：zsh の通知を修正
+Google翻訳：zsh通知を修正する
+
+原文：Conditional ctrl+g shortcut to deconflict with emacs
+筆者訳：Emacs 使用時はコンフリクトを避けるために ctrl+g ショートカットを無効化するように修正
+Google翻訳：emacsとの競合を解消するための条件付きctrl + gショートカット
+
+原文：Minor bug fixes
+筆者訳：軽微なバグの修正
+Google翻訳：マイナーなバグ修正
+
+原文：FISH integration fixes
+筆者訳：fish との統合の修正
+Google翻訳：FISH統合の修正
+
+原文：Theme preference menu
+筆者訳：テーマ設定メニューを追加
+Google翻訳：テーマ設定メニュー
+
+原文：Zoom level controls
+筆者訳：拡大レベルのコントロールを追加
+Google翻訳：ズームレベルコントロール
+
+原文：Allow tab to close after typing exit at the commandline
+筆者訳：コマンドラインで "exit" の入力後にタブを閉じられるように修正
+Google翻訳：コマンドラインでexitと入力した後、タブを閉じることができます
+
+原文：Fix copying URLs to clipboard
+筆者訳：クリップボードへ URL のコピーする際の不具合を修正
+Google翻訳：クリップボードへのURLのコピーを修正
+
+原文：Fix appstream date format
+筆者訳：AppStream データ形式を修正
+Google翻訳：appstreamの日付形式を修正
+
+原文：command;prompt;cmd;commandline;run;
+筆者訳：command;prompt;cmd;commandline;run;コマンド;プロンプト;コマンドライン;実行;
+Google翻訳：command; prompt; cmd; commandline; run;
+
+原文：New Window
+筆者訳：新しいウィンドウ
+Google翻訳：新しい窓
+
+原文：New Root Tab
+筆者訳：新しい root タブ
+Google翻訳：新しいルートタブ
+

@@ -1,0 +1,28 @@
+原文：Date &amp; Time Settings
+筆者訳：日付と時刻の設定
+Google翻訳：日付と日付時間設定
+
+原文：Configure date, time, and select time zone
+筆者訳：日付と時刻を設定し、タイムゾーンを選択します
+Google翻訳：日付と時刻を構成し、タイムゾーンを選択します
+
+原文：Minor updates
+筆者訳：軽微なアップデート
+Google翻訳：マイナーアップデート
+
+原文：Move timezone popover contents to the main view
+筆者訳：タイムゾーンポップオーバーの内容をメインビューに移動
+Google翻訳：タイムゾーンのポップオーバーコンテンツをメインビューに移動します
+
+原文：Add options to show or hide the date, weekday, and seconds in the clock
+筆者訳：パネル内の時計の日付、曜日、秒の表示／非表示を切り替えるオプションを追加
+Google翻訳：時計の日付、平日、秒を表示または非表示にするオプションを追加します
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fix potential freeze when changing settings from multiple panes
+筆者訳：複数のペインから設定を変更した際にフリーズすることがある不具合を修正
+Google翻訳：複数のペインから設定を変更するときに発生する可能性があるフリーズを修正
+

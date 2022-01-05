@@ -1,0 +1,552 @@
+原文：Print Queue
+筆者訳：プリントキュー
+Google翻訳：印刷キュー
+
+原文：Page Setup
+筆者訳：ページセットアップ
+Google翻訳：ページ設定
+
+原文：Settings & Supplies
+筆者訳：設定と供給
+Google翻訳：設定と備品
+
+原文：Print Test Page
+筆者訳：テストページを印刷
+Google翻訳：テストページを印刷する
+
+原文：Test page
+筆者訳：テストページ
+Google翻訳：テストページ
+
+原文：Add Printer…
+筆者訳：プリンターを追加…
+Google翻訳：プリンタを追加…
+
+原文：Remove Printer
+筆者訳：プリンターを削除
+Google翻訳：プリンタを削除する
+
+原文：Printers
+筆者訳：プリンター
+Google翻訳：プリンター
+
+原文：Configure printers, manage print queues, and view ink levels
+筆者訳：プリンターを設定し、プリントキューを管理し、インク残量を表示します
+Google翻訳：プリンタの設定、印刷キューの管理、およびインクレベルの表示
+
+原文：No Printers Available
+筆者訳：プリンターがありません
+Google翻訳：利用可能なプリンタはありません
+
+原文：Connect to a printer by clicking the icon in the toolbar below.
+筆者訳：以下のツールバー内のアイコンをクリックして、プリンターを接続してください。
+Google翻訳：下のツールバーのアイコンをクリックして、プリンタに接続します。
+
+原文：Internet Printing Protocol (https)
+筆者訳：インターネット印刷プロトコル (https)
+Google翻訳：インターネット印刷プロトコル（https）
+
+原文：Internet Printing Protocol (http)
+筆者訳：インターネット印刷プロトコル (http)
+Google翻訳：インターネット印刷プロトコル（http）
+
+原文：Internet Printing Protocol (ipp)
+筆者訳：インターネット印刷プロトコル (ipp)
+Google翻訳：インターネット印刷プロトコル（ipp）
+
+原文：Internet Printing Protocol (ipps)
+筆者訳：インターネット印刷プロトコル (ipps)
+Google翻訳：インターネット印刷プロトコル（ipps）
+
+原文：Internet Printing Protocol (ipp14)
+筆者訳：インターネット印刷プロトコル (ipp14)
+Google翻訳：インターネット印刷プロトコル（ipp14）
+
+原文：LPD/LPR Host or Printer
+筆者訳：LPD/LPR ホストまたはプリンター
+Google翻訳：LPD / LPRホストまたはプリンター
+
+原文：Finding nearby printers…
+筆者訳：近くのプリンターを検索しています…
+Google翻訳：近くのプリンターを探す…
+
+原文：Refresh
+筆者訳：再読み込み
+Google翻訳：更新
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Next
+筆者訳：次へ
+Google翻訳：次
+
+原文：Impossible to list all available printers
+筆者訳：利用可能なすべてのプリンターの一覧を作成できません
+Google翻訳：使用可能なすべてのプリンタを一覧表示できません
+
+原文：Connection:
+筆者訳：接続:
+Google翻訳：繋がり：
+
+原文：Description:
+筆者訳：説明:
+Google翻訳：説明：
+
+原文：BrandPrinter X3000
+筆者訳：プリンター名を入力
+Google翻訳：BrandPrinter X3000
+
+原文：Location:
+筆者訳：場所:
+Google翻訳：位置：
+
+原文：Lab 1 or John's desk
+筆者訳：場所を入力
+Google翻訳：ラボ1またはジョンの机
+
+原文：Previous
+筆者訳：前へ
+Google翻訳：前
+
+原文：Add Printer
+筆者訳：プリンターを追加
+Google翻訳：プリンターの追加
+
+原文：(recommended)
+筆者訳：(推奨)
+Google翻訳：（おすすめされた）
+
+原文：Serial
+筆者訳：シリアルポート
+Google翻訳：シリアル
+
+原文：Local Printers
+筆者訳：ローカルプリンター
+Google翻訳：ローカルプリンタ
+
+原文：Network Printers
+筆者訳：ネットワークプリンター
+Google翻訳：ネットワークプリンタ
+
+原文：Available Network Printers
+筆者訳：利用可能なネットワークプリンター
+Google翻訳：利用可能なネットワークプリンタ
+
+原文：Are You Sure You Want To Remove '%s'?
+筆者訳：'%s' を削除してもよろしいですか？
+Google翻訳：'％s'を削除してもよろしいですか？
+
+原文：By removing '%s' you'll lose all print history and configuration associated with it.
+筆者訳：'%s' を削除すると、関連するすべての印刷履歴と設定が削除されます。
+Google翻訳：'％s'を削除すると、それに関連するすべての印刷履歴と構成が失われます。
+
+原文：Remove
+筆者訳：削除
+Google翻訳：削除する
+
+原文：Low on toner
+筆者訳：トナー残量が少ないです
+Google翻訳：トナーが少なくなっています
+
+原文：Out of toner
+筆者訳：トナーが空です
+Google翻訳：トナー切れ
+
+原文：Low on developer
+筆者訳：現像液が少ないです
+Google翻訳：開発者が少ない
+
+原文：Out of developer
+筆者訳：現像液が空です
+Google翻訳：開発者のうち
+
+原文：Low on a marker supply
+筆者訳：インクが少なくなっています
+Google翻訳：マーカーの供給が少ない
+
+原文：Out of a marker supply
+筆者訳：インクが切れています
+Google翻訳：マーカーの供給が不足しています
+
+原文：Open cover
+筆者訳：カバーが開いています
+Google翻訳：カバーを開く
+
+原文：Open door
+筆者訳：ドアが開いています
+Google翻訳：ドアを開ける
+
+原文：Low on paper
+筆者訳：紙が少なくなっています
+Google翻訳：紙が少ない
+
+原文：Out of paper
+筆者訳：用紙が切れています
+Google翻訳：紙切れ
+
+原文：Offline
+筆者訳：オフライン
+Google翻訳：オフライン
+
+原文：Stopped
+筆者訳：停止中
+Google翻訳：停止
+
+原文：Waste receptacle almost full
+筆者訳：廃インクタンクがまもなく限界になります
+Google翻訳：ゴミ箱がほぼいっぱい
+
+原文：Waste receptacle full
+筆者訳：廃インクタンクが限界です
+Google翻訳：ゴミ箱がいっぱい
+
+原文：The optical photo conductor is near end of life
+筆者訳：感光体の寿命が近づいています
+Google翻訳：光光導体は寿命に近づいています
+
+原文：The optical photo conductor is no longer functioning
+筆者訳：感光体が寿命に達しました
+Google翻訳：光導体が機能しなくなった
+
+原文：Unnamed Printer
+筆者訳：名称未設定プリンター
+Google翻訳：名前のないプリンター
+
+原文：Ready
+筆者訳：準備完了
+Google翻訳：準備
+
+原文：Job Pending
+筆者訳：動作保留
+Google翻訳：保留中のジョブ
+
+原文：On Hold
+筆者訳：保留
+Google翻訳：保留
+
+原文：Processing…
+筆者訳：動作中…
+Google翻訳：処理…
+
+原文：Job Stopped
+筆者訳：ジョブを停止しました
+Google翻訳：ジョブが停止しました
+
+原文：Job Canceled
+筆者訳：ジョブをキャンセルしました
+Google翻訳：ジョブがキャンセルされました
+
+原文：Job Aborted
+筆者訳：ジョブを中断しました
+Google翻訳：仕事は中止されました
+
+原文：Job Completed
+筆者訳：ジョブを完了しました
+Google翻訳：ジョブが完了しました
+
+原文：Print Queue Is Empty
+筆者訳：プリントキューは空です
+Google翻訳：印刷キューが空です
+
+原文：There are no pending jobs in the queue.
+筆者訳：キューには保留中のジョブはありません。
+Google翻訳：キューに保留中のジョブはありません。
+
+原文：Completed Jobs
+筆者訳：完了したジョブ
+Google翻訳：完了したジョブ
+
+原文：Pages per side:
+筆者訳：1 枚あたりのページ数:
+Google翻訳：片面あたりのページ数：
+
+原文：Long Edge (Standard)
+筆者訳：長辺とじ (標準)
+Google翻訳：ロングエッジ（標準）
+
+原文：Short Edge (Flip)
+筆者訳：短辺とじ (フリップ)
+Google翻訳：ショートエッジ（フリップ）
+
+原文：Two-sided:
+筆者訳：両面印刷:
+Google翻訳：両面：
+
+原文：Portrait
+筆者訳：縦方向
+Google翻訳：ポートレート
+
+原文：Landscape
+筆者訳：横方向
+Google翻訳：風景
+
+原文：Reverse portrait
+筆者訳：縦方向 (逆向き)
+Google翻訳：逆ポートレート
+
+原文：Reverse landscape
+筆者訳：横方向 (逆向き)
+Google翻訳：リバースランドスケープ
+
+原文：Orientation:
+筆者訳：印刷の向き:
+Google翻訳：オリエンテーション：
+
+原文：Media Size:
+筆者訳：メディアサイズ:
+Google翻訳：メディアサイズ：
+
+原文：Automatic
+筆者訳：自動
+Google翻訳：自動
+
+原文：One Color
+筆者訳：一色
+Google翻訳：ワンカラー
+
+原文：Color
+筆者訳：カラー
+Google翻訳：色
+
+原文：One Color + Black
+筆者訳：一色+黒
+Google翻訳：ワンカラー+ブラック
+
+原文：Greyscale
+筆者訳：グレースケール
+Google翻訳：グレースケール
+
+原文：Processed Color
+筆者訳：カラー
+Google翻訳：加工色
+
+原文：Processed Greyscale
+筆者訳：グレースケール
+Google翻訳：処理されたグレースケール
+
+原文：Color mode:
+筆者訳：カラーモード:
+Google翻訳：カラーモード：
+
+原文：Top Bin
+筆者訳：上部ビン
+Google翻訳：トップビン
+
+原文：Middle Bin
+筆者訳：中部ビン
+Google翻訳：ミドルビン
+
+原文：Bottom Bin
+筆者訳：下部ビン
+Google翻訳：ボトムビン
+
+原文：Side Bin
+筆者訳：側面ビン
+Google翻訳：サイドビン
+
+原文：Left Bin
+筆者訳：左ビン
+Google翻訳：左ビン
+
+原文：Right Bin
+筆者訳：右ビン
+Google翻訳：右ビン
+
+原文：Center Bin
+筆者訳：中央ビン
+Google翻訳：センタービン
+
+原文：Rear Bin
+筆者訳：後部ビン
+Google翻訳：リアビン
+
+原文：Face Up Bin
+筆者訳：表向きビン
+Google翻訳：フェイスアップビン
+
+原文：Face Down Bin
+筆者訳：裏向きビン
+Google翻訳：フェイスダウンビン
+
+原文：Large Capacity Bin
+筆者訳：大容量ビン
+Google翻訳：大容量ビン
+
+原文：My Mailbox
+筆者訳：メールボックス
+Google翻訳：マイメールボックス
+
+原文：Stacker %d
+筆者訳：スタッカー %d
+Google翻訳：スタッカー％d
+
+原文：Mailbox %d
+筆者訳：メールボックス %d
+Google翻訳：メールボックス％d
+
+原文：Tray %d
+筆者訳：トレイ %d
+Google翻訳：トレイ％d
+
+原文：Output Tray:
+筆者訳：排紙トレイ:
+Google翻訳：出力トレイ：
+
+原文：Draft
+筆者訳：下書き
+Google翻訳：下書き
+
+原文：Normal
+筆者訳：標準
+Google翻訳：普通
+
+原文：High
+筆者訳：高品質
+Google翻訳：高い
+
+原文：Quality:
+筆者訳：品質:
+Google翻訳：品質：
+
+原文：Paper Allocation
+筆者訳：紙の割り当て
+Google翻訳：用紙の割り当て
+
+原文：Alternate Tray
+筆者訳：代替のトレイ
+Google翻訳：代替トレイ
+
+原文：Alternate Roll
+筆者訳：代替のロール
+Google翻訳：代替ロール
+
+原文：Bottom
+筆者訳：下
+Google翻訳：下
+
+原文：By-pass Tray
+筆者訳：バイパス トレイ
+Google翻訳：バイパストレイ
+
+原文：Center
+筆者訳：中央
+Google翻訳：中心
+
+原文：Continuous Autofeed
+筆者訳：連続自動送り
+Google翻訳：連続自動送り
+
+原文：Disk
+筆者訳：ディスク
+Google翻訳：ディスク
+
+原文：Envelope
+筆者訳：封筒
+Google翻訳：封筒
+
+原文：Hagaki
+筆者訳：はがき
+Google翻訳：はがき
+
+原文：Large Capacity
+筆者訳：大容量
+Google翻訳：大容量
+
+原文：Left
+筆者訳：左
+Google翻訳：左
+
+原文：Main Tray
+筆者訳：メイントレイ
+Google翻訳：メイントレイ
+
+原文：Main Roll
+筆者訳：メインロール
+Google翻訳：メインロール
+
+原文：Manual
+筆者訳：手動
+Google翻訳：マニュアル
+
+原文：Middle
+筆者訳：中央
+Google翻訳：真ん中
+
+原文：Photo
+筆者訳：写真
+Google翻訳：写真
+
+原文：Rear
+筆者訳：後面
+Google翻訳：後方
+
+原文：Right
+筆者訳：右
+Google翻訳：右
+
+原文：Side
+筆者訳：側面
+Google翻訳：側
+
+原文：Top
+筆者訳：上
+Google翻訳：上
+
+原文：Roll %d
+筆者訳：ロール %d
+Google翻訳：ロール％d
+
+原文：Paper Source:
+筆者訳：用紙のソース:
+Google翻訳：給紙元：
+
+原文：Lab 1 or John's Desk
+筆者訳：場所を入力
+Google翻訳：ラボ1またはジョンのデスク
+
+原文：Use as default printer:
+筆者訳：デフォルトのプリンターとして使う:
+Google翻訳：デフォルトのプリンタとして使用します。
+
+原文：Black (PGBK)
+筆者訳：黒 (PGBK)
+Google翻訳：黒（PGBK）
+
+原文：Black (BK)
+筆者訳：黒 (BK)
+Google翻訳：黒（BK）
+
+原文：Black
+筆者訳：ブラック
+Google翻訳：黒
+
+原文：Yellow
+筆者訳：イエロー
+Google翻訳：黄色
+
+原文：Cyan
+筆者訳：シアン
+Google翻訳：シアン
+
+原文：Magenta
+筆者訳：マゼンタ
+Google翻訳：赤紫色
+
+原文：Tri-color
+筆者訳：3色
+Google翻訳：トリコロール
+
+原文：Pause
+筆者訳：一時停止
+Google翻訳：一時停止
+
+原文：Resume
+筆者訳：再開
+Google翻訳：履歴書
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+

@@ -1,0 +1,254 @@
+原文：System
+筆者訳：システム
+Google翻訳：システム
+
+原文：View operating system and hardware information
+筆者訳：オペレーティングシステムとハードウェアの情報を参照します
+Google翻訳：オペレーティングシステムとハードウェアの情報を表示する
+
+原文：Operating System
+筆者訳：オペレーティングシステム
+Google翻訳：オペレーティング・システム
+
+原文：Hardware
+筆者訳：ハードウェア
+Google翻訳：ハードウェア
+
+原文：Firmware
+筆者訳：ファームウェア
+Google翻訳：ファームウェア
+
+原文：Operating System Information
+筆者訳：オペレーティングシステムの情報
+Google翻訳：オペレーティングシステム情報
+
+原文：Hardware Information
+筆者訳：ハードウェアの情報
+Google翻訳：ハードウェア情報
+
+原文：Restore Default Settings
+筆者訳：デフォルト設定を復元
+Google翻訳：デフォルト設定に戻す
+
+原文：Suggest Translations
+筆者訳：翻訳を提案
+Google翻訳：翻訳を提案する
+
+原文：Send Feedback
+筆者訳：フィードバックを送信
+Google翻訳：フィードバックを送信する
+
+原文：Report a Problem
+筆者訳：不具合を報告
+Google翻訳：問題を報告します
+
+原文：Get Support
+筆者訳：サポートを受ける
+Google翻訳：支持を得ます
+
+原文：Updates
+筆者訳：アップデート
+Google翻訳：更新
+
+原文：All Updates
+筆者訳：すべてのアップデート
+Google翻訳：すべての更新
+
+原文：Version:
+筆者訳：バージョン:
+Google翻訳：バージョン：
+
+原文：Vendor:
+筆者訳：製造元:
+Google翻訳：ベンダー：
+
+原文：Size:
+筆者訳：サイズ:
+Google翻訳：サイズ：
+
+原文：Estimated time to install:
+筆者訳：インストールの推定所要時間:
+Google翻訳：インストールの推定時間：
+
+原文：There are no releases available for this device.
+筆者訳：このデバイスで利用可能なリリースはありません。
+Google翻訳：このデバイスで利用できるリリースはありません。
+
+原文：Update
+筆者訳：アップデート
+Google翻訳：アップデート
+
+原文：Up to date
+筆者訳：最新の状態
+Google翻訳：最新の
+
+原文：less than a minute
+筆者訳：1分以内
+Google翻訳：一分未満
+
+原文（単数形）：%llu minute
+原文（複数形）：%llu minutes
+筆者訳：%llu分
+Google翻訳：％llu分
+
+原文：Firmware updates provided by device manufacturers can improve performance and fix critical security issues.
+筆者訳：デバイスの製造元が提供するファームウェアアップデートは、パフォーマンスを改善したり、致命的なセキュリティー面での不具合を修正したりすることがあります。
+Google翻訳：デバイスメーカーが提供するファームウェアアップデートは、パフォーマンスを向上させ、重大なセキュリティ問題を修正することができます。
+
+原文：Do not unplug the device during the update.
+筆者訳：アップデート中はデバイスを取り外さないでください。
+Google翻訳：更新中はデバイスのプラグを抜かないでください。
+
+原文：Checking for Updates
+筆者訳：アップデートを確認しています
+Google翻訳：アップデートの確認
+
+原文：Connecting to the firmware service and searching for updates.
+筆者訳：ファームウェアサービスに接続して、アップデートを確認しています。
+Google翻訳：ファームウェアサービスに接続し、アップデートを検索します。
+
+原文：Firmware Updates Are Not Available
+筆者訳：ファームウェアアップデートが利用できません
+Google翻訳：ファームウェアアップデートは利用できません
+
+原文：Firmware updates are not supported on this or any connected devices.
+筆者訳：このデバイスおよび接続されたデバイスは、ファームウェアのアップデートに対応していません。
+Google翻訳：ファームウェアの更新は、このデバイスまたは接続されているデバイスではサポートされていません。
+
+原文：The Firmware Service Is Not Available
+筆者訳：ファームウェアサービスが利用できません
+Google翻訳：ファームウェアサービスは利用できません
+
+原文：Please make sure “fwupd” is installed and enabled.
+筆者訳：“fwupd” がインストール済みで有効になっているか確認してください。
+Google翻訳：「fwupd」がインストールされ、有効になっていることを確認してください。
+
+原文（単数形）：%u Update Available
+原文（複数形）：%u Updates Available
+筆者訳：%u件のアップデートが利用可能
+Google翻訳：％uアップデートが利用可能
+
+原文：Up to Date
+筆者訳：最新の状態
+Google翻訳：最新の
+
+原文：“%s” is being updated
+筆者訳：“%s” をアップデートしています
+Google翻訳：「％s」は更新中です
+
+原文：Failed to install firmware release
+筆者訳：ファームウェアをインストールできませんでした
+Google翻訳：ファームウェアリリースのインストールに失敗しました
+
+原文：“%s” needs to manually be put in update mode
+筆者訳：“%s” は手動でアップデートモードに切り替える必要があります
+Google翻訳：「％s」は手動で更新モードにする必要があります
+
+原文：Continue
+筆者訳：続行
+Google翻訳：継続する
+
+原文：An update requires the system to restart to complete
+筆者訳：アップデートを完了するには、システムの再起動が必要です
+Google翻訳：更新を完了するには、システムを再起動する必要があります
+
+原文：This will close all open applications and restart this device.
+筆者訳：続行すると、開いているすべてのアプリケーションを閉じてこのデバイスを再起動します。
+Google翻訳：これにより、開いているすべてのアプリケーションが閉じられ、このデバイスが再起動します。
+
+原文：Restart
+筆者訳：再起動
+Google翻訳：再起動
+
+原文：An update requires the system to shut down to complete
+筆者訳：アップデートを完了するには、システムのシャットダウンが必要です
+Google翻訳：更新を完了するには、システムをシャットダウンする必要があります
+
+原文：This will close all open applications and turn off this device.
+筆者訳：続行すると、開いているすべてのアプリケーションを閉じてこのデバイスの電源を切ります。
+Google翻訳：これにより、開いているすべてのアプリケーションが閉じられ、このデバイスの電源がオフになります。
+
+原文：Shut Down
+筆者訳：シャットダウン
+Google翻訳：シャットダウン
+
+原文：%s memory
+筆者訳：%s メモリー
+Google翻訳：％sメモリ
+
+原文：Unknown Graphics
+筆者訳：不明なグラフィックス
+Google翻訳：不明なグラフィック
+
+原文：Unknown storage
+筆者訳：不明なストレージ
+Google翻訳：不明なストレージ
+
+原文：Manufacturer Website
+筆者訳：製造元の Web サイト
+Google翻訳：メーカーのウェブサイト
+
+原文：Dual-Core %s
+筆者訳：デュアルコア %s
+Google翻訳：デュアルコア％s
+
+原文：Quad-Core %s
+筆者訳：クアッドコア %s
+Google翻訳：クアッドコア％s
+
+原文：Hexa-Core %s
+筆者訳：ヘキサコア %s
+Google翻訳：ヘキサコア％s
+
+原文：Unknown Processor
+筆者訳：不明なプロセッサー
+Google翻訳：不明なプロセッサ
+
+原文：Unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：%s storage (NVMe SSD)
+筆者訳：%s ストレージ (NVMe SSD)
+Google翻訳：％sストレージ（NVMe SSD）
+
+原文：%s storage (eMMC)
+筆者訳：%s ストレージ (eMMC)
+Google翻訳：％sストレージ（eMMC）
+
+原文：%s storage (SATA SSD)
+筆者訳：%s ストレージ (SATA SSD)
+Google翻訳：％sストレージ（SATA SSD）
+
+原文：%s storage (HDD)
+筆者訳：%s ストレージ (HDD)
+Google翻訳：％sストレージ（HDD）
+
+原文：%s storage
+筆者訳：%s ストレージ
+Google翻訳：％sストレージ
+
+原文：Website
+筆者訳：Web サイト
+Google翻訳：Webサイト
+
+原文：Check for Updates
+筆者訳：アップデートを確認
+Google翻訳：アップデートを確認する
+
+原文：Built on %s
+筆者訳：%s ベース
+Google翻訳：％s上に構築
+
+原文：System Settings Will Be Restored to The Factory Defaults
+筆者訳：システム設定が出荷時のデフォルトに復元されます
+Google翻訳：システム設定は工場出荷時のデフォルトに復元されます
+
+原文：All system settings and data will be reset to the default values. Personal data, such as music and pictures, will be unaffected.
+筆者訳：すべてのシステム設定とデータがデフォルト値にリセットされます。音楽や写真などの個人データは影響を受けません。
+Google翻訳：すべてのシステム設定とデータはデフォルト値にリセットされます。音楽や写真などの個人データは影響を受けません。
+
+原文：Restore Settings
+筆者訳：設定を復元
+Google翻訳：設定を復元
+

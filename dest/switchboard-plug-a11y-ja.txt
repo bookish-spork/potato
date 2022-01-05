@@ -1,0 +1,152 @@
+原文：Universal Access
+筆者訳：ユニバーサルアクセス
+Google翻訳：ユニバーサルアクセス
+
+原文：Configure accessibility features
+筆者訳：アクセシビリティー機能を設定します
+Google翻訳：アクセシビリティ機能を構成する
+
+原文：More accessibility features can be found throughout System Settings.
+筆者訳：アクセシビリティー機能の設定項目は”システム設定”のいたるところにあります。
+Google翻訳：その他のユーザー補助機能は、システム設定全体にあります。
+
+原文：Check the relevant settings pages or search from the All Settings screen.
+筆者訳：関連する設定ページを確認するか、“すべての設定”画面から検索してみてください。
+Google翻訳：関連する設定ページを確認するか、[すべての設定]画面から検索してください。
+
+原文：Show in Panel
+筆者訳：パネルに表示
+Google翻訳：パネルに表示
+
+原文：Accessibility Features
+筆者訳：アクセシビリティー機能
+Google翻訳：アクセシビリティ機能
+
+原文：Audio
+筆者訳：オーディオ
+Google翻訳：オーディオ
+
+原文：Hearing
+筆者訳：聴覚
+Google翻訳：聴覚
+
+原文：Visual Alerts
+筆者訳：視覚的な警告
+Google翻訳：ビジュアルアラート
+
+原文：Flash screen
+筆者訳：画面の点滅
+Google翻訳：フラッシュ画面
+
+原文：Screen Reader
+筆者訳：スクリーンリーダー
+Google翻訳：スクリーンリーダー
+
+原文：Audio descriptions
+筆者訳：音声ガイド
+Google翻訳：音声ガイド
+
+原文：keyboard shortcut
+筆者訳：キーボードショートカット
+Google翻訳：キーボードショートカット
+
+原文：Typing
+筆者訳：文字入力
+Google翻訳：タイピング
+
+原文：On-screen keyboard
+筆者訳：オンスクリーンキーボード
+Google翻訳：オンスクリーンキーボード
+
+原文：Typing Delays
+筆者訳：文字入力の遅延
+Google翻訳：タイピングの遅延
+
+原文：Delay between key presses (slow keys)
+筆者訳：キーの押下間の遅延 (スローキー)
+Google翻訳：キーを押す間の遅延（遅いキー）
+
+原文：Beep when a key is pressed
+筆者訳：キーが押されたときにビープ音を鳴らす
+Google翻訳：キーが押されたときにビープ音が鳴る
+
+原文：Beep when a key is accepted
+筆者訳：キー入力を受け付けたときにビープ音を鳴らす
+Google翻訳：キーが受け入れられたらビープ音を鳴らします
+
+原文：Beep when a key is rejected
+筆者訳：キー入力を拒否したときにビープ音を鳴らす
+Google翻訳：キーが拒否されたときにビープ音を鳴らす
+
+原文：Typing Delay length
+筆者訳：文字入力の遅延の長さ
+Google翻訳：入力遅延の長さ
+
+原文：Fast Typing
+筆者訳：高速文字入力
+Google翻訳：高速タイピング
+
+原文：Ignore fast duplicate keypresses (bounce keys)
+筆者訳：高速な重複キー押下の無視 (バウンスキー)
+Google翻訳：高速重複キー押下（バウンスキー）を無視します
+
+原文：Fast Typing Delay length
+筆者訳：高速文字入力の遅延の長さ
+Google翻訳：高速タイピング遅延の長さ
+
+原文：Keyboard
+筆者訳：キーボード
+Google翻訳：キーボード
+
+原文：Beep when a lock key is pressed
+筆者訳：ロックキーが押されたときにビープ音を鳴らす
+Google翻訳：ロックキーを押すとビープ音が鳴る
+
+原文：Use modifier keys in sequence (sticky keys)
+筆者訳：順番に修飾キーをつかう (固定キー)
+Google翻訳：修飾キーを順番に使用する（スティッキーキー）
+
+原文：Beep when a modifier key is pressed
+筆者訳：修飾キーが押されたときにビープ音を鳴らす
+Google翻訳：修飾キーが押されたときにビープ音が鳴る
+
+原文：, 
+筆者訳：、 
+Google翻訳：、
+
+原文：Provide audio descriptions for items on the screen
+筆者訳：画面上の項目について音声ガイドを提供
+Google翻訳：画面上のアイテムの音声ガイドを提供します
+
+原文：Keyboard shortcut
+筆者訳：キーボードショートカット
+Google翻訳：キーボードショートカット
+
+原文：Sound settings…
+筆者訳：サウンドの設定…
+Google翻訳：サウンド設定…
+
+原文：Lock Keys
+筆者訳：ロックキー
+Google翻訳：ロックキー
+
+原文：Modifier Keys
+筆者訳：修飾キー
+Google翻訳：修飾キー
+
+原文：Keyboard settings…
+筆者訳：キーボードの設定…
+Google翻訳：キーボード設定…
+
+原文：On-screen keyboard settings…
+筆者訳：オンスクリーンキーボードの設定…
+Google翻訳：画面上のキーボード設定…
+
+原文：Delay length
+筆者訳：遅延の長さ
+Google翻訳：遅延長
+
+原文：Interaction
+筆者訳：インタラクション
+Google翻訳：交流
+

@@ -1,0 +1,32 @@
+原文：Night Light is on
+筆者訳：夜間モードは有効です
+Google翻訳：常夜灯が点灯しています
+
+原文：Middle-click to snooze
+筆者訳：一時的に無効にするには中クリックしてください
+Google翻訳：中クリックしてスヌーズします
+
+原文：Night Light is snoozed
+筆者訳：夜間モードは無効です
+Google翻訳：常夜灯がスヌーズされます
+
+原文：Middle-click to enable
+筆者訳：有効にするには中クリックしてください
+Google翻訳：中クリックして有効にします
+
+原文：Disabled until sunrise
+筆者訳：日の出まで無効
+Google翻訳：日の出まで無効
+
+原文：Disabled until tomorrow
+筆者訳：明日まで無効
+Google翻訳：明日まで無効
+
+原文：Snooze Night Light
+筆者訳：夜間モードを一時的に無効にする
+Google翻訳：スヌーズナイトライト
+
+原文：Night Light Settings…
+筆者訳：夜間モードの設定…
+Google翻訳：常夜灯の設定…
+

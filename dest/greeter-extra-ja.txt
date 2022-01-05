@@ -1,0 +1,96 @@
+原文：Unlock or log in to your device
+筆者訳：お使いのデバイスのロックを解除したりログインしたりします
+Google翻訳：デバイスのロックを解除するか、ログインします
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Hide clock during initial setup
+筆者訳：初期設定の間は時計を表示しないように修正
+Google翻訳：初期設定中に時計を隠す
+
+原文：Use selected accent color for logged in checkmark
+筆者訳：ログイン中かどうかを表示するチェックマークに、ユーザーが選択したアクセントカラーを使用するように修正
+Google翻訳：ログインしたチェックマークに選択したアクセントカラーを使用する
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Add multitouch finger tracking
+筆者訳：マルチタッチを検知する機能を追加
+Google翻訳：マルチタッチフィンガートラッキングを追加
+
+原文：Add keyboard layout support
+筆者訳：キーボードレイアウトへの対応を追加
+Google翻訳：キーボードレイアウトのサポートを追加
+
+原文：New colorful avatar fallbacks
+筆者訳：アバター画像未設定時に背景を色付きで表示するように変更
+Google翻訳：新しいカラフルなアバターのフォールバック
+
+原文：Fix clock when resuming from sleep
+筆者訳：スリープからの復帰時に時刻が間違っている不具合を修正
+Google翻訳：スリープから再開するときの時計を修正する
+
+原文：Fix an issue with media keys
+筆者訳：メディアキーに関する不具合を修正
+Google翻訳：メディアキーの問題を修正する
+
+原文：Ensure that manual login is available when users are hidden
+筆者訳：ユーザーが非表示の場合にユーザー名を指定したログインができるように修正
+Google翻訳：ユーザーが非表示になっているときに手動ログインが利用できることを確認します
+
+原文：Save last user on attempted login
+筆者訳：ログイン試行時に最後に使用したユーザーを記録するように修正
+Google翻訳：ログイン試行時に最後のユーザーを保存
+
+原文：Handle all background aspect ratios
+筆者訳：どの解像度の壁紙でも表示できるように修正
+Google翻訳：すべての背景のアスペクト比を処理する
+
+原文：Give non-focused user cards smaller usernames
+筆者訳：フォーカスされていないユーザーカードのユーザー名を小さいフォントサイズに変更
+Google翻訳：焦点の合っていないユーザーカードに小さいユーザー名を与える
+
+原文：Better respect NumLock settings
+筆者訳：NumLock の設定を反映するように修正
+Google翻訳：NumLock設定を尊重する
+
+原文：Enable sounds in greeter
+筆者訳：Greeter 内でのサウンドを有効化
+Google翻訳：グリーターでサウンドを有効にする
+
+原文：Select password text on error instead of immediately clearing it
+筆者訳：ログインエラー時にパスワードを消去せずに、選択するように修正
+Google翻訳：すぐにクリアするのではなく、エラー時にパスワードテキストを選択する
+
+原文：Code cleanup
+筆者訳：コードのクリーンアップ
+Google翻訳：コードのクリーンアップ
+
+原文：Extensive overhaul
+筆者訳：大規模な改良
+Google翻訳：大規模なオーバーホール
+
+原文：New card-based appearance
+筆者訳：カードスタイルの新しいデザイン
+Google翻訳：新しいカードベースの外観
+
+原文：Improved HiDPI support
+筆者訳：HiDPI への対応を改善
+Google翻訳：改善されたHiDPIサポート
+
+原文：AccountsService functionality
+筆者訳：AccountsService の機能を有効化
+Google翻訳：AccountsService機能
+
+原文：Various bug fixes
+筆者訳：さまざまなバグ修正
+Google翻訳：さまざまなバグ修正
+

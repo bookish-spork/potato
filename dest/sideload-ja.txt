@@ -1,0 +1,172 @@
+原文：Install failed
+筆者訳：インストールに失敗しました
+Google翻訳：インストールに失敗しました
+
+原文：Details
+筆者訳：詳細
+Google翻訳：詳細
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：This app is already installed.
+筆者訳：このアプリはインストール済みです。
+Google翻訳：このアプリはすでにインストールされています。
+
+原文：A newer version of Flatpak is needed to install this app.
+筆者訳：このアプリをインストールするには、新しいバージョンの Flatpak が必要です。
+Google翻訳：このアプリをインストールするには、Flatpakの新しいバージョンが必要です。
+
+原文：A required Flatpak remote was not found.
+筆者訳：要求された Flatpak リモートが見つかりませんでした。
+Google翻訳：必要なFlatpakリモートが見つかりませんでした。
+
+原文：A required runtime dependency could not be found.
+筆者訳：実行時に必要な依存関係が見つかりませんでした。
+Google翻訳：必要なランタイム依存関係が見つかりませんでした。
+
+原文：The supplied .flatpakref file does not seem to be valid.
+筆者訳：指定された .flatpakref ファイルは有効ではない可能性があります。
+Google翻訳：提供された.flatpakrefファイルは有効ではないようです。
+
+原文：The app is not signed with a trusted signature.
+筆者訳：アプリには信頼できる署名が付与されていません。
+Google翻訳：アプリは信頼できる署名で署名されていません。
+
+原文：The application, runtime, or remote name is invalid.
+筆者訳：アプリケーション名、ランタイム名、リモート名のいずれかが不適切です。
+Google翻訳：アプリケーション、ランタイム、またはリモート名が無効です。
+
+原文：An unknown error occured.
+筆者訳：不明なエラーが発生しました。
+Google翻訳：不明なエラーが発生しました。
+
+原文：Install untrusted app “%s”?
+筆者訳：信頼されていないアプリ “%s” をインストールしますか？
+Google翻訳：信頼できないアプリ「％s」をインストールしますか？
+
+原文：Install untrusted app?
+筆者訳：信頼されていないアプリをインストールしますか？
+Google翻訳：信頼できないアプリをインストールしますか？
+
+原文：This app is provided solely by its developer and has not been reviewed for security, privacy, or system integration.
+筆者訳：アプリの開発者が独自に配布しているため、セキュリティーやプライバシー、システムとの統合に関する審査が行われていません。
+Google翻訳：このアプリは開発者によってのみ提供されており、セキュリティ、プライバシー、またはシステム統合についてはレビューされていません。
+
+原文：Fetching details
+筆者訳：詳細を取得しています
+Google翻訳：詳細の取得
+
+原文：I understand
+筆者訳：了解しました
+Google翻訳：わかりました
+
+原文：Updates to this app will not be reviewed
+筆者訳：このアプリに関するアップデートは審査されません
+Google翻訳：このアプリのアップデートはレビューされません
+
+原文：Other apps from this distributor may appear in %s
+筆者訳：同じ配布元のアプリが %s に表示される可能性があります
+Google翻訳：このディストリビューターの他のアプリは％sに表示される場合があります
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Install Anyway
+筆者訳：了解してインストール
+Google翻訳：とにかくインストール
+
+原文：Install size may be up to %s
+筆者訳：推定のインストールサイズは最大 %s です
+Google翻訳：インストールサイズは最大％sになる場合があります
+
+原文：Download size may be up to %s
+筆者訳：推定のダウンロードサイズは最大 %s です
+Google翻訳：ダウンロードサイズは最大％sになる場合があります
+
+原文：Unknown download size
+筆者訳：ダウンロードサイズは不明です
+Google翻訳：不明なダウンロードサイズ
+
+原文：Installing “%s”
+筆者訳：“%s” をインストールしています
+Google翻訳：「％s」のインストール
+
+原文：Preparing…
+筆者訳：準備しています…
+Google翻訳：準備…
+
+原文：“%s” has been installed
+筆者訳：“%s” をインストールしました
+Google翻訳：「％s」がインストールされました
+
+原文：The app has been installed
+筆者訳：アプリをインストールしました
+Google翻訳：アプリがインストールされました
+
+原文：Open it any time from the Applications Menu.
+筆者訳：このアプリはアプリケーションメニューからいつでも開けます。
+Google翻訳：アプリケーションメニューからいつでも開きます。
+
+原文：“%s” is already installed
+筆者訳：“%s” はインストール済みです
+Google翻訳：「％s」はすでにインストールされています
+
+原文：This app is already installed
+筆者訳：このアプリはインストール済みです
+Google翻訳：このアプリはすでにインストールされています
+
+原文：No changes were made.
+筆者訳：変更は行われていません。
+Google翻訳：変更はありません。
+
+原文：Visit %s for app information, updates, and to uninstall.
+筆者訳：アプリの情報やアップデートを確認したりアンインストールしたりするには、%s を開いてください。
+Google翻訳：アプリ情報、アップデート、およびアンインストールについては、％sにアクセスしてください。
+
+原文：System Settings → Applications…
+筆者訳：システム設定→アプリケーション…
+Google翻訳：システム設定→アプリケーション…
+
+原文：Permissions can be changed in %s
+筆者訳：権限は%sで変更できます。
+Google翻訳：権限は％sで変更できます
+
+原文：Move ”%s” to Trash
+筆者訳：”%s” をゴミ箱に移動
+Google翻訳：”％s”をゴミ箱に移動
+
+原文：Open App
+筆者訳：アプリを開く
+Google翻訳：アプリを開く
+
+原文：your software center
+筆者訳：ソフトウェアセンター
+Google翻訳：あなたのソフトウェアセンター
+
+原文：Install Untrusted App
+筆者訳：信頼されていないアプリをインストール
+Google翻訳：信頼できないアプリをインストールする
+
+原文：Installing %s. Unable to estimate time remaining.
+筆者訳：%s をインストールしています。残り時間は不明です。
+Google翻訳：％sをインストールしています。残り時間を見積もることができません。
+
+原文：App installed
+筆者訳：アプリをインストールしました
+Google翻訳：インストールされたアプリ
+
+原文：Installed “%s”
+筆者訳：“%s”をインストールしました
+Google翻訳：インストールされた「％s」
+
+原文：The app was installed
+筆者訳：アプリをインストールしました
+Google翻訳：アプリがインストールされました
+
+原文：Did not find suitable Flatpak installation.
+筆者訳：適切な Flatpak インストールが見つかりませんでした。
+Google翻訳：適切なFlatpakインストールが見つかりませんでした。
+

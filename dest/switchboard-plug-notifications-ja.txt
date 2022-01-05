@@ -1,0 +1,75 @@
+原文：Nothing to do here
+筆者訳：設定できるものがありません
+Google翻訳：ここでは何もしません
+
+原文：Notifications preferences are for configuring which apps make use of notifications, for changing how an app's notifications appear,
+and for setting when you do not want to be disturbed by notifications.
+筆者訳：通知設定では通知を使うアプリの設定やアプリの通知の表示方法の変更、
+一時的な通知のミュート設定を行います。
+Google翻訳：通知設定は、通知を使用するアプリを構成したり、アプリの通知の表示方法を変更したりするためのものです。
+通知に邪魔されたくない場合の設定に。
+
+原文：When apps are installed that have notification options they will automatically appear here.
+筆者訳：通知設定があるアプリがインストールされると、自動的にここに表示されます。
+Google翻訳：通知オプションのあるアプリをインストールすると、自動的にここに表示されます。
+
+原文：Notifications
+筆者訳：通知
+Google翻訳：通知
+
+原文：Configure notification bubbles, sounds, and notification center
+筆者訳：バブル、サウンド、通知センターを設定します
+Google翻訳：通知バブル、サウンド、および通知センターを構成する
+
+原文：Do Not Disturb
+筆者訳：非通知モード
+Google翻訳：邪魔しないでください
+
+原文：Notifications Center
+筆者訳：通知センター
+Google翻訳：通知センター
+
+原文：Sound
+筆者訳：サウンド
+Google翻訳：音
+
+原文：Bubbles
+筆者訳：バブル
+Google翻訳：泡
+
+原文：While in Do Not Disturb mode, notifications and alerts will be hidden and notification sounds will be silenced.
+筆者訳：非通知モードの間、通知と警告は表示されず、通知サウンドも鳴りません。
+Google翻訳：サイレントモードでは、通知とアラートは非表示になり、通知音は消音されます。
+
+原文：System notifications, such as volume and display brightness, will be unaffected.
+筆者訳：音量設定やディスプレイの明るさなどのシステム通知は影響を受けません。
+Google翻訳：音量やディスプレイの明るさなどのシステム通知は影響を受けません。
+
+原文：elementary OS is in Do Not Disturb mode
+筆者訳：elementary OS は非通知モードです
+Google翻訳：エレメンタリーOSはサイレントモードです
+
+原文：Bubbles appear in the top right corner of the display and disappear automatically.
+筆者訳：ディスプレイの右上に表示されて自動的に消えます。
+Google翻訳：泡はディスプレイの右上隅に表示され、自動的に消えます。
+
+原文：Sounds
+筆者訳：サウンド
+Google翻訳：音
+
+原文：Sounds play once when a new notification arrives.
+筆者訳：新しい通知があったときにサウンドを鳴らします。
+Google翻訳：新しい通知が到着すると、サウンドが1回再生されます。
+
+原文：Notification Center
+筆者訳：通知センター
+Google翻訳：通知センター
+
+原文：Show missed notifications in Notification Center.
+筆者訳：見逃した通知を通知センターに表示します。
+Google翻訳：通知センターに見逃した通知を表示します。
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+

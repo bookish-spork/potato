@@ -1,0 +1,76 @@
+原文：Not Connected
+筆者訳：接続していません
+Google翻訳：接続されていません
+
+原文：Connecting…
+筆者訳：接続しています…
+Google翻訳：接続中…
+
+原文：Disconnecting…
+筆者訳：切断しています…
+Google翻訳：切断中…
+
+原文：Unable to Connect
+筆者訳：接続できません
+Google翻訳：接続することができません
+
+原文：Speaker
+筆者訳：スピーカー
+Google翻訳：スピーカー
+
+原文：Headphones
+筆者訳：ヘッドフォン
+Google翻訳：ヘッドホン
+
+原文：Controller
+筆者訳：コントローラー
+Google翻訳：コントローラ
+
+原文：Keyboard
+筆者訳：キーボード
+Google翻訳：キーボード
+
+原文：Mouse
+筆者訳：マウス
+Google翻訳：ねずみ
+
+原文：Tablet
+筆者訳：タブレット
+Google翻訳：タブレット
+
+原文：Touchpad
+筆者訳：タッチパッド
+Google翻訳：タッチパッド
+
+原文：Phone
+筆者訳：電話
+Google翻訳：電話
+
+原文：Connected
+筆者訳：接続済み
+Google翻訳：接続済み
+
+原文：Middle-click to turn Bluetooth off
+筆者訳：Bluetooth を無効にするには中クリックしてください
+Google翻訳：中クリックしてBluetoothをオフにします
+
+原文：Bluetooth connected
+筆者訳：Bluetooth は接続済みです
+Google翻訳：Bluetooth接続
+
+原文：Bluetooth is on
+筆者訳：Bluetooth は有効です
+Google翻訳：Bluetoothがオンになっています
+
+原文：Bluetooth is off
+筆者訳：Bluetooth は無効です
+Google翻訳：Bluetoothがオフになっています
+
+原文：Middle-click to turn Bluetooth on
+筆者訳：Bluetooth を有効にするには中クリックしてください
+Google翻訳：中クリックしてBluetoothをオンにします
+
+原文：Bluetooth Settings…
+筆者訳：Bluetooth の設定…
+Google翻訳：Bluetooth設定…
+

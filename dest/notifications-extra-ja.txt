@@ -1,0 +1,36 @@
+原文：Notifications
+筆者訳：通知
+Google翻訳：通知
+
+原文：Notification bubbles and sounds for the desktop
+筆者訳：デスクトップに通知バブルを表示しサウンドを再生します
+Google翻訳：デスクトップの通知バブルとサウンド
+
+原文：A notification server for Pantheon
+筆者訳：Pantheon 向けの通知サーバーです
+Google翻訳：パンテオンの通知サーバー
+
+原文：Complete rewrite:
+筆者訳：完全なコードの書き直し:
+Google翻訳：完全な書き直し：
+
+原文：Support the dark style
+筆者訳：ダークスタイルに対応
+Google翻訳：ダークスタイルをサポート
+
+原文：Action buttons
+筆者訳：アクションボタンを追加
+Google翻訳：アクションボタン
+
+原文：Optional badge icons
+筆者訳：バッジアイコンを表示可能に
+Google翻訳：オプションのバッジアイコン
+
+原文：Automatically badge images with app icons
+筆者訳：画像にアプリアイコンを自動的に重ねて表示するように変更
+Google翻訳：アプリアイコンで画像に自動的にバッジを付ける
+
+原文：Swipe away to dismiss
+筆者訳：通知をスワイプすると消去できる機能を追加
+Google翻訳：スワイプして閉じる
+

@@ -1,0 +1,112 @@
+原文：Sharing
+筆者訳：共有
+Google翻訳：共有
+
+原文：Configure file and media sharing
+筆者訳：ファイルとメディア共有の設定をします
+Google翻訳：ファイルとメディアの共有を構成する
+
+原文：Network Is Not Available
+筆者訳：ネットワークは使用できません
+Google翻訳：ネットワークは利用できません
+
+原文：While disconnected from the network, sharing services are not available.
+筆者訳：ネットワークから切断されている間、共有サービスは利用できません。
+Google翻訳：ネットワークから切断されている間は、共有サービスを利用できません。
+
+原文：Network settings…
+筆者訳：ネットワークの設定…
+Google翻訳：ネットワーク設定…
+
+原文：Media library
+筆者訳：メディアライブラリ
+Google翻訳：メディアライブラリ
+
+原文：Enabled
+筆者訳：有効
+Google翻訳：有効
+
+原文：Not Available
+筆者訳：使用できません
+Google翻訳：利用不可
+
+原文：Connected
+筆者訳：接続済み
+Google翻訳：接続済み
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+
+原文：Media Library
+筆者訳：メディアライブラリ
+Google翻訳：メディアライブラリ
+
+原文：While enabled, the following media libraries are shared to compatible devices in your network.
+筆者訳：有効になっている間、以下のメディアライブラリはネットワーク内の互換性のあるデバイスと共有されます。
+Google翻訳：有効にすると、次のメディアライブラリがネットワーク内の互換性のあるデバイスと共有されます。
+
+原文：While disabled, the selected media libraries are unshared, and it won't stream files from your computer to other devices.
+筆者訳：無効になっている間、選択されたメディアライブラリは共有されず、このコンピューターからほかのデバイスへファイルを送信しません。
+Google翻訳：無効にすると、選択したメディアライブラリは共有されなくなり、コンピューターから他のデバイスにファイルがストリーミングされなくなります。
+
+原文：Music
+筆者訳：音楽
+Google翻訳：音楽
+
+原文：Videos
+筆者訳：動画
+Google翻訳：ビデオ
+
+原文：Photos
+筆者訳：写真
+Google翻訳：写真
+
+原文：Select the folder containing your %s
+筆者訳：%s を含むフォルダーを選択してください
+Google翻訳：％sを含むフォルダーを選択します
+
+原文：While enabled, bluetooth devices can send files to Downloads.
+筆者訳：有効になっている間、Bluetooth デバイスは“ダウンロード”フォルダーにファイルを送信できます。
+Google翻訳：有効にすると、Bluetoothデバイスはファイルをダウンロードに送信できます。
+
+原文：While disabled, bluetooth devices can not send files to Downloads.
+筆者訳：無効になっている間、Bluetooth デバイスは“ダウンロード”フォルダーにファイルを送信できません。
+Google翻訳：無効になっている間、Bluetoothデバイスはファイルをダウンロードに送信できません。
+
+原文：Notify about newly received files:
+筆者訳：新しく受け取ったファイルについて通知:
+Google翻訳：新しく受信したファイルについて通知します。
+
+原文：Accept files from bluetooth devices:
+筆者訳：Bluetooth デバイスからファイルを受け入れる:
+Google翻訳：Bluetoothデバイスからファイルを受け入れる：
+
+原文：Always
+筆者訳：常に
+Google翻訳：いつも
+
+原文：When paired
+筆者訳：ペアリングした時
+Google翻訳：ペアリングした場合
+
+原文：Ask me
+筆者訳：確認
+Google翻訳：私に聞いて
+
+原文：Bluetooth Sharing Is Not Available
+筆者訳：Bluetooth 共有は使用できません
+Google翻訳：Bluetooth共有は利用できません
+
+原文：The bluetooth device is either disconnected or disabled. Check bluetooth settings and try again.
+筆者訳：Bluetooth デバイスが接続されていないか、無効になっています。Bluetooth の設定をチェックして、もう一度お試しください。
+Google翻訳：Bluetoothデバイスが切断されているか無効になっています。 Bluetoothの設定を確認して、再試行してください。
+
+原文：Bluetooth settings…
+筆者訳：Bluetooth の設定…
+Google翻訳：Bluetooth設定…
+
+原文：Open bluetooth settings
+筆者訳：Bluetooth の設定を開く
+Google翻訳：Bluetooth設定を開く
+

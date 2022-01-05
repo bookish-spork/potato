@@ -1,0 +1,324 @@
+原文：Stupidly simple.
+筆者訳：非常にシンプルなドック。
+Google翻訳：ばかげてシンプル。
+
+原文：Plank is meant to be the simplest dock on the planet. The goal is to provide just what a dock needs and absolutely nothing more.
+筆者訳：Plank は世界で一番シンプルなドックです。ドックに必要な機能だけを提供することが目標です。
+Google翻訳：プランクは、地球上で最も単純なドックになることを目的としています。目標は、ドックに必要なものだけを提供することであり、それ以上のものはまったくありません。
+
+原文：It is, however, a library which can be extended to create other dock programs with more advanced features. Thus, Plank is the underlying technology for Docky (starting in version 3.0.0) and aims to provide all the core features while Docky extends it to add fancier things like Docklets, painters, settings dialogs, etc.
+筆者訳：しかし、Plank は拡張可能なライブラリでもあり、より高度な機能を持ったドックプログラムを開発できます。Docky (バージョン 3.0.0 以降) は Plank が提供するこの技術を利用しています。Docky は Plank を拡張し、ドックレットや高度な描画、設定ダイアログなどのマニアックな機能を追加しています。一方、Plank は中心的な機能だけを提供することを目的にしています。
+Google翻訳：ただし、これは、より高度な機能を備えた他のドックプログラムを作成するために拡張できるライブラリです。したがって、PlankはDocky（バージョン3.0.0以降）の基盤となるテクノロジーであり、すべてのコア機能を提供することを目的としていますが、Dockyはそれを拡張して、ドックレット、ペインター、設定ダイアログなどのより洗練された機能を追加します。
+
+原文：The Plank Developers
+筆者訳：Plank の開発者
+Google翻訳：プランク開発者
+
+原文：Dock
+筆者訳：ドック
+Google翻訳：ドック
+
+原文：Theme:
+筆者訳：テーマ:
+Google翻訳：テーマ：
+
+原文：Position:
+筆者訳：位置:
+Google翻訳：ポジション：
+
+原文：Left
+筆者訳：左端
+Google翻訳：左
+
+原文：Right
+筆者訳：右端
+Google翻訳：右
+
+原文：Top
+筆者訳：上部
+Google翻訳：上
+
+原文：Bottom
+筆者訳：下部
+Google翻訳：下
+
+原文：Alignment:
+筆者訳：配置:
+Google翻訳：配置：
+
+原文：Fill
+筆者訳：全幅
+Google翻訳：塗りつぶし
+
+原文：Start
+筆者訳：上/左寄せ
+Google翻訳：始める
+
+原文：End
+筆者訳：下/右寄せ
+Google翻訳：終わり
+
+原文：Center
+筆者訳：中央
+Google翻訳：中心
+
+原文：On Primary Display:
+筆者訳：プライマリディスプレイに表示:
+Google翻訳：プライマリディスプレイの場合：
+
+原文：Offset in percent from the center of the screen-edge
+筆者訳：スクリーン中央からの相対位置
+Google翻訳：画面の端の中心からのパーセント単位のオフセット
+
+原文：Icon Alignment:
+筆者訳：アイコンの配置:
+Google翻訳：アイコンの配置：
+
+原文：Icon Size:
+筆者訳：アイコンサイズ:
+Google翻訳：アイコンサイズ：
+
+原文：Appearance
+筆者訳：外観
+Google翻訳：外観
+
+原文：Intellihide
+筆者訳：賢く隠す
+Google翻訳：Intellihide
+
+原文：Autohide
+筆者訳：自動的に隠す
+Google翻訳：自動非表示
+
+原文：Dodge maximized window
+筆者訳：最大化されたウィンドウの上に表示しない
+Google翻訳：最大化されたウィンドウをかわす
+
+原文：Window Dodge
+筆者訳：ウィンドウの上に表示しない
+Google翻訳：ウィンドウダッジ
+
+原文：Dodge active window
+筆者訳：アクティブなウィンドウの上に表示しない
+Google翻訳：アクティブウィンドウをかわす
+
+原文：Hide Dock
+筆者訳：ドックを隠す
+Google翻訳：ドックを隠す
+
+原文：Hide Delay:
+筆者訳：隠すまでの時間:
+Google翻訳：遅延を非表示：
+
+原文：Delay in ms before hiding the dock
+筆者訳：ドックを隠すまでの時間(ミリ秒)
+Google翻訳：ドックを非表示にする前のミリ秒単位の遅延
+
+原文：Unhide Delay:
+筆者訳：復帰までの時間:
+Google翻訳：遅延の再表示：
+
+原文：Delay in ms before showing the dock
+筆者訳：ドックの復帰までの時間(ミリ秒)
+Google翻訳：ドックを表示する前のミリ秒単位の遅延
+
+原文：Pressure Reveal:
+筆者訳：押し込んで表示:
+Google翻訳：圧力の明らかに：
+
+原文：Item Management
+筆者訳：アイテム管理
+Google翻訳：アイテム管理
+
+原文：Show Unpinned:
+筆者訳：固定していないアイテムも表示:
+Google翻訳：固定解除を表示：
+
+原文：Restrict to Workspace:
+筆者訳：現在のワークスペースのみ表示:
+Google翻訳：ワークスペースに制限：
+
+原文：Lock Icons:
+筆者訳：アイコンをロック:
+Google翻訳：ロックアイコン：
+
+原文：Behaviour
+筆者訳：挙動
+Google翻訳：行動
+
+原文：Docklets
+筆者訳：ドックレット
+Google翻訳：ドックレット
+
+原文：Applications
+筆者訳：アプリケーション
+Google翻訳：アプリケーション
+
+原文：No battery
+筆者訳：バッテリーがありません
+Google翻訳：バッテリーなし
+
+原文：Battery
+筆者訳：バッテリー
+Google翻訳：バッテリー
+
+原文：Displays battery information
+筆者訳：バッテリーの情報を表示します
+Google翻訳：バッテリー情報を表示します
+
+原文：CPU Monitor
+筆者訳：CPU モニター
+Google翻訳：CPUモニター
+
+原文：Keep an eye on that CPU. And when it gets out of line...
+筆者訳：CPU の状態を監視します。暴走したときは…
+Google翻訳：そのCPUから目を離さないでください。そして、それがラインから外れたとき...
+
+原文：Clipboard is currently empty.
+筆者訳：クリップボードは空です。
+Google翻訳：クリップボードは現在空です。
+
+原文：_Clear
+筆者訳：消去(_C)
+Google翻訳：_クリア
+
+原文：Keep recent clipboard entries.
+筆者訳：最近コピーされたクリップボードの項目を維持します。
+Google翻訳：最近のクリップボードエントリを保持します。
+
+原文：Di_gital Clock
+筆者訳：デジタル表示(_G)
+Google翻訳：デジタル時計
+
+原文：24-Hour _Clock
+筆者訳：24時間表示(_C)
+Google翻訳：24時間制
+
+原文：Show _Date
+筆者訳：日付を表示(_D)
+Google翻訳：_Dateを表示
+
+原文：Clock
+筆者訳：時計
+Google翻訳：時計
+
+原文：What time is it?
+筆者訳：現在時刻を表示します
+Google翻訳：今何時ですか？
+
+原文：Show Desktop
+筆者訳：デスクトップを表示
+Google翻訳：デスクトップを表示する
+
+原文：Desktop
+筆者訳：デスクトップ
+Google翻訳：デスクトップ
+
+原文：Show your Desktop.
+筆者訳：デスクトップを表示します。
+Google翻訳：デスクトップを表示します。
+
+原文：No items in Trash
+筆者訳：ゴミ箱に項目がありません
+Google翻訳：ゴミ箱にアイテムはありません
+
+原文（単数形）：%u item in Trash
+原文（複数形）：%u items in Trash
+筆者訳：ゴミ箱に%u件の項目
+Google翻訳：ゴミ箱の％uアイテム
+
+原文：Drop to move to Trash
+筆者訳：ドロップしてゴミ箱に移動します
+Google翻訳：ドロップしてゴミ箱に移動します
+
+原文：_Open Trash
+筆者訳：ゴミ箱を開く(_O)
+Google翻訳：_ゴミ箱を開く
+
+原文：Empty _Trash
+筆者訳：ゴミ箱を空にする(_T)
+Google翻訳：空のごみ箱
+
+原文：Empty all items from Trash?
+筆者訳：ゴミ箱からすべての項目を削除しますか？
+Google翻訳：ごみ箱からすべてのアイテムを空にしますか？
+
+原文：All items in the Trash will be permanently deleted.
+筆者訳：ゴミ箱に入っているすべての項目を完全に削除します。
+Google翻訳：ゴミ箱のすべてのアイテムは完全に削除されます。
+
+原文：_Cancel
+筆者訳：キャンセル(_C)
+Google翻訳：_キャンセル
+
+原文：Trash
+筆者訳：ゴミ箱
+Google翻訳：ごみ
+
+原文：Have a look at your trash!
+筆者訳：ゴミ箱の中身を表示します
+Google翻訳：あなたのゴミを見てください！
+
+原文：Drop to add to dock
+筆者訳：ドロップしてドックに追加
+Google翻訳：ドロップしてドックに追加
+
+原文：translator-credits
+筆者訳：Launchpad Contributions:
+  B̅ https://translations.launchpad.net/~cmplstofb
+  Haruki Ota https://translations.launchpad.net/~ootaharuki99-5
+  Rico Tzschichholz https://translations.launchpad.net/~ricotz
+  Ryo Nakano https://translations.launchpad.net/~ryonakaknock3
+  Ryo Nakano https://translations.launchpad.net/~ryonakano-deactivatedaccount
+  Shota Shimazu https://translations.launchpad.net/~hornet-live-mf
+  Shota Shimazu https://translations.launchpad.net/~xylophone-project
+  Shushi Kurose https://translations.launchpad.net/~kuromabo
+  Takefumi Nagata https://translations.launchpad.net/~rago1975
+  night1ynx https://translations.launchpad.net/~night1ynx
+  smp https://translations.launchpad.net/~cheat-hc0-ms
+Google翻訳：翻訳者-クレジット
+
+原文：_Keep in Dock
+筆者訳：ドックに追加(_K)
+Google翻訳：_Dockに保管
+
+原文：_Close All
+筆者訳：すべて閉じる(_C)
+Google翻訳：_すべて閉じる
+
+原文：_Close
+筆者訳：閉じる(_C)
+Google翻訳：_選ぶ
+
+原文：Drop to open with %s
+筆者訳：ドロップして %s で開く
+Google翻訳：ドロップして％sで開きます
+
+原文：_Open in File Browser
+筆者訳：ファイルブラウザーで開く(_O)
+Google翻訳：_ファイルブラウザで開く
+
+原文：_Open
+筆者訳：開く(_O)
+Google翻訳：_開ける
+
+原文：Open Containing _Folder
+筆者訳：親フォルダーを開く(_F)
+Google翻訳：_Folderを含むオープン
+
+原文：Drop applications or files here
+筆者訳：アプリケーションあるいはファイルをマウスでドロップする
+Google翻訳：ここにアプリケーションまたはファイルをドロップします
+
+原文：Get _Help Online...
+筆者訳：オンラインでヘルプを表示(_H)...
+Google翻訳：_HelpOnlineを入手...
+
+原文：_Translate This Application...
+筆者訳：このアプリケーションを翻訳(_T)...
+Google翻訳：_このアプリケーションを翻訳...
+
+原文：Preferences
+筆者訳：設定
+Google翻訳：環境設定
+

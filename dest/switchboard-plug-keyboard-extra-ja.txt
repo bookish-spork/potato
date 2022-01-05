@@ -1,0 +1,64 @@
+原文：Keyboard Settings
+筆者訳：キーボードの設定
+Google翻訳：キーボード設定
+
+原文：Configure keyboard behavior, layouts, and shortcuts
+筆者訳：キーボードの挙動、レイアウト、ショートカットを設定します
+Google翻訳：キーボードの動作、レイアウト、およびショートカットを構成します
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Redesigned custom shortcuts view
+筆者訳：カスタムショートカット画面のデザインを変更
+Google翻訳：再設計されたカスタムショートカットビュー
+
+原文：On-screen keyboard switch in Layouts tab
+筆者訳：“レイアウト”タブにオンスクリーンキーボードを有効化できるスイッチを追加
+Google翻訳：[レイアウト]タブの画面キーボードスイッチ
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Ensure IBus automatically starts on login when needed
+筆者訳：必要であればログイン時に IBus が自動的に起動するように修正
+Google翻訳：必要に応じて、ログイン時にIBusが自動的に起動することを確認します
+
+原文：Add Layout popover is now a dialog
+筆者訳：レイアウト追加画面をポップオーバーからダイアログに変更
+Google翻訳：レイアウトの追加ポップオーバーがダイアログになりました
+
+原文：Guarantee we always have at least one layout
+筆者訳：キーボードレイアウトが必ず1つは追加されているように修正
+Google翻訳：常に少なくとも1つのレイアウトがあることを保証します
+
+原文：Improvements to ibus and xkb layouts
+筆者訳：IBus と XKB レイアウトに関する改善
+Google翻訳：ibusおよびxkbレイアウトの改善
+
+原文：Shortcut description for "Play" is now "Play/Pause"
+筆者訳："再生"メディアキーの説明ラベルを"再生/一時停止"に変更
+Google翻訳：「再生」のショートカットの説明が「再生/一時停止」になりました
+
+原文：Fix an issue where some shortcuts would incorrectly show as disabled
+筆者訳：一部のショートカットキーが “無効” と表示される不具合を修正
+Google翻訳：一部のショートカットが誤って無効として表示される問題を修正します
+
+原文：Add a view to configure input methods
+筆者訳：インプットメソッドを設定できるビューを追加
+Google翻訳：ビューを追加して入力メソッドを構成します
+
+原文：New "Workspaces" icon
+筆者訳：新しい"ワークスペース"アイコン
+Google翻訳：新しい「ワークスペース」アイコン
+
+原文：Exclude Space from single-key shortcuts
+筆者訳：単一キーのショートカットからスペースキーを除外
+Google翻訳：シングルキーショートカットからスペースを除外する
+

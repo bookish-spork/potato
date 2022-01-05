@@ -1,0 +1,20 @@
+原文：Night Light Indicator
+筆者訳：夜間モードインジケーター
+Google翻訳：常夜灯インジケーター
+
+原文：Easily snooze or adjust the temperature of Night Light from the Panel
+筆者訳：パネルから簡単に夜間モードを一時停止したり色温度を調整したりします
+Google翻訳：パネルから常夜灯の温度を簡単にスヌーズまたは調整できます
+
+原文：Show tooltip on hover
+筆者訳：ホバー時にツールチップを表示するように変更
+Google翻訳：ホバーにツールチップを表示する
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+

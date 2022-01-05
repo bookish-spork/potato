@@ -1,0 +1,20 @@
+原文：Printer Settings
+筆者訳：プリンターの設定
+Google翻訳：プリンター設定
+
+原文：Configure printers, manage print queues, and view ink levels
+筆者訳：プリンターを設定し、プリントキューを管理し、インク残量を表示します
+Google翻訳：プリンタの設定、印刷キューの管理、およびインクレベルの表示
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Show a default name if a printer is unnamed
+筆者訳：プリンター名が指定されていない場合にデフォルトの名前を表示するように修正
+Google翻訳：プリンタに名前が付いていない場合は、デフォルトの名前を表示します
+

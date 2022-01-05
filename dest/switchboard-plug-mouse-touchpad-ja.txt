@@ -1,0 +1,300 @@
+原文：Mouse & Touchpad
+筆者訳：マウスとタッチパッド
+Google翻訳：マウスとタッチパッド
+
+原文：Configure mouse and touchpad
+筆者訳：マウスとタッチパッドを設定します
+Google翻訳：マウスとタッチパッドを構成する
+
+原文：Clicking
+筆者訳：クリック
+Google翻訳：クリックする
+
+原文：Double-click speed
+筆者訳：ダブルクリックの速度
+Google翻訳：ダブルクリック速度
+
+原文：Dwell click
+筆者訳：ホバークリック
+Google翻訳：ドウェルクリック
+
+原文：Primary button
+筆者訳：主ボタン
+Google翻訳：プライマリボタン
+
+原文：Long-press secondary click
+筆者訳：長押しで副ボタンクリック
+Google翻訳：二次クリックを長押し
+
+原文：Middle click paste
+筆者訳：中クリックで貼り付け
+Google翻訳：ミドルクリックペースト
+
+原文：Mouse
+筆者訳：マウス
+Google翻訳：ねずみ
+
+原文：Pointer speed
+筆者訳：ポインターの速度
+Google翻訳：ポインタ速度
+
+原文：Pointer acceleration
+筆者訳：ポインターの加速
+Google翻訳：ポインタの加速
+
+原文：Natural scrolling
+筆者訳：ナチュラルスクロール
+Google翻訳：自然なスクロール
+
+原文：Pointing
+筆者訳：ポインティング
+Google翻訳：ポインティング
+
+原文：Pointer size
+筆者訳：ポインターのサイズ
+Google翻訳：ポインタサイズ
+
+原文：Reveal pointer
+筆者訳：ポインターをハイライト
+Google翻訳：ポインタを表示する
+
+原文：Control pointer using keypad
+筆者訳：キーパッドを使用してポインターを制御
+Google翻訳：キーパッドを使用してポインタを制御する
+
+原文：Touchpad
+筆者訳：タッチパッド
+Google翻訳：タッチパッド
+
+原文：Tap to click
+筆者訳：タップでクリック
+Google翻訳：タップしてクリック
+
+原文：Physical clicking
+筆者訳：物理ボタンのクリック
+Google翻訳：物理的なクリック
+
+原文：Scrolling
+筆者訳：スクロール
+Google翻訳：スクロール
+
+原文：Ignore while typing
+筆者訳：文字入力中は無効にする
+Google翻訳：入力中は無視する
+
+原文：Ignore when mouse is connected
+筆者訳：マウス接続時は無効にする
+Google翻訳：マウスが接続されている場合は無視する
+
+原文：Gestures
+筆者訳：ジェスチャー
+Google翻訳：ジェスチャー
+
+原文：Multitasking View
+筆者訳：マルチタスク画面
+Google翻訳：マルチタスクビュー
+
+原文：Switch Workspaces
+筆者訳：ワークスペースを切り替え
+Google翻訳：ワークスペースを切り替える
+
+原文：Maximize Window
+筆者訳：ウィンドウを最大化
+Google翻訳：ウィンドウを最大化
+
+原文：Behavior
+筆者訳：挙動
+Google翻訳：行動
+
+原文：Primary button:
+筆者訳：主ボタン:
+Google翻訳：主ボタン：
+
+原文：Left
+筆者訳：左
+Google翻訳：左
+
+原文：Right
+筆者訳：右
+Google翻訳：右
+
+原文：Long-press and release the primary button to secondary click
+筆者訳：主ボタンを長押しして離すと、副ボタンをクリックしたことになります
+Google翻訳：一次ボタンを長押しして放し、二次クリックします
+
+原文：seconds
+筆者訳：秒
+Google翻訳：秒
+
+原文：How quickly two clicks in a row will be treated as a double-click
+筆者訳：連続した 2 回のクリックがダブルクリックとして認識される速度のしきい値
+Google翻訳：連続した2回のクリックがダブルクリックとして扱われる速さ
+
+原文：Hold the pointer still to automatically click
+筆者訳：ポインターをホバーし続けると自動的にクリックします
+Google翻訳：ポインタを押したままにすると、自動的にクリックされます
+
+原文：Double-click speed:
+筆者訳：ダブルクリックの速度:
+Google翻訳：ダブルクリック速度：
+
+原文：Dwell click:
+筆者訳：ホバークリック:
+Google翻訳：滞留クリック：
+
+原文：Long-press secondary click:
+筆者訳：長押しで副ボタンクリック:
+Google翻訳：2回目のクリックを長押しします。
+
+原文：Middle or three-finger click on an input to paste selected text
+筆者訳：入力欄の上で中クリックまたは 3 本指のタップをすると、選択されたテキストを貼り付けます
+Google翻訳：入力を中指または3本の指でクリックして、選択したテキストを貼り付けます
+
+原文：Middle click paste:
+筆者訳：中クリックで貼り付け:
+Google翻訳：ミドルクリック貼り付け：
+
+原文：Swipe Horizontally
+筆者訳：水平にスワイプした場合
+Google翻訳：水平方向にスワイプ
+
+原文：Three fingers:
+筆者訳：3本指:
+Google翻訳：3本の指：
+
+原文：Do nothing
+筆者訳：何もしない
+Google翻訳：何もしない
+
+原文：Switch to workspace
+筆者訳：ワークスペースを切り替え
+Google翻訳：ワークスペースに切り替える
+
+原文：Four fingers:
+筆者訳：4本指:
+Google翻訳：4本の指：
+
+原文：Swipe Up
+筆者訳：上にスワイプした場合
+Google翻訳：上にスワイプする
+
+原文：Pinch
+筆者訳：ピンチした場合
+Google翻訳：ピンチ
+
+原文：Zoom
+筆者訳：ズーム
+Google翻訳：ズーム
+
+原文：Toggle maximized
+筆者訳：最大化状態を切り替え
+Google翻訳：最大化されたトグル
+
+原文：Devices
+筆者訳：デバイス
+Google翻訳：デバイス
+
+原文：Hardware default
+筆者訳：ハードウェアのデフォルト
+Google翻訳：ハードウェアのデフォルト
+
+原文：None
+筆者訳：なし
+Google翻訳：なし
+
+原文：Adaptive
+筆者訳：適応
+Google翻訳：アダプティブ
+
+原文：Pointer speed:
+筆者訳：ポインターの速度:
+Google翻訳：ポインタ速度：
+
+原文：Pointer acceleration:
+筆者訳：ポインターの加速:
+Google翻訳：ポインタの加速：
+
+原文：Natural scrolling:
+筆者訳：ナチュラルスクロール:
+Google翻訳：自然なスクロール：
+
+原文：Speed:
+筆者訳：速度:
+Google翻訳：スピード：
+
+原文：This disables both levels of keys on the numeric keypad
+筆者訳：これはテンキーパッドの両方のレベルのキーを無効にします
+Google翻訳：これにより、テンキーの両方のレベルのキーが無効になります
+
+原文：Small
+筆者訳：小
+Google翻訳：小さい
+
+原文：Medium
+筆者訳：中
+Google翻訳：中くらい
+
+原文：Large
+筆者訳：大
+Google翻訳：大きい
+
+原文：Pressing the control key will highlight the position of the pointer
+筆者訳：Ctrl キーを押すと、ポインターの位置がハイライトされます
+Google翻訳：コントロールキーを押すと、ポインターの位置が強調表示されます
+
+原文：Reveal pointer:
+筆者訳：ポインターをハイライト:
+Google翻訳：ポインタを明らかにする：
+
+原文：Pointer size:
+筆者訳：ポインターのサイズ:
+Google翻訳：ポインタサイズ：
+
+原文：Control pointer using keypad:
+筆者訳：キーパッドを使用してポインターを制御:
+Google翻訳：キーパッドを使用してポインタを制御します。
+
+原文：Multitouch
+筆者訳：マルチタッチ
+Google翻訳：マルチタッチ
+
+原文：Areas
+筆者訳：タッチパッドの右下
+Google翻訳：エリア
+
+原文：Physical secondary clicking:
+筆者訳：物理副ボタンクリック:
+Google翻訳：物理的な二次クリック：
+
+原文：Double-tap and move to drag
+筆者訳：ダブルタップして指を動かすとドラッグ操作として扱う
+Google翻訳：ダブルタップして移動し、ドラッグします
+
+原文：Scroll method:
+筆者訳：スクロールの方法:
+Google翻訳：スクロール方法：
+
+原文：Two-finger
+筆者訳：2 本指
+Google翻訳：2本指
+
+原文：Edge
+筆者訳：端
+Google翻訳：角
+
+原文：Ignore:
+筆者訳：以下の場合は無効にする:
+Google翻訳：無視：
+
+原文：While typing
+筆者訳：文字入力中
+Google翻訳：入力中
+
+原文：When mouse is connected
+筆者訳：マウス接続時
+Google翻訳：マウス接続時
+
+原文：Tapping:
+筆者訳：タップ:
+Google翻訳：タッピング：
+

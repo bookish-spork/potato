@@ -1,0 +1,48 @@
+原文：Feedback
+筆者訳：フィードバック
+Google翻訳：フィードバック
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Add several missing components
+筆者訳：一覧になかったコンポーネントを追加
+Google翻訳：不足しているコンポーネントをいくつか追加します
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Show Flatpak Apps
+筆者訳：Flatpak アプリを表示するように修正
+Google翻訳：Flatpakアプリを表示する
+
+原文：Support dark style
+筆者訳：ダークスタイルに対応
+Google翻訳：ダークスタイルをサポート
+
+原文：Add multitouch navigation gestures
+筆者訳：マルチタッチジェスチャーで画面遷移できるように変更
+Google翻訳：マルチタッチナビゲーションジェスチャを追加する
+
+原文：Ensure links are up-to-date
+筆者訳：リンクを最新の URL に更新
+Google翻訳：リンクが最新であることを確認します
+
+原文：Submit and track issue reports
+筆者訳：不具合レポートを作成し追跡します
+Google翻訳：問題レポートを送信して追跡する
+
+原文：Issue Reporter
+筆者訳：不具合報告アプリ
+Google翻訳：レポーターを発行
+
+原文：issue;report;bug;
+筆者訳：issue;report;bug;問題;不具合;イシュー;報告;レポート;バグ;
+Google翻訳：問題;レポート;バグ;
+

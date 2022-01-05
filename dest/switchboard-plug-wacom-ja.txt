@@ -1,0 +1,104 @@
+原文：No Stylus Detected
+筆者訳：スタイラスが見つかりません
+Google翻訳：スタイラスが検出されません
+
+原文：Please move your stylus close to the tablet
+筆者訳：お使いのスタイラスをタブレットに近づけてください
+Google翻訳：スタイラスをタブレットに近づけてください
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+
+原文：Middle Mouse Button Click
+筆者訳：マウスの中クリック
+Google翻訳：マウスの中ボタンをクリック
+
+原文：Right Mouse Button Click
+筆者訳：マウスの右クリック
+Google翻訳：マウスの右ボタンをクリック
+
+原文：Back
+筆者訳：戻る
+Google翻訳：戻る
+
+原文：Forward
+筆者訳：進む
+Google翻訳：前方
+
+原文：Soft
+筆者訳：柔らかい
+Google翻訳：柔らかい
+
+原文：Firm
+筆者訳：硬い
+Google翻訳：固い
+
+原文：Eraser Pressure Feel:
+筆者訳：消しゴムの感触:
+Google翻訳：消しゴムの圧力感：
+
+原文：Button Action:
+筆者訳：ボタンのアクション:
+Google翻訳：ボタンアクション：
+
+原文：Top Button Action:
+筆者訳：上のサンドスイッチのアクション:
+Google翻訳：トップボタンアクション：
+
+原文：Bottom Button Action:
+筆者訳：下のサンドスイッチのアクション:
+Google翻訳：下部ボタンのアクション：
+
+原文：Middle Button Action:
+筆者訳：中央のサンドスイッチのアクション:
+Google翻訳：中央のボタンのアクション：
+
+原文：Tip Pressure Feel:
+筆者訳：ペン先の感触:
+Google翻訳：先端の圧力感：
+
+原文：Test Tablet Settings
+筆者訳：タブレット設定を確認
+Google翻訳：タブレット設定のテスト
+
+原文：Tablet (absolute)
+筆者訳：タブレット (絶対座標)
+Google翻訳：タブレット（絶対）
+
+原文：Touchpad (relative)
+筆者訳：タッチパッド (相対座標)
+Google翻訳：タッチパッド（相対）
+
+原文：Tracking mode:
+筆者訳：検出モード:
+Google翻訳：追跡モード：
+
+原文：Left-handed orientation:
+筆者訳：左手用:
+Google翻訳：左利きの向き：
+
+原文：Wacom
+筆者訳：ワコム
+Google翻訳：ワコム
+
+原文：Configure Wacom tablet
+筆者訳：ワコムタブレットを設定します
+Google翻訳：Wacomタブレットを構成する
+
+原文：Stylus
+筆者訳：スタイラス
+Google翻訳：スタイラス
+
+原文：Tablet
+筆者訳：タブレット
+Google翻訳：タブレット
+
+原文：No Tablets Available
+筆者訳：タブレットが利用できません
+Google翻訳：利用可能なタブレットはありません
+
+原文：Please ensure your tablet is connected and switched on
+筆者訳：お使いのタブレットが接続され、電源がオンになっていることを確認してください
+Google翻訳：タブレットが接続され、電源がオンになっていることを確認してください
+

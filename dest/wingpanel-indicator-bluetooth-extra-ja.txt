@@ -1,0 +1,40 @@
+原文：Bluetooth Indicator
+筆者訳：Bluetooth インジケーター
+Google翻訳：Bluetoothインジケーター
+
+原文：Connect and disconnect paired Bluetooth devices
+筆者訳：ペアリングした Bluetooth デバイスを接続したり切断したりします
+Google翻訳：ペアリングされたBluetoothデバイスを接続および切断します
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Improve restoring Bluetooth state on restart and resuming from suspend
+筆者訳：再起動やサスペンドからの復帰時に、適切な Bluetooth の状態を復元するように修正
+Google翻訳：再起動時のBluetooth状態の復元と、一時停止からの再開を改善
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Add tooltip on hover
+筆者訳：ホバー時のツールチップを追加
+Google翻訳：ホバーにツールチップを追加
+
+原文：Add a fallback device name for headphones
+筆者訳：ヘッドフォンの製品名が検出できない場合に“ヘッドフォン”と表示するように修正
+Google翻訳：ヘッドフォンのフォールバックデバイス名を追加します
+
+原文：Prevent showing duplicate devices
+筆者訳：デバイスが重複して表示される不具合を修正
+Google翻訳：重複するデバイスが表示されないようにする
+
+原文：Fix animated icon when disabling Bluetooth
+筆者訳：Bluetooth を無効にするときに表示されるアニメーションアイコンを修正
+Google翻訳：Bluetoothを無効にするときのアニメーションアイコンを修正
+
+原文：Use device type as fallback instead of "(null)"
+筆者訳：デバイス名が利用可能ではない場合に、"(null)" と表示するのではなくデバイスの種類を表示するように修正
+Google翻訳：「（null）」の代わりにフォールバックとしてデバイスタイプを使用する
+

@@ -1,0 +1,180 @@
+原文：Displays
+筆者訳：ディスプレイ
+Google翻訳：ディスプレイ
+
+原文：Configure resolution and position of monitors and projectors
+筆者訳：モニターとプロジェクターの解像度と位置を設定します
+Google翻訳：モニターとプロジェクターの解像度と位置を構成する
+
+原文：Night Light
+筆者訳：夜間モード
+Google翻訳：夜の光
+
+原文：Screen Resolution
+筆者訳：画面解像度
+Google翻訳：画面の解像度
+
+原文：Screen Rotation
+筆者訳：画面の回転
+Google翻訳：画面の回転
+
+原文：Primary display
+筆者訳：プライマリーディスプレイ
+Google翻訳：プライマリディスプレイ
+
+原文：Screen mirroring
+筆者訳：画面の複製
+Google翻訳：スクリーンミラーリング
+
+原文：Scaling factor
+筆者訳：スケーリングファクター
+Google翻訳：スケーリングファクター
+
+原文：Rotation lock
+筆者訳：回転をロック
+Google翻訳：回転ロック
+
+原文：Schedule
+筆者訳：スケジュール
+Google翻訳：スケジュール
+
+原文：Color temperature
+筆者訳：色温度
+Google翻訳：色温度
+
+原文：Clockwise
+筆者訳：右に 90 度回転
+Google翻訳：時計回り
+
+原文：Upside-down
+筆者訳：上下反転
+Google翻訳：逆さまに
+
+原文：Counterclockwise
+筆者訳：左に 90 度回転
+Google翻訳：反時計回り
+
+原文：Flipped
+筆者訳：左右反転
+Google翻訳：ひっくり返した
+
+原文：Flipped Clockwise
+筆者訳：左右反転、右に 90 度回転
+Google翻訳：時計回りに反転
+
+原文：Flipped Upside-down
+筆者訳：左右上下反転
+Google翻訳：逆さまに反転
+
+原文：Flipped Counterclockwise
+筆者訳：左右反転、左に 90 度回転
+Google翻訳：反時計回りに反転
+
+原文：None
+筆者訳：なし
+Google翻訳：なし
+
+原文：Mirrored Display
+筆者訳：ミラーリングされたディスプレイ
+Google翻訳：ミラー表示
+
+原文：Night Light:
+筆者訳：夜間モード:
+Google翻訳：夜の光：
+
+原文：Night Light makes the colors of your display warmer. This may help prevent eye strain and sleeplessness.
+筆者訳：夜間モードはディスプレイの色を暖色にします。これは、目の疲れと不眠の防止に役立つ可能性があります。
+Google翻訳：常夜灯は、ディスプレイの色を暖かくします。これは、目の疲れや不眠を防ぐのに役立ちます。
+
+原文：Schedule:
+筆者訳：スケジュール:
+Google翻訳：スケジュール：
+
+原文：Sunset to Sunrise
+筆者訳：日没から日の出まで
+Google翻訳：日没から日の出まで
+
+原文：Manual
+筆者訳：手動
+Google翻訳：マニュアル
+
+原文：From:
+筆者訳：開始:
+Google翻訳：から：
+
+原文：To:
+筆者訳：終了:
+Google翻訳：に：
+
+原文：Color temperature:
+筆者訳：色温度:
+Google翻訳：色温度：
+
+原文：More Warm
+筆者訳：暖かめ
+Google翻訳：もっと暖かい
+
+原文：Less Warm
+筆者訳：冷ため
+Google翻訳：あまり暖かくない
+
+原文：Mirror Display:
+筆者訳：ディスプレイをミラーリング:
+Google翻訳：ミラーディスプレイ：
+
+原文：Scaling factor:
+筆者訳：スケーリングファクター:
+Google翻訳：スケーリング係数：
+
+原文：LoDPI
+筆者訳：低 DPI
+Google翻訳：LoDPI
+
+原文：HiDPI
+筆者訳：高 DPI
+Google翻訳：HiDPI
+
+原文：Detect Displays
+筆者訳：ディスプレイを検出
+Google翻訳：ディスプレイの検出
+
+原文：Apply
+筆者訳：適用
+Google翻訳：申し込み
+
+原文：Rotation Lock:
+筆者訳：回転をロック:
+Google翻訳：回転ロック：
+
+原文：Use this display:
+筆者訳：このディスプレイを使う:
+Google翻訳：この表示を使用します。
+
+原文：Resolution:
+筆者訳：解像度:
+Google翻訳：解決：
+
+原文：Screen Rotation:
+筆者訳：画面の回転:
+Google翻訳：画面の回転：
+
+原文：Refresh Rate:
+筆者訳：リフレッシュレート:
+Google翻訳：リフレッシュレート：
+
+原文：Other…
+筆者訳：そのほかの解像度…
+Google翻訳：他の…
+
+原文：Configure display
+筆者訳：ディスプレイを設定します
+Google翻訳：表示を構成する
+
+原文：Is the primary display
+筆者訳：プライマリーディスプレイ
+Google翻訳：プライマリディスプレイです
+
+原文：Set as primary display
+筆者訳：プライマリーディスプレイとして設定します
+Google翻訳：プライマリディスプレイとして設定
+

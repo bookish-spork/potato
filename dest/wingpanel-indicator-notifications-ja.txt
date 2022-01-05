@@ -1,0 +1,58 @@
+原文：Do Not Disturb
+筆者訳：非通知モード
+Google翻訳：邪魔しないでください
+
+原文：Clear All Notifications
+筆者訳：すべての通知を消去
+Google翻訳：すべての通知をクリア
+
+原文：Notifications Settings…
+筆者訳：通知の設定…
+Google翻訳：通知設定…
+
+原文：Middle-click to disable Do Not Disturb
+筆者訳：非通知モードを無効にするには中クリックしてください
+Google翻訳：中クリックしてサイレントモードを無効にします
+
+原文：Middle-click to enable Do Not Disturb
+筆者訳：非通知モードを有効にするには中クリックしてください
+Google翻訳：中クリックしてサイレントモードを有効にします
+
+原文：No notifications
+筆者訳：通知はありません
+Google翻訳：通知なし
+
+原文：1 notification
+筆者訳：1件の通知
+Google翻訳：1件の通知
+
+原文：%s from %s
+筆者訳：%2$sから%1$s
+Google翻訳：％sから％s
+
+原文（単数形）：%u notification
+原文（複数形）：%u notifications
+筆者訳：%u件の通知
+Google翻訳：％u通知
+
+原文（単数形）：%i app
+原文（複数形）：%i apps
+筆者訳：%i個のアプリ
+Google翻訳：％iアプリ
+
+原文：No Notifications
+筆者訳：通知はありません
+Google翻訳：通知なし
+
+原文：Delete
+筆者訳：削除
+Google翻訳：消去
+
+原文：Other
+筆者訳：そのほか
+Google翻訳：他の
+
+原文：Clear all %s notifications
+筆者訳：%s の通知をすべて消去
+Google翻訳：すべての％s通知をクリアする
+

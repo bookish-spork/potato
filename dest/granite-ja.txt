@@ -1,0 +1,204 @@
+原文：Show Granite Options
+筆者訳：Granite のオプションを表示します
+Google翻訳：花崗岩のオプションを表示
+
+原文：%-l:%M:%S %p
+筆者訳：%p %-l:%M:%S
+Google翻訳：％-l：％M：％S％p
+
+原文：%-l:%M %p
+筆者訳：%p %-l:%M
+Google翻訳：％-l：％M％p
+
+原文：Now
+筆者訳：たった今
+Google翻訳：今
+
+原文（単数形）：%dm ago
+原文（複数形）：%dm ago
+筆者訳：%d分前
+Google翻訳：％dm前
+
+原文（単数形）：%dh ago
+原文（複数形）：%dh ago
+筆者訳：%d時間前
+Google翻訳：％dh前
+
+原文（単数形）：in %dm
+原文（複数形）：in %dm
+筆者訳：%d分後
+Google翻訳：％dmで
+
+原文（単数形）：in %dh
+原文（複数形）：in %dh
+筆者訳：%d時間後
+Google翻訳：％dhで
+
+原文：Yesterday
+筆者訳：昨日
+Google翻訳：昨日
+
+原文：Tomorrow
+筆者訳：明日
+Google翻訳：明日
+
+原文：%a, %b %e, %Y
+筆者訳：%Y年%b%e日 (%a)
+Google翻訳：％a、％b％e、％Y
+
+原文：%b %e %Y
+筆者訳：%Y年%b%e日
+Google翻訳：％b％e％Y
+
+原文：%Y
+筆者訳：%Y年
+Google翻訳：％Y
+
+原文：%b %e
+筆者訳：%b%e日
+Google翻訳：％なれ
+
+原文：%a, %b %e
+筆者訳：%b%e日 (%a)
+Google翻訳：％a、％b％e
+
+原文：Close Tab
+筆者訳：タブを閉じる
+Google翻訳：タブを閉じる
+
+原文：Open in a New Window
+筆者訳：新しいウィンドウで開く
+Google翻訳：新しいウィンドウで開く
+
+原文：Duplicate
+筆者訳：タブを複製
+Google翻訳：複製
+
+原文：Close Other Tab
+筆者訳：ほかのタブを閉じる
+Google翻訳：その他のタブを閉じる
+
+原文：Close Other Tabs
+筆者訳：ほかのタブを閉じる
+Google翻訳：他のタブを閉じる
+
+原文：Close Tab to the Right
+筆者訳：右側のタブを閉じる
+Google翻訳：右側のタブを閉じる
+
+原文：Close Tabs to the Right
+筆者訳：右側のタブを閉じる
+Google翻訳：右側のタブを閉じる
+
+原文：Pin
+筆者訳：ピン留め
+Google翻訳：ピン
+
+原文：Unpin
+筆者訳：ピン留めを解除
+Google翻訳：固定を解除する
+
+原文：Clear All
+筆者訳：すべて消去
+Google翻訳：すべてクリア
+
+原文：New Tab
+筆者訳：新しいタブ
+Google翻訳：新しいタブ
+
+原文：Undo Close Tab
+筆者訳：閉じたタブを再度開く
+Google翻訳：タブを閉じるを元に戻す
+
+原文：Closed Tabs
+筆者訳：閉じたタブ
+Google翻訳：閉じたタブ
+
+原文：_Close
+筆者訳：閉じる(_C)
+Google翻訳：_選ぶ
+
+原文：_Cancel
+筆者訳：キャンセル(_C)
+Google翻訳：_キャンセル
+
+原文：Details
+筆者訳：詳細
+Google翻訳：詳細
+
+原文：Audio
+筆者訳：オーディオ
+Google翻訳：オーディオ
+
+原文：Videos
+筆者訳：動画
+Google翻訳：ビデオ
+
+原文：Photos
+筆者訳：写真
+Google翻訳：写真
+
+原文：Apps
+筆者訳：アプリ
+Google翻訳：アプリ
+
+原文：Files
+筆者訳：ファイル
+Google翻訳：ファイル
+
+原文：Other
+筆者訳：そのほか
+Google翻訳：他の
+
+原文：%s free out of %s
+筆者訳：%s 空き / %s
+Google翻訳：％sは％sから解放されます
+
+原文：AM
+筆者訳：午前
+Google翻訳：午前
+
+原文：PM
+筆者訳：午後
+Google翻訳：午後
+
+原文：Left Alt
+筆者訳：左 Alt
+Google翻訳：左Alt
+
+原文：Right Alt
+筆者訳：右 Alt
+Google翻訳：右Alt
+
+原文：Right Ctrl
+筆者訳：右 Ctrl
+Google翻訳：右Ctrl
+
+原文：Left Ctrl
+筆者訳：左 Ctrl
+Google翻訳：左Ctrl
+
+原文：Minus
+筆者訳：マイナス
+Google翻訳：マイナス
+
+原文：Plus
+筆者訳：プラス
+Google翻訳：プラス
+
+原文：Equals
+筆者訳：イコール
+Google翻訳：等しい
+
+原文：Left Shift
+筆者訳：左 Shift
+Google翻訳：左方移動
+
+原文：Right Shift
+筆者訳：右 Shift
+Google翻訳：右シフト
+
+原文：, 
+筆者訳：、 
+Google翻訳：、
+

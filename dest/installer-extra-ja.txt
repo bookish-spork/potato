@@ -1,0 +1,16 @@
+原文：Installer
+筆者訳：インストーラー
+Google翻訳：インストーラ
+
+原文：Install elementary OS
+筆者訳：elementary OS をインストール
+Google翻訳：エレメンタリーOSをインストールする
+
+原文：Step by step installer for elementary OS itself.
+筆者訳：elementary OS 向けのステップバイステップなインストーラーです。
+Google翻訳：ElementaryOS自体のステップバイステップインストーラー。
+
+原文：Install the system
+筆者訳：システムをインストールします
+Google翻訳：システムをインストールします
+

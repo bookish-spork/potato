@@ -1,0 +1,642 @@
+原文：New Tab
+筆者訳：新しいタブ
+Google翻訳：新しいタブ
+
+原文：New Window
+筆者訳：新しいウィンドウ
+Google翻訳：新しい窓
+
+原文：Print version info and exit
+筆者訳：バージョン情報を表示して終了します
+Google翻訳：バージョン情報を印刷して終了します
+
+原文：Set of plugins
+筆者訳：プラグインのセット
+Google翻訳：プラグインのセット
+
+原文：plugin
+筆者訳：プラグイン
+Google翻訳：プラグイン
+
+原文：[FILE…]
+筆者訳：[ファイル…]
+Google翻訳：[ファイル…]
+
+原文：Code
+筆者訳：コード
+Google翻訳：コード
+
+原文：Find…
+筆者訳：検索…
+Google翻訳：探す…
+
+原文：Hide search bar
+筆者訳：検索バーを表示しない
+Google翻訳：検索バーを非表示
+
+原文：All files
+筆者訳：すべてのファイル
+Google翻訳：すべてのファイル
+
+原文：Text files
+筆者訳：テキストファイル
+Google翻訳：テキストファイル
+
+原文：Open some files
+筆者訳：複数のファイルを開く
+Google翻訳：いくつかのファイルを開く
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：_Open
+筆者訳：開く(_O)
+Google翻訳：_開ける
+
+原文：_Cancel
+筆者訳：キャンセル(_C)
+Google翻訳：_キャンセル
+
+原文：Search for text in “%s”
+筆者訳：フォルダー “%s” 内のテキストを検索
+Google翻訳：「％s」でテキストを検索
+
+原文：The search term must be at least 3 characters long.
+筆者訳：検索文字列は3文字以上にする必要があります。
+Google翻訳：検索語は3文字以上である必要があります。
+
+原文：Case sensitive:
+筆者訳：大文字と小文字を区別:
+Google翻訳：大文字と小文字を区別：
+
+原文：Use regular expressions:
+筆者訳：正規表現を使う:
+Google翻訳：正規表現を使用します。
+
+原文：Search
+筆者訳：検索
+Google翻訳：検索
+
+原文：Create a new branch of “%s/%s”
+筆者訳：“%s/%s” の新しいブランチを作成
+Google翻訳：「％s /％s」の新しいブランチを作成します
+
+原文：The branch name must be unique and follow Git naming rules.
+筆者訳：ブランチ名は固有で Git の命名規則に従う必要があります。
+Google翻訳：ブランチ名は一意であり、Gitの命名規則に従う必要があります。
+
+原文：Create Branch
+筆者訳：ブランチを作成
+Google翻訳：ブランチを作成する
+
+原文：Preferences
+筆者訳：設定
+Google翻訳：環境設定
+
+原文：Cutting or copying without an active selection will cut or copy the entire current line
+筆者訳：文字を選択していない場合は、現在の行全体の切り取りやコピーを行います
+Google翻訳：アクティブな選択なしで切り取りまたはコピーすると、現在の行全体が切り取りまたはコピーされます
+
+原文：General
+筆者訳：一般
+Google翻訳：全般的
+
+原文：Save files when changed:
+筆者訳：変更が加えられた時にファイルを保存:
+Google翻訳：変更時にファイルを保存します。
+
+原文：Smart cut/copy lines:
+筆者訳：便利な行の切り取り／コピー:
+Google翻訳：スマートカット/コピーライン：
+
+原文：Tabs
+筆者訳：タブ
+Google翻訳：タブ
+
+原文：Automatic indentation:
+筆者訳：自動インデント:
+Google翻訳：自動インデント：
+
+原文：Insert spaces instead of tabs:
+筆者訳：タブの代わりにスペースを挿入:
+Google翻訳：タブの代わりにスペースを挿入します。
+
+原文：Tab width:
+筆者訳：タブ幅:
+Google翻訳：タブ幅：
+
+原文：Behavior
+筆者訳：挙動
+Google翻訳：行動
+
+原文：Interface
+筆者訳：インターフェース
+Google翻訳：インターフェース
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：Extensions
+筆者訳：拡張機能
+Google翻訳：拡張機能
+
+原文：Editor
+筆者訳：エディター
+Google翻訳：編集者
+
+原文：Highlight matching brackets:
+筆者訳：対となるブラケットをハイライト:
+Google翻訳：一致する角かっこを強調表示します。
+
+原文：Line wrap:
+筆者訳：行の折り返し:
+Google翻訳：行の折り返し：
+
+原文：Visible whitespace:
+筆者訳：空白を表示:
+Google翻訳：表示される空白：
+
+原文：Show Mini Map:
+筆者訳：ミニマップを表示:
+Google翻訳：ミニマップを表示する：
+
+原文：Line width guide:
+筆者訳：行の幅のガイド:
+Google翻訳：線幅ガイド：
+
+原文：Font
+筆者訳：フォント
+Google翻訳：フォント
+
+原文：Custom font:
+筆者訳：カスタムフォント:
+Google翻訳：カスタムフォント：
+
+原文：Are You Sure You Want to Restore This File?
+筆者訳：このファイルを編集前の状態に復元してもよろしいですか？
+Google翻訳：このファイルを復元してもよろしいですか？
+
+原文：Restoring a file will undo all changes made since opening it
+筆者訳：ファイルを編集前の状態に復元すると、開いてから行われたすべての変更が元に戻ります
+Google翻訳：ファイルを復元すると、ファイルを開いてから行ったすべての変更が取り消されます
+
+原文：Don't Restore
+筆者訳：復元しない
+Google翻訳：復元しないでください
+
+原文：Restore Anyway
+筆者訳：了解して復元
+Google翻訳：とにかく復元
+
+原文：Other Application…
+筆者訳：ほかのアプリケーション…
+Google翻訳：その他のアプリケーション…
+
+原文：Open In
+筆者訳：指定した方法で開く
+Google翻訳：開く
+
+原文：Other Actions
+筆者訳：ほかの操作
+Google翻訳：その他のアクション
+
+原文：Rename
+筆者訳：名前を変更
+Google翻訳：名前を変更
+
+原文：Move to Trash
+筆者訳：ゴミ箱に移動
+Google翻訳：ゴミ箱に移動
+
+原文：Folders
+筆者訳：フォルダー
+Google翻訳：フォルダー
+
+原文：Find in Folder…
+筆者訳：フォルダー内を検索…
+Google翻訳：フォルダで検索…
+
+原文：Folder
+筆者訳：フォルダー
+Google翻訳：フォルダ
+
+原文：Empty File
+筆者訳：空のファイル
+Google翻訳：空のファイル
+
+原文：New
+筆者訳：新規作成
+Google翻訳：新しい
+
+原文：untitled folder
+筆者訳：名称未設定フォルダー
+Google翻訳：無題のフォルダ
+
+原文：new file
+筆者訳：新しいファイル
+Google翻訳：新しいファイル
+
+原文：Close Folder
+筆者訳：フォルダーを閉じる
+Google翻訳：フォルダを閉じる
+
+原文：Close Other Folders
+筆者訳：ほかのフォルダーを閉じる
+Google翻訳：他のフォルダを閉じる
+
+原文：Find in Project…
+筆者訳：プロジェクト内を検索…
+Google翻訳：プロジェクトで検索…
+
+原文：Modified
+筆者訳：変更済み
+Google翻訳：変更
+
+原文：Error while creating new branch: “%s”
+筆者訳：新しいブランチの作成中にエラーが発生しました: “%s”
+Google翻訳：新しいブランチの作成中にエラーが発生しました：「％s」
+
+原文：New Branch…
+筆者訳：新しいブランチ…
+Google翻訳：新しいブランチ…
+
+原文：Branch
+筆者訳：ブランチ
+Google翻訳：ブランチ
+
+原文：%s Is Not a Text File
+筆者訳：%s はテキストファイルではありません
+Google翻訳：％sはテキストファイルではありません
+
+原文：Code will not load this type of file.
+筆者訳：“コード”はこの種類のファイルを読み込むことができません。
+Google翻訳：コードはこのタイプのファイルをロードしません。
+
+原文：Load Anyway
+筆者訳：強制的に読み込む
+Google翻訳：とにかくロード
+
+原文：Loading File "%s" Is Taking a Long Time
+筆者訳：ファイル "%s" の読み込みに時間がかかっています
+Google翻訳：ファイル「％s」の読み込みに時間がかかっています
+
+原文：Please wait while Code is loading the file.
+筆者訳：“コード”がファイルを読み込む間、お待ちください。
+Google翻訳：コードがファイルをロードしている間お待ちください。
+
+原文：Cancel Loading
+筆者訳：読み込みをキャンセル
+Google翻訳：読み込みをキャンセル
+
+原文：Save changes to "%s" before closing?
+筆者訳：閉じる前に "%s" への変更を保存しますか？
+Google翻訳：閉じる前に変更を「％s」に保存しますか？
+
+原文：If you don't save, changes will be permanently lost.
+筆者訳：保存しない場合、変更は破棄されます。
+Google翻訳：保存しないと、変更は完全に失われます。
+
+原文：Close Without Saving
+筆者訳：保存せずに閉じる
+Google翻訳：保存せずに閉じる
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+
+原文：Save File
+筆者訳：ファイルを保存
+Google翻訳：ファイルを保存
+
+原文：New Document
+筆者訳：新しいドキュメント
+Google翻訳：新しいドキュメント
+
+原文：File "%s" Cannot Be Read
+筆者訳：ファイル "%s" を読み込めません
+Google翻訳：ファイル "％s"を読み取ることができません
+
+原文：It may be corrupt or you don't have permission to read it.
+筆者訳：ファイルが破損しているか、読み込む権限がない可能性があります。
+Google翻訳：破損しているか、読み取る権限がない可能性があります。
+
+原文：The location containing the file "%s" was unmounted. Do you want to save somewhere else?
+筆者訳：ファイル "%s" を含む場所はアンマウントされています。別の場所に保存しますか？
+Google翻訳：ファイル "％s"を含む場所がマウント解除されました。他の場所に保存しますか？
+
+原文：Save As…
+筆者訳：名前を付けて保存…
+Google翻訳：名前を付けて保存…
+
+原文：File "%s" was deleted. Do you want to save it anyway?
+筆者訳："%s" は削除されています。それでも保存しますか？
+Google翻訳：ファイル "％s"が削除されました。とにかくそれを保存しますか？
+
+原文：You cannot save changes to the file "%s". Do you want to save the changes somewhere else?
+筆者訳：ファイル "%s" に変更内容を保存できません。変更内容を別の場所に保存しますか？
+Google翻訳：ファイル "％s"への変更を保存することはできません。変更を別の場所に保存しますか？
+
+原文：Save changes elsewhere
+筆者訳：別の場所に変更内容を保存
+Google翻訳：変更を他の場所に保存する
+
+原文：File "%s" was modified by an external application. Do you want to load it again or continue your editing?
+筆者訳：ファイル "%s" は外部アプリケーションによって変更されました。変更を読み込みますか？　または編集を続行しますか？
+Google翻訳：ファイル "％s"は外部アプリケーションによって変更されました。もう一度ロードしますか、それとも編集を続けますか？
+
+原文：Load
+筆者訳：変更を読み込む
+Google翻訳：ロード
+
+原文：Continue
+筆者訳：編集を続行
+Google翻訳：継続する
+
+原文：Templates
+筆者訳：テンプレート
+Google翻訳：テンプレート
+
+原文：No Project Selected
+筆者訳：プロジェクトが選択されていません
+Google翻訳：プロジェクトが選択されていません
+
+原文：Active Git project: %s
+筆者訳：アクティブな Git プロジェクト: %s
+Google翻訳：アクティブなGitプロジェクト：％s
+
+原文：Filter projects
+筆者訳：プロジェクトをフィルター
+Google翻訳：プロジェクトをフィルタリングする
+
+原文：Text file from %s:%d
+筆者訳：%s:%d のテキストファイル
+Google翻訳：％sからのテキストファイル：％d
+
+原文：Syntax Highlighting
+筆者訳：シンタックスハイライト
+Google翻訳：構文の強調表示
+
+原文：Line number
+筆者訳：行番号
+Google翻訳：行番号
+
+原文：Filter languages
+筆者訳：言語をフィルター
+Google翻訳：フィルター言語
+
+原文：Plain Text
+筆者訳：プレーンテキスト
+Google翻訳：プレーンテキスト
+
+原文（単数形）：%d Space
+原文（複数形）：%d Spaces
+筆者訳：%d個のスペース
+Google翻訳：％dスペース
+
+原文（単数形）：%d Tab
+原文（複数形）：%d Tabs
+筆者訳：%d個のタブ
+Google翻訳：％dタブ
+
+原文：Go To Line:
+筆者訳：行へ移動:
+Google翻訳：行に移動：
+
+原文：Open a file
+筆者訳：ファイルを開きます
+Google翻訳：ファイルを開く
+
+原文：Project templates
+筆者訳：プロジェクトテンプレート
+Google翻訳：プロジェクトテンプレート
+
+原文：Save this file
+筆者訳：このファイルを保存します
+Google翻訳：このファイルを保存します
+
+原文：Save this file with a different name
+筆者訳：このファイルを別の名前で保存します
+Google翻訳：このファイルを別の名前で保存します
+
+原文：Restore this file
+筆者訳：このファイルを編集前の状態に復元します
+Google翻訳：このファイルを復元する
+
+原文：Share
+筆者訳：共有
+Google翻訳：シェア
+
+原文：Zoom Out
+筆者訳：ズームアウト
+Google翻訳：ズームアウトする
+
+原文：Zoom 1:1
+筆者訳：100% ズーム
+Google翻訳：ズーム1：1
+
+原文：Zoom In
+筆者訳：ズームイン
+Google翻訳：ズームイン
+
+原文：Toggle Sidebar
+筆者訳：サイドバーを切り替え
+Google翻訳：サイドバーを切り替えます
+
+原文：Menu
+筆者訳：メニュー
+Google翻訳：メニュー
+
+原文：Open Project Folder…
+筆者訳：プロジェクトフォルダーを開く…
+Google翻訳：プロジェクトフォルダを開く…
+
+原文：Collapse All
+筆者訳：すべて折りたたむ
+Google翻訳：すべて折りたたむ
+
+原文：Alphabetize
+筆者訳：アルファベット順に並び替え
+Google翻訳：アルファベット順
+
+原文：Manage project folders
+筆者訳：プロジェクトフォルダーを管理
+Google翻訳：プロジェクトフォルダを管理する
+
+原文：Find
+筆者訳：検索
+Google翻訳：探す
+
+原文：no results
+筆者訳：結果がありません
+Google翻訳：結果がありません
+
+原文：Search next
+筆者訳：次を検索
+Google翻訳：次を検索
+
+原文：Search previous
+筆者訳：前を検索
+Google翻訳：前を検索
+
+原文：Cyclic Search
+筆者訳：循環検索
+Google翻訳：循環検索
+
+原文：Case Sensitive
+筆者訳：大文字と小文字を区別
+Google翻訳：大文字と小文字を区別
+
+原文：Case Insensitive
+筆者訳：大文字と小文字を区別しない
+Google翻訳：大文字小文字を区別しません
+
+原文：Replace With
+筆者訳：置き換え
+Google翻訳：と置換する
+
+原文：Replace
+筆者訳：置き換え
+Google翻訳：交換
+
+原文：Replace all
+筆者訳：すべて置換
+Google翻訳：すべて交換してください
+
+原文：Sort Selected Lines
+筆者訳：選択された行を並べ替え
+Google翻訳：選択した行を並べ替える
+
+原文：Toggle Comment
+筆者訳：コメントを切り替え
+Google翻訳：コメントの切り替え
+
+原文：No Files Open
+筆者訳：開いているファイルはありません
+Google翻訳：開いているファイルがありません
+
+原文：Open a file to begin editing.
+筆者訳：編集を開始するにはファイルを開いてください。
+Google翻訳：ファイルを開いて編集を開始します。
+
+原文：New File
+筆者訳：新しいファイル
+Google翻訳：新しいファイル
+
+原文：Create a new empty file.
+筆者訳：新しい空のファイルを作成します。
+Google翻訳：新しい空のファイルを作成します。
+
+原文：Open File
+筆者訳：ファイルを開く
+Google翻訳：ファイルを開く
+
+原文：Open a saved file.
+筆者訳：保存されているファイルを開きます。
+Google翻訳：保存したファイルを開きます。
+
+原文：Open Folder
+筆者訳：フォルダーを開く
+Google翻訳：開いたフォルダ
+
+原文：Add a project folder to the sidebar.
+筆者訳：サイドバーにプロジェクトフォルダーを追加します。
+Google翻訳：プロジェクトフォルダをサイドバーに追加します。
+
+原文：Upload to Pastebin
+筆者訳：Pastebin にアップロード
+Google翻訳：Pastebinにアップロード
+
+原文：Name:
+筆者訳：名前:
+Google翻訳：名前：
+
+原文：Format:
+筆者訳：形式:
+Google翻訳：フォーマット：
+
+原文：Choose different format
+筆者訳：別の形式を選択します
+Google翻訳：別の形式を選択してください
+
+原文：Expiration:
+筆者訳：公開期間:
+Google翻訳：有効期限：
+
+原文：Keep this paste private
+筆者訳：公開しない
+Google翻訳：このペーストを非公開にしてください
+
+原文：Available Formats
+筆者訳：利用可能な書式
+Google翻訳：利用可能なフォーマット
+
+原文：Select Format
+筆者訳：書式を選択
+Google翻訳：フォーマットを選択
+
+原文：Never
+筆者訳：なし
+Google翻訳：一度もない
+
+原文：Ten minutes
+筆者訳：10分間
+Google翻訳：10分
+
+原文：One hour
+筆者訳：1時間
+Google翻訳：一時間
+
+原文：One day
+筆者訳：1日
+Google翻訳：いつか
+
+原文：One month
+筆者訳：1か月
+Google翻訳：一か月
+
+原文：Symbols
+筆者訳：シンボル
+Google翻訳：記号
+
+原文：No Symbols Found
+筆者訳：シンボルが見つかりません
+Google翻訳：記号が見つかりません
+
+原文：Show Terminal
+筆者訳：ターミナルを表示
+Google翻訳：ターミナルを表示
+
+原文：Hide Terminal
+筆者訳：ターミナルを表示しない
+Google翻訳：ターミナルを隠す
+
+原文：Terminal
+筆者訳：ターミナル
+Google翻訳：ターミナル
+
+原文：Copy
+筆者訳：コピー
+Google翻訳：コピー
+
+原文：Paste
+筆者訳：貼り付け
+Google翻訳：ペースト
+
+原文：No Suitable Dictionaries Were Found
+筆者訳：適切な辞書が見つかりませんでした
+Google翻訳：適切な辞書が見つかりませんでした
+
+原文：Please install at least one [aspell] dictionary.
+筆者訳：少なくとも 1 つ以上の [aspell] 辞書をインストールしてください。
+Google翻訳：少なくとも1つの[aspell]辞書をインストールしてください。
+
+原文：%s - Word Completion
+筆者訳：%s - 単語補完
+Google翻訳：％s-単語補完
+

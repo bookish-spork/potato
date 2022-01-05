@@ -1,0 +1,20 @@
+原文：Privacy Settings…
+筆者訳：プライバシーの設定…
+Google翻訳：プライバシー設定…
+
+原文：Apps Using %s
+筆者訳：%sを使用しているアプリ
+Google翻訳：％sを使用するアプリ
+
+原文：Unknown Application
+筆者訳：不明なアプリケーション
+Google翻訳：不明なアプリケーション
+
+原文：Camera
+筆者訳：カメラ
+Google翻訳：カメラ
+
+原文：Location
+筆者訳：現在地
+Google翻訳：位置
+

@@ -1,0 +1,32 @@
+原文：Session Indicator
+筆者訳：セッションインジケーター
+Google翻訳：セッションインジケーター
+
+原文：Switch users, lock, log out, suspend, or shut down
+筆者訳：ユーザーを切り替えたり、ロック・ログアウト・サスペンド・シャットダウンしたりします
+Google翻訳：ユーザーの切り替え、ロック、ログアウト、一時停止、またはシャットダウン
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：New colorful avatar fallback
+筆者訳：アバター画像未設定時に背景を色付きで表示するように変更
+Google翻訳：新しいカラフルなアバターのフォールバック
+
+原文：Tooltip on hover
+筆者訳：ホバー時のツールチップを追加
+Google翻訳：ホバーのツールチップ
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Updated styling for keyboard shortcuts
+筆者訳：キーボードショートカットのスタイルを更新
+Google翻訳：キーボードショートカットのスタイルを更新
+

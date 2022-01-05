@@ -1,0 +1,60 @@
+原文：Language &amp; Region Settings
+筆者訳：言語と地域の設定
+Google翻訳：言語と地域設定
+
+原文：Manage languages, and configure region and format
+筆者訳：言語を管理し、地域と書式を設定します
+Google翻訳：言語を管理し、地域と形式を構成します
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Ensure "Formats" dropdown remains correct after installing or removing languages
+筆者訳：言語をインストールしたり削除したりしても、“書式”ドロップダウンリストの値が変更されないように修正
+Google翻訳：言語をインストールまたは削除した後も、[フォーマット]ドロップダウンが正しいままであることを確認してください
+
+原文：Support locales with 3-letter codes
+筆者訳：言語コードが3文字のロケールをサポート
+Google翻訳：3文字のコードでロケールをサポートする
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Better support for non-Ubuntu based distributions
+筆者訳：非 Ubuntu ベースのディストリビューションへの対応を強化
+Google翻訳：Ubuntuベース以外のディストリビューションのサポートが向上
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fix an issue with cancelling language installation
+筆者訳：言語のインストールをキャンセルした際の不具合を修正
+Google翻訳：言語のインストールをキャンセルする際の問題を修正する
+
+原文：Redesigned Install Language popover
+筆者訳：Install Language ポップオーバーのデザインを変更
+Google翻訳：再設計されたインストール言語ポップオーバー
+
+原文：Asks for permission when needed. No more extra InfoBar
+筆者訳：必要な場合のみ管理者権限を確認するように変更し、余計な情報バーを廃止
+Google翻訳：必要に応じて許可を求めます。追加のInfoBarはもうありません
+
+原文：Installtion progress InfoBar is now a Dialog
+筆者訳：インストールの進捗情報バーをダイアログに変更
+Google翻訳：インストールの進行状況InfoBarがダイアログになりました
+
+原文：Language list properly updates when adding or removing languages
+筆者訳：言語の追加および削除時に言語リストを適切に更新するように修正
+Google翻訳：言語を追加または削除すると、言語リストが適切に更新されます
+
+原文：Manage locale settings
+筆者訳：ロケール設定を管理します
+Google翻訳：ロケール設定を管理する
+
+原文：Authentication is required to manage locale settings
+筆者訳：ロケール設定を管理するには認証が必要です
+Google翻訳：ロケール設定を管理するには認証が必要です
+

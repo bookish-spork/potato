@@ -1,0 +1,432 @@
+原文：Code
+筆者訳：コード
+Google翻訳：コード
+
+原文：The editor that works for you
+筆者訳：便利なエディター
+Google翻訳：あなたのために働くエディター
+
+原文：Whether you're writing in Markdown or managing a complex app codebase, Code is the lightweight but full-featured editor for you. It auto-saves your files to ensure they're always up-to-date, and it remembers your tabs so you never lose your spot—even between sessions.
+筆者訳：Markdown で文書を作成するときも、複雑なアプリのソースコードを管理するときも、軽量ながら高機能な“コード”はぴったりです。ファイルを自動保存して、常に最新の状態を維持します。また、タブを保存し次回起動時に復元するので、時間が経っても最後に編集した箇所を見失うことはありません。
+Google翻訳：Markdownで記述している場合でも、複雑なアプリコードベースを管理している場合でも、Codeは軽量でありながらフル機能のエディターです。ファイルを自動保存して常に最新の状態にし、タブを記憶するので、セッション間でもスポットを失うことはありません。
+
+原文：Designed around a project-based workflow, Code knows about your separate codebases. It comes with helpful Git integration to create and switch between branches and show changed files and lines within your projects.
+筆者訳：“コード”はプロジェクト単位のワークフロー向けにデザインされているので、コードベースごとに認識されるようになっています。便利な Git との統合機能が搭載されており、ブランチを作成したり変更したり、プロジェクト内のファイルや行の差分を表示したりできます。
+Google翻訳：プロジェクトベースのワークフローを中心に設計されたCodeは、個別のコードベースを認識しています。ブランチを作成して切り替えたり、プロジェクト内で変更されたファイルや行を表示したりするのに役立つGit統合が付属しています。
+
+原文：Work with your language: whether you're crafting code in Vala, scripting with PHP, or marking things up in HTML, Code has you covered. Experience full syntax highlighting with nearly all programming, scripting, and markup languages.
+筆者訳：あの言語にも、この言語にも、対応。Vala でコーディングしていても、PHP でスクリプティングしていても、HTML でマークアップしていても、“コード”はあなたをサポートします。完璧なシンタックスハイライトが、ほぼすべてのプログラミング言語・スクリプティング言語・マークアップ言語で利用可能です。
+Google翻訳：言語を操作する：Valaでコードを作成する場合でも、PHPでスクリプトを作成する場合でも、HTMLでマークアップする場合でも、Codeが対応します。ほぼすべてのプログラミング、スクリプト、およびマークアップ言語で完全な構文の強調表示を体験してください。
+
+原文：Find anything in your current file, specific folders, or your whole project with options for case-sensitivity and regular expressions.
+筆者訳：表示中のファイルや特定のフォルダー、プロジェクト全体を対象に自由自在に検索できます。大文字・小文字の区別や正規表現を使った検索も可能です。
+Google翻訳：現在のファイル、特定のフォルダー、またはプロジェクト全体で、大文字と小文字を区別するオプションと正規表現を使用して、あらゆるものを検索します。
+
+原文：Smart features throughout: automatic indentation, smart cut/copy behavior, visible whitespace for selected text and at the end of lines by default, and optional extensions for Markdown actions, spell checking, whitespace trimming, word completion, and more.
+筆者訳：便利な機能がこんなにも。自動インデント、“便利な行の切り取り／コピー”機能、デフォルトで選択中のテキストと行末の空白を表示する機能、オプションで Markdown アクション・スペルチェック・余分な空白の削除・単語補完などの機能も。
+Google翻訳：全体にわたるスマートな機能：自動インデント、スマートなカット/コピー動作、選択したテキストとデフォルトの行末に表示される空白、マークダウンアクション、スペルチェック、空白のトリミング、単語の補完などのオプションの拡張機能。
+
+原文：Adapt Code to your workflow: you can tweak the behavior and interface as needed with a handful of useful and well-considered extensions and preferences.
+筆者訳：“コード”を自身のワークフローに導入しましょう。厳選された便利な拡張機能と設定を使って、挙動とインターフェースを必要に応じて調整できます。
+Google翻訳：コードをワークフローに適合させる：いくつかの便利でよく考えられた拡張機能と設定を使用して、必要に応じて動作とインターフェイスを微調整できます。
+
+原文：There's a ton more:
+筆者訳：そのほかの機能:
+Google翻訳：まだまだたくさんあります：
+
+原文：Solarized Light, Solarized Dark, and High Contrast color schemes that affect the whole UI
+筆者訳：UI 全体に反映される、Solarized Light、Solarized Dark、ハイコントラストカラースキーム
+Google翻訳：UI全体に影響を与えるSolarizedLight、Solarized Dark、およびHighContrastの配色
+
+原文：Togglable sidebar to fit your workflow
+筆者訳：ワークフローに応じて表示・非表示が可能なサイドバー
+Google翻訳：ワークフローに合わせて切り替え可能なサイドバー
+
+原文：Smart indentation and .editorconfig support
+筆者訳：便利なインデント機能と .editorconfig への対応
+Google翻訳：スマートインデントと.editorconfigのサポート
+
+原文：Browser-class tabs with drag-and-drop, duplication, undo closing, and tab history
+筆者訳：ドラッグアンドドロップ、タブの複製、閉じたタブの復元、タブ履歴など、ブラウザー並みの機能を持つタブ
+Google翻訳：ドラッグアンドドロップ、複製、元に閉じる、タブ履歴を備えたブラウザクラスのタブ
+
+原文：Display the current line and character—and quickly jump to a new line
+筆者訳：現在カーソルのある行と列を表示します。そして、別の行にすばやく移動できます
+Google翻訳：現在の行と文字を表示し、すぐに新しい行にジャンプします
+
+原文：Scroll past the end of the file so you can keep the current line where it's comfortable
+筆者訳：ファイルの最終行より先にもスクロールできるので、編集中の行をお好きな位置に表示できます
+Google翻訳：ファイルの終わりを超えてスクロールすると、現在の行を快適な場所に保つことができます
+
+原文：Optional mini-map to make navigating large files easier
+筆者訳：行数の多いファイルでも移動が簡単になるミニマップ機能もオプションで用意
+Google翻訳：大きなファイルのナビゲートを容易にするオプションのミニマップ
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Projects with the same name now include their parent folder name as well
+筆者訳：プロジェクト名が同じ場合は親フォルダーの名前も表示するように修正
+Google翻訳：同じ名前のプロジェクトには、親フォルダー名も含まれるようになりました
+
+原文：When scrolling to search results, overshoot slightly for better visibility
+筆者訳：検索結果にスクロールする際に、見やすくなるように余分にスクロールするように変更
+Google翻訳：検索結果にスクロールするときは、視認性を高めるために少しオーバーシュートします
+
+原文：Use the FileChooser portal instead of the one from GTK
+筆者訳：GTK が提供するファイル選択ダイアログではなく、ファイル選択ポータルを使用するように修正
+Google翻訳：GTKのポータルの代わりにFileChooserポータルを使用する
+
+原文：Center the global search dialog over the main Code window
+筆者訳：プロジェクト全体の検索ダイアログを“コード”の主ウィンドウに対して中央に表示するように修正
+Google翻訳：グローバル検索ダイアログをメインコードウィンドウの中央に配置します
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Fix visibility of Terminal button on Welcome page
+筆者訳：ようこそ画面の“ターミナル”ボタンが消える不具合を修正
+Google翻訳：ウェルカムページのターミナルボタンの表示を修正
+
+原文：Fix some keyboard shortcuts affecting unfocused Document instead of focused Terminal
+筆者訳：キーボードショートカットがフォーカス状態のターミナルではなく、フォーカスされていないテキストビューに適用される不具合を修正
+Google翻訳：フォーカスされたターミナルではなく、フォーカスされていないドキュメントに影響するいくつかのキーボードショートカットを修正
+
+原文：Close Terminal if shell exited and create new Terminal if re-opened with no shell
+筆者訳：シェルが終了した場合はターミナルを閉じ、シェルなしでターミナルが開かれた場合は新しいターミナルを作成するように修正
+Google翻訳：シェルが終了した場合はターミナルを閉じ、シェルなしで再度開いた場合は新しいターミナルを作成します
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文："Visible whitespace" combobox is now a switch
+筆者訳：“空白を表示”コンボボックスをスイッチに変更
+Google翻訳：「Visiblewhitespace」コンボボックスがスイッチになりました
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fix crash when creating new window from tab drop
+筆者訳：タブをドロップして新しいウィンドウを開こうとするとクラッシュする不具合を修正
+Google翻訳：タブドロップから新しいウィンドウを作成するときのクラッシュを修正
+
+原文：Ensure files created from the sidebar are automatically opened
+筆者訳：サイドバーで作成したファイルを自動的に開くように修正
+Google翻訳：サイドバーから作成されたファイルが自動的に開かれることを確認します
+
+原文：Hide project chooser button when hiding sidebar
+筆者訳：サイドバーを表示していない場合はプロジェクト選択ボタンも表示しないように修正
+Google翻訳：サイドバーを非表示にするときにプロジェクトチューザーボタンを非表示にする
+
+原文：Ensure all copy is translatable
+筆者訳：すべてのテキストが翻訳できるように修正
+Google翻訳：すべてのコピーが翻訳可能であることを確認します
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：New Markdown plugin for WYSIWYG-like editing.
+筆者訳：WYSIWYG 風に編集できる Markdown プラグインを追加しました。
+Google翻訳：WYSIWYGのような編集のための新しいMarkdownプラグイン。
+
+原文：Switch Git branches or create new ones in project folder context menus
+筆者訳：プロジェクトフォルダーのコンテキストメニューから、Git ブランチを切り替えたり新しいブランチを作成したりできる機能を追加
+Google翻訳：Gitブランチを切り替えるか、プロジェクトフォルダーのコンテキストメニューで新しいブランチを作成します
+
+原文：Show Git diff status in source view gutters
+筆者訳：ソースビューの左端に Git の差分を表示する機能を追加
+Google翻訳：ソースビューのガターにGit差分ステータスを表示する
+
+原文：Full text search within project folder.
+筆者訳：プロジェクトフォルダー内での全文検索に対応しました。
+Google翻訳：プロジェクトフォルダ内の全文検索。
+
+原文：Save and restore cursor position between sessions
+筆者訳：セッションの最後のカーソル位置を保存し復元する機能を追加
+Google翻訳：セッション間のカーソル位置の保存と復元
+
+原文：Close files from a project when that project is closed
+筆者訳：プロジェクトが閉じた場合にそのプロジェクト内のファイルも閉じるように修正
+Google翻訳：プロジェクトが閉じられたときにプロジェクトからファイルを閉じる
+
+原文：Show full file path in tab tooltips
+筆者訳：タブのツールチップにファイルのフルパスを表示するように変更
+Google翻訳：タブのツールチップに完全なファイルパスを表示する
+
+原文：Clear lines with Ctrl + K
+筆者訳：Ctrl + K で行の文字を消去する機能を追加
+Google翻訳：Ctrl + Kで行をクリア
+
+原文：Allow Spell Checker extension in Markdown files
+筆者訳：Markdown ファイルでスペルチェッカー拡張機能を利用できるように変更
+Google翻訳：Markdownファイルでスペルチェッカー拡張を許可する
+
+原文：Improve multi-line duplication
+筆者訳：複数行の複製を改善
+Google翻訳：複数行の複製を改善する
+
+原文：Remember whether the sidebar is open
+筆者訳：サイドバーの表示／非表示の状態を保存するように変更
+Google翻訳：サイドバーが開いているかどうかを覚えておいてください
+
+原文：Set window title to the focused file
+筆者訳：現在表示中のファイル名をウィンドウのタイトルとして設定するように修正
+Google翻訳：ウィンドウのタイトルをフォーカスされたファイルに設定します
+
+原文：Add keyboard shortcuts for next and previous documents
+筆者訳：タブを切り替えるキーボードショートカットを追加
+Google翻訳：次および前のドキュメントのキーボードショートカットを追加する
+
+原文：Show full document path in tab tooltip
+筆者訳：タブのツールチップにドキュメントのフルパスを表示するように変更
+Google翻訳：タブのツールチップに完全なドキュメントパスを表示する
+
+原文：Update Pastebin plugin
+筆者訳：Pastebin プラグインをアップデート
+Google翻訳：Pastebinプラグインを更新する
+
+原文：Correctly indent last line when using the preserve whitespace plugin
+筆者訳：“ファイル末尾の空白を削除”プラグインを使用時、最終行が適切にインデントするように修正
+Google翻訳：空白の保持プラグインを使用するときに、最後の行を正しくインデントします
+
+原文：Keep syntax highlighting when duplicating a file
+筆者訳：複製したファイルに複製元と同じシンタックスハイライトを適用するように修正
+Google翻訳：ファイルを複製するときに構文を強調表示し続ける
+
+原文：Expand a collapsed folder if you attempt to open it twice
+筆者訳：折りたたまれたフォルダーを2回開いてしまった場合に、フォルダーを展開するように変更
+Google翻訳：2回開こうとすると、折りたたまれたフォルダを展開します
+
+原文：Fix an issue where searches are lost when Code loses focus
+筆者訳：“コード”のウィンドウが非アクティブになった場合に検索文字列がリセットされてしまう不具合を修正
+Google翻訳：コードがフォーカスを失うと検索が失われる問題を修正します
+
+原文：Start Vim plugin in command mode
+筆者訳：Vim プラグインをコマンドラインモードで開始するように変更
+Google翻訳：コマンドモードでVimプラグインを起動します
+
+原文：Fix and add new Vim commands
+筆者訳：Vim コマンドの修正と追加
+Google翻訳：新しいVimコマンドを修正して追加する
+
+原文：Show project folders with a hidden root folder
+筆者訳：ルートフォルダーが隠しフォルダーになっているプロジェクトのフォルダーを表示するように修正
+Google翻訳：ルートフォルダを非表示にしてプロジェクトフォルダを表示する
+
+原文：Allow launching with pkexec and disallow launching with sudo
+筆者訳：pkexec での起動を可能にし、sudo での起動ができないように修正
+Google翻訳：pkexecでの起動を許可し、sudoでの起動を禁止します
+
+原文：Remove split view
+筆者訳：分割ビューを削除
+Google翻訳：分割ビューを削除
+
+原文：Remove browser preview
+筆者訳：ブラウザープレビューを削除
+Google翻訳：ブラウザのプレビューを削除する
+
+原文：Fix empty sidebar layout, ensuring folders can always be added
+筆者訳：フォルダーが常に追加されるようにすることで、サイドバーのレイアウトに何も表示されない不具合を修正
+Google翻訳：空のサイドバーのレイアウトを修正し、フォルダーを常に追加できるようにします
+
+原文：Scroll past the end of a file
+筆者訳：ファイルの最終行よりもさらにスクロールできるように変更
+Google翻訳：ファイルの終わりを超えてスクロールします
+
+原文：More efficiently save and restore window position
+筆者訳：ウィンドウの位置を、より効率的に保存・復元するように修正
+Google翻訳：ウィンドウの位置をより効率的に保存および復元
+
+原文：Include Git status in file tooltips
+筆者訳：ファイルのツールチップに Git の状態を表示
+Google翻訳：ファイルのツールチップにGitステータスを含める
+
+原文：Option for explicit case-sensitive Find
+筆者訳：大文字と小文字を区別する検索オプションを追加
+Google翻訳：大文字と小文字を区別する明示的な検索のオプション
+
+原文：Other updates:
+筆者訳：そのほかのアップデート:
+Google翻訳：その他の更新：
+
+原文：Correctly show Toggle Comment menu item when no text is selected
+筆者訳：テキストが選択されていない場合にも、メニュー項目"コメントを切り替え"を適切に表示するように修正
+Google翻訳：テキストが選択されていないときに[コメントの切り替え]メニュー項目を正しく表示する
+
+原文：Fixed font switch alignment
+筆者訳："カスタムフォント"スイッチの配置を修正
+Google翻訳：フォントスイッチの配置を修正
+
+原文：New "Close Other Folders" menu item to help clean up your sidebar
+筆者訳：サイドバーを整理できるように、新しいメニュー項目"ほかのフォルダーを閉じる"を追加
+Google翻訳：サイドバーのクリーンアップに役立つ新しい[他のフォルダを閉じる]メニュー項目
+
+原文：Save and restore cyclic search setting
+筆者訳：循環検索の設定を保存し復元するように修正
+Google翻訳：循環検索設定の保存と復元
+
+原文：Add keyboard shortcuts to menu items
+筆者訳：メニュー項目にキーボードショートカットを表示するように修正
+Google翻訳：メニュー項目にキーボードショートカットを追加する
+
+原文：Make sidebar folder items not selectable
+筆者訳：サイドバーのフォルダー項目を選択できないように修正
+Google翻訳：サイドバーフォルダのアイテムを選択できないようにする
+
+原文：Center new windows
+筆者訳：新しいウィンドウを画面の中央に表示するように修正
+Google翻訳：新しいウィンドウを中央に配置
+
+原文：Visually deprioritize .gitignored files in project sidebar
+筆者訳：.gitignore ファイルに記述されたファイルの名前をプロジェクトサイドバーに薄く表示するように修正
+Google翻訳：プロジェクトサイドバーで.gitignoredファイルの優先順位を視覚的に下げます
+
+原文：Smart cut/copy lines with no active selection
+筆者訳：行を選択していなくても切り取り／コピーできるように修正
+Google翻訳：アクティブな選択のないスマートカット/コピーライン
+
+原文：Add a confirmation dialog to the "Restore" action
+筆者訳："復元"アクションの実行時に確認ダイアログを表示するように修正
+Google翻訳：「復元」アクションに確認ダイアログを追加します
+
+原文：Add "Open In" menu to the top-level folder in the folder manager
+筆者訳：フォルダーマネージャーで最上位のフォルダーに"指定した方法で開く"メニューを追加
+Google翻訳：フォルダマネージャの最上位フォルダに[開く]メニューを追加します
+
+原文：Don't show temporary files in the folder manager
+筆者訳：フォルダーマネージャーで一時ファイルを表示しないように修正
+Google翻訳：フォルダマネージャに一時ファイルを表示しない
+
+原文：Add brackets completion and auto-indent by default
+筆者訳：閉じカッコの補完と自動インデント機能をデフォルトで有効化
+Google翻訳：角かっこ補完を追加し、デフォルトで自動インデントします
+
+原文：Zoom terminal plugin with keyboard
+筆者訳：ターミナルプラグインをキーボードで拡大・縮小できるように修正
+Google翻訳：キーボード付きズーム端末プラグイン
+
+原文：Honor global privacy setting when saving and restoring
+筆者訳：保存・復元時にシステムのプライバシー設定を反映するように修正
+Google翻訳：保存および復元するときは、グローバルプライバシー設定を尊重してください
+
+原文：Simplify "Draw spaces" preference
+筆者訳："空白を表示"設定を簡易化
+Google翻訳：「スペースの描画」設定を簡素化する
+
+原文：Fix the keyboard shortcut for going backwards in search results
+筆者訳：前の検索結果を表示するキーボードショートカットを修正
+Google翻訳：検索結果を逆方向に移動するためのキーボードショートカットを修正
+
+原文：Fix opening files from relative paths in Terminal
+筆者訳：ターミナルから相対パスを使用してファイルを開く際の不具合を修正
+Google翻訳：ターミナルの相対パスからファイルを開く問題を修正
+
+原文：Fix null file dialog when opening a new window via the dock
+筆者訳：ドックのコンテキストメニューから新しいウィンドウを開いた際に「ファイル (null) を開けません」というダイアログが表示される不具合を修正
+Google翻訳：ドックを介して新しいウィンドウを開くときのnullファイルダイアログを修正
+
+原文：Add "=" as a zoom key
+筆者訳：拡大に使用するキーボードショートカットに "=" を追加
+Google翻訳：ズームキーとして「=」を追加
+
+原文：Change search entry icon when results aren't found
+筆者訳：検索結果が見つからなかった場合に検索欄のアイコンを変更するように修正
+Google翻訳：結果が見つからない場合は、検索エントリアイコンを変更します
+
+原文：Enter name of new file before creating it
+筆者訳：新しいファイルの名前をファイルの作成前に入力できるように修正
+Google翻訳：作成する前に新しいファイルの名前を入力してください
+
+原文：Use Granite.MessageDialog throughout
+筆者訳：一貫的な Granite.MessageDialog の利用
+Google翻訳：Granite.MessageDialogを全体で使用する
+
+原文：Include non-text files in sidebar
+筆者訳：サイドバーにテキストファイル以外のファイルも表示するように変更
+Google翻訳：サイドバーに非テキストファイルを含める
+
+原文：Fix Remove Current View
+筆者訳："現在のビューを削除"の機能を修正
+Google翻訳：現在のビューの削除を修正
+
+原文：Fix New Window desktop action behavior
+筆者訳：デスクトップアクションの“新しいウィンドウ”の挙動を修正
+Google翻訳：新しいウィンドウのデスクトップアクションの動作を修正
+
+原文：Properly synchronize Ctrl+N key presses with number of new documents spawned
+筆者訳：Ctrl+N キーの押下を新規作成されたドキュメントの数と適切に同期
+Google翻訳：Ctrl + Nキーの押下を、生成された新しいドキュメントの数と適切に同期します
+
+原文：Build system fix for editorconfig dependency
+筆者訳：EditorConfig の依存関係に対するビルドシステムの修正
+Google翻訳：editorconfigの依存関係のシステム修正をビルドする
+
+原文：Add Change Branch context menu item
+筆者訳：コンテキストメニューの項目に“ブランチを変更”を追加
+Google翻訳：[ブランチの変更]コンテキストメニュー項目を追加します
+
+原文：Avoid possible startup crash related to how plugins load
+筆者訳：プラグインの読み込み方法に関連して起こる可能性のある起動時のクラッシュを防止
+Google翻訳：プラグインのロード方法に関連して発生する可能性のあるスタートアップクラッシュを回避します
+
+原文：Smarter file saving behavior
+筆者訳：ファイル保存の挙動を改善
+Google翻訳：よりスマートなファイル保存動作
+
+原文：File saving fixes
+筆者訳：ファイルの保存に関する修正
+Google翻訳：ファイル保存の修正
+
+原文：Don't add temporary files to tab restore
+筆者訳：タブの復元に一時ファイルを追加しないように修正
+Google翻訳：タブの復元に一時ファイルを追加しないでください
+
+原文：Don't recreate deleted files when restoring session
+筆者訳：セッションの復元時に削除したファイルを再作成しないように修正
+Google翻訳：セッションを復元するときに削除されたファイルを再作成しないでください
+
+原文：Restore line wrap preference
+筆者訳：行の折り返しの設定を復活
+Google翻訳：行の折り返し設定を復元する
+
+原文：Add accel tooltips
+筆者訳：アクセラレーターツールチップの追加
+Google翻訳：加速ツールチップを追加する
+
+原文：Minor bug fixes
+筆者訳：軽微なバグの修正
+Google翻訳：マイナーなバグ修正
+
+原文：Edit code files
+筆者訳：コードファイルを編集します
+Google翻訳：コードファイルを編集する
+
+原文：Code Editor
+筆者訳：コードエディター
+Google翻訳：コードエディタ
+
+原文：text;IDE;scratch;
+筆者訳：text;IDE;scratch;テキスト;統合開発環境;
+Google翻訳：テキスト; IDE;スクラッチ;
+
+原文：New File
+筆者訳：新しいファイル
+Google翻訳：新しいファイル
+
+原文：New Window
+筆者訳：新しいウィンドウ
+Google翻訳：新しい窓
+
+原文：Run Code as Administrator
+筆者訳：“コード”を管理者として実行
+Google翻訳：管理者としてコードを実行する
+
+原文：Authentication is required to run Code as Administrator
+筆者訳：“コード”を管理者として実行するには認証が必要です
+Google翻訳：コードを管理者として実行するには認証が必要です
+

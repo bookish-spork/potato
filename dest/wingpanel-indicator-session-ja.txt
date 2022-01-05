@@ -1,0 +1,81 @@
+原文：User Accounts Settings…
+筆者訳：ユーザーアカウントの設定…
+Google翻訳：ユーザーアカウント設定…
+
+原文：Log Out…
+筆者訳：ログアウト…
+Google翻訳：ログアウト…
+
+原文：Lock
+筆者訳：ロック
+Google翻訳：ロック
+
+原文：Shut Down…
+筆者訳：シャットダウン…
+Google翻訳：シャットダウン…
+
+原文：Suspend
+筆者訳：サスペンド
+Google翻訳：つるす
+
+原文（単数形）：Logged in as “%s”, %i other user logged in
+原文（複数形）：Logged in as “%s”, %i other users logged in
+筆者訳：“%s” としてログイン中です。ほかに%i人のユーザーがログイン中です
+Google翻訳：「％s」としてログインし、％i他のユーザーがログインしました
+
+原文：Logged in as “%s”
+筆者訳：“%s” としてログイン中です
+Google翻訳：「％s」としてログイン
+
+原文：Not logged in
+筆者訳：ログインしていません
+Google翻訳：ログインしていない
+
+原文：Middle-click to prompt to shut down
+筆者訳：終了ダイアログを表示するには中クリックしてください
+Google翻訳：中クリックしてシャットダウンを促します
+
+原文：Are you sure you want to Log Out?
+筆者訳：ログアウトしてもよろしいですか？
+Google翻訳：ログアウトしてもよろしいですか？
+
+原文：This will close all open applications.
+筆者訳：続行すると、開いているすべてのアプリケーションを閉じます。
+Google翻訳：これにより、開いているすべてのアプリケーションが閉じます。
+
+原文：Log Out
+筆者訳：ログアウト
+Google翻訳：ログアウト
+
+原文：Are you sure you want to Shut Down?
+筆者訳：シャットダウンしてもよろしいですか？
+Google翻訳：シャットダウンしてもよろしいですか？
+
+原文：This will close all open applications and turn off this device.
+筆者訳：続行すると、開いているすべてのアプリケーションを閉じてこのデバイスの電源を切ります。
+Google翻訳：これにより、開いているすべてのアプリケーションが閉じられ、このデバイスの電源がオフになります。
+
+原文：Shut Down
+筆者訳：シャットダウン
+Google翻訳：シャットダウン
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Restart
+筆者訳：再起動
+Google翻訳：再起動
+
+原文：Guest
+筆者訳：ゲスト
+Google翻訳：ゲスト
+
+原文：Logged in
+筆者訳：ログイン中
+Google翻訳：ログイン
+
+原文：Logged out
+筆者訳：ログアウト中
+Google翻訳：ログアウトしました
+

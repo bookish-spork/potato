@@ -1,0 +1,84 @@
+原文：Camera
+筆者訳：カメラ
+Google翻訳：カメラ
+
+原文：Take photos and videos with the camera
+筆者訳：カメラで写真と動画を撮影します
+Google翻訳：カメラで写真やビデオを撮る
+
+原文：Camera is a simple app to take photos with a webcam.
+筆者訳：“カメラ”は Web カメラで写真を撮影するためのシンプルなアプリです。
+Google翻訳：カメラはウェブカメラで写真を撮るシンプルなアプリです。
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Update to elementary runtime 6.1
+筆者訳：elementary ランタイムのバージョンを 6.1 にアップデート
+Google翻訳：エレメンタリーランタイム6.1にアップデート
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Resolve issues with cameras being unavailable when multiple cameras are connected
+筆者訳：複数のカメラが接続されている場合、カメラが利用できない不具合を修正
+Google翻訳：複数のカメラが接続されているときにカメラが使用できない問題を解決します
+
+原文：Default to a working camera if multiple cameras are connected and one is unavailable
+筆者訳：複数のカメラが接続されていて一方が利用できない場合、利用できるカメラをデフォルトで使用するように修正
+Google翻訳：複数のカメラが接続されていて、1台が使用できない場合、デフォルトで動作中のカメラになります
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Take full-resolution pictures
+筆者訳：フル解像度の写真を撮影できるように修正
+Google翻訳：フル解像度の写真を撮る
+
+原文：Fix restoring window size
+筆者訳：ウィンドウの大きさが正しく復元されるように修正
+Google翻訳：ウィンドウサイズの復元を修正
+
+原文：Switch between multiple cameras
+筆者訳：複数のカメラを切り替える機能を追加
+Google翻訳：複数のカメラを切り替える
+
+原文：Send a notification when recording is finished
+筆者訳：録画終了時に通知を表示
+Google翻訳：録音が終了したら通知を送信します
+
+原文：Add option to mirror the camera
+筆者訳：ミラーオプションを追加
+Google翻訳：カメラをミラーリングするオプションを追加
+
+原文：Add brightness and contrast adjustment
+筆者訳：輝度とコントラストの調整機能を追加
+Google翻訳：明るさとコントラストの調整を追加します
+
+原文：Support the dark style
+筆者訳：ダークスタイルに対応
+Google翻訳：ダークスタイルをサポート
+
+原文：Prevent multiple countdown timers from running at the same time
+筆者訳：複数のカウントダウンが同時に実行されないように修正
+Google翻訳：複数のカウントダウンタイマーが同時に実行されないようにする
+
+原文：Improved support for camera hardware
+筆者訳：カメラハードウェアへの対応を改善
+Google翻訳：カメラハードウェアのサポートの改善
+
+原文：Photo Booth
+筆者訳：フォトブース
+Google翻訳：プリクラ
+
+原文：Photo;Video;Webcam;Camera;Booth;
+筆者訳：Photo;Video;Webcam;Camera;Booth;写真;動画;Web カメラ;カメラ;ブース;
+Google翻訳：写真;ビデオ;ウェブカメラ;カメラ;ブース;
+

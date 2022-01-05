@@ -1,0 +1,104 @@
+原文：Calculator
+筆者訳：電卓
+Google翻訳：電卓
+
+原文：Solve simple equations
+筆者訳：簡単な式を計算します
+Google翻訳：簡単な方程式を解く
+
+原文：A simple calculator for everyday use. It supports basic and some scientific calculations including trigonometry functions, sin, cos, and tan.
+筆者訳：日常で利用するのにシンプルな電卓です。基本的な計算やサイン、コサイン、タンジェントといった三角関数を含むいくつかの科学的な計算をサポートします。
+Google翻訳：日常使いのシンプルな電卓。三角関数、sin、cos、tanなどの基本的な計算といくつかの科学的な計算をサポートします。
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Update to elementary 6.1 runtime
+筆者訳：elementary ランタイムのバージョンを 6.1 にアップデート
+Google翻訳：エレメンタリー6.1ランタイムに更新
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Showing advanced controls only affects the focused window
+筆者訳：高度なオプションを表示する場合、現在フォーカスされているウィンドウにのみ適用されるように修正
+Google翻訳：高度なコントロールの表示は、フォーカスされたウィンドウにのみ影響します
+
+原文：Focus the main text entry on startup
+筆者訳：起動時にテキストエントリーにフォーカスするように修正
+Google翻訳：本文のエントリをスタートアップに集中させる
+
+原文：Show the correct window title in Multitasking View
+筆者訳：マルチタスク画面で適切なウィンドウタイトルを表示するように修正
+Google翻訳：マルチタスクビューで正しいウィンドウタイトルを表示する
+
+原文：Added 'New Window' Desktop Action
+筆者訳：“新しいウィンドウ”デスクトップアクションを追加
+Google翻訳：「新しいウィンドウ」デスクトップアクションを追加
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Add a "Clear History" button to the history dialog
+筆者訳：履歴ダイアログに"履歴を消去"ボタンを追加
+Google翻訳：履歴ダイアログに「履歴のクリア」ボタンを追加します
+
+原文：Fixed an issue with multiple windows
+筆者訳：ウィンドウが複数存在する場合に発生していた不具合を修正
+Google翻訳：複数のウィンドウの問題を修正しました
+
+原文：More informative copy in history dialog
+筆者訳：履歴ダイアログにわかりやすい説明文を追加
+Google翻訳：履歴ダイアログのより有益なコピー
+
+原文：Add log and inverse trigonometric functions
+筆者訳：対数と逆三角関数を追加
+Google翻訳：対数および逆三角関数を追加します
+
+原文：Other updates:
+筆者訳：そのほかのアップデート:
+Google翻訳：その他の更新：
+
+原文：Fix an issue with negative decimals without leading digits
+筆者訳：整数部のない負の小数を使用すると発生する不具合を修正
+Google翻訳：先頭の数字がない負の小数の問題を修正します
+
+原文：More efficient state saving
+筆者訳：アプリの状態を効率的に保存するように変更
+Google翻訳：より効率的な状態保存
+
+原文：Use slim titlebar
+筆者訳：タイトルバーが細くなるように修正
+Google翻訳：スリムなタイトルバーを使用
+
+原文：Fix inserting multi-byte characters
+筆者訳：マルチバイト文字を挿入する際の不具合を修正
+Google翻訳：マルチバイト文字の挿入を修正
+
+原文：Fix missing icon for Ukrainian
+筆者訳：ウクライナ語においてアイコンが表示されない不具合を修正
+Google翻訳：ウクライナ語の欠落しているアイコンを修正
+
+原文：Animate Infobar when hiding and showing
+筆者訳：情報バーの表示／非表示の際にアニメーションを追加
+Google翻訳：非表示および表示時に情報バーをアニメーション化する
+
+原文：Fix selection replace
+筆者訳：選択範囲の置き換えの際の不具合を修正
+Google翻訳：選択の置き換えを修正
+
+原文：Improved decimal separator localization
+筆者訳：小数点のローカライゼーションの改善
+Google翻訳：小数点記号のローカリゼーションの改善
+
+原文：Calculation;Mathematics;Arithmetic;Scientific;
+筆者訳：Calculation;Mathematics;Arithmetic;Scientific;計算;数学;算数;科学;
+Google翻訳：計算;数学;算術;科学;
+
+原文：New Window
+筆者訳：新しいウィンドウ
+Google翻訳：新しい窓
+

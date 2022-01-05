@@ -1,0 +1,80 @@
+原文：Online Accounts Settings
+筆者訳：オンラインアカウントの設定
+Google翻訳：オンラインアカウント設定
+
+原文：Manage online accounts and connected applications
+筆者訳：オンラインアカウントと接続されたアプリケーションを管理します
+Google翻訳：オンラインアカウントと接続されたアプリケーションを管理する
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Edit saved CalDAV accounts
+筆者訳：保存済みの CalDAV アカウントを編集する機能を追加
+Google翻訳：保存したCalDAVアカウントを編集する
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Dim window when creating a new IMAP account
+筆者訳：IMAP アカウントを作成する際に親ウィンドウを薄暗くするように修正
+Google翻訳：新しいIMAPアカウントを作成するときのウィンドウを暗くする
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Make sure the refresh interval for an IMAP account is set
+筆者訳：IMAP アカウントを更新する時間が設定されていることを確認するように修正
+Google翻訳：IMAPアカウントの更新間隔が設定されていることを確認してください
+
+原文：Fix adding, editing, and removing lists in CalDAV apps like Tasks
+筆者訳：“タスク”などの CalDAV アプリでリストを追加・編集・削除する際の不具合を修正
+Google翻訳：タスクなどのCalDAVアプリでのリストの追加、編集、削除を修正
+
+原文：Make sure you can always navigate next by pressing the Enter key
+筆者訳：Enter キー押下で常に次のビューに遷移できるように修正
+Google翻訳：Enterキーを押して、いつでも次にナビゲートできることを確認してください
+
+原文：Close dialogs when pressing the Escape key
+筆者訳：Esc キー押下でダイアログを閉じるように修正
+Google翻訳：エスケープキーを押したときにダイアログを閉じる
+
+原文：Use a more complete list of authentication methods for IMAP
+筆者訳：IMAP の認証方式の一覧を外部ライブラリから取得するように修正
+Google翻訳：IMAPの認証方法のより完全なリストを使用する
+
+原文：Edit saved IMAP accounts
+筆者訳：保存済みの IMAP アカウントを編集する機能を追加
+Google翻訳：保存したIMAPアカウントを編集する
+
+原文：Automatically detect authentication method for IMAP
+筆者訳：IMAP の認証方式を自動的に検知するように修正
+Google翻訳：IMAPの認証方法を自動的に検出する
+
+原文：Verify login credentials when saving IMAP accounts
+筆者訳：IMAP アカウントを保存する際にログイン資格情報を認証するように修正
+Google翻訳：IMAPアカウントを保存するときにログイン資格情報を確認する
+
+原文：Set up Archive, Drafts, Sent, and Templates folders for IMAP
+筆者訳：アーカイブ、下書き、送信済み、テンプレートフォルダーを IMAP 用にセットアップ
+Google翻訳：IMAPのアーカイブ、ドラフト、送信済み、およびテンプレートフォルダを設定します
+
+原文：Close "Add Account" popover when an item is selected
+筆者訳："アカウントを追加" ポップオーバー内の項目が選択された場合にポップオーバーを閉じるように修正
+Google翻訳：アイテムが選択されたら、「アカウントの追加」ポップオーバーを閉じます
+
+原文：Complete redesign
+筆者訳：抜本的なデザイン変更
+Google翻訳：完全な再設計
+
+原文：Fix blurry icons on HiDPI
+筆者訳：HiDPI 環境でのアイコンの解像度が悪い不具合を修正
+Google翻訳：HiDPIのぼやけたアイコンを修正
+

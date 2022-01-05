@@ -1,0 +1,252 @@
+原文：Calendar
+筆者訳：カレンダー
+Google翻訳：カレンダー
+
+原文：View and schedule events
+筆者訳：予定の表示と計画をします
+Google翻訳：イベントの表示とスケジュール
+
+原文：A slim, lightweight calendar app that syncs and manages multiple calendars in one place, like Google Calendar, Outlook and CalDAV.
+筆者訳：Google カレンダー や Outlook、CalDav などの複数のカレンダーを一か所で同期し管理できる、スリムで軽量なカレンダーアプリです。
+Google翻訳：Googleカレンダー、Outlook、CalDAVなど、複数のカレンダーを1か所で同期および管理するスリムで軽量なカレンダーアプリ。
+
+原文：Features:
+筆者訳：機能:
+Google翻訳：特徴：
+
+原文：Follow email and web links in the event description with Control + Click
+筆者訳：Ctrl + クリックで予定の説明欄内のメールアドレスや Web リンクを開ける機能を追加
+Google翻訳：Control + Clickを使用して、イベントの説明にある電子メールとWebリンクをたどります
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Ensure Calendar runs in the background on startup
+筆者訳：システムの起動時に“カレンダー”がバックグラウンドで起動するように修正
+Google翻訳：起動時にカレンダーがバックグラウンドで実行されることを確認します
+
+原文：Fix memory leak when getting timezone information
+筆者訳：タイムゾーン情報取得時のメモリーリークを修正
+Google翻訳：タイムゾーン情報を取得する際のメモリリークを修正
+
+原文：Reliably read Windows-style timezones
+筆者訳：Windows で扱われているタイムゾーンを認識できるように修正
+Google翻訳：Windowsスタイルのタイムゾーンを確実に読み取る
+
+原文：Minor Updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：新しい翻訳
+Google翻訳：更新された翻訳
+
+原文：Fix notification icons in the notification indicator
+筆者訳：通知インジケーターの通知アイコンが正しく表示されない不具合を修正
+Google翻訳：通知インジケーターの通知アイコンを修正
+
+原文：Fix an issue where event timezones were overwritten
+筆者訳：予定のタイムゾーンが上書きされる不具合を修正
+Google翻訳：イベントのタイムゾーンが上書きされる問題を修正します
+
+原文：Ensure Calendar is launched when notifications are clicked
+筆者訳：通知をクリックすると“カレンダー”アプリが起動するように修正
+Google翻訳：通知がクリックされたときにカレンダーが起動することを確認します
+
+原文：Fix broken calendar color with some online providers
+筆者訳：オンラインサービスによってはカレンダーの色が正しく表示されなかった不具合を修正
+Google翻訳：一部のオンラインプロバイダーで壊れたカレンダーの色を修正
+
+原文：Fix an issue with some all-day events
+筆者訳：終日の予定に関する不具合を修正
+Google翻訳：終日のイベントに関する問題を修正する
+
+原文：New Features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Import ICS files from the gear menu
+筆者訳：設定メニューから ICS ファイルをインポートする機能を追加
+Google翻訳：ギアメニューからICSファイルをインポートする
+
+原文：Support the dark style
+筆者訳：ダークスタイルに対応
+Google翻訳：ダークスタイルをサポート
+
+原文：Properly show events on the last day of the month
+筆者訳：月の最終日の予定が適切に表示されるように修正
+Google翻訳：月の最終日にイベントを適切に表示する
+
+原文：Fix end times for all-day events
+筆者訳：終日の予定の終了時刻を修正
+Google翻訳：終日のイベントの終了時刻を修正する
+
+原文：Notify for all alarms on an event
+筆者訳：予定に設定されているすべてのアラームを通知
+Google翻訳：イベントのすべてのアラームを通知する
+
+原文：Improved offline support
+筆者訳：オフラインサポートを改善
+Google翻訳：改善されたオフラインサポート
+
+原文：New colorful avatar fallbacks
+筆者訳：アバター画像未設定時に背景を色付きで表示するように変更
+Google翻訳：新しいカラフルなアバターのフォールバック
+
+原文：Include "film" as an event icon keyword
+筆者訳：予定のアイコンのキーワードに"映画"という単語を追加
+Google翻訳：イベントアイコンのキーワードとして「映画」を含める
+
+原文：Add Mint and Bubblegum to calendar color chooser
+筆者訳：カレンダーのカラーピッカーにミントとピンクを追加
+Google翻訳：ミントとバブルガムをカレンダーのカラーチューザーに追加します
+
+原文：Link to Online Accounts settings in the gear menu
+筆者訳：設定メニューにオンラインアカウントの設定へのリンクを追加
+Google翻訳：ギアメニューのオンラインアカウント設定へのリンク
+
+原文：Performance improvements
+筆者訳：パフォーマンスの向上
+Google翻訳：パフォーマンスの向上
+
+原文：Add "Duplicate..." option to event context menu
+筆者訳：予定のコンテキストメニューに"複製…"オプションを追加
+Google翻訳：イベントのコンテキストメニューに「複製...」オプションを追加
+
+原文：Fix an issue where new events could appear twice in Calendar
+筆者訳：カレンダーに新しい予定が重複して表示される可能性のある不具合を修正
+Google翻訳：新しいイベントがカレンダーに2回表示される可能性がある問題を修正します
+
+原文："Mark as default calendar" box is now correctly checked when editing a calendar
+筆者訳：カレンダーの編集時に、"デフォルトのカレンダーに設定"チェックボックスが正しくチェックされるように修正
+Google翻訳：カレンダーを編集するときに、[デフォルトのカレンダーとしてマーク]ボックスが正しくチェックされるようになりました
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Allow modification of recurring events
+筆者訳：定期的に行われる予定の変更ができるように変更
+Google翻訳：定期的なイベントの変更を許可する
+
+原文：Improve handling of week start day
+筆者訳：週の始めの日の処理に関する改善
+Google翻訳：週の開始日の処理を改善する
+
+原文：Fix timezone errors with all-day events
+筆者訳：終日の予定におけるタイムゾーンのエラーを修正
+Google翻訳：終日のイベントでタイムゾーンエラーを修正
+
+原文：Don't resize the sidebar when resizing the window
+筆者訳：ウィンドウのサイズ変更時に、サイドバーのサイズが変化してしまう不具合を修正
+Google翻訳：ウィンドウのサイズを変更するときにサイドバーのサイズを変更しないでください
+
+原文：Fix issues with time zones not being recognized
+筆者訳：タイムゾーンが認識されない問題を修正
+Google翻訳：タイムゾーンが認識されない問題を修正します
+
+原文：Fix several issues with adding and removing monthly recurring events
+筆者訳：毎月行われる予定の追加と削除に関する複数の不具合を修正
+Google翻訳：毎月の定期的なイベントの追加と削除に関するいくつかの問題を修正します
+
+原文：Correctly save event reminders
+筆者訳：予定のリマインダーを正しく保存するように修正
+Google翻訳：イベントリマインダーを正しく保存する
+
+原文：Ellipsize event participant details if necessary
+筆者訳：必要に応じて予定の参加者の詳細を省略するように修正
+Google翻訳：必要に応じて、Ellipsizeイベント参加者の詳細
+
+原文：Fix unwanted rescheduling when editing event title
+筆者訳：予定のタイトルを編集した際に、予定の日付が変更されてしまう不具合を修正
+Google翻訳：イベントタイトルを編集する際の不要な再スケジュールを修正
+
+原文：Fix crash when editing an event with no location
+筆者訳：場所指定がない予定を編集した場合にアプリがクラッシュする不具合を修正
+Google翻訳：場所のないイベントを編集するときのクラッシュを修正
+
+原文：Fix potential crash when loading events with no start or end time
+筆者訳：開始時刻または終了時刻が指定されていない予定を読み込んだ際に、アプリがクラッシュすることがある不具合を修正
+Google翻訳：開始時間または終了時間のないイベントをロードするときに発生する可能性のあるクラッシュを修正
+
+原文：Make agenda pane fill the whole space
+筆者訳：予定ペインが領域全体を占めるように調整
+Google翻訳：アジェンダペインをスペース全体に表示する
+
+原文：Set the suggested time for new events to the next whole hour
+筆者訳：予定の作成時に現在時刻からの1時間を予定の時間として提示するように変更
+Google翻訳：新しいイベントの推奨時間を次の1時間に設定します
+
+原文：Fix issues with recurring events
+筆者訳：定期的に行われる予定に関する不具合を修正
+Google翻訳：定期的なイベントの問題を修正する
+
+原文：Present import window when opening ICS files
+筆者訳：ICS ファイルを開いた際にインポートウィンドウが表示されるのを防止
+Google翻訳：ICSファイルを開くときにインポートウィンドウを表示する
+
+原文：Add a search entry for calendars
+筆者訳：カレンダーに検索欄を追加
+Google翻訳：カレンダーの検索エントリを追加します
+
+原文：Always use calendar icon in notifications
+筆者訳：通知内で常にカレンダーのアイコンを使うように修正
+Google翻訳：通知には常にカレンダーアイコンを使用してください
+
+原文：Agenda view can now be navigated by keyboard
+筆者訳：日程ビューをキーボードで操作できるように変更
+Google翻訳：アジェンダビューをキーボードでナビゲートできるようになりました
+
+原文：Right-to-left improvements
+筆者訳：RTL 言語関連の改善
+Google翻訳：右から左への改善
+
+原文：Various UI overhauls including lime accent color
+筆者訳：ライム色のアクセントカラーを含む、各種 UI の見直し
+Google翻訳：ライムアクセントカラーを含むさまざまなUIのオーバーホール
+
+原文：Overall code cleanup and rewrites
+筆者訳：全体的なコードのクリーンアップと書き直し
+Google翻訳：全体的なコードのクリーンアップと書き換え
+
+原文：Styling adjustments
+筆者訳：スタイルの調整
+Google翻訳：スタイリングの調整
+
+原文：Fix location panel initialization
+筆者訳：位置パネルの初期化に関する修正
+Google翻訳：ロケーションパネルの初期化を修正
+
+原文：New translations
+筆者訳：新しい翻訳
+Google翻訳：新しい翻訳
+
+原文：Update wingpanel-indicator-datetime settings path.
+筆者訳：wingpanel-indicator-datetime の設定パスを更新しました。
+Google翻訳：wingpanel-indicator-datetime設定パスを更新します。
+
+原文：New translations.
+筆者訳：翻訳を更新しました。
+Google翻訳：新しい翻訳。
+
+原文：Various bug fixes and improvements.
+筆者訳：各種バグの修正と改善をしました。
+Google翻訳：さまざまなバグ修正と改善。
+
+原文：Fixes for calendar accuracy and integrity issues.
+筆者訳：カレンダーの正確さと整合性の不具合に対する修正をしました。
+Google翻訳：カレンダーの精度と整合性の問題を修正しました。
+
+原文：Fixes exporting, importing and printing calendars.
+筆者訳：カレンダーのエクスポート、インポート、印刷を修正しました。
+Google翻訳：カレンダーのエクスポート、インポート、印刷を修正しました。
+
+原文：Maya;Planner;Dates;Days;Events;Calendar;ics;caldav;evolution;
+筆者訳：Maya;Planner;Dates;Days;Events;Calendar;ics;caldav;evolution;日付;日;予定;カレンダー;
+Google翻訳：Maya; Planner; Dates; Days; Events; Calendar; ics; caldav; Evolution;
+
+原文：Add Event
+筆者訳：予定を追加
+Google翻訳：イベントを追加
+

@@ -1,0 +1,44 @@
+原文：the current country
+筆者訳：現在の国
+Google翻訳：現在の国
+
+原文：the nearest city or town
+筆者訳：最寄りの市町村
+Google翻訳：最寄りの都市または町
+
+原文：the nearest neighborhood
+筆者訳：最寄りの町
+Google翻訳：最寄りの近所
+
+原文：the nearest street
+筆者訳：最寄りの番地
+Google翻訳：最寄りの通り
+
+原文：your exact location
+筆者訳：正確な現在地
+Google翻訳：あなたの正確な場所
+
+原文：your location
+筆者訳：現在地
+Google翻訳：あなたの場所
+
+原文：%s will be able to detect %s. Permissions can be changed in <a href='settings://security/privacy/location'>Location Settings…</a>
+筆者訳：%s は%sを検出できます。アクセスの許可は<a href='settings://security/privacy/location'>現在地の設定で変更できます…</a>
+Google翻訳：％sは％sを検出できるようになります。権限は<ahref = 'settings：// security / privacy / location'>場所の設定…</a>で変更できます
+
+原文：Location Dialog
+筆者訳：位置情報ダイアログ
+Google翻訳：ロケーションダイアログ
+
+原文：Allow %s to Access This Device's Location?
+筆者訳：%s がこのデバイスの位置情報へアクセスすることを許可しますか？
+Google翻訳：％sがこのデバイスの場所にアクセスすることを許可しますか？
+
+原文：Deny
+筆者訳：拒否
+Google翻訳：拒否
+
+原文：Allow
+筆者訳：許可
+Google翻訳：許可する
+

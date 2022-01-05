@@ -1,0 +1,65 @@
+原文：Camera
+筆者訳：カメラ
+Google翻訳：カメラ
+
+原文：Saved to Videos
+筆者訳：“ビデオ” フォルダーに保存しました
+Google翻訳：動画に保存
+
+原文：View File
+筆者訳：ファイルを表示
+Google翻訳：ファイルを閲覧する
+
+原文：Recording failed
+筆者訳：録画できませんでした
+Google翻訳：録音に失敗しました
+
+原文：No Supported Camera Found
+筆者訳：サポートされているカメラが見つかりませんでした
+Google翻訳：サポートされているカメラが見つかりません
+
+原文：Connect a webcam or other supported video device to take photos and video.
+筆者訳：写真や動画を撮るには Web カメラまたはサポートされているビデオデバイスを接続してください。
+Google翻訳：ウェブカメラまたはその他のサポートされているビデオデバイスを接続して、写真やビデオを撮影します。
+
+原文：Connecting to "%s"…
+筆者訳："%s" に接続試行中…
+Google翻訳：「％s」に接続しています…
+
+原文：Unable To View Camera
+筆者訳：カメラを表示できません
+Google翻訳：カメラを表示できません
+
+原文：Photo taken
+筆者訳：写真が撮影されました
+Google翻訳：撮影した写真
+
+原文：Mirror
+筆者訳：ミラーリング
+Google翻訳：鏡
+
+原文：Brightness
+筆者訳：輝度
+Google翻訳：輝度
+
+原文：Contrast
+筆者訳：コントラスト
+Google翻訳：対比
+
+原文：Settings
+筆者訳：設定
+Google翻訳：設定
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+
+原文（単数形）：%d Sec
+原文（複数形）：%d Sec
+筆者訳：%d秒
+Google翻訳：％d秒
+
+原文：Delay before photo is taken
+筆者訳：写真が撮影されるまでの遅延時間
+Google翻訳：写真を撮る前の遅延
+

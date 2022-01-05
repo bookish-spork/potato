@@ -1,0 +1,132 @@
+原文：Middle-click to toggle percentage
+筆者訳：割合の表示／非表示を切り替えるには中クリックしてください
+Google翻訳：中クリックしてパーセンテージを切り替えます
+
+原文：Screen brightness: %i
+筆者訳：画面の輝度: %i
+Google翻訳：画面の明るさ：％i
+
+原文：Scroll to change screen brightness
+筆者訳：画面の輝度を変更するにはスクロールしてください
+Google翻訳：スクロールして画面の明るさを変更します
+
+原文：Battery
+筆者訳：バッテリー
+Google翻訳：バッテリー
+
+原文：Display
+筆者訳：ディスプレイ
+Google翻訳：画面
+
+原文：Mouse
+筆者訳：マウス
+Google翻訳：ねずみ
+
+原文：Keyboard
+筆者訳：キーボード
+Google翻訳：キーボード
+
+原文：Phone
+筆者訳：電話
+Google翻訳：電話
+
+原文：Media Player
+筆者訳：メディアプレーヤー
+Google翻訳：メディアプレーヤー
+
+原文：Tablet
+筆者訳：タブレット
+Google翻訳：タブレット
+
+原文：Computer
+筆者訳：コンピューター
+Google翻訳：コンピューター
+
+原文：Controller
+筆者訳：コントローラー
+Google翻訳：コントローラ
+
+原文：Pen
+筆者訳：ペン
+Google翻訳：ペン
+
+原文：Plugged In
+筆者訳：充電中
+Google翻訳：差し込む
+
+原文：Calculating…
+筆者訳：計算しています…
+Google翻訳：計算中…
+
+原文：Fully charged
+筆者訳：充電済
+Google翻訳：フル充電
+
+原文：%i%% charged
+筆者訳：%i%% 充電済
+Google翻訳：％i %%課金
+
+原文（単数形）：%lld day until full
+原文（複数形）：%lld days until full
+筆者訳：充電完了まで%lld日
+Google翻訳：満杯になるまで％lld日
+
+原文（単数形）：%lld hour until full
+原文（複数形）：%lld hours until full
+筆者訳：充電完了まで%lld時間
+Google翻訳：満杯になるまで％lld時間
+
+原文（単数形）：%lld minute until full
+原文（複数形）：%lld minutes until full
+筆者訳：充電完了まで%lld分
+Google翻訳：いっぱいになるまで％lld分
+
+原文（単数形）：%lld second until full
+原文（複数形）：%lld seconds until full
+筆者訳：充電完了まで%lld秒
+Google翻訳：いっぱいになるまで％lld秒
+
+原文：%i%% remaining
+筆者訳：残り %i%%
+Google翻訳：残り％i %%
+
+原文（単数形）：%lld day until empty
+原文（複数形）：%lld days until empty
+筆者訳：残り%lld日
+Google翻訳：空になるまで％lld日
+
+原文（単数形）：%lld hour until empty
+原文（複数形）：%lld hours until empty
+筆者訳：残り%lld時間
+Google翻訳：空になるまで％lld時間
+
+原文（単数形）：%lld minute until empty
+原文（複数形）：%lld minutes until empty
+筆者訳：残り%lld分
+Google翻訳：空になるまで％lld分
+
+原文（単数形）：%lld second until empty
+原文（複数形）：%lld seconds until empty
+筆者訳：残り%lld秒
+Google翻訳：空になるまで％lld秒
+
+原文：Apps Using Lots of Power
+筆者訳：電力消費が激しいアプリ
+Google翻訳：大量の電力を使用するアプリ
+
+原文：Unknown App
+筆者訳：不明なアプリ
+Google翻訳：不明なアプリ
+
+原文：Device
+筆者訳：デバイス
+Google翻訳：端末
+
+原文：Show Percentage
+筆者訳：割合を表示
+Google翻訳：パーセンテージを表示
+
+原文：Power Settings…
+筆者訳：電源の設定…
+Google翻訳：電源設定…
+

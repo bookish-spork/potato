@@ -1,0 +1,172 @@
+原文：Manage power settings
+筆者訳：電源設定を管理します
+Google翻訳：電源設定を管理する
+
+原文：Authentication is required to manage power settings
+筆者訳：電源設定を管理するには認証が必要です
+Google翻訳：電源設定を管理するには認証が必要です
+
+原文：You do not have permission to change this
+筆者訳：これを変更する権限がありません
+Google翻訳：これを変更する権限がありません
+
+原文：Show battery percentage in Panel:
+筆者訳：バッテリーの割合をパネルに表示:
+Google翻訳：パネルにバッテリーのパーセンテージを表示します。
+
+原文：Display brightness:
+筆者訳：ディスプレイの明るさ:
+Google翻訳：ディスプレイの明るさ：
+
+原文：Automatically adjust brightness:
+筆者訳：明るさを自動調整:
+Google翻訳：明るさを自動的に調整します：
+
+原文：When lid is closed:
+筆者訳：カバーが閉じられたとき:
+Google翻訳：蓋を閉めたとき：
+
+原文：When lid is closed with external monitor:
+筆者訳：外部モニターとカバーが閉じられたとき:
+Google翻訳：外部モニターで蓋を閉めた場合：
+
+原文：Some settings require administrator rights to be changed
+筆者訳：一部の設定変更には管理者権限が必要です
+Google翻訳：一部の設定では、管理者権限を変更する必要があります
+
+原文：Turn off display when inactive for:
+筆者訳：非アクティブ時はディスプレイをオフにする:
+Google翻訳：非アクティブな場合は、次の場合に表示をオフにします。
+
+原文：Power button:
+筆者訳：電源ボタン:
+Google翻訳：電源スイッチ：
+
+原文：Suspend when inactive for:
+筆者訳：非アクティブ時にサスペンド:
+Google翻訳：非アクティブな場合は、次の場合に一時停止します。
+
+原文：Plugged In
+筆者訳：電源接続時
+Google翻訳：差し込む
+
+原文：On Battery
+筆者訳：バッテリー時
+Google翻訳：電池で
+
+原文：Some changes will not take effect until you restart this computer
+筆者訳：一部の変更は、このコンピューターの再起動後に反映されます
+Google翻訳：このコンピューターを再起動するまで、一部の変更は有効になりません
+
+原文：Power
+筆者訳：電源
+Google翻訳：力
+
+原文：Configure display brightness, power buttons, and suspend behavior
+筆者訳：ディスプレイの明るさ、電源ボタン、サスペンドの挙動を設定します
+Google翻訳：ディスプレイの明るさ、電源ボタン、およびサスペンド動作を構成します
+
+原文：Suspend button
+筆者訳：サスペンドボタン
+Google翻訳：一時停止ボタン
+
+原文：Power button
+筆者訳：電源ボタン
+Google翻訳：電源スイッチ
+
+原文：Display inactive
+筆者訳：非アクティブディスプレイ
+Google翻訳：非アクティブな表示
+
+原文：Dim display
+筆者訳：ディスプレイを薄暗くする
+Google翻訳：薄暗いディスプレイ
+
+原文：Lid close
+筆者訳：カバーを閉じる
+Google翻訳：ふたを閉じる
+
+原文：Display brightness
+筆者訳：ディスプレイの明るさ
+Google翻訳：ディスプレイの明るさ
+
+原文：Automatic brightness adjustment
+筆者訳：明るさを自動調整
+Google翻訳：自動明るさ調整
+
+原文：Inactive display off
+筆者訳：非アクティブディスプレイをオフにする
+Google翻訳：非アクティブな表示がオフ
+
+原文：Docked lid close
+筆者訳：充電中にカバーを閉じる
+Google翻訳：ドッキングされた蓋を閉じる
+
+原文：Sleep inactivity timeout
+筆者訳：非アクティブ時にスリープするまでの時間
+Google翻訳：スリープ非アクティブタイムアウト
+
+原文：Suspend inactive
+筆者訳：非アクティブ時にサスペンド
+Google翻訳：非アクティブなサスペンド
+
+原文：Never
+筆者訳：なし
+Google翻訳：一度もない
+
+原文：5 min
+筆者訳：5分
+Google翻訳：5分
+
+原文：10 min
+筆者訳：10分
+Google翻訳：10分
+
+原文：15 min
+筆者訳：15分
+Google翻訳：15分
+
+原文：30 min
+筆者訳：30分
+Google翻訳：30分
+
+原文：45 min
+筆者訳：45分
+Google翻訳：45分
+
+原文：1 hour
+筆者訳：1時間
+Google翻訳：1時間
+
+原文：2 hours
+筆者訳：2時間
+Google翻訳：2時間
+
+原文：Suspend
+筆者訳：サスペンド
+Google翻訳：つるす
+
+原文：Shutdown
+筆者訳：シャットダウン
+Google翻訳：シャットダウン
+
+原文：Lock
+筆者訳：ロック
+Google翻訳：ロック
+
+原文：Halt
+筆者訳：終了
+Google翻訳：停止
+
+原文：Do nothing
+筆者訳：何もしない
+Google翻訳：何もしない
+
+原文：Not supported
+筆者訳：非対応
+Google翻訳：サポートされていません
+
+原文：Prompt to shutdown
+筆者訳：シャットダウンの確認
+Google翻訳：シャットダウンを促す
+

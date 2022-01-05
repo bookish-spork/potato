@@ -1,0 +1,68 @@
+原文：Display Settings
+筆者訳：ディスプレイの設定
+Google翻訳：ディスプレイの設定
+
+原文：Configure resolution and position of monitors and projectors
+筆者訳：モニターとプロジェクターの解像度と位置を設定します
+Google翻訳：モニターとプロジェクターの解像度と位置を構成する
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Move resolutions with a different aspect ratio to a submenu
+筆者訳：アスペクト比が異なる解像度はサブメニューに表示するように修正
+Google翻訳：アスペクト比が異なる解像度をサブメニューに移動します
+
+原文：Improve brightness in the dark style
+筆者訳：ダークスタイルでの輝度を改善
+Google翻訳：ダークスタイルで明るさを向上させる
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Show display name on all workspaces
+筆者訳：ディスプレイ名をすべてのワークスペースで表示するように修正
+Google翻訳：すべてのワークスペースに表示名を表示する
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Ensure the "Use this display" switch works in more circumstances
+筆者訳："このディスプレイを使う" スイッチがより多くの環境で動作するように修正
+Google翻訳：「このディスプレイを使用する」スイッチがより多くの状況で機能することを確認します
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Support 3× scaling
+筆者訳：3× スケールに対応
+Google翻訳：3倍のスケーリングをサポート
+
+原文：Reliably detect accelerometers
+筆者訳：加速度センサーの有無をより正確に判断し、適切な場合に回転ロックのオプションを表示するように修正
+Google翻訳：加速度計を確実に検出する
+
+原文：Fix 1px gaps between displays
+筆者訳：ディスプレイ間に 1px のずれがあった不具合を修正
+Google翻訳：ディスプレイ間の1pxのギャップを修正
+
+原文：Properly center rotated displays
+筆者訳：回転したディスプレイを正確に中央に表示するように修正
+Google翻訳：回転したディスプレイを適切に中央に配置する
+
+原文：Improved multi-display layouts with better snapping and aligning
+筆者訳：スナップや整列の精度の向上など、マルチディスプレイのレイアウトを改善
+Google翻訳：スナップと位置合わせが改善されたマルチディスプレイレイアウトの改善
+
+原文：Fixed the placement of display name tags
+筆者訳：ディスプレイ名タグの配置を修正
+Google翻訳：表示名タグの配置を修正
+

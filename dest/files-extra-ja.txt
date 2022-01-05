@@ -1,0 +1,828 @@
+原文：Files
+筆者訳：ファイル
+Google翻訳：ファイル
+
+原文：Browse your files
+筆者訳：ファイルを閲覧します
+Google翻訳：ファイルを閲覧する
+
+原文：folder;manager;explore;disk;filesystem;
+筆者訳：folder;manager;explore;disk;filesystem;フォルダー;マネージャー;エクスプローラー;ディスク;ファイルシステム;
+Google翻訳：folder; manager; explore; disk; filesystem;
+
+原文：File Manager
+筆者訳：ファイルマネージャー
+Google翻訳：ファイルマネージャー
+
+原文：New Window
+筆者訳：新しいウィンドウ
+Google翻訳：新しい窓
+
+原文：New Window As Administrator
+筆者訳：新しい管理者ウィンドウ
+Google翻訳：管理者としての新しいウィンドウ
+
+原文：Browse and manage files and folders
+筆者訳：ファイルとフォルダーを閲覧したり管理したりします
+Google翻訳：ファイルとフォルダを参照および管理する
+
+原文：Easily copy, move, and rename your files, or use folders to stay organized. Whether you like files in lists, grids or columns, you can always find them right away. Access all your files, whether locally, on an external device or remotely using FTP, SFTP, AFP, Webdav, or Windows share.
+筆者訳：ファイルのコピー・移動・名前の変更や、フォルダーを使っての整理が簡単に行えます。リスト形式、グリッド形式、カラム形式のどれが好みであっても、いつでもすぐにファイルを見つけることが可能です。ファイルの場所がローカル、外部デバイスや FTP、SFTP、AFP、Webdav などのリモートや Windows 共有であっても、すべてのファイルにアクセスできます。
+Google翻訳：ファイルを簡単にコピー、移動、名前変更したり、フォルダを使用して整理したりできます。リスト、グリッド、列のファイルが好きかどうかにかかわらず、いつでもすぐに見つけることができます。ローカル、外部デバイス、またはFTP、SFTP、AFP、Webdav、またはWindows共有を使用したリモートに関係なく、すべてのファイルにアクセスします。
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Close FileChooser with Esc key
+筆者訳：Esc キーでファイル選択ダイアログを閉じれるように修正
+Google翻訳：EscキーでFileChooserを閉じる
+
+原文：Use new emblems for git status
+筆者訳：Git ステータス表示に新しいエンブレムを使うように修正
+Google翻訳：gitステータスに新しいエンブレムを使用する
+
+原文：Show selection actions in secondary click menu
+筆者訳：副クリックメニューにファイル選択アクションを表示
+Google翻訳：セカンダリクリックメニューに選択アクションを表示する
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Always show Permissions page in Properties dialog
+筆者訳：プロパティーダイアログに権限のページを常に表示するように修正
+Google翻訳：[プロパティ]ダイアログに常に[権限]ページを表示する
+
+原文：In Permissions page, show user and group numeric IDs when names not available
+筆者訳：権限のページでユーザー名とグループ名が利用できない場合は数値のユーザー ID とグループ ID を表示するように修正
+Google翻訳：[権限]ページで、名前が使用できない場合にユーザーとグループの数値IDを表示します
+
+原文：In Permissions page, show message when no information available
+筆者訳：権限のページで、情報が利用できない場合はメッセージを表示するように修正
+Google翻訳：[権限]ページで、利用可能な情報がない場合にメッセージを表示します
+
+原文：Other updates:
+筆者訳：そのほかのアップデート:
+Google翻訳：その他の更新：
+
+原文：Only allow one FileChooser per parent window
+筆者訳：親ウィンドウ一つに対して複数のファイル選択ダイアログを開ける不具合を修正
+Google翻訳：親ウィンドウごとに1つのFileChooserのみを許可する
+
+原文：Navigate to folder when pressing enter in FileChooser instead of selecting
+筆者訳：ファイル選択ダイアログで Enter キーを押した際に、フォルダーを選択するのではなくその中にある項目を表示するように修正
+Google翻訳：FileChooserでEnterキーを押すと、選択する代わりにフォルダに移動します
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Use "Send Mail" portal instead of contract, improving compatibility with alternate email apps
+筆者訳：Contract ではなく“メールを送信”ポータルを使用するように修正し、ほかのメールアプリとの互換性を改善
+Google翻訳：契約の代わりに「メール送信」ポータルを使用して、代替メールアプリとの互換性を向上させます
+
+原文：Add file filters and New Folder options to file chooser portal
+筆者訳：ファイル選択ポータルにファイルの種類を絞ったり新しいフォルダーを作成したりできるオプションを追加
+Google翻訳：ファイル選択ポータルにファイルフィルターと新しいフォルダーオプションを追加する
+
+原文：Allow blank passwords for remote connections, e.g. for SSH via a private key
+筆者訳：リモート接続の空パスワードを許可 (プライベートキーでの SSH 接続など)
+Google翻訳：リモート接続に空白のパスワードを許可します。例：秘密鍵を介したSSHの場合
+
+原文：Make ejecting devices safer
+筆者訳：デバイスをより安全に取り出せるように修正
+Google翻訳：排出装置をより安全にする
+
+原文：Add option to stop drive if possible
+筆者訳：可能であればドライブを停止できるオプションを追加
+Google翻訳：可能であればドライブを停止するオプションを追加
+
+原文：Show unformatted drives and drives without media
+筆者訳：未フォーマットのドライブとメディアがないドライブを表示するように修正
+Google翻訳：フォーマットされていないドライブとメディアのないドライブを表示する
+
+原文：Fix pasting of selected pathbar text into another window using middle-click
+筆者訳：選択されたパスバーのテキストを中クリックで別ウィンドウに貼り付けできる機能を追加
+Google翻訳：中クリックを使用して、選択したパスバーテキストを別のウィンドウに貼り付ける問題を修正
+
+原文：Fix selecting multiple groups of files
+筆者訳：複数グループのファイルを選択する際の不具合を修正
+Google翻訳：ファイルの複数のグループの選択を修正
+
+原文：Allow dropping bookmark directly below the Recent bookmark
+筆者訳：“最近使用した項目”の直下にブックマークをドロップできるように修正
+Google翻訳：最近のブックマークのすぐ下にブックマークをドロップできるようにする
+
+原文：Do not show unusable drop target below the Trash bookmark
+筆者訳：サイドバーの“ゴミ箱”の直下ではドロップマークを表示しないように修正
+Google翻訳：ゴミ箱のブックマークの下に使用できないドロップターゲットを表示しないでください
+
+原文：Fix sidebar showing both drive and volume for same device
+筆者訳：同じデバイスに対してドライブとボリュームの両方がサイドバーに表示されていた不具合を修正
+Google翻訳：同じデバイスのドライブとボリュームの両方を表示するサイドバーを修正
+
+原文：Fix sidebar showing SSH servers in both Storage and Network sections
+筆者訳：SSH サーバーがサイドバーの“ストレージ”と“ネットワーク”のセクション両方に表示されていた不具合を修正
+Google翻訳：ストレージセクションとネットワークセクションの両方でSSHサーバーを表示するサイドバーを修正
+
+原文：Show translated bookmark names when changing languages
+筆者訳：表示言語を変更した際にブックマーク名を変更後の言語で表示するように修正
+Google翻訳：言語を変更するときに翻訳されたブックマーク名を表示する
+
+原文：Stop some audio file icons disappearing when scrolling or changing view
+筆者訳：スクロールしたりビューを切り替えたりすると、オーディオファイルのアイコンが消えることがある不具合を修正
+Google翻訳：スクロールまたはビューの変更時に一部のオーディオファイルアイコンが消えないようにします
+
+原文：Stop brief appearance of status overlay when changing root folder in Column View
+筆者訳：カラム表示でルートフォルダーを変更すると状態オーバーレイが一瞬表示されていた不具合を修正
+Google翻訳：列ビューでルートフォルダを変更するときに、ステータスオーバーレイの短い表示を停止します
+
+原文：Remove message about reporting issues when running from Terminal
+筆者訳：ターミナルからアプリを起動した際に表示される、不具合の報告先に関するメッセージを削除
+Google翻訳：ターミナルから実行しているときの問題の報告に関するメッセージを削除します
+
+原文：Open bookmarks in a new tab with Ctrl + Click
+筆者訳：Ctrl + クリックでブックマークを新しいタブで開けるように修正
+Google翻訳：Ctrlキーを押しながらクリックして新しいタブでブックマークを開きます
+
+原文：Fix dropping uris onto storage devices and network locations in sidebar
+筆者訳：サイドバー上のストレージデバイスやネットワークの場所に URI をドラッグアンドドロップできない不具合を修正
+Google翻訳：サイドバーのストレージデバイスとネットワークの場所へのURIのドロップを修正
+
+原文：Fix restoring tabs after a system restart
+筆者訳：“ファイル”を閉じずにシステムを再起動した場合、タブが復元されない不具合を修正
+Google翻訳：システム再起動後のタブの復元を修正
+
+原文：Don't unselect when secondary clicking blank space around a file or folder
+筆者訳：ファイルやフォルダー周辺の空白領域を副クリックした場合に、選択項目が解除される不具合を修正
+Google翻訳：ファイルまたはフォルダの周囲の空白部分を2番目にクリックするときに選択を解除しないでください
+
+原文：Show the folder context menu when secondary clicking outside of a selection
+筆者訳：選択項目以外の場所で副クリックした場合はフォルダーのコンテキストメニューを表示するように修正
+Google翻訳：選択範囲の外側を2回クリックすると、フォルダのコンテキストメニューが表示されます
+
+原文：Fix small context menus on breadcrumbs
+筆者訳：ぱんくずリストのコンテキストメニューが小さく描画されてしまう不具合を修正
+Google翻訳：ブレッドクラムの小さなコンテキストメニューを修正する
+
+原文：Fix bookmarking a single selected item with Ctrl + D
+筆者訳：選択中の1項目を Ctrl + D キーでブックマークできない不具合を修正
+Google翻訳：Ctrl + Dを使用して選択した単一のアイテムをブックマークする問題を修正
+
+原文：Fix renaming bookmarks in the sidebar
+筆者訳：サイドバーのブックマークを名称変更できない不具合を修正
+Google翻訳：サイドバーのブックマークの名前変更を修正
+
+原文：Fix an issue with showing color tags when thumbnails are hidden
+筆者訳：サムネイルが非表示の場合に発生する、カラータグを表示する機能の不具合を修正
+Google翻訳：サムネイルが非表示になっているときにカラータグが表示される問題を修正します
+
+原文：Fix freeze when comparing copied files
+筆者訳：コピーしたファイルを比較する際にフリーズする不具合を修正
+Google翻訳：コピーしたファイルを比較するときのフリーズを修正
+
+原文：Fix truncation of final column in Column View under some circumstances
+筆者訳：特定の状況下において、カラム表示の最後の列が途切れて表示されてしまう不具合を修正
+Google翻訳：状況によっては、列ビューの最後の列の切り捨てを修正しました
+
+原文：Show more keyboard accelerators in menus
+筆者訳：メニュー項目に表示するキーボードショートカットを追加
+Google翻訳：メニューにキーボードアクセラレータをもっと表示する
+
+原文：Fix connecting to AFP servers so that passwords are remembered
+筆者訳：AFP サーバーへの接続時にパスワードを保存するように修正
+Google翻訳：パスワードが記憶されるようにAFPサーバーへの接続を修正
+
+原文：Fix MTP mounts
+筆者訳：MTP のマウントを修正
+Google翻訳：MTPマウントを修正する
+
+原文：Launch files with double click instead of single click
+筆者訳：ファイルをシングルクリックではなくダブルクリックで開くように修正
+Google翻訳：シングルクリックではなくダブルクリックでファイルを起動する
+
+原文：Provide a File Chooser portal for Flatpak apps
+筆者訳：Flatpak アプリ向けにファイル選択ポータルを提供
+Google翻訳：Flatpakアプリ用のファイルチューザーポータルを提供する
+
+原文：Brand new animated Sidebar
+筆者訳：アニメーション付きのサイドバーを提供
+Google翻訳：真新しいアニメーションサイドバー
+
+原文：Dark style support
+筆者訳：ダークスタイルへの対応
+Google翻訳：ダークスタイルのサポート
+
+原文：Mint and Bubblegum color tags
+筆者訳：ミントとピンク色のタグを追加
+Google翻訳：ミントと風船ガムのカラータグ
+
+原文：Do not restore locations that have become inaccessible
+筆者訳：アクセス不可能になった場所をアプリ起動時やタブの復元時に表示しないように修正
+Google翻訳：アクセスできなくなった場所を復元しないでください
+
+原文：Clicking between thumbnail and text now activates/selects in Icon view
+筆者訳：グリッド表示において、ファイルのサムネイルと名前の間をクリックした場合にファイルを選択するように変更
+Google翻訳：サムネイルとテキストの間をクリックすると、アイコンビューでアクティブ化/選択されるようになりました
+
+原文：AFC protocol support
+筆者訳：AFC プロトコルへのサポート
+Google翻訳：AFCプロトコルのサポート
+
+原文：Add a smaller minimum icon size in list view
+筆者訳：リスト表示でのアイコンにより小さいサイズを追加
+Google翻訳：リストビューに小さい最小アイコンサイズを追加します
+
+原文：Show emblems inline in list views
+筆者訳：リスト表示でエンブレムをインライン表示するように変更
+Google翻訳：リストビューでエンブレムをインラインで表示
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Stability improvements
+筆者訳：安定性の改善
+Google翻訳：安定性の向上
+
+原文：Rename "Devices" to "Storage"
+筆者訳："デバイス"を"ストレージ"に名称変更
+Google翻訳：「デバイス」の名前を「ストレージ」に変更
+
+原文：Bookmark menu option for network mounts in sidebar
+筆者訳：ネットワーク上のマウントされた場所に対しても、サイドバーのコンテキストメニューからブックマークに登録できるように変更
+Google翻訳：サイドバーのネットワークマウントのブックマークメニューオプション
+
+原文：Show folder item count in List View
+筆者訳：リスト表示の場合に、フォルダー内の項目数を表示するように変更
+Google翻訳：リストビューにフォルダアイテム数を表示する
+
+原文：Now shows thumbnails on locally mounted MTP and PTP devices as well as on network locations by default
+筆者訳：ネットワーク上の場所と同様に、ローカルにマウントされた MTP と PTP デバイスでもデフォルトでサムネイルを表示するように変更
+Google翻訳：ローカルにマウントされたMTPおよびPTPデバイスと、デフォルトでネットワークの場所にサムネイルが表示されるようになりました
+
+原文：Properties window: Allow the filename to be copied when it cannot be edited
+筆者訳：プロパティーウィンドウ: ファイル名が編集できない場合でも、コピーはできるように修正
+Google翻訳：プロパティウィンドウ：編集できない場合にファイル名をコピーできるようにする
+
+原文：Improved tooltip formatting for devices in the sidebar
+筆者訳：サイドバーのデバイスに対するツールチップの書式を改善
+Google翻訳：サイドバーのデバイスのツールチップフォーマットが改善されました
+
+原文：Fix crash when pressing Enter and another key at the same time
+筆者訳：Enter キーとほかのキーを同時に押した場合にクラッシュする不具合を修正
+Google翻訳：Enterキーと別のキーを同時に押したときのクラッシュを修正
+
+原文：Fix pathbar handling of "~" and ".." in path
+筆者訳：パスに "~" や ".." が含まれる場合のパスバーの処理を修正
+Google翻訳：パス内の「〜」と「..」のパスバー処理を修正しました
+
+原文：Filechooser pathbar no longer crashes when invoked from a Flatpak
+筆者訳：ファイル選択ダイアログを Flatpak アプリから呼び出し、パスバーにポインターを移動すると、クラッシュする不具合を修正
+Google翻訳：Flatpakから呼び出されたときにFilechooserパスバーがクラッシュしなくなりました
+
+原文：Do not show git status for repositories on FUSE filesystems to prevent possible blocking
+筆者訳：アクセスがブロックされる可能性があるため、FUSE ファイルシステム上に保存されたレポジトリに対して、Git ステータスを表示しないように変更
+Google翻訳：ブロッキングの可能性を防ぐために、FUSEファイルシステム上のリポジトリのgitステータスを表示しないでください
+
+原文："Personal" is now "Bookmarks"
+筆者訳："パーソナル"を"ブックマーク"に名称変更
+Google翻訳：「Personal」は「Bookmarks」になりました
+
+原文：Add warning and error colored disk usage bars when disk becomes too full
+筆者訳：ディスク容量が限界に近くなった場合に、ディスク使用量バーを黄色や赤色で表示するように変更
+Google翻訳：ディスクがいっぱいになったときに警告とエラー色のディスク使用量バーを追加します
+
+原文：Prevent window resizing when filename column width exceeds available space
+筆者訳：ファイル名の列の幅が利用可能な領域よりも長くなった場合に、ウィンドウがリサイズしないように修正
+Google翻訳：ファイル名の列幅が使用可能なスペースを超えたときにウィンドウのサイズが変更されないようにする
+
+原文：Fix handling of filenames containing the # character
+筆者訳：ファイル名に # 記号が含まれている場合の処理を修正
+Google翻訳：＃文字を含むファイル名の処理を修正
+
+原文：Fix regressions regarding pathbar context menus and clicking
+筆者訳：パスバーのコンテキストメニューとクリックに関するリグレッションを修正
+Google翻訳：パスバーのコンテキストメニューとクリックに関するリグレッションを修正
+
+原文：Paste images into other apps instead of file paths where possible
+筆者訳：ほかのアプリに貼り付ける際に、可能であればファイルパスではなく画像自体を貼り付けるように変更
+Google翻訳：可能な場合はファイルパスではなく、他のアプリに画像を貼り付けます
+
+原文：Paste into a selected folder when using Ctrl + V
+筆者訳：Ctrl + V を使用して、選択したフォルダーの中に貼り付けできるように変更
+Google翻訳：Ctrl + Vを使用する場合は、選択したフォルダーに貼り付けます
+
+原文：Show file info overlay in List View as well
+筆者訳：リスト表示の場合でも、ファイル情報オーバーレイを表示するように変更
+Google翻訳：リストビューにもファイル情報オーバーレイを表示する
+
+原文：Traverse search results with Tab key
+筆者訳：検索結果内を Tab キーで移動できるように変更
+Google翻訳：Tabキーで検索結果をトラバースする
+
+原文：Show an error message when attempting to open trashed files
+筆者訳：ゴミ箱のファイルを開こうとした際にエラーメッセージを表示するように変更
+Google翻訳：ゴミ箱に入れられたファイルを開こうとするとエラーメッセージを表示する
+
+原文：Fix uneditable area in pathbar which is showing home folder placeholder
+筆者訳：パスバーにある、ホームフォルダーのプレースホルダー表示部でクリックしてテキストを入力できない不具合を修正
+Google翻訳：ホームフォルダのプレースホルダーを表示しているパスバーの編集不可能な領域を修正
+
+原文：Fix an issue that prevented file modification times from showing
+筆者訳：ファイル修正日時が表示されない不具合を修正
+Google翻訳：ファイルの変更時間が表示されない問題を修正します
+
+原文：Fix size of restored tiled window
+筆者訳：タイル表示されたウィンドウのサイズが次回起動時に正しく復元されない不具合を修正
+Google翻訳：復元されたタイルウィンドウのサイズを修正
+
+原文：Fix color tags disappearing when thumbnails hidden
+筆者訳：サムネイルが非表示の場合に、カラータグが消滅する不具合を修正
+Google翻訳：サムネイルを非表示にするとカラータグが消える問題を修正
+
+原文：Fix crash when a device icon is coming from a file
+筆者訳：デバイスアイコンがファイルである場合のクラッシュを修正
+Google翻訳：デバイスアイコンがファイルから来ているときのクラッシュを修正
+
+原文：Fix device icon sometimes missing
+筆者訳：デバイスアイコンが表示されないことがある不具合を修正
+Google翻訳：時々欠落しているデバイスアイコンを修正
+
+原文：Fix occasional view freeze after renaming
+筆者訳：名前を変更するとビューがフリーズすることがある不具合を修正
+Google翻訳：名前を変更した後、時々表示がフリーズする問題を修正
+
+原文：Improve renaming logic when dealing with leading/trailing whitespace
+筆者訳：ファイル名の先頭または末尾に空白を含む場合の、名前の変更処理を改善
+Google翻訳：先頭/末尾の空白を処理するときの名前変更ロジックを改善する
+
+原文：Fix breadcrumbs sometimes incorrect at startup
+筆者訳：起動時にパンくずリストの表示が間違っていることがある不具合を修正
+Google翻訳：起動時に時々正しくないブレッドクラムを修正
+
+原文：Do not show file:// prefix in navigation buttons menus
+筆者訳：ナビゲーションボタンのメニューに file:// という接尾辞を表示しないように修正
+Google翻訳：ナビゲーションボタンメニューにfile：//プレフィックスを表示しない
+
+原文：Fix "New Folder" keyboard shortcut label in menu
+筆者訳：メニューにある"新しいフォルダー"項目のキーボードショートカットの表示が間違っていた不具合を修正
+Google翻訳：メニューの「新しいフォルダ」キーボードショートカットラベルを修正
+
+原文：Fix navigation with back/forward button context menu
+筆者訳：戻る／進むボタンのコンテキストメニューでのナビゲーションに関する不具合を修正
+Google翻訳：戻る/進むボタンのコンテキストメニューでナビゲーションを修正
+
+原文：Fix path bar sometimes showing wrong path when closing a tab
+筆者訳：タブを閉じるとパスバーに間違ったパスが表示されることがある不具合を修正
+Google翻訳：タブを閉じるときにパスバーに間違ったパスが表示されることがある問題を修正
+
+原文：Ensure keyboard shortcuts work immediately after creating or renaming a file
+筆者訳：ファイルの作成・名前の変更直後でもキーボードショートカットが機能するように修正
+Google翻訳：ファイルを作成または名前変更した直後にキーボードショートカットが機能することを確認します
+
+原文：Do not include "file://" in pathbar text or when pasting path as text
+筆者訳：パスバーのテキストやパスをテキストとして貼り付けする際に、文字列 "file://" を含まないように修正
+Google翻訳：パスバーのテキストに「file：//」を含めないでください。または、パスをテキストとして貼り付ける場合は、
+
+原文：Show keyboard shortcuts in menu items
+筆者訳：メニュー項目にキーボードショートカットを表示するように修正
+Google翻訳：メニュー項目にキーボードショートカットを表示する
+
+原文：Fix an issue with breadcrumbs in the file chooser
+筆者訳：ファイル選択ダイアログのパンくずリストに関する不具合を修正
+Google翻訳：ファイルチューザーのブレッドクラムの問題を修正します
+
+原文：Show a warning when ejecting a volume that's still in use
+筆者訳：使用中のボリュームを取り出そうとした際に警告を表示するように修正
+Google翻訳：まだ使用中のボリュームを取り出すときに警告を表示する
+
+原文：Fix cursor update after horizontal scroll in Column View
+筆者訳：カラム表示で水平スクロールを行った後、カーソルを更新するように修正
+Google翻訳：列ビューでの水平スクロール後のカーソル更新を修正
+
+原文：Fix folder-open icon persisting after closing Column View
+筆者訳：カラム表示を閉じた後に folder-open アイコンが表示され続ける不具合を修正
+Google翻訳：列ビューを閉じた後もアイコンが続くフォルダを開くを修正
+
+原文：Use destructive action styling for some trash dialog buttons
+筆者訳：ファイルの削除に関するダイアログのボタンを赤色で強調表示するように修正
+Google翻訳：一部のゴミ箱ダイアログボタンに破壊的なアクションスタイルを使用する
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Initial git plugin support
+筆者訳：Git プラグインのサポートを追加
+Google翻訳：初期のgitプラグインのサポート
+
+原文：Follow global history setting when restoring and saving tabs
+筆者訳：タブを復元・保存する際にシステムの履歴設定に準拠するように変更
+Google翻訳：タブを復元および保存するときは、グローバル履歴設定に従ってください
+
+原文：Ensure tabs showing same folder remain synchronized
+筆者訳：同じフォルダーを表示しているタブが正しく同期されるように修正
+Google翻訳：同じフォルダを表示しているタブが同期されたままであることを確認します
+
+原文：Fix drag with secondary button on empty space
+筆者訳：副ボタンで何もないエリアにドラッグした際の不具合を修正
+Google翻訳：空きスペースのセカンダリボタンでドラッグを修正
+
+原文：Show custom media type icons for installed apps
+筆者訳：インストール済みのアプリが、独自のメディアタイプアイコンを表示できるように修正
+Google翻訳：インストールされているアプリのカスタムメディアタイプアイコンを表示する
+
+原文：Fix appearance of inactive diskspace indicator
+筆者訳：非アクティブウィンドウのディスク容量バーのコントラストを修正
+Google翻訳：非アクティブなディスクスペースインジケータの外観を修正
+
+原文：Improve pathbar animation
+筆者訳：パスバーのアニメーションを改善
+Google翻訳：パスバーアニメーションを改善する
+
+原文：Update documentation
+筆者訳：ドキュメンテーションの更新
+Google翻訳：ドキュメントを更新する
+
+原文：Update translations
+筆者訳：翻訳を更新
+Google翻訳：翻訳を更新する
+
+原文：Initial cloudproviders plugin support
+筆者訳：クラウドプロバイダープラグインのサポートを追加
+Google翻訳：初期のcloudprovidersプラグインのサポート
+
+原文：Fix selecting pasted files
+筆者訳：貼り付けたファイルを選択する際の不具合を修正
+Google翻訳：貼り付けたファイルの選択を修正
+
+原文：Fix color label visibility while using dark theme
+筆者訳：ダークテーマ使用時に、カラーラベルが見にくい不具合を修正
+Google翻訳：ダークテーマを使用しているときのカラーラベルの可視性を修正
+
+原文：Fix selecting files using Shift key
+筆者訳：Shift キーを使ってファイルを選択する際の不具合を修正
+Google翻訳：Shiftキーを使用してファイルを選択する問題を修正
+
+原文：Draw checkerboard background for image items
+筆者訳：画像項目にチェック柄の背景を描画するように変更
+Google翻訳：画像アイテムのチェッカーボードの背景を描画します
+
+原文：Improved styling for disk space bars
+筆者訳：ディスク容量バーのスタイルを改善
+Google翻訳：ディスクスペースバーのスタイルの改善
+
+原文：Show more search results
+筆者訳：検索結果の表示量を増加
+Google翻訳：より多くの検索結果を表示する
+
+原文：Ensure valid tab name generation
+筆者訳：タブ名が正しく表示されるように修正
+Google翻訳：有効なタブ名の生成を確認してください
+
+原文：Properly sort folders by date and size
+筆者訳：フォルダーを日時とサイズで正しく並べ替えるように修正
+Google翻訳：日付とサイズでフォルダを適切に並べ替える
+
+原文：Launching Files from Terminal now opens new tab instead of new window
+筆者訳：ファイルアプリからターミナルを起動した際に、新しいウィンドウではなく新しいタブでターミナルを開くように変更
+Google翻訳：ターミナルからファイルを起動すると、新しいウィンドウではなく新しいタブが開くようになりました
+
+原文：Improve MTP support
+筆者訳：MTP への対応を改善
+Google翻訳：MTPサポートを改善する
+
+原文：Various tagging feature refinements
+筆者訳：タグ機能のさまざまな改善
+Google翻訳：さまざまなタグ付け機能の改良
+
+原文：Keyboard navigation improvements
+筆者訳：キーボード操作を改善
+Google翻訳：キーボードナビゲーションの改善
+
+原文：Symlink copy and paste fixes
+筆者訳：シンボリックリンクのコピー・貼り付けを修正
+Google翻訳：シンボリックリンクのコピーと貼り付けの修正
+
+原文：Avoid crash when Templates folder is null
+筆者訳：テンプレートフォルダーが空の場合にクラッシュする不具合を修正
+Google翻訳：テンプレートフォルダがnullの場合のクラッシュを回避する
+
+原文：Reduce memory footprint of FileChooserDialog
+筆者訳：ファイル選択ダイアログのメモリー使用量を削減
+Google翻訳：FileChooserDialogのメモリフットプリントを削減
+
+原文：Avoid crash when selecting image file in some situations
+筆者訳：特定の状況下において、画像ファイルを選択した際にアプリがクラッシュする不具合を修正
+Google翻訳：状況によっては画像ファイルを選択する際のクラッシュを回避する
+
+原文：Fix unclosable progress window while copying network files to removable storage
+筆者訳：ネットワークのファイルをリムーバブルストレージにコピーする際に、進捗ウィンドウを閉じられない不具合を修正
+Google翻訳：ネットワークファイルをリムーバブルストレージにコピーしているときに閉じられない進行状況ウィンドウを修正
+
+原文：Fix drag and drop after double clicking a blank area
+筆者訳：何もない領域をダブルクリックすると、ドラッグアンドドロップができない不具合を修正
+Google翻訳：空白の領域をダブルクリックした後のドラッグアンドドロップを修正
+
+原文：Avoid crash while scrolling over view switcher
+筆者訳：表示方法切り替えボタン上でスクロールするとクラッシュする不具合を修正
+Google翻訳：ビュースイッチャーをスクロールしているときにクラッシュしないようにする
+
+原文：Avoid possible crash in some copy and paste situations
+筆者訳：コピー・貼り付けの際に場合によってはクラッシュする不具合を修正
+Google翻訳：一部のコピーアンドペーストの状況で発生する可能性のあるクラッシュを回避する
+
+原文：Keyboard navigation fix for cherry picking select files in icon view
+筆者訳：アイコン表示で、ファイルを1つづつ選択する際のキーボード操作を修正
+Google翻訳：アイコンビューで選択したファイルをチェリーピッキングするためのキーボードナビゲーションの修正
+
+原文：Don't hardcode search placeholder text style, fixes dark theme issue
+筆者訳：ダークテーマにおいて検索プレースホルダーのテキストが見にくい不具合を、テキストスタイルのハードコードを削除することで修正
+Google翻訳：検索プレースホルダーのテキストスタイルをハードコーディングしないでください。ダークテーマの問題を修正します
+
+原文：Minor spacing adjustments to location bar
+筆者訳：場所バーの領域を微調整
+Google翻訳：ロケーションバーの間隔の微調整
+
+原文：Fix F2 renaming behavior
+筆者訳：F2 キーによる名前変更の挙動を修正
+Google翻訳：F2の名前変更動作を修正
+
+原文：Minor spacing adjustments to location breadcrumbs
+筆者訳：場所パンくずリストの領域を微調整
+Google翻訳：場所のパンくずリストの間隔を微調整
+
+原文：Consistently remember color tags
+筆者訳：カラータグが正しく保持されるように修正
+Google翻訳：一貫してカラータグを覚えておく
+
+原文：Reload thumbnails when changing zoom level to avoid showing placeholder unnecessarily
+筆者訳：プレースホルダーが意図せず表示される不具合を修正するため、拡大レベルを変更した際にサムネイルを再読み込みするように変更
+Google翻訳：ズームレベルを変更するときにサムネイルを再読み込みして、プレースホルダーが不必要に表示されないようにします
+
+原文：Fix running scripts with spaces in filename
+筆者訳：ファイル名に空白が含まれるスクリプトを実行できない不具合を修正
+Google翻訳：ファイル名にスペースを含む実行中のスクリプトを修正
+
+原文：Fix high CPU regression in version 4.1.4
+筆者訳：バージョン 4.1.4 で確認された、CPU 使用率が高くなる不具合を修正
+Google翻訳：バージョン4.1.4での高いCPUリグレッションを修正
+
+原文：File sorting fixes
+筆者訳：ファイルの並べ替えの不具合を修正
+Google翻訳：ファイルの並べ替えの修正
+
+原文：Meson: fix soversion names
+筆者訳：Meson: soversion 名を修正
+Google翻訳：Meson：soversion名を修正
+
+原文：Remove CMake build system
+筆者訳：CMake ビルドシステムを削除
+Google翻訳：CMakeビルドシステムを削除します
+
+原文：Fix missing File System properties menu
+筆者訳：ファイルシステムに対するプロパティーメニューが表示されない不具合を修正
+Google翻訳：欠落しているファイルシステムのプロパティメニューを修正
+
+原文：Drop intltool dependency
+筆者訳：intltool を依存関係から削除
+Google翻訳：intltoolの依存関係を削除します
+
+原文：Fix default file type handler logic
+筆者訳：デフォルトのファイルタイプハンドラーの仕組みを修正
+Google翻訳：デフォルトのファイルタイプハンドラロジックを修正
+
+原文：Fix initial search window size too small
+筆者訳：検索ウィンドウを初めて使用する際に、ウィンドウサイズが小さすぎる不具合を修正
+Google翻訳：初期検索ウィンドウのサイズが小さすぎる問題を修正
+
+原文：Add option to disable local file thumbnails
+筆者訳：ローカルファイルのサムネイルを無効化するオプションを追加
+Google翻訳：ローカルファイルのサムネイルを無効にするオプションを追加
+
+原文：Fix crash when opening multiple video files
+筆者訳：複数の動画ファイルを開く際のクラッシュを修正
+Google翻訳：複数のビデオファイルを開くときのクラッシュを修正
+
+原文：Fix some timing issues around adding and removing files
+筆者訳：ファイルの追加・削除のタイミングに関する不具合を修正
+Google翻訳：ファイルの追加と削除に関するいくつかのタイミングの問題を修正します
+
+原文：Meson: fix missing library headers
+筆者訳：Meson: 欠如していたライブラリのヘッダーを追加
+Google翻訳：Meson：欠落しているライブラリヘッダーを修正
+
+原文：Fix color tag display
+筆者訳：カラータグの表示を修正
+Google翻訳：カラータグの表示を修正
+
+原文：Show reserved space in Properties window
+筆者訳：プロパティーウィンドウで使用済み領域を表示するように修正
+Google翻訳：プロパティウィンドウに予約済みスペースを表示する
+
+原文：Add border radius to text background
+筆者訳：テキスト背景に角丸を追加
+Google翻訳：テキストの背景に境界線の半径を追加します
+
+原文：Fix file mimetype association regression
+筆者訳：ファイルのメディアタイプの関連付けに関するリグレッションを修正
+Google翻訳：ファイルのMIMEタイプの関連付けの回帰を修正
+
+原文：New pathbar tooltips
+筆者訳：パスバーの新しいツールチップ
+Google翻訳：新しいパスバーのツールチップ
+
+原文：Build fixes
+筆者訳：ビルドの不具合を修正
+Google翻訳：ビルドの修正
+
+原文：Plugin build fixes
+筆者訳：プラグインのビルドの不具合を修正
+Google翻訳：プラグインビルドの修正
+
+原文：Fix Ctrl+Tab behavior
+筆者訳：Ctrl+Tab の挙動を修正
+Google翻訳：Ctrl + Tabの動作を修正
+
+原文：Fix building without Unity library
+筆者訳：Unity ライブラリを使用しないとビルドできない不具合を修正
+Google翻訳：Unityライブラリなしでビルドを修正
+
+原文：Hide breadcrumbs and show placeholder and search icon in home folder
+筆者訳：ホームフォルダーでは、パンくずリストを非表示にし、プレースホルダーと検索アイコンを表示するように修正
+Google翻訳：ブレッドクラムを非表示にし、ホームフォルダにプレースホルダーと検索アイコンを表示します
+
+原文：Style error dialogs
+筆者訳：エラーダイアログのスタイルを変更
+Google翻訳：スタイルエラーダイアログ
+
+原文：Right click fixes
+筆者訳：副ボタンクリック時の挙動を修正
+Google翻訳：右クリックの修正
+
+原文：Reload recent view when privacy setting changes
+筆者訳：プライバシーの設定の変更時に、最近使用した項目を再読み込みするように修正
+Google翻訳：プライバシー設定が変更されたときに最近のビューを再読み込みする
+
+原文：`Connect Server` fixes
+筆者訳：`サーバーに接続` を修正
+Google翻訳：`ConnectServer`の修正
+
+原文：Do not activate multiple files with single click
+筆者訳：シングルクリックで複数のファイルを選択しないように修正
+Google翻訳：シングルクリックで複数のファイルをアクティブ化しないでください
+
+原文：Use `Tab` to toggle View and Sidebar keyboard focus
+筆者訳：ビューとサイドバーのフォーカスの切り替えに `Tab` キーを使用するように変更
+Google翻訳：`Tab`を使用して、ビューとサイドバーのキーボードフォーカスを切り替えます
+
+原文：Delete color tag database entries for trashed files
+筆者訳：項目がゴミ箱に入ったら、データベースからカラータグを削除するように修正
+Google翻訳：ゴミ箱に入れられたファイルのカラータグデータベースエントリを削除します
+
+原文：Throttle tab closing
+筆者訳：Ctrl + W でタブを閉じてから一定時間経過していない場合は、タブを閉じないように変更
+Google翻訳：スロットルタブを閉じる
+
+原文：`Ctrl` key fixes
+筆者訳：`Ctrl` キー押下時の挙動を修正
+Google翻訳：`Ctrl`キーの修正
+
+原文：Drag and drop fixes
+筆者訳：ドラッグアンドドロップ時の挙動を修正
+Google翻訳：修正をドラッグアンドドロップします
+
+原文：Show icons in `Open with` menus
+筆者訳：`このアプリケーションで開く` メニューの項目にアイコンを表示するように変更
+Google翻訳：「プログラムから開く」メニューにアイコンを表示する
+
+原文：Tooltip fixes
+筆者訳：ツールチップの修正
+Google翻訳：ツールチップの修正
+
+原文：Memory leak fixes
+筆者訳：メモリーリークを修正
+Google翻訳：メモリリークの修正
+
+原文：Crash fixes
+筆者訳：クラッシュを修正
+Google翻訳：クラッシュの修正
+
+原文：Trash: respect sound setting
+筆者訳：システムで“イベント警告”の設定がオフの場合は、ゴミ箱を空にする音を鳴らさないように修正
+Google翻訳：ゴミ箱：音の設定を尊重する
+
+原文：Localization fixes
+筆者訳：地域化に関する修正
+Google翻訳：ローカリゼーションの修正
+
+原文：Over 100 major and minor bug fixes and improvements
+筆者訳：100件以上の大規模または軽微な不具合修正と改善
+Google翻訳：100を超えるメジャーおよびマイナーのバグ修正と改善
+
+原文：Honor 12/24hr system setting
+筆者訳：システムの 12時制／24時制の設定に従うように修正
+Google翻訳：12/24時間のシステム設定を尊重する
+
+原文：Distinguish between tabs with the same name
+筆者訳：同じ名前のフォルダを別のタブで表示している場合に区別できるように修正
+Google翻訳：同じ名前のタブを区別する
+
+原文：Support launching from other applications with a target file selected
+筆者訳：選択されたファイルを使用してのほかのアプリの起動に対応
+Google翻訳：ターゲットファイルを選択した他のアプリケーションからの起動をサポート
+
+原文：New translations
+筆者訳：新しい翻訳
+Google翻訳：新しい翻訳
+
+原文：Minor bug fixes
+筆者訳：軽微なバグの修正
+Google翻訳：マイナーなバグ修正
+
+原文：Improved networking support
+筆者訳：ネットワークサポートを改善
+Google翻訳：改善されたネットワークサポート
+
+原文：Correct window geometry when snapping to left or right
+筆者訳：ウィンドウを左右にスナップしたときに正しいジオメトリー処理が行われるように修正
+Google翻訳：左または右にスナップするときのウィンドウジオメトリを修正する
+
+原文：Pressing Ctrl no longer cancels renaming while the "Reveal Pointer" setting is active
+筆者訳："ポインターのハイライト"の設定が有効な間に Ctrl キーを押すことで名前の変更がキャンセルされないように修正
+Google翻訳：「RevealPointer」設定がアクティブなときにCtrlキーを押しても名前の変更がキャンセルされなくなりました
+
+原文：Switching input language cancels actions
+筆者訳：入力言語の切り替えが操作を中止
+Google翻訳：入力言語を切り替えるとアクションがキャンセルされます
+
+原文：Various crash fixes
+筆者訳：さまざまなクラッシュの修正
+Google翻訳：さまざまなクラッシュ修正
+
+原文：Web browsers like Firefox now remember the most recently used downloads directory
+筆者訳：Firefox などの Web ブラウザーが最近使用されたダウンロードディレクトリを記憶するようになりました
+Google翻訳：FirefoxのようなWebブラウザは、最近使用されたダウンロードディレクトリを記憶するようになりました
+
+原文：Remember preferred zoom level
+筆者訳：選択されたズームレベルを記憶
+Google翻訳：優先ズームレベルを覚えておいてください
+
+原文：Improved input method support
+筆者訳：インプットメソッドのサポートを改善
+Google翻訳：入力方式のサポートの改善
+
+原文：910x640 minimum window size
+筆者訳：最小 910x640 のウィンドウサイズ
+Google翻訳：910x640の最小ウィンドウサイズ
+
+原文：Security fixes
+筆者訳：セキュリティの修正
+Google翻訳：セキュリティ修正
+
+原文：Enable drag and drop tabs between windows
+筆者訳：ウィンドウ間のタブのドラッグアンドドロップを有効化
+Google翻訳：ウィンドウ間のドラッグアンドドロップタブを有効にする
+
+原文：Merge search functionality into Ctrl+F
+筆者訳：検索機能を Ctrl + F に統合
+Google翻訳：検索機能をCtrl + Fにマージ
+
+原文：Improved translation support
+筆者訳：翻訳サポートを改善
+Google翻訳：翻訳サポートの改善
+
+原文：Fix appdata release dates
+筆者訳：AppData のリリース日を修正
+Google翻訳：appdataのリリース日を修正
+
+原文：Improve file opening over Samba shares
+筆者訳：Samba 共有上でのファイルのオープンを改善
+Google翻訳：Samba共有のファイルオープンを改善
+
+原文：Fix a crash when restoring items from the Trash
+筆者訳：ゴミ箱からアイテムを復元する際にクラッシュする不具合を修正
+Google翻訳：ゴミ箱からアイテムを復元するときのクラッシュを修正
+
+原文：Improve cut/copy/paste sensitivity in context menu
+筆者訳：コンテキストメニューにおける切り取り・コピー・貼り付けの感度を改善
+Google翻訳：コンテキストメニューのカット/コピー/貼り付けの感度を向上させる
+
+原文：Translation updates
+筆者訳：翻訳の更新
+Google翻訳：翻訳の更新
+
+原文：Run Pantheon Files as Administrator
+筆者訳：“ファイル”を管理者として実行
+Google翻訳：管理者としてPantheonファイルを実行する
+
+原文：Authentication is required to run Files as Administrator
+筆者訳：“ファイル”を管理者として実行するには認証が必要です
+Google翻訳：管理者としてファイルを実行するには認証が必要です
+

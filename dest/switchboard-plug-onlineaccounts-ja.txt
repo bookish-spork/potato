@@ -1,0 +1,208 @@
+原文：Server URL
+筆者訳：サーバーの URL
+Google翻訳：サーバーのURL
+
+原文：Invalid URL
+筆者訳：不適切な URL です
+Google翻訳：無効なURL
+
+原文：User Name
+筆者訳：ユーザー名
+Google翻訳：ユーザー名
+
+原文：Password
+筆者訳：パスワード
+Google翻訳：パスワード
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Log In
+筆者訳：ログイン
+Google翻訳：ログインする
+
+原文：Account Display Name
+筆者訳：アカウントの表示名
+Google翻訳：アカウントの表示名
+
+原文：Pick a name like “Work” or “Personal” for the account.
+筆者訳：“仕事用”や“プライベート”といった名前をアカウントにつけましょう。
+Google翻訳：アカウントには「仕事」や「個人」などの名前を選択してください。
+
+原文：Back
+筆者訳：戻る
+Google翻訳：戻る
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+
+原文：Saving the configuration…
+筆者訳：設定を保存しています…
+Google翻訳：構成を保存しています…
+
+原文：All done
+筆者訳：完了
+Google翻訳：すべて完了
+
+原文：CalDAV account saved.
+筆者訳：CalDAV アカウントを保存しました。
+Google翻訳：CalDAVアカウントが保存されました。
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：Could not save configuration
+筆者訳：設定を保存できませんでした
+Google翻訳：構成を保存できませんでした
+
+原文：Calendars
+筆者訳：カレンダー
+Google翻訳：カレンダー
+
+原文：Task Lists
+筆者訳：タスクリスト
+Google翻訳：タスクリスト
+
+原文：Finding available calendars and tasks…
+筆者訳：利用可能なカレンダーとタスクを検索しています…
+Google翻訳：利用可能なカレンダーとタスクを見つける…
+
+原文：Could not fetch calendars
+筆者訳：カレンダーを取得できませんでした
+Google翻訳：カレンダーを取得できませんでした
+
+原文：The data provided does not seem to reflect a valid CalDav account.
+筆者訳：指定されたデータは適切な CalDav アカウントではない可能性があります。
+Google翻訳：提供されたデータは、有効なCalDavアカウントを反映していないようです。
+
+原文：Username:
+筆者訳：ユーザー名:
+Google翻訳：ユーザー名：
+
+原文：Password:
+筆者訳：パスワード:
+Google翻訳：パスワード：
+
+原文：Server URL:
+筆者訳：サーバーの URL:
+Google翻訳：サーバーURL：
+
+原文：Port:
+筆者訳：ポート:
+Google翻訳：ポート：
+
+原文：Encryption:
+筆者訳：暗号化:
+Google翻訳：暗号化：
+
+原文：None
+筆者訳：なし
+Google翻訳：なし
+
+原文：Use IMAP Credentials
+筆者訳：IMAP 証明書を使う
+Google翻訳：IMAPクレデンシャルを使用する
+
+原文：No authentication required
+筆者訳：認証は不要
+Google翻訳：認証は必要ありません
+
+原文：The data provided does not seem to reflect a valid mail account.
+筆者訳：指定されたデータは適切なメールアカウントではない可能性があります。
+Google翻訳：提供されたデータは、有効なメールアカウントを反映していないようです。
+
+原文：Could not log in. Please verify your credentials.
+筆者訳：ログインできませんでした。証明書を認証してください。
+Google翻訳：ログインできませんでした。資格情報を確認してください。
+
+原文：IMAP verification failed: %s
+筆者訳：IMAP を認証できませんでした: %s
+Google翻訳：IMAP検証に失敗しました：％s
+
+原文：Real Name
+筆者訳：本名
+Google翻訳：本名
+
+原文：Email
+筆者訳：メール
+Google翻訳：Eメール
+
+原文：Next
+筆者訳：次へ
+Google翻訳：次
+
+原文：Setting up the e-mail account…
+筆者訳：メールアカウントを設定しています…
+Google翻訳：電子メールアカウントの設定…
+
+原文：Could not save the e-mail account
+筆者訳：メールアカウントを保存できませんでした
+Google翻訳：電子メールアカウントを保存できませんでした
+
+原文：Success
+筆者訳：成功しました
+Google翻訳：成功
+
+原文：E-mail account saved.
+筆者訳：メールアカウントを保存しました。
+Google翻訳：メールアカウントを保存しました。
+
+原文：Connect Your Online Accounts
+筆者訳：オンラインアカウントを接続しましょう
+Google翻訳：オンラインアカウントを接続する
+
+原文：Connect online accounts by clicking the icon in the toolbar below.
+筆者訳：以下のツールバー内のアイコンをクリックして、オンラインアカウントを接続してください。
+Google翻訳：下のツールバーのアイコンをクリックして、オンラインアカウントを接続します。
+
+原文：Calendars and Tasks
+筆者訳：カレンダーとタスク
+Google翻訳：カレンダーとタスク
+
+原文：Mail
+筆者訳：メール
+Google翻訳：郵便
+
+原文：Add Account…
+筆者訳：アカウントを追加…
+Google翻訳：アカウントを追加する…
+
+原文：Remove this account
+筆者訳：このアカウントを削除
+Google翻訳：このアカウントを削除する
+
+原文：Edit this account
+筆者訳：このアカウントを編集
+Google翻訳：このアカウントを編集する
+
+原文：Remove “%s” from this device
+筆者訳：“%s” をこのデバイスから削除します
+Google翻訳：このデバイスから「％s」を削除します
+
+原文：This account will be removed and no longer appear in any apps on this device.
+筆者訳：このアカウントは削除され、このデバイス上のすべてのアプリで表示されなくなります。
+Google翻訳：このアカウントは削除され、このデバイスのどのアプリにも表示されなくなります。
+
+原文：Remove Account
+筆者訳：アカウントを削除
+Google翻訳：アカウントを削除
+
+原文：Edit account failed
+筆者訳：メールアカウントを編集できません
+Google翻訳：アカウントの編集に失敗しました
+
+原文：There was an unexpected error while reading the configuration of '%s'.
+筆者訳：'%s' の設定を読み込む際に予期しないエラーが発生しました。
+Google翻訳：'％s'の構成の読み取り中に予期しないエラーが発生しました。
+
+原文：Online Accounts
+筆者訳：オンラインアカウント
+Google翻訳：オンラインアカウント
+
+原文：Manage online accounts and connected applications
+筆者訳：オンラインアカウントと接続されたアプリケーションを管理します
+Google翻訳：オンラインアカウントと接続されたアプリケーションを管理する
+

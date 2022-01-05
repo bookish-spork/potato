@@ -1,0 +1,172 @@
+原文：Mail
+筆者訳：メール
+Google翻訳：郵便
+
+原文：Send and receive mail
+筆者訳：メールを送信し受信します
+Google翻訳：メールの送受信
+
+原文：Mail is designed to let you manage your email quickly and effortlessly. Its interface is based on conversations, so you can read an entire discussion without having to click from message to message.
+筆者訳：“メール”はメールを素早く、楽々と管理できるようにデザインされています。スレッドに基づいたインターフェースなので、メールのやりとりをメッセージからメッセージへとクリックせずに読むことができます。
+Google翻訳：メールは、メールをすばやく簡単に管理できるように設計されています。そのインターフェイスは会話に基づいているため、メッセージ間をクリックしなくてもディスカッション全体を読むことができます。
+
+原文：Lightweight mail client with full IMAP support
+筆者訳：IMAP のフルサポート付きの軽量なメールクライアント
+Google翻訳：IMAPを完全にサポートする軽量メールクライアント
+
+原文：Mail grouped into conversations, not a tree of threads
+筆者訳：メールはスレッドの階層表示ではなく、会話ごとの分類で表示されます
+Google翻訳：スレッドのツリーではなく、会話にグループ化されたメール
+
+原文：As-you-type searching
+筆者訳：自動検索候補
+Google翻訳：入力したままの検索
+
+原文：Multiple account support
+筆者訳：複数アカウントのサポート
+Google翻訳：複数アカウントのサポート
+
+原文：Inline HTML composer that saves drafts to the server
+筆者訳：サーバーへ下書きを保存するインライン HTML コンポーザー
+Google翻訳：ドラフトをサーバーに保存するインラインHTMLコンポーザー
+
+原文：Works with Gmail, Yahoo! Mail, and other popular IMAP servers
+筆者訳：Gmail と Yahoo! メール、そしてそのほかのよく利用される IMAP サーバーで動作します
+Google翻訳：Gmail、Yahoo！で動作しますメール、およびその他の一般的なIMAPサーバー
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Fix a potential crash while loading messages
+筆者訳：メッセージ読み込み中にクラッシュする可能性のある不具合を修正
+Google翻訳：メッセージの読み込み中に発生する可能性のあるクラッシュを修正
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Secondary-click menu on the conversations list
+筆者訳：スレッド一覧で副クリックメニューを表示できるように修正
+Google翻訳：会話リストの二次クリックメニュー
+
+原文：Ensure conversations are re-sorted by date when new messages appear
+筆者訳：新しいメッセージを受信しても、日付順で並んだメッセージの順番が崩れないように修正
+Google翻訳：新しいメッセージが表示された日付で会話が並べ替えられていることを確認します
+
+原文：Fixed sender combobox after opening a mailto link
+筆者訳：mailto リンクを開いた際に、差出人コンボボックスが正しく表示されるように修正
+Google翻訳：mailtoリンクを開いた後の送信者コンボボックスを修正しました
+
+原文：Mark sent messages as read
+筆者訳：送信済みのメッセージを既読としてマークするように修正
+Google翻訳：送信済みメッセージを既読としてマークする
+
+原文：Fix a hang when deleting the last message in a mailbox
+筆者訳：メールボックスの最後のメッセージを削除するとハングアップする不具合を修正
+Google翻訳：メールボックスの最後のメッセージを削除するときのハングを修正
+
+原文：Fix an issue where some mail fails to be deleted
+筆者訳：メールが削除できないことがある不具合を修正
+Google翻訳：一部のメールが削除されない問題を修正します
+
+原文：Use accent color for unread message titles
+筆者訳：未読メッセージのタイトルをユーザー設定のアクセントカラーで表示するように変更
+Google翻訳：未読メッセージのタイトルにはアクセントカラーを使用する
+
+原文：Autoselect the next message after archiving
+筆者訳：アーカイブ後、次のメッセージを自動的に選択するように修正
+Google翻訳：アーカイブ後に次のメッセージを自動選択します
+
+原文：Use local time in message headers
+筆者訳：メッセージのヘッダーに地方時を使うように修正
+Google翻訳：メッセージヘッダーで現地時間を使用する
+
+原文：Send a notification when new messages arrive
+筆者訳：メッセージ受信時に通知を表示する機能を追加
+Google翻訳：新しいメッセージが到着したときに通知を送信する
+
+原文：Add a button to manually fetch new messages
+筆者訳：手動で新規メッセージを取得するボタンを追加
+Google翻訳：新しいメッセージを手動で取得するためのボタンを追加します
+
+原文：Automatically select the next message after deleting
+筆者訳：メッセージの削除後、次のメッセージを自動的に選択するように修正
+Google翻訳：削除後、次のメッセージを自動的に選択
+
+原文：Filter unread or starred conversations
+筆者訳：未開封またはスターなしのスレッドだけを表示できる機能を追加
+Google翻訳：未読またはスター付きの会話をフィルタリングする
+
+原文：Make sure we don't save sent messages twice for outlook.com accounts
+筆者訳：outlook.com アカウント使用時、送信済みのメッセージが二度保存されていた不具合を修正
+Google翻訳：outlook.comアカウントの送信済みメッセージを2回保存しないようにしてください
+
+原文：Fix a potential crash when changing folders
+筆者訳：フォルダー変更時にクラッシュする可能性のある不具合を修正
+Google翻訳：フォルダを変更するときに発生する可能性のあるクラッシュを修正
+
+原文：Improve search performance
+筆者訳：検索パフォーマンスを改善
+Google翻訳：検索パフォーマンスを向上させる
+
+原文：Fix an issue that prevented some messaging from rendering at all
+筆者訳：一部のメッセージが一切描画されない不具合を修正
+Google翻訳：一部のメッセージがまったくレンダリングされない問題を修正します
+
+原文：Set the correct "From" address when replying and multiple accounts are set up
+筆者訳：複数のアカウントが設定されている場合、適切な"差出人"メールアドレスを設定するように修正
+Google翻訳：返信時に正しい「差出人」アドレスを設定し、複数のアカウントを設定する
+
+原文：Fix a crash on startup for some conversations
+筆者訳：スレッドが原因でアプリが起動時にクラッシュすることがある不具合を修正
+Google翻訳：一部の会話の起動時のクラッシュを修正
+
+原文：Only save drafts when there are new changes
+筆者訳：変更がある場合のみ下書きを保存するように修正
+Google翻訳：新しい変更がある場合にのみ下書きを保存します
+
+原文：Move Undo notification to the message view
+筆者訳：“元に戻す”機能を提供する通知をメッセージビューに表示するように変更
+Google翻訳：元に戻す通知をメッセージビューに移動します
+
+原文：Preserve conversation subjects when replying or forwarding
+筆者訳：返信や転送の際に件名を維持するように修正
+Google翻訳：返信または転送するときに会話の件名を保持する
+
+原文：Disable the composer while messages are being sent
+筆者訳：メッセージの送信中は編集ウィンドウを無効化するように修正
+Google翻訳：メッセージの送信中はコンポーザーを無効にします
+
+原文：Edit saved draft messages
+筆者訳：保存済みの下書きを編集できる機能を追加
+Google翻訳：保存したドラフトメッセージを編集する
+
+原文：Make sure we don't save sent messages twice for some account types
+筆者訳：アカウントの種類によっては送信済みのメッセージが二度保存されていた不具合を修正
+Google翻訳：一部のアカウントタイプでは、送信されたメッセージを2回保存しないようにしてください
+
+原文：Stability improvements
+筆者訳：安定性の改善
+Google翻訳：安定性の向上
+
+原文：Complete rewrite from scratch
+筆者訳：アプリを完全にゼロから書き直し
+Google翻訳：ゼロから完全に書き直す
+
+原文：Email;E-mail;Mail;
+筆者訳：Email;E-mail;Mail;Eメール;電子メール;メール;
+Google翻訳：Eメール; Eメール;メール;
+
+原文：Compose Message
+筆者訳：メッセージを作成
+Google翻訳：メッセージを作成します
+

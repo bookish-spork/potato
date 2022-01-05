@@ -1,0 +1,76 @@
+原文：Does the display look OK?
+筆者訳：ディスプレイの設定に問題はありませんか？
+Google翻訳：表示は大丈夫ですか？
+
+原文：Keep This Configuration
+筆者訳：この設定を保つ
+Google翻訳：この構成を維持する
+
+原文：Restore Previous Configuration
+筆者訳：前の設定へ戻す
+Google翻訳：以前の構成を復元
+
+原文：Log in as Guest
+筆者訳：ゲストとしてログイン
+Google翻訳：ゲストとしてログイン
+
+原文：Manual Login…
+筆者訳：ユーザー名を指定してログイン…
+Google翻訳：手動ログイン…
+
+原文：Unable to Log In
+筆者訳：ログインできません
+Google翻訳：ログインできません
+
+原文：Starting the session has failed.
+筆者訳：セッションを開始できませんでした。
+Google翻訳：セッションの開始に失敗しました。
+
+原文：Unable to Launch Initial Setup
+筆者訳：“初期設定”を起動できません
+Google翻訳：初期設定を起動できません
+
+原文：Initial Setup creates your first user. Without it, you will not be able to log in and may need to reinstall the OS.
+筆者訳：“初期設定”では、デバイスの最初のユーザーを作成します。“初期設定”が起動しないとログインできないため、OS の再インストールが必要になる可能性があります。
+Google翻訳：初期設定により、最初のユーザーが作成されます。これがないと、ログインできず、OSの再インストールが必要になる場合があります。
+
+原文：Manual Login
+筆者訳：ユーザー名を指定してログイン
+Google翻訳：手動ログイン
+
+原文：Username
+筆者訳：ユーザー名
+Google翻訳：ユーザー名
+
+原文：Try username
+筆者訳：ユーザー名を試します
+Google翻訳：ユーザー名を試す
+
+原文：Log In
+筆者訳：ログイン
+Google翻訳：ログインする
+
+原文：Account disabled
+筆者訳：アカウントは使用できません
+Google翻訳：アカウントが無効になっています
+
+原文：Session cannot be changed while user is logged in
+筆者訳：ユーザーのログイン中はセッションを変更できません
+Google翻訳：ユーザーがログインしている間はセッションを変更できません
+
+原文：Caps Lock & Num Lock are on
+筆者訳：Caps Lock と Num Lock は有効です
+Google翻訳：CapsLockとNumLockがオンになっています
+
+原文：Caps Lock is on
+筆者訳：Caps Lock は有効です
+Google翻訳：CapsLockがオンになっています
+
+原文：Num Lock is on
+筆者訳：Num Lock は有効です
+Google翻訳：NumLockがオンになっています
+
+原文：Password
+筆者訳：パスワード
+Google翻訳：パスワード
+

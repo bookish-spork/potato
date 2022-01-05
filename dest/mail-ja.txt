@@ -1,0 +1,387 @@
+原文：Compose new message
+筆者訳：新しいメッセージを作成します
+Google翻訳：新しいメッセージを作成する
+
+原文：Search Mail
+筆者訳：メールを検索
+Google翻訳：メールを検索
+
+原文：Always Show Remote Images
+筆者訳：常にリモートの画像を表示
+Google翻訳：常にリモート画像を表示する
+
+原文：Account Settings…
+筆者訳：アカウントの設定…
+Google翻訳：アカウント設定…
+
+原文：Menu
+筆者訳：メニュー
+Google翻訳：メニュー
+
+原文：Reply
+筆者訳：返信
+Google翻訳：返事
+
+原文：Reply All
+筆者訳：全員に返信
+Google翻訳：全員に返信
+
+原文：Forward
+筆者訳：転送
+Google翻訳：前方
+
+原文：Mark as Unread
+筆者訳：未読としてマーク
+Google翻訳：未読としてマーク
+
+原文：Mark as Read
+筆者訳：既読としてマーク
+Google翻訳：既読にする
+
+原文：Star
+筆者訳：スターを付ける
+Google翻訳：星
+
+原文：Unstar
+筆者訳：スターを外す
+Google翻訳：スターを外す
+
+原文：Mark Conversation
+筆者訳：スレッドにマークをつける
+Google翻訳：会話をマークする
+
+原文：Move conversations to archive
+筆者訳：スレッドをアーカイブします
+Google翻訳：会話をアーカイブに移動
+
+原文：Move conversations to Trash
+筆者訳：スレッドをゴミ箱に移動します
+Google翻訳：会話をゴミ箱に移動する
+
+原文：%s to %s
+筆者訳：%s から %s
+Google翻訳：％sから％s
+
+原文（単数形）：%u new message
+原文（複数形）：%u new messages
+筆者訳：%u件の新着メッセージ
+Google翻訳：％u新しいメッセージ
+
+原文（単数形）：%s from %u sender
+原文（複数形）：%s from %u senders
+筆者訳：%u人から%s
+Google翻訳：％u送信者からの％s
+
+原文：Mail
+筆者訳：メール
+Google翻訳：郵便
+
+原文：Fetch new messages
+筆者訳：新着メッセージを取得
+Google翻訳：新しいメッセージを取得する
+
+原文：Fetching new messages
+筆者訳：新着メッセージを取得しています
+Google翻訳：新しいメッセージを取得する
+
+原文：Hide read conversations
+筆者訳：開封済みのスレッドを表示しない
+Google翻訳：読んだ会話を隠す
+
+原文：Hide unstarred conversations
+筆者訳：スターなしのスレッドを表示しない
+Google翻訳：スターなしの会話を非表示にする
+
+原文：Filter Conversations
+筆者訳：スレッドを検索
+Google翻訳：会話をフィルタリングする
+
+原文（単数形）：Message Deleted
+原文（複数形）：Messages Deleted
+筆者訳：メッセージを削除しました
+Google翻訳：メッセージが削除されました
+
+原文：Undo
+筆者訳：元に戻す
+Google翻訳：元に戻す
+
+原文：Connect an Account
+筆者訳：アカウントを接続しましょう
+Google翻訳：アカウントを接続する
+
+原文：Mail uses email accounts configured in System Settings.
+筆者訳：“メール”は、“システム設定”で設定されたメールアカウントを使用します。
+Google翻訳：メールは、システム設定で構成された電子メールアカウントを使用します。
+
+原文：Online Accounts…
+筆者訳：オンラインアカウント…
+Google翻訳：オンラインアカウント…
+
+原文：From:
+筆者訳：差出人:
+Google翻訳：から：
+
+原文：Subject:
+筆者訳：件名:
+Google翻訳：主題：
+
+原文：Bold
+筆者訳：太字
+Google翻訳：はげ
+
+原文：Italic
+筆者訳：斜体
+Google翻訳：イタリック
+
+原文：Underline
+筆者訳：下線
+Google翻訳：下線を引く
+
+原文：Strikethrough
+筆者訳：取り消し線
+Google翻訳：取り消し線
+
+原文：Remove formatting
+筆者訳：書式を解除します
+Google翻訳：フォーマットを削除する
+
+原文：Insert Link
+筆者訳：リンクを挿入します
+Google翻訳：リンクを挿入
+
+原文：Delete draft
+筆者訳：下書きを削除します
+Google翻訳：下書きを削除
+
+原文：Attach file
+筆者訳：ファイルを添付します
+Google翻訳：ファイルを添付する
+
+原文：Send
+筆者訳：送信
+Google翻訳：送信
+
+原文：Choose a file
+筆者訳：ファイルを選択
+Google翻訳：ファイルを選択してください
+
+原文：Attach
+筆者訳：添付
+Google翻訳：添付
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：%a, %b %-e, %Y at %-l:%M %p
+筆者訳：%Y年%b%-e日 %a %p %-l:%M
+Google翻訳：％a、％b％-e、％Y at％-l：％M％p
+
+原文：On %1$s, %2$s wrote:
+筆者訳：%1$s、%2$s さんのメッセージ:
+Google翻訳：％1 $ sで、％2 $ sは次のように書いています。
+
+原文：---------- Forwarded message ----------
+筆者訳：---------- 転送されたメッセージ ----------
+Google翻訳： -  -  -  -  -  転送メッセージ  -  -  -  -  - 
+
+原文：From: %s<br/>
+筆者訳：差出人: %s<br/>
+Google翻訳：差出人：％s <br/>
+
+原文：Subject: %s<br/>
+筆者訳：件名: %s<br/>
+Google翻訳：件名：％s <br/>
+
+原文：Date: %s<br/>
+筆者訳：日付: %s<br/>
+Google翻訳：日付：％s <br/>
+
+原文：To: %s<br/>
+筆者訳：宛先: %s<br/>
+Google翻訳：宛先：％s <br/>
+
+原文：Permanently delete this draft?
+筆者訳：この下書きを完全に削除してもよろしいですか？
+Google翻訳：このドラフトを完全に削除しますか？
+
+原文：You cannot undo this action, nor recover your draft once it has been deleted.
+筆者訳：この操作はやり直せません。下書きを削除すると復元できなくなります。
+Google翻訳：このアクションを元に戻すことも、削除したドラフトを復元することもできません。
+
+原文：Delete Draft
+筆者訳：下書きを削除
+Google翻訳：ドラフトを削除
+
+原文：Send without subject?
+筆者訳：件名なしで送信しますか？
+Google翻訳：件名なしで送信しますか？
+
+原文：This message has an empty subject field. The recipient may be unable to infer its scope or importance.
+筆者訳：このメッセージには件名がありません。受信者が話題や重要性を推測できない可能性があります。
+Google翻訳：このメッセージには空の件名フィールドがあります。受信者は、その範囲または重要性を推測できない場合があります。
+
+原文：Don't Send
+筆者訳：送信しない
+Google翻訳：送信しないでください
+
+原文：Send Anyway
+筆者訳：了解して送信
+Google翻訳：とにかく送る
+
+原文：Sent message was not saved
+筆者訳：送信したメッセージは保存されませんでした
+Google翻訳：送信されたメッセージは保存されませんでした
+
+原文：The message was sent, however a copy was not saved to the Sent message folder.
+筆者訳：メッセージは送信されましたが、そのコピーは送信済みフォルダーに保存されませんでした。
+Google翻訳：メッセージは送信されましたが、コピーは送信済みメッセージフォルダーに保存されませんでした。
+
+原文：Unable to send message
+筆者訳：メッセージを送信できません
+Google翻訳：メッセージを送信できません
+
+原文：There was an unexpected error while sending your message.
+筆者訳：メッセージを送信する際に予期しないエラーが発生しました。
+Google翻訳：メッセージの送信中に予期しないエラーが発生しました。
+
+原文：Unable to save draft
+筆者訳：下書きを保存できません
+Google翻訳：下書きを保存できません
+
+原文：There was an unexpected error while saving your draft.
+筆者訳：下書きを保存する際に予期しないエラーが発生しました。
+Google翻訳：下書きの保存中に予期しないエラーが発生しました。
+
+原文：New Message
+筆者訳：新しいメッセージ
+Google翻訳：新しいメッセージ
+
+原文：Move To Trash
+筆者訳：ゴミ箱に移動
+Google翻訳：ゴミ箱に移動
+
+原文：Mark As Unread
+筆者訳：未読としてマーク
+Google翻訳：未読としてマーク
+
+原文：Unread
+筆者訳：未読
+Google翻訳：未読
+
+原文：Replied
+筆者訳：返信済み
+Google翻訳：返信
+
+原文：Forwarded
+筆者訳：転送済み
+Google翻訳：転送
+
+原文：Link Text:
+筆者訳：リンクテキスト:
+Google翻訳：リンクテキスト：
+
+原文：Example Website
+筆者訳：Web サイト名を入力
+Google翻訳：ウェブサイトの例
+
+原文：Are you sure you want to open %s?
+筆者訳：%s を開いてもよろしいですか？
+Google翻訳：％sを開いてもよろしいですか？
+
+原文：Attachments may cause damage to your system if opened. Only open files from trusted sources.
+筆者訳：添付ファイルは、システムにダメージを与える恐れがあります。信頼できる送信元のファイルのみを開くようにしてください。
+Google翻訳：アタッチメントを開くと、システムが損傷する可能性があります。信頼できるソースからのファイルのみを開きます。
+
+原文：Open Anyway
+筆者訳：了解して開く
+Google翻訳：とにかく開く
+
+原文：Refresh folder
+筆者訳：フォルダーを更新
+Google翻訳：フォルダを更新
+
+原文：Inbox
+筆者訳：受信トレイ
+Google翻訳：受信トレイ
+
+原文：Archive
+筆者訳：アーカイブ
+Google翻訳：アーカイブ
+
+原文：Sent
+筆者訳：送信済み
+Google翻訳：送信済
+
+原文：All Mailboxes
+筆者訳：すべての受信箱
+Google翻訳：すべてのメールボックス
+
+原文：No Message Selected
+筆者訳：メッセージが選択されていません
+Google翻訳：メッセージが選択されていません
+
+原文：%s at %s
+筆者訳：%s %s
+Google翻訳：％sで％s
+
+原文：Unstar message
+筆者訳：スターなしメッセージ
+Google翻訳：スターを外すメッセージ
+
+原文：Star message
+筆者訳：スター付きメッセージ
+Google翻訳：スターメッセージ
+
+原文：Reply to All
+筆者訳：全員へ返信
+Google翻訳：全員に返信
+
+原文：Print…
+筆者訳：印刷…
+Google翻訳：印刷…
+
+原文：More
+筆者訳：詳細
+Google翻訳：もっと
+
+原文：Show Images
+筆者訳：画像を表示
+Google翻訳：画像を表示
+
+原文：Always Show from Sender
+筆者訳：常に送信者から表示
+Google翻訳：常に送信者から表示
+
+原文：This message contains remote images.
+筆者訳：このメッセージは、リモートイメージを含んでいます。
+Google翻訳：このメッセージにはリモートイメージが含まれています。
+
+原文：This message contains one or more attachments
+筆者訳：このメッセージは、何らかの添付ファイルを含んでいます
+Google翻訳：このメッセージには1つ以上の添付ファイルが含まれています
+
+原文：Email Message
+筆者訳：メールのメッセージ
+Google翻訳：メールメッセージ
+
+原文：Unable to print email
+筆者訳：メールを印刷できません
+Google翻訳：メールを印刷できません
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：Save As…
+筆者訳：名前を付けて保存…
+Google翻訳：名前を付けて保存…
+
+原文：Unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+

@@ -1,0 +1,20 @@
+原文：Notifications Settings
+筆者訳：通知の設定
+Google翻訳：通知設定
+
+原文：Configure notification bubbles, sounds, and notification center
+筆者訳：バブル、サウンド、通知センターを設定します
+Google翻訳：通知バブル、サウンド、および通知センターを構成する
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：New illustrations
+筆者訳：通知のイラストを変更
+Google翻訳：新しいイラスト
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+

@@ -1,0 +1,60 @@
+原文：Sound Indicator
+筆者訳：サウンドインジケーター
+Google翻訳：サウンドインジケーター
+
+原文：Adjust speaker and microphone volume or see Now Playing information and media controls
+筆者訳：スピーカーやマイクの音量を調整したり、現在再生中の曲の情報やメディアコントロールを表示したりします
+Google翻訳：スピーカーとマイクの音量を調整するか、「再生中の情報」と「メディアコントロール」を参照してください
+
+原文：Minor updates
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート
+
+原文：Show more specific icons for different types of devices
+筆者訳：デバイスの種類を的確に示すアイコンを表示するように修正
+Google翻訳：さまざまなタイプのデバイスのより具体的なアイコンを表示する
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：New features
+筆者訳：新機能
+Google翻訳：新機能
+
+原文：select specific input and output devices
+筆者訳：インジケーターから入力・出力デバイスを選択できる機能を追加
+Google翻訳：特定の入力デバイスと出力デバイスを選択します
+
+原文：Hide temporary audio players when they stop
+筆者訳：一時的なオーディオプレーヤーが停止した場合、非表示にするように変更
+Google翻訳：一時的なオーディオプレーヤーが停止したときに非表示にする
+
+原文：Add a tooltip on hover
+筆者訳：ホバー時のツールチップを追加
+Google翻訳：ホバーにツールチップを追加する
+
+原文：Minor visual improvements
+筆者訳：軽微な視覚上の改善
+Google翻訳：マイナーな視覚的改善
+
+原文：Fix duplicate default player
+筆者訳：デフォルトのプレーヤーが重複して表示される不具合を修正
+Google翻訳：重複するデフォルトプレーヤーを修正
+
+原文：Fix opacity flash during icon animation
+筆者訳：アイコンのアニメーション表示中に、下がっていた透明度が突然上がったりする不具合を修正
+Google翻訳：アイコンアニメーション中の不透明度のフラッシュを修正
+
+原文：Update default music player when changed
+筆者訳：デフォルトのミュージックプレーヤーが変更されたときに、表示を更新するように修正
+Google翻訳：変更時にデフォルトの音楽プレーヤーを更新する
+
+原文：Correctly show "Unknown Artist" when artist info isn't available
+筆者訳：アーティスト情報が利用可能でないときに、"不明なアーティスト"を正しく表示するように修正
+Google翻訳：アーティスト情報が利用できない場合は、「不明なアーティスト」を正しく表示してください
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+

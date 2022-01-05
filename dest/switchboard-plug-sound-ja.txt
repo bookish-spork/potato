@@ -1,0 +1,168 @@
+原文：Sound
+筆者訳：サウンド
+Google翻訳：音
+
+原文：Change sound and microphone volume
+筆者訳：サウンドとマイクのボリュームを変更します
+Google翻訳：サウンドとマイクの音量を変更する
+
+原文：Output
+筆者訳：出力
+Google翻訳：出力
+
+原文：Input
+筆者訳：入力
+Google翻訳：入力
+
+原文：Device
+筆者訳：デバイス
+Google翻訳：端末
+
+原文：Event Sounds
+筆者訳：イベントサウンド
+Google翻訳：イベントサウンド
+
+原文：Port
+筆者訳：ポート
+Google翻訳：ポート
+
+原文：Volume
+筆者訳：ボリューム
+Google翻訳：音量
+
+原文：Balance
+筆者訳：バランス
+Google翻訳：バランス
+
+原文：Enable
+筆者訳：有効
+Google翻訳：有効
+
+原文：Output volume:
+筆者訳：出力音量:
+Google翻訳：出力音量：
+
+原文：Balance:
+筆者訳：バランス:
+Google翻訳：バランス：
+
+原文：Left
+筆者訳：左
+Google翻訳：左
+
+原文：Center
+筆者訳：中央
+Google翻訳：中心
+
+原文：Right
+筆者訳：右
+Google翻訳：右
+
+原文：Event alerts:
+筆者訳：イベント警告:
+Google翻訳：イベントアラート：
+
+原文：Play sound
+筆者訳：音を鳴らす
+Google翻訳：音を出す
+
+原文：Flash screen
+筆者訳：画面の点滅
+Google翻訳：フラッシュ画面
+
+原文：Event alerts occur when the system cannot do something in response to user input, like attempting to backspace in an empty input or switch windows when only one is open.
+筆者訳：イベント警告は、空白の入力欄で Backspace キーを押そうとしたときや、1 つしか開いていないウィンドウを切り替えようとしたときなど、システムがユーザーの入力に応じた操作をできないときに実行されます。
+Google翻訳：イベントアラートは、空の入力でバックスペースを試みたり、1つだけが開いているときにウィンドウを切り替えたりするなど、システムがユーザー入力に応答して何かを実行できない場合に発生します。
+
+原文：Test Speakers…
+筆者訳：スピーカーをテスト…
+Google翻訳：テストスピーカー…
+
+原文：Screen Reader:
+筆者訳：スクリーンリーダー:
+Google翻訳：スクリーンリーダー：
+
+原文：Provide audio descriptions for items on the screen
+筆者訳：画面上の項目について音声ガイドを提供します
+Google翻訳：画面上のアイテムの音声ガイドを提供します
+
+原文：No Output Device
+筆者訳：出力デバイスがありません
+Google翻訳：出力デバイスなし
+
+原文：There is no output device detected. You might want to add one to start listening to anything.
+筆者訳：出力デバイスが検出されませんでした。何かを聞くには出力デバイスを追加してください。
+Google翻訳：出力デバイスは検出されません。何かを聴き始めるために1つ追加することをお勧めします。
+
+原文：Input volume:
+筆者訳：入力音量:
+Google翻訳：入力音量：
+
+原文：Unamplified
+筆者訳：増幅なし
+Google翻訳：増幅されていない
+
+原文：Input level:
+筆者訳：入力レベル:
+Google翻訳：入力レベル：
+
+原文：No Connected Audio Devices Detected
+筆者訳：接続済みの音声デバイスが検出されませんでした
+Google翻訳：接続されたオーディオデバイスが検出されません
+
+原文：Check that all cables are securely attached and audio input devices are powered on.
+筆者訳：ケーブルにゆるみがないか、音声入力デバイスの電源が入っているか確認してください。
+Google翻訳：すべてのケーブルがしっかりと接続され、オーディオ入力デバイスの電源がオンになっていることを確認します。
+
+原文：Peak detect
+筆者訳：ピーク検出
+Google翻訳：ピーク検出
+
+原文：Built-in
+筆者訳：内蔵
+Google翻訳：ビルトイン
+
+原文：Speaker
+筆者訳：スピーカー
+Google翻訳：スピーカー
+
+原文：Handset
+筆者訳：ハンドセット
+Google翻訳：受話器
+
+原文：TV
+筆者訳：テレビ
+Google翻訳：テレビ
+
+原文：Webcam
+筆者訳：Web カメラ
+Google翻訳：ウェブカメラ
+
+原文：Microphone
+筆者訳：マイク
+Google翻訳：マイクロフォン
+
+原文：Headset
+筆者訳：ヘッドセット
+Google翻訳：ヘッドセット
+
+原文：Headphone
+筆者訳：ヘッドホン
+Google翻訳：ヘッドホン
+
+原文：Hands-Free
+筆者訳：ハンズフリー
+Google翻訳：ハンズフリー
+
+原文：Car
+筆者訳：車
+Google翻訳：車両
+
+原文：Computer
+筆者訳：コンピューター
+Google翻訳：コンピューター
+
+原文：Portable
+筆者訳：ポータブル
+Google翻訳：ポータブル
+

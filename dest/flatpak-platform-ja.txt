@@ -1,0 +1,24 @@
+原文：elementary App Platform
+筆者訳：elementary アプリプラットフォーム
+Google翻訳：エレメンタリーアプリプラットフォーム
+
+原文：Build Flatpak apps for elementary OS
+筆者訳：elementary OS 向けの Flatpak アプリをビルドします
+Google翻訳：ElementaryOS用のFlatpakアプリを構築する
+
+原文：The flatpak platform for elementary OS and AppCenter.
+筆者訳：elementary OS と AppCenter 向けの Flatpak プラットフォームです。
+Google翻訳：エレメンタリーOSおよびAppCenter用のflatpakプラットフォーム。
+
+原文：Initial Release
+筆者訳：最初のリリース
+Google翻訳：初回リリース
+
+原文：elementary App SDK
+筆者訳：elementary アプリ SDK
+Google翻訳：エレメンタリーアプリSDK
+
+原文：The flatpak SDK for elementary OS and AppCenter.
+筆者訳：elementary OS と AppCenter 向けの Flatpak SDK です。
+Google翻訳：エレメンタリーOSおよびAppCenter用のflatpakSDK。
+

@@ -1,0 +1,72 @@
+原文：Desktop Settings
+筆者訳：デスクトップの設定
+Google翻訳：デスクトップ設定
+
+原文：Configure the dock, hot corners, and change wallpaper
+筆者訳：ドック、ホットコーナーを設定し、壁紙を変更します
+Google翻訳：ドック、ホットコーナーを構成し、壁紙を変更します
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Move Text settings to their own page
+筆者訳：テキストの設定を独立したページに移動
+Google翻訳：テキスト設定を独自のページに移動する
+
+原文：More granular settings for text scale
+筆者訳：テキストサイズの設定をより細かく変更できるように修正
+Google翻訳：テキストスケールのより詳細な設定
+
+原文：Other updates:
+筆者訳：そのほかのアップデート:
+Google翻訳：その他の更新：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Accent color and dark style options
+筆者訳：アクセントカラーとダークスタイルのオプションを追加
+Google翻訳：アクセントカラーとダークスタイルのオプション
+
+原文：Dyslexia-friendly text preference to use the OpenDyslexia font system-wide
+筆者訳：ディスレクシアに配慮した OpenDyslexia フォントをシステム全体に適用できる設定を追加
+Google翻訳：システム全体でOpenDyslexiaフォントを使用するための失読症に適したテキスト設定
+
+原文：Maximize and fullscreen workspace management options
+筆者訳：ウィンドウを最大化・全画面表示にした場合のワークスペースの扱いに関するオプションを追加
+Google翻訳：最大化およびフルスクリーンのワークスペース管理オプション
+
+原文：Fix a freeze after opening Power settings
+筆者訳：電源の設定を開いた後にこのプラグを開くとフリーズする不具合を修正
+Google翻訳：電源設定を開いた後のフリーズを修正
+
+原文：Improved filter for image file types when importing
+筆者訳：インポート時の画像ファイルの種類の条件を改善
+Google翻訳：インポート時の画像ファイルタイプのフィルターを改善
+
+原文：Visual updates
+筆者訳：視覚的なアップデート
+Google翻訳：視覚的な更新
+
+原文：Some options now appear in different tabs
+筆者訳：一部のオプションを別のタブに移動
+Google翻訳：一部のオプションが異なるタブに表示されるようになりました
+
+原文：Illustrate Dock icon sizes
+筆者訳：ドックアイコンの大きさを視覚化
+Google翻訳：Dockアイコンのサイズを示す
+
+原文：Fix system wallpapers being copied
+筆者訳：システムの壁紙がコピーされる不具合を修正
+Google翻訳：コピーされているシステムの壁紙を修正
+
+原文：Update search results
+筆者訳：検索結果を更新
+Google翻訳：検索結果を更新する
+
+原文：Fix issues with setting wallpapers on the Login and Lock screen
+筆者訳：ログイン・ロック画面に壁紙を設定できない不具合を修正
+Google翻訳：ログインとロック画面で壁紙を設定する際の問題を修正
+

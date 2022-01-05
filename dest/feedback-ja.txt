@@ -1,0 +1,76 @@
+原文：Feedback
+筆者訳：フィードバック
+Google翻訳：フィードバック
+
+原文：Send feedback for which component?
+筆者訳：フィードバックを送信したいコンポーネントを選択してください
+Google翻訳：どのコンポーネントのフィードバックを送信しますか？
+
+原文：Select an item from the list to send feedback or report a problem from your web browser.
+筆者訳：お使いの Web ブラウザーからフィードバックを送信したり不具合を報告したりするには、一覧から項目をお選びください。
+Google翻訳：リストから項目を選択して、フィードバックを送信したり、Webブラウザから問題を報告したりします。
+
+原文：Categories
+筆者訳：カテゴリー
+Google翻訳：カテゴリ
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Send Feedback…
+筆者訳：フィードバックを送る…
+Google翻訳：フィードバックを送信…
+
+原文：Applications Menu
+筆者訳：アプリケーションメニュー
+Google翻訳：アプリケーションメニュー
+
+原文：Captive Network Assistant
+筆者訳：キャプティブネットワークアシスタント
+Google翻訳：キャプティブネットワークアシスタント
+
+原文：Dock
+筆者訳：ドック
+Google翻訳：ドック
+
+原文：Lock or Login Screen
+筆者訳：ロック画面およびログイン画面
+Google翻訳：ロックまたはログイン画面
+
+原文：Look & Feel
+筆者訳：外観および操作感
+Google翻訳：ルックアンドフィール
+
+原文：Multitasking or Window Management
+筆者訳：マルチタスクおよびウィンドウ管理
+Google翻訳：マルチタスクまたはウィンドウ管理
+
+原文：Notifications
+筆者訳：通知
+Google翻訳：通知
+
+原文：Welcome & Onboarding
+筆者訳：ようこそ画面と初期セットアップ
+Google翻訳：ウェルカム＆オンボーディング
+
+原文：Panel
+筆者訳：パネル
+Google翻訳：パネル
+
+原文：Panel Indicators
+筆者訳：パネルインジケーター
+Google翻訳：パネルインジケーター
+
+原文：System Settings
+筆者訳：システム設定
+Google翻訳：システム設定
+
+原文：Desktop Components
+筆者訳：デスクトップコンポーネント
+Google翻訳：デスクトップコンポーネント
+
+原文：Default Apps
+筆者訳：デフォルトのアプリ
+Google翻訳：デフォルトのアプリ
+

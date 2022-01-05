@@ -1,0 +1,552 @@
+原文：Browse and manage apps
+筆者訳：アプリを検索したり管理したりします
+Google翻訳：アプリを閲覧して管理する
+
+原文：The open source, pay-what-you-want app store from elementary. Reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience. Browse by categories or search and discover new apps. AppCenter is also used for updating your system to the latest and greatest version for new features and fixes.
+筆者訳：elementary が提供する、オープンソースで価格はあなた次第のアプリストアです。ネイティブに動作しプライバシーを尊重しており、セキュアなユーザーエクスペリエンスを得られるアプリだけを、elementary が審査・キュレーションして提供しています。カテゴリー別で閲覧したり検索したりして、新しいアプリを見つけましょう。AppCenter は、新機能や修正によってシステムを最新で最高のバージョンへアップデートするときにも使われます。
+Google翻訳：エレメンタリーからのオープンソースの有料アプリストア。ネイティブでプライバシーを尊重し、安全なエクスペリエンスを保証するために、小学校によってレビューおよびキュレーションされています。カテゴリ別に閲覧するか、新しいアプリを検索して見つけてください。 AppCenterは、新機能や修正のためにシステムを最新かつ最高のバージョンに更新するためにも使用されます。
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Prevent potential crashes when updating
+筆者訳：アップデート中にクラッシュする可能性のある不具合を修正
+Google翻訳：更新時に発生する可能性のあるクラッシュを防ぐ
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Link to Flathub's search page when no search results are found
+筆者訳：検索結果が見つからない場合は、Flathub の検索ページへのリンクを表示するように修正
+Google翻訳：検索結果が見つからない場合は、Flathubの検索ページにリンクします
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Amusements appear in the Games category
+筆者訳：“Amusement” タグのついたアプリを“ゲーム”カテゴリーに表示
+Google翻訳：アミューズメントはゲームカテゴリに表示されます
+
+原文：Categories show as a grid instead of a list
+筆者訳：アプリのカテゴリー別画面を一覧ではなくグリッドで表示するように変更
+Google翻訳：カテゴリはリストではなくグリッドとして表示されます
+
+原文：Allow window to shrink to much narrower sizes
+筆者訳：ウィンドウ幅をより狭められるように修正
+Google翻訳：ウィンドウをはるかに狭いサイズに縮小できるようにします
+
+原文：Correctly show the installed status of first-party applications
+筆者訳：ファーストパーティーのアプリケーションのインストール状態を適切に表示するように修正
+Google翻訳：ファーストパーティアプリケーションのインストールステータスを正しく表示する
+
+原文：Don't store $0 app installs as paid
+筆者訳：支払わずにインストールしたアプリを支払い済みとして記録しないように修正
+Google翻訳：$ 0のアプリインストールを有料で保存しないでください
+
+原文：Fix missing illicit substances icon
+筆者訳：“危険な薬物”アイコンが表示されない不具合を修正
+Google翻訳：不足している違法物質のアイコンを修正
+
+原文：Don't show plugins on the homepage
+筆者訳：“ホーム”ページにプラグインを表示しないように修正
+Google翻訳：ホームページにプラグインを表示しない
+
+原文：Only show "Multiplayer" badge for games
+筆者訳："マルチプレイ"バッジをゲームにのみ表示するように修正
+Google翻訳：ゲームの「マルチプレイヤー」バッジのみを表示する
+
+原文：Show installation progress in a more compact way
+筆者訳：インストールの進捗をよりコンパクトに表示
+Google翻訳：インストールの進行状況をよりコンパクトに表示する
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Show content warnings on app info pages
+筆者訳：アプリの情報ページにコンテンツの警告を表示するように修正
+Google翻訳：アプリ情報ページにコンテンツの警告を表示する
+
+原文：Show other apps by an author for Flatpak sources
+筆者訳：Flatpak で提供されているアプリでも、同じ開発者のアプリを表示できるように修正
+Google翻訳：Flatpakソースの作成者による他のアプリを表示する
+
+原文：Populate banner on home locally instead of relying on an external API
+筆者訳：“ホーム”ページのバナーを、外部 API に依存するのではなくローカルで作成し表示するように修正
+Google翻訳：外部APIに依存する代わりに、ローカルでバナーを作成します
+
+原文：Greatly increased number of recently-updated apps shown on home page
+筆者訳：“ホーム”ページに表示される“最近アップデートされたアプリ”の項目数を大幅に増加
+Google翻訳：ホームページに表示される最近更新されたアプリの数が大幅に増加
+
+原文：Navigate banners on the home page with multitouch gestures
+筆者訳：“ホーム”ページのバナーをマルチタッチジェスチャーで切り替えられるように修正
+Google翻訳：マルチタッチジェスチャでホームページ上のバナーをナビゲートする
+
+原文：Show apps from newly sideloaded remotes without requiring a restart
+筆者訳：デバイスを再起動しなくても、新しく追加された Flatpak リモートが提供するアプリが表示されるように修正
+Google翻訳：再起動せずに、新しくサイドロードされたリモートからアプリを表示する
+
+原文：Less abrupt transition when changing app sources
+筆者訳：アプリの提供元を変更した場合に表示されていた遷移アニメーションが過剰なので削除
+Google翻訳：アプリのソースを変更する際の急激な移行が少ない
+
+原文：Install Linux kernel headers for device drivers that use DKMS
+筆者訳：DKMS を使用するデバイスドライバー用に、Linux カーネルヘッダーもインストールするように修正
+Google翻訳：DKMSを使用するデバイスドライバー用のLinuxカーネルヘッダーをインストールします
+
+原文：Use system Flatpak runtimes for locally installed apps
+筆者訳：ローカルにインストールされたアプリがシステム全体で利用可能な Flatpak ランタイムを使用するように修正
+Google翻訳：ローカルにインストールされたアプリにシステムFlatpakランタイムを使用する
+
+原文：Mention Sideload when search returns no results
+筆者訳：検索結果に何も出てこない場合、AppCenter を経由しないインストール方法を説明するように修正
+Google翻訳：検索で結果が返されない場合はサイドロードに言及する
+
+原文：Ensure user installation is selected by default when navigating from the homepage
+筆者訳：ホームページからアプリの紹介ページを開いた際に、デフォルトでアプリが現在ログイン中のユーザーのみにインストールされる選択になるように修正
+Google翻訳：ホームページから移動するときに、ユーザーインストールがデフォルトで選択されていることを確認します
+
+原文：Fix opening apps from app installed toasts
+筆者訳：アプリインストール完了時の通知トーストからアプリを開けない不具合を修正
+Google翻訳：アプリにインストールされたトーストからアプリを開く問題を修正
+
+原文：Install Linux kernel headers with NVIDIA drivers
+筆者訳：NVIDIA ドライバーとともに Linux カーネルヘッダーもインストールするように修正
+Google翻訳：NVIDIAドライバーを使用してLinuxカーネルヘッダーをインストールする
+
+原文：Show Recently Updated Flatpak apps on home page
+筆者訳：“ホーム”ページに最近アップデートされた Flatpak アプリを表示するように修正
+Google翻訳：最近更新されたFlatpakアプリをホームページに表示する
+
+原文：Show brand colors and support payments for Flatpak apps
+筆者訳：Flatpak アプリのブランドカラーを表示する機能を追加。Flatpak アプリの支払いにも対応
+Google翻訳：Flatpakアプリのブランドカラーを表示し、支払いをサポートする
+
+原文：Fix missing mail icon in payments dialog
+筆者訳：支払いダイアログのメールアイコンが表示されない不具合を修正
+Google翻訳：支払いダイアログで欠落しているメールアイコンを修正
+
+原文：Fix missing privacy policy in payments dialog
+筆者訳：支払いダイアログにプライバシーポリシーが表示されていなかった不具合を修正
+Google翻訳：支払いダイアログで欠落しているプライバシーポリシーを修正
+
+原文：Show in-app notification when an app is installed
+筆者訳：アプリがインストールされた場合にアプリ内通知を表示
+Google翻訳：アプリがインストールされたときにアプリ内通知を表示する
+
+原文：Add contextual badges to notifications
+筆者訳：通知の内容を反映したバッジを通知に表示
+Google翻訳：通知にコンテキストバッジを追加する
+
+原文：Ensure Home button is usable during search
+筆者訳：検索中も“ホーム”ボタンが使えるように修正
+Google翻訳：検索中にホームボタンが使用可能であることを確認します
+
+原文：Ask the user to manually restart if we can't ask the session to prompt
+筆者訳：セッションを自動的に再起動できない場合にユーザーに再起動を促すように修正
+Google翻訳：セッションにプロンプトを表示するように要求できない場合は、ユーザーに手動で再起動するように要求します
+
+原文：Improve styling and contrast of buttons
+筆者訳：スタイルとボタンのコントラストを改善
+Google翻訳：ボタンのスタイリングとコントラストを改善する
+
+原文：More concise and consistent language
+筆者訳：正確で一貫性のある表現を使用するように修正
+Google翻訳：より簡潔で一貫性のある言語
+
+原文：Fully uninstall Flatpaks, including locales
+筆者訳：ロケールも含め Flatpak アプリを完全にアンインストールできるように修正
+Google翻訳：ロケールを含むFlatpaksを完全にアンインストールします
+
+原文：Still fetch screenshots from remotes that don't include proper headers
+筆者訳：適切なヘッダーを含まないリモートであってもスクリーンショットを取得するように修正
+Google翻訳：適切なヘッダーが含まれていないリモートからスクリーンショットを取得します
+
+原文：Fix truncated footer buttons
+筆者訳：フッターのボタンが最後まで表示されない不具合を修正
+Google翻訳：切り捨てられたフッターボタンを修正
+
+原文：Only show Mail button when a usable mail app is installed
+筆者訳：使用可能なメールアプリがインストールされている場合のみ、メールボタンを表示するように修正
+Google翻訳：使用可能なメールアプリがインストールされている場合にのみメールボタンを表示する
+
+原文：Fix some apps incorrectly showing as not installed during search
+筆者訳：検索中に一部のインストール済みアプリがインストールされていないように表示されてしまう不具合を修正
+Google翻訳：検索中にインストールされていないものとして誤って表示される一部のアプリを修正
+
+原文：Show an error dialog when opening an app fails
+筆者訳：アプリを開けなかった場合にエラーダイアログを表示するように修正
+Google翻訳：アプリを開くのに失敗したときにエラーダイアログを表示する
+
+原文：Fixes
+筆者訳：修正点
+Google翻訳：修正
+
+原文：Correctly display names of Flatpak runtime updates
+筆者訳：アップデートされる Flatpak ランタイムの名前が正しく表示されるように修正
+Google翻訳：Flatpakランタイムアップデートの名前を正しく表示する
+
+原文：Minor updates
+筆者訳：軽微なアップデート
+Google翻訳：マイナーアップデート
+
+原文：New features
+筆者訳：新機能
+Google翻訳：新機能
+
+原文：Support system-wide Flatpak remotes
+筆者訳：システム全体で利用可能な Flatpak リモートに対応
+Google翻訳：システム全体のFlatpakリモートをサポート
+
+原文：Fix Flatpak runtime updates getting stuck
+筆者訳：Flatpak ランタイムのアップデートが固まる不具合を修正
+Google翻訳：Flatpakランタイムアップデートがスタックする問題を修正
+
+原文：Fix long origin comboboxes breaking the header layout
+筆者訳：提供元を選択するコンボボックスのテキストが長い場合に、ヘッダーのレイアウトが崩れる不具合を修正
+Google翻訳：ヘッダーレイアウトを壊す長いオリジンコンボボックスを修正
+
+原文：When apps are available from multiple sources, prefer installed version, then prefer Flatpak
+筆者訳：アプリが複数の提供元から利用可能な場合、まずインストールされたバージョンを選択し、その次に Flatpak バージョンを選択するように修正
+Google翻訳：アプリが複数のソースから入手できる場合は、インストール済みバージョンを優先し、次にFlatpakを優先します
+
+原文：Improve search performance
+筆者訳：検索のパフォーマンスを改善
+Google翻訳：検索パフォーマンスを向上させる
+
+原文：Improve update badge styling and category styling
+筆者訳：アップデート数を表示するバッジのスタイルと、カテゴリーのスタイルを改善
+Google翻訳：更新バッジのスタイルとカテゴリのスタイルを改善する
+
+原文：Ensure AppCenter is reopened at the correct position
+筆者訳：ウィンドウが正しい位置に再表示されるように修正
+Google翻訳：AppCenterが正しい位置で再度開かれていることを確認します
+
+原文：Clicking the updates badge in the header navigates to the updates view
+筆者訳：ヘッダーのアップデート数を示すバッジをクリックした際に、アップデートビューに切り替わるように修正
+Google翻訳：ヘッダーの更新バッジをクリックすると、更新ビューに移動します
+
+原文：Ensure all updatable Flatpak runtimes are listed for update
+筆者訳：アップデート可能な Flatpak ランタイムが、確実にすべてアップデートビューに表示されるように修正
+Google翻訳：更新可能なすべてのFlatpakランタイムが更新用にリストされていることを確認します
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Perform updates without administrator permissions
+筆者訳：管理者権限不要でアップデートを実行できるように修正
+Google翻訳：管理者権限なしで更新を実行する
+
+原文：Ensure apps on the homepage are more reliably displayed
+筆者訳：ホームページのアプリが確実に表示されるように修正
+Google翻訳：ホームページ上のアプリがより確実に表示されるようにする
+
+原文：More reliably set the Dock badge number
+筆者訳：ドックのバッジの数値を正しく表示するように修正
+Google翻訳：Dockバッジ番号をより確実に設定する
+
+原文：Only check for updates at device startup if it's more than 24 hours since we last checked
+筆者訳：直近のアップデート確認から24時間経過した場合は、デバイスの起動時にのみアップデートを確認
+Google翻訳：最後にチェックしてから24時間以上経過している場合にのみ、デバイスの起動時に更新をチェックしてください
+
+原文：Reduce slowdowns when opening certain apps
+筆者訳：特定のアプリを開く際に動作が遅くなる不具合を軽減
+Google翻訳：特定のアプリを開くときの速度低下を減らす
+
+原文：Extension improvements
+筆者訳：拡張機能の改善
+Google翻訳：拡張機能の改善
+
+原文：To de-clutter the updates view, extensions are now only shown if they require updates
+筆者訳：アップデートビューを整理するために、アップデートがある場合にのみ拡張機能を表示するように変更
+Google翻訳：更新ビューを整理するために、拡張機能は更新が必要な場合にのみ表示されるようになりました
+
+原文：Clicking an extension on an app's info page now shows details for the extension
+筆者訳：アプリの情報ページで拡張機能をクリックすると、拡張機能の詳細情報を表示するように変更
+Google翻訳：アプリの情報ページで拡張機能をクリックすると、拡張機能の詳細が表示されるようになりました
+
+原文：Swap the main and overlay icons for extensions to more clearly associate extensions with their app
+筆者訳：より明確に拡張機能をアプリと関連付けるため、拡張機能のメインアイコンと重ねて表示するアイコンを入れ替え
+Google翻訳：メインアイコンとオーバーレイアイコンを拡張機能と交換して、拡張機能をアプリに明確に関連付けます
+
+原文：Keyboard improvements
+筆者訳：キーボードの改善
+Google翻訳：キーボードの改善
+
+原文：Pressing down in the search field moves the keyboard focus to the search results list
+筆者訳：検索欄で下矢印キーを押すと、検索結果の一覧にキーボードのフォーカスを移動するように変更
+Google翻訳：検索フィールドを押し下げると、キーボードのフォーカスが検索結果リストに移動します
+
+原文：Ctrl+F now moves the cursor to the search field
+筆者訳：Ctrl+F キーを押すと検索欄にカーソルを移動するように変更
+Google翻訳：Ctrl + Fで、カーソルを検索フィールドに移動します
+
+原文：Use configured network proxy settings for apt operations
+筆者訳：apt 操作に設定済みのネットワークプロキシ設定を使用するように変更
+Google翻訳：apt操作に構成済みのネットワークプロキシ設定を使用する
+
+原文：No longer prompt for approval to update non-curated apps
+筆者訳：キューレートしていないアプリのアップデートの際に、インストール許可のダイアログを表示しないように修正
+Google翻訳：キュレーションされていないアプリを更新するための承認を求めるプロンプトが表示されなくなりました
+
+原文：Ensure the OS updates subheading copy is correct after finishing updates
+筆者訳：アップデート終了後に OS のアップデートの見出しに正しいテキストが表示されるように修正
+Google翻訳：更新が完了したら、OS更新の小見出しのコピーが正しいことを確認します
+
+原文：Ellipsize long app names in App Info views
+筆者訳：アプリ情報ビューでアプリ名が長い場合に省略表示するように修正
+Google翻訳：アプリ情報ビューでの楕円サイズの長いアプリ名
+
+原文：And more
+筆者訳：そのほかの修正
+Google翻訳：もっと
+
+原文：Show a more informative loading screen when checking for updates
+筆者訳：アップデートの確認中により有益な読み込み画面を表示するように修正
+Google翻訳：更新を確認するときに、より有益なロード画面を表示する
+
+原文：Don't list fonts alongside apps
+筆者訳：アプリと一緒にフォントを一覧表示しないように修正
+Google翻訳：アプリと一緒にフォントをリストしないでください
+
+原文：Prevent crashes when updating Flatpaks and system packages simultaneously
+筆者訳：Flatpak とシステムパッケージを同時にアップデートする際にクラッシュする不具合を修正
+Google翻訳：Flatpaksとシステムパッケージを同時に更新する際のクラッシュを防ぐ
+
+原文：Prevent suspending when installing, updating, or removing packages
+筆者訳：パッケージのインストール・アップデート・削除中はサスペンドしないように修正
+Google翻訳：パッケージのインストール、更新、または削除時に中断しないようにする
+
+原文：Minor fixes
+筆者訳：軽微な修正
+Google翻訳：マイナーな修正
+
+原文：Update application details when changes happen outside of AppCenter
+筆者訳：AppCenter 以外で変更があった際にアプリケーションの詳細情報を更新
+Google翻訳：AppCenterの外部で変更が発生した場合は、アプリケーションの詳細を更新します
+
+原文：Fix for notification not appearing when a restart is required
+筆者訳：再起動が必要な場合に通知が表示されない不具合を修正
+Google翻訳：再起動が必要なときに通知が表示されない問題を修正
+
+原文：Apps in list views now load in the correct order when scrolling
+筆者訳：スクロール時にリストビューのアプリが正しい順番で読み込まれない不具合を修正
+Google翻訳：リストビューのアプリは、スクロール時に正しい順序で読み込まれるようになりました
+
+原文：Prevent unescaped XML entities from appearing in application names
+筆者訳：エスケープされていない XML エントリーがアプリケーション名に表示される不具合を修正
+Google翻訳：エスケープされていないXMLエンティティがアプリケーション名に表示されないようにする
+
+原文：Load the "Installed" view faster
+筆者訳："インストール済み"タブの読み込みを高速化
+Google翻訳：「インストール済み」ビューをより速くロードする
+
+原文：Ensure flatpak applications show in the category views
+筆者訳：Flatpak アプリケーションがカテゴリービューで表示されるように修正
+Google翻訳：フラットパックアプリケーションがカテゴリビューに表示されることを確認します
+
+原文：Save some bandwidth by downloading smaller screenshots where appropriate
+筆者訳：場合に応じて小さいサイズのスクリーンショットをダウンロードすることで、帯域幅を小さくするように修正
+Google翻訳：必要に応じて小さなスクリーンショットをダウンロードして、帯域幅を節約します
+
+原文：System components no longer have an "Open" button
+筆者訳：システムコンポーネントに"開く"ボタンが表示されないように修正
+Google翻訳：システムコンポーネントに「開く」ボタンがなくなりました
+
+原文：Applications menu can now remove flatpaks that weren't installed by AppCenter
+筆者訳：AppCenter からインストールしていない Flatpak アプリケーションを、アプリケーションメニューから削除できるように修正
+Google翻訳：アプリケーションメニューで、AppCenterによってインストールされなかったフラットパックを削除できるようになりました
+
+原文：Make download size estimates more accurate
+筆者訳：推定ダウンロードサイズをより正確に表示するように修正
+Google翻訳：ダウンロードサイズの見積もりをより正確にする
+
+原文：Prevent AppCenter from opening on log in
+筆者訳：ログイン時に AppCenter が勝手に開かないように修正
+Google翻訳：ログイン時にAppCenterが開かないようにする
+
+原文：Prevent ghost update notification when there are no updates available
+筆者訳：アップデートがないのに通知が表示される不具合を修正
+Google翻訳：利用可能な更新がない場合のゴースト更新通知を防止します
+
+原文：Show correct installation state for extensions
+筆者訳：拡張機能のインストールの状態を正しく表示するように修正
+Google翻訳：拡張機能の正しいインストール状態を表示する
+
+原文：Add support for Flatpak apps
+筆者訳：Flatpak アプリに対応
+Google翻訳：Flatpakアプリのサポートを追加する
+
+原文：Warn about non-curated apps
+筆者訳：キュレーションされていないアプリのインストール時に警告を表示するように修正
+Google翻訳：キュレーションされていないアプリについて警告する
+
+原文：Show an error dialog if an installation fails
+筆者訳：インストールの失敗時にエラーダイアログを表示するように修正
+Google翻訳：インストールが失敗した場合にエラーダイアログを表示する
+
+原文：Fix an issue where some apps couldn't be uninstalled from the Applications Menu
+筆者訳：一部のアプリがアプリケーションメニューからアンインストールできない不具合を修正
+Google翻訳：一部のアプリをアプリケーションメニューからアンインストールできなかった問題を修正します
+
+原文：Allow browsing and uninstalling apps while offline
+筆者訳：オフライン時にインストール済みのアプリを確認したりアンインストールしたりできるように変更
+Google翻訳：オフラインでのアプリの閲覧とアンインストールを許可する
+
+原文：Fix twitter share URLs
+筆者訳：Twitter 共有の URL を修正
+Google翻訳：Twitterの共有URLを修正する
+
+原文：Drop Google+ from the share menu
+筆者訳：共有メニューから Google+ を削除
+Google翻訳：共有メニューからGoogle+を削除します
+
+原文：Animate screenshot background while loading
+筆者訳：読み込み時にスクリーンショットの背景をアニメーション表示するように変更
+Google翻訳：読み込み中にスクリーンショットの背景をアニメーション化する
+
+原文：Add navigation arrows for screenshots
+筆者訳：別jのスクリーンショットに移動するための矢印ボタンを追加
+Google翻訳：スクリーンショットのナビゲーション矢印を追加する
+
+原文：Don't show uninstall buttons for essential system components
+筆者訳：削除してはいけないシステムコンポーネントにはアンインストールボタンを表示しないように修正
+Google翻訳：重要なシステムコンポーネントのアンインストールボタンを表示しない
+
+原文：Properly display proprietary licenses
+筆者訳：プロプライエタリーなライセンスを適切に表示するように修正
+Google翻訳：独自のライセンスを適切に表示する
+
+原文：Fix some layout issues
+筆者訳：レイアウトの不具合を修正
+Google翻訳：いくつかのレイアウトの問題を修正
+
+原文：Fix crashes
+筆者訳：クラッシュを修正
+Google翻訳：クラッシュを修正
+
+原文：Meson build system fixes
+筆者訳：Meson ビルドシステムの修正
+Google翻訳：Mesonビルドシステムの修正
+
+原文：Improve window state restoration
+筆者訳：ウィンドウの状態の復元を改善
+Google翻訳：ウィンドウ状態の復元を改善する
+
+原文：Prevent action buttons from jumping around
+筆者訳：アクションボタンが移動する不具合を修正
+Google翻訳：アクションボタンが飛び回らないようにする
+
+原文：Remove reset paid apps gsettings key
+筆者訳：GSettings キー "reset_paid_apps" を削除
+Google翻訳：有料アプリのリセットgsettingsキーを削除します
+
+原文：Memory management refinements
+筆者訳：メモリー管理の改善
+Google翻訳：メモリ管理の改良
+
+原文：Add conditional compilation for disabling dynamic remote homepage content
+筆者訳：動的なリモートホームページコンテンツを無効化するための動的なコンパイルオプションを追加
+Google翻訳：動的なリモートホームページコンテンツを無効にするための条件付きコンパイルを追加する
+
+原文：New translations
+筆者訳：新しい翻訳
+Google翻訳：新しい翻訳
+
+原文：New categories: Communication, Finance, Media Production
+筆者訳：新しいカテゴリー: コミュニケーション、ファイナンス、メディア製作
+Google翻訳：新しいカテゴリー：コミュニケーション、金融、メディア制作
+
+原文：Add Math to Science category
+筆者訳：数学関連のアプリを科学カテゴリーに追加
+Google翻訳：科学カテゴリに数学を追加
+
+原文：Relax email address validator
+筆者訳：メールアドレスの検証を緩和
+Google翻訳：メールアドレスバリデーターをリラックス
+
+原文：Present update availability more accurately
+筆者訳：利用可能なアップデートをより正確に表示
+Google翻訳：更新の可用性をより正確に提示する
+
+原文：Category graphics revamped
+筆者訳：カテゴリーのバナーのイラストを刷新
+Google翻訳：カテゴリグラフィックを刷新
+
+原文：Bug fixes and improve performance.
+筆者訳：バグ修正とパフォーマンスの改善。
+Google翻訳：バグ修正とパフォーマンスの向上。
+
+原文：Improve transaction success rate
+筆者訳：取引成功率を改善
+Google翻訳：トランザクションの成功率を向上させる
+
+原文：Add Publishing to Office category
+筆者訳：Office カテゴリーに出版関連のアプリを追加
+Google翻訳：Officeカテゴリに発行を追加
+
+原文：Improve descriptions of OS Updates
+筆者訳：OS のアップデートの説明を改善
+Google翻訳：OSアップデートの説明を改善する
+
+原文：Various bug fixes and performance improvements
+筆者訳：様々なバグ修正とパフォーマンスの改善
+Google翻訳：さまざまなバグ修正とパフォーマンスの改善
+
+原文：Give details for Operating System Updates
+筆者訳：オペレーティングシステムのアップデートに詳細を追加
+Google翻訳：オペレーティングシステムの更新の詳細を提供する
+
+原文：Support mouse button navigation
+筆者訳：マウスボタンによるナビゲーションをサポート
+Google翻訳：マウスボタンナビゲーションをサポート
+
+原文：Fix crash caused by entries with missing packages
+筆者訳：不足しているパッケージの登録によるクラッシュを修正
+Google翻訳：パッケージが欠落しているエントリによって引き起こされるクラッシュを修正
+
+原文：Add capability to search by category and apply minor bug fixes.
+筆者訳：カテゴリー別で検索できるようにし、軽微なバグを修正しました。
+Google翻訳：カテゴリで検索し、マイナーなバグ修正を適用する機能を追加します。
+
+原文：It is now possible to search apps inside a category
+筆者訳：カテゴリー内でアプリを検索できるようになりました
+Google翻訳：カテゴリ内のアプリを検索できるようになりました
+
+原文：Prevent multiple authentication dialogs when resuming from suspend
+筆者訳：サスペンドからの復帰時に複数の認証ダイアログが出るのを防止
+Google翻訳：一時停止から再開するときに複数の認証ダイアログを防止する
+
+原文：Search performance has been improved, the category name is now shown on the headbar and minor bugs have been fixed.
+筆者訳：検索能力が向上し、カテゴリーの名前がヘッドバーに表示されます。また、軽微なバグも修正しました。
+Google翻訳：検索パフォーマンスが改善され、カテゴリ名がヘッドバーに表示されるようになり、マイナーなバグが修正されました。
+
+原文：Fix Steam installation
+筆者訳：Steam のインストールを修正
+Google翻訳：Steamのインストールを修正
+
+原文：Make search asynchronous
+筆者訳：検索の非同期化
+Google翻訳：検索を非同期にする
+
+原文：install;uninstall;remove;catalogue;store;apps;software;
+筆者訳：install;uninstall;remove;catalogue;store;apps;software;インストール;アンインストール;削除;カタログ;ストア;アプリ;ソフトウェア;
+Google翻訳：インストール;アンインストール;削除;カタログ;ストア;アプリ;ソフトウェア;
+
+原文：Check for Updates
+筆者訳：アップデートを確認
+Google翻訳：アップデートを確認する
+
+原文：Update software
+筆者訳：ソフトウェアをアップデートします
+Google翻訳：ソフトウェアの更新
+
+原文：Authentication is required to update software
+筆者訳：ソフトウェアをアップデートするには認証が必要です
+Google翻訳：ソフトウェアを更新するには認証が必要です
+

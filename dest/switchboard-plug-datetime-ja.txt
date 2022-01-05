@@ -1,0 +1,2636 @@
+原文：Network time:
+筆者訳：ネットワーク時間:
+Google翻訳：ネットワーク時間：
+
+原文：Time format:
+筆者訳：時刻の書式:
+Google翻訳：時間形式：
+
+原文：AM/PM
+筆者訳：午前／午後表示
+Google翻訳：午前午後
+
+原文：24-hour
+筆者訳：24時間表示
+Google翻訳：24時間
+
+原文：Time zone:
+筆者訳：タイムゾーン:
+Google翻訳：タイムゾーン：
+
+原文：Based on location:
+筆者訳：位置情報に基づいて設定:
+Google翻訳：場所に基づく：
+
+原文：Automatically updates the time zone when activated
+筆者訳：有効にすると、タイムゾーンを自動的に更新します
+Google翻訳：有効にすると、タイムゾーンが自動的に更新されます
+
+原文：Show week numbers:
+筆者訳：週番号を表示:
+Google翻訳：週番号を表示する：
+
+原文：e.g. in Calendar and the Date & Time Panel indicator
+筆者訳：設定はカレンダーや日付と時刻インジケーターなどで反映されます
+Google翻訳：例えばカレンダーと日付と時刻のパネルインジケーター
+
+原文：Show in Panel:
+筆者訳：以下の項目をパネルに表示:
+Google翻訳：パネルに表示：
+
+原文：Date
+筆者訳：日付
+Google翻訳：日にち
+
+原文：Day of the week
+筆者訳：曜日
+Google翻訳：曜日
+
+原文：Seconds
+筆者訳：秒
+Google翻訳：秒
+
+原文：Date & Time
+筆者訳：日付と時刻
+Google翻訳：日付時刻
+
+原文：Configure date, time, and select time zone
+筆者訳：日付と時刻を設定し、タイムゾーンを選択します
+Google翻訳：日付と時刻を構成し、タイムゾーンを選択します
+
+原文：Time Format
+筆者訳：時刻の書式
+Google翻訳：時間形式
+
+原文：Time Zone
+筆者訳：タイムゾーン
+Google翻訳：タイムゾーン
+
+原文：Network Time
+筆者訳：ネットワーク時間
+Google翻訳：ネットワーク時間
+
+原文：Show week numbers
+筆者訳：週番号を表示
+Google翻訳：週番号を表示する
+
+原文：Europe/Andorra
+筆者訳：ヨーロッパ/アンドラ
+Google翻訳：ヨーロッパ/アンドラ
+
+原文：Asia/Dubai
+筆者訳：アジア/ドバイ
+Google翻訳：アジア/ドバイ
+
+原文：Asia/Kabul
+筆者訳：アジア/カーブル
+Google翻訳：アジア/カブール
+
+原文：America/Antigua
+筆者訳：アメリカ/アンティグア
+Google翻訳：アメリカ/アンティグア
+
+原文：America/Anguilla
+筆者訳：アメリカ/アンギラ
+Google翻訳：アメリカ/アンギラ
+
+原文：Europe/Tirane
+筆者訳：ヨーロッパ/ティラナ
+Google翻訳：ヨーロッパ/ティラナ
+
+原文：Asia/Yerevan
+筆者訳：アジア/エレバン
+Google翻訳：アジア/エレバン
+
+原文：Africa/Luanda
+筆者訳：アフリカ/ルアンダ
+Google翻訳：アフリカ/ルアンダ
+
+原文：Antarctica/McMurdo
+筆者訳：南極大陸/マクマード基地
+Google翻訳：南極/マクマード
+
+原文：New Zealand time - McMurdo, South Pole
+筆者訳：ニュージーランド時間 - マクマード、南極
+Google翻訳：ニュージーランド時間-マクマード、南極
+
+原文：Antarctica/Casey
+筆者訳：南極大陸/ケーシー基地
+Google翻訳：南極/ケイシー
+
+原文：Casey
+筆者訳：ケーシー基地
+Google翻訳：ケーシー
+
+原文：Antarctica/Davis
+筆者訳：南極大陸/デービス基地
+Google翻訳：南極/デイビス
+
+原文：Davis
+筆者訳：デービス基地
+Google翻訳：デイビス
+
+原文：Antarctica/DumontDUrville
+筆者訳：南極大陸/デュモンデュルヴィル基地
+Google翻訳：南極/デュモンダービル
+
+原文：Dumont-d'Urville
+筆者訳：デュモンデュルヴィル基地
+Google翻訳：デュモンデュルヴィル
+
+原文：Antarctica/Mawson
+筆者訳：南極大陸/モーソン基地
+Google翻訳：南極/モーソン
+
+原文：Mawson
+筆者訳：モーソン基地
+Google翻訳：モーソン
+
+原文：Antarctica/Palmer
+筆者訳：南極大陸/パーマー基地
+Google翻訳：南極/パーマー
+
+原文：Palmer
+筆者訳：パーマー基地
+Google翻訳：パーマー
+
+原文：Antarctica/Rothera
+筆者訳：南極大陸/ロゼラ研究基地
+Google翻訳：南極/ロセラ
+
+原文：Rothera
+筆者訳：ロゼラ研究基地
+Google翻訳：ロセラ
+
+原文：Antarctica/Syowa
+筆者訳：南極大陸/昭和基地
+Google翻訳：南極/昭和基地
+
+原文：Syowa
+筆者訳：昭和基地
+Google翻訳：昭和基地
+
+原文：Antarctica/Troll
+筆者訳：南極大陸/トロル基地
+Google翻訳：南極/トロール
+
+原文：Troll
+筆者訳：トロル基地
+Google翻訳：トロール
+
+原文：Antarctica/Vostok
+筆者訳：南極大陸/ボストーク基地
+Google翻訳：南極/ボストーク
+
+原文：Vostok
+筆者訳：ボストーク基地
+Google翻訳：ボストーク
+
+原文：America/Argentina/Buenos_Aires
+筆者訳：アメリカ/アルゼンチン/ブエノスアイレス
+Google翻訳：アメリカ/アルゼンチン/ブエノスアイレス
+
+原文：Buenos Aires (BA, CF)
+筆者訳：ブエノスアイレス (バイーア州、CF)
+Google翻訳：ブエノスアイレス（BA、CF）
+
+原文：America/Argentina/Cordoba
+筆者訳：アメリカ/アルゼンチン/コルドバ
+Google翻訳：アメリカ/アルゼンチン/コルドバ
+
+原文：Argentina (most areas: CB, CC, CN, ER, FM, MN, SE, SF)
+筆者訳：アルゼンチン (ほとんどの地域: CB, CC, CN, ER, FM, MN, SE, SF)
+Google翻訳：アルゼンチン（ほとんどの地域：CB、CC、CN、ER、FM、MN、SE、SF）
+
+原文：America/Argentina/Salta
+筆者訳：アメリカ/アルゼンチン/サルタ
+Google翻訳：アメリカ/アルゼンチン/サルタ
+
+原文：Salta (SA, LP, NQ, RN)
+筆者訳：サルタ (SA, LP, NQ, RN)
+Google翻訳：サルタ（SA、LP、NQ、RN）
+
+原文：America/Argentina/Jujuy
+筆者訳：アメリカ/アルゼンチン/フフイ
+Google翻訳：アメリカ/アルゼンチン/フフイ
+
+原文：Jujuy (JY)
+筆者訳：フフイ (JY)
+Google翻訳：ジュジュイ（JY）
+
+原文：America/Argentina/Tucuman
+筆者訳：アメリカ/アルゼンチン/トゥクマン
+Google翻訳：アメリカ/アルゼンチン/トゥクマン
+
+原文：Tucuman (TM)
+筆者訳：トゥクマン (TM)
+Google翻訳：トゥクマン（TM）
+
+原文：America/Argentina/Catamarca
+筆者訳：アメリカ/アルゼンチン/カタマルカ
+Google翻訳：アメリカ/アルゼンチン/カタマルカ
+
+原文：Catamarca (CT); Chubut (CH)
+筆者訳：カタマルカ (CT); チュブ (CH)
+Google翻訳：カタマルカ（CT）;チュブ（CH）
+
+原文：America/Argentina/La_Rioja
+筆者訳：アメリカ/アルゼンチン/ラ・リオハ
+Google翻訳：アメリカ/アルゼンチン/ La_Rioja
+
+原文：La Rioja (LR)
+筆者訳：ラ・リオハ (LR)
+Google翻訳：ラ・リオハ（LR）
+
+原文：America/Argentina/San_Juan
+筆者訳：アメリカ/アルゼンチン/サン・フアン
+Google翻訳：アメリカ/アルゼンチン/ San_Juan
+
+原文：San Juan (SJ)
+筆者訳：サン・フアン (SJ)
+Google翻訳：サンファン（SJ）
+
+原文：America/Argentina/Mendoza
+筆者訳：アメリカ/アルゼンチン/メンドーサ
+Google翻訳：アメリカ/アルゼンチン/メンドーサ
+
+原文：Mendoza (MZ)
+筆者訳：メンドーサ (MZ)
+Google翻訳：メンドーサ（MZ）
+
+原文：America/Argentina/San_Luis
+筆者訳：アメリカ/アルゼンチン/サンルイス
+Google翻訳：アメリカ/アルゼンチン/ San_Luis
+
+原文：San Luis (SL)
+筆者訳：サンルイス (SL)
+Google翻訳：サンルイス（SL）
+
+原文：America/Argentina/Rio_Gallegos
+筆者訳：アメリカ/アルゼンチン/リオ・ガレゴス
+Google翻訳：アメリカ/アルゼンチン/ Rio_Gallegos
+
+原文：Santa Cruz (SC)
+筆者訳：サンタ・クルス (SC)
+Google翻訳：サンタクルス（SC）
+
+原文：America/Argentina/Ushuaia
+筆者訳：アメリカ/アルゼンチン/ウシュアイア
+Google翻訳：アメリカ/アルゼンチン/ウシュアイア
+
+原文：Tierra del Fuego (TF)
+筆者訳：ティエラ・デル・フエゴ (TF)
+Google翻訳：ティエラデルフエゴ（TF）
+
+原文：Pacific/Pago_Pago
+筆者訳：太平洋/パゴパゴ
+Google翻訳：パシフィック/パゴパゴ
+
+原文：Europe/Vienna
+筆者訳：ヨーロッパ/ウィーン
+Google翻訳：ヨーロッパ/ウィーン
+
+原文：Australia/Lord_Howe
+筆者訳：オーストラリア/ロード・ハウ
+Google翻訳：オーストラリア/ Lord_Howe
+
+原文：Lord Howe Island
+筆者訳：ロード・ハウ島
+Google翻訳：ロードハウ島
+
+原文：Antarctica/Macquarie
+筆者訳：南極大陸/マッコーリー島
+Google翻訳：南極/マッコーリー
+
+原文：Macquarie Island
+筆者訳：マッコーリー島
+Google翻訳：マッコーリー島
+
+原文：Australia/Hobart
+筆者訳：オーストラリア/ホバート
+Google翻訳：オーストラリア/ホバート
+
+原文：Tasmania (most areas)
+筆者訳：タスマニア (ほとんどの地域)
+Google翻訳：タスマニア（ほとんどの地域）
+
+原文：Australia/Currie
+筆者訳：オーストラリア/カリー
+Google翻訳：オーストラリア/カリー
+
+原文：Tasmania (King Island)
+筆者訳：タスマニア (キング島)
+Google翻訳：タスマニア（キング島）
+
+原文：Australia/Melbourne
+筆者訳：オーストラリア/メルボルン
+Google翻訳：オーストラリア/メルボルン
+
+原文：Victoria
+筆者訳：ビクトリア
+Google翻訳：ビクトリア
+
+原文：Australia/Sydney
+筆者訳：オーストラリア/シドニー
+Google翻訳：オーストラリア/シドニー
+
+原文：New South Wales (most areas)
+筆者訳：ニューサウスウェールズ (ほとんどの地域)
+Google翻訳：ニューサウスウェールズ（ほとんどの地域）
+
+原文：Australia/Broken_Hill
+筆者訳：オーストラリア/ブロークンヒル
+Google翻訳：オーストラリア/ Broken_Hill
+
+原文：New South Wales (Yancowinna)
+筆者訳：ニューサウスウェールズ (ヤンコウィナ)
+Google翻訳：ニューサウスウェールズ（ヤンコウィナ）
+
+原文：Australia/Brisbane
+筆者訳：オーストラリア/ブリズベン
+Google翻訳：オーストラリア/ブリスベン
+
+原文：Queensland (most areas)
+筆者訳：クイーンズランド (ほとんどの地域)
+Google翻訳：クイーンズランド（ほとんどの地域）
+
+原文：Australia/Lindeman
+筆者訳：オーストラリア/リンデマン
+Google翻訳：オーストラリア/リンデマン
+
+原文：Queensland (Whitsunday Islands)
+筆者訳：クイーンズランド (ウィットサンデー諸島)
+Google翻訳：クイーンズランド（ウィットサンデー諸島）
+
+原文：Australia/Adelaide
+筆者訳：オーストラリア/アデレード
+Google翻訳：オーストラリア/アデレード
+
+原文：South Australia
+筆者訳：オーストラリア南部
+Google翻訳：南オーストラリア
+
+原文：Australia/Darwin
+筆者訳：オーストラリア/ダーウィン
+Google翻訳：オーストラリア/ダーウィン
+
+原文：Northern Territory
+筆者訳：北部準州
+Google翻訳：ノーザン・テリトリー
+
+原文：Australia/Perth
+筆者訳：オーストラリア/パース
+Google翻訳：オーストラリア/パース
+
+原文：Western Australia (most areas)
+筆者訳：西オーストラリア (ほとんどの地域)
+Google翻訳：西オーストラリア（ほとんどの地域）
+
+原文：Australia/Eucla
+筆者訳：オーストラリア/ユークラ
+Google翻訳：オーストラリア/ユークラ
+
+原文：Western Australia (Eucla)
+筆者訳：西オーストラリア (ユークラ)
+Google翻訳：西オーストラリア（ユークラ）
+
+原文：America/Aruba
+筆者訳：アメリカ/アルバ
+Google翻訳：アメリカ/アルバ
+
+原文：Europe/Mariehamn
+筆者訳：ヨーロッパ/マリエハムン
+Google翻訳：ヨーロッパ/マリハムン
+
+原文：Asia/Baku
+筆者訳：アジア/バクー
+Google翻訳：アジア/バク
+
+原文：Europe/Sarajevo
+筆者訳：ヨーロッパ/サラエボ
+Google翻訳：ヨーロッパ/サラエボ
+
+原文：America/Barbados
+筆者訳：アメリカ/バルバトス
+Google翻訳：アメリカ/バルバドス
+
+原文：Asia/Dhaka
+筆者訳：アジア/ダッカ
+Google翻訳：アジア/ダッカ
+
+原文：Europe/Brussels
+筆者訳：ヨーロッパ/ブリュッセル
+Google翻訳：ヨーロッパ/ブリュッセル
+
+原文：Africa/Ouagadougou
+筆者訳：アフリカ/ワガドゥグー
+Google翻訳：アフリカ/ワガドゥグー
+
+原文：Europe/Sofia
+筆者訳：ヨーロッパ/ソフィア
+Google翻訳：ヨーロッパ/ソフィア
+
+原文：Asia/Bahrain
+筆者訳：アジア/バーレーン
+Google翻訳：アジア/バーレーン
+
+原文：Africa/Bujumbura
+筆者訳：アフリカ/ブジュンブラ
+Google翻訳：アフリカ/ブジュンブラ
+
+原文：Africa/Porto-Novo
+筆者訳：アフリカ/ポルトノボ
+Google翻訳：アフリカ/ポルトノボ
+
+原文：America/St_Barthelemy
+筆者訳：アメリカ/サン・バルテルミー島
+Google翻訳：アメリカ/ St_Barthelemy
+
+原文：Atlantic/Bermuda
+筆者訳：大西洋/バミューダ
+Google翻訳：大西洋/バミューダ
+
+原文：Asia/Brunei
+筆者訳：アジア/ブルネイ
+Google翻訳：アジア/ブルネイ
+
+原文：America/La_Paz
+筆者訳：アメリカ/ラパス
+Google翻訳：アメリカ/ La_Paz
+
+原文：America/Kralendijk
+筆者訳：アメリカ/クラレンダイク
+Google翻訳：アメリカ/クラレンデイク
+
+原文：America/Noronha
+筆者訳：アメリカ/ノローニャ
+Google翻訳：アメリカ/ノローニャ
+
+原文：Atlantic islands
+筆者訳：大西洋諸島
+Google翻訳：大西洋の島々
+
+原文：America/Belem
+筆者訳：アメリカ/ベレン
+Google翻訳：アメリカ/ベレム
+
+原文：Para (east); Amapa
+筆者訳：パラ (東部); アマパ
+Google翻訳：パラ（東）;アマパ
+
+原文：America/Fortaleza
+筆者訳：アメリカ/フォルタレザ
+Google翻訳：アメリカ/フォルタレザ
+
+原文：Brazil (northeast: MA, PI, CE, RN, PB)
+筆者訳：ブラジル (北東部: マラニャン、ピアウイ、セアラー、リオ・グランデ・ド・ノルテ、パライバ )
+Google翻訳：ブラジル（北東：MA、PI、CE、RN、PB）
+
+原文：America/Recife
+筆者訳：アメリカ/レシフェ
+Google翻訳：アメリカ/レシフェ
+
+原文：Pernambuco
+筆者訳：ペルナンブコ
+Google翻訳：ペルナンブコ
+
+原文：America/Araguaina
+筆者訳：アメリカ/アラグアイナ
+Google翻訳：アメリカ/アラグァイーナ
+
+原文：Tocantins
+筆者訳：トカンティンス
+Google翻訳：トカンティンス
+
+原文：America/Maceio
+筆者訳：アメリカ/マセイオ
+Google翻訳：アメリカ/マセイオ
+
+原文：Alagoas, Sergipe
+筆者訳：アラゴアス、セルジッペ
+Google翻訳：アラゴアス、セルジッペ
+
+原文：America/Bahia
+筆者訳：アメリカ/バイーア
+Google翻訳：アメリカ/バイーア
+
+原文：Bahia
+筆者訳：バイア
+Google翻訳：バイーア
+
+原文：America/Sao_Paulo
+筆者訳：アメリカ/サンパウロ
+Google翻訳：アメリカ/サンパウロ
+
+原文：Brazil (southeast: GO, DF, MG, ES, RJ, SP, PR, SC, RS)
+筆者訳：ブラジル (南東: ゴイアス、連邦直轄区、ミナスジェライス、エスピリト・サント、リオデジャネイロ、サン・パウロ、パラナ、サンタカタリーナ、リオグランデ・ド・スル )
+Google翻訳：ブラジル（南東：GO、DF、MG、ES、RJ、SP、PR、SC、RS）
+
+原文：America/Campo_Grande
+筆者訳：アメリカ/カンポ・グランデ
+Google翻訳：アメリカ/ Campo_Grande
+
+原文：Mato Grosso do Sul
+筆者訳：マトグロッソドスル
+Google翻訳：マトグロッソドスル
+
+原文：America/Cuiaba
+筆者訳：アメリカ/クイアバ
+Google翻訳：アメリカ/クイアバ
+
+原文：Mato Grosso
+筆者訳：マトグロッソ
+Google翻訳：マットグロッソ
+
+原文：America/Santarem
+筆者訳：アメリカ/サンタレン
+Google翻訳：アメリカ/サンタレム
+
+原文：Para (west)
+筆者訳：パラ (西部)
+Google翻訳：パラ（西）
+
+原文：America/Porto_Velho
+筆者訳：アメリカ/ポルトベリョ
+Google翻訳：アメリカ/ Porto_Velho
+
+原文：Rondonia
+筆者訳：ロンドニア
+Google翻訳：ロンドニア
+
+原文：America/Boa_Vista
+筆者訳：アメリカ/ボアビスタ
+Google翻訳：アメリカ/ Boa_Vista
+
+原文：Roraima
+筆者訳：ロライマ
+Google翻訳：ロライマ
+
+原文：America/Manaus
+筆者訳：アメリカ/マナウス
+Google翻訳：アメリカ/マナウス
+
+原文：Amazonas (east)
+筆者訳：アマゾナス (東部)
+Google翻訳：アマゾナス（東）
+
+原文：America/Eirunepe
+筆者訳：アメリカ/エイルネペ
+Google翻訳：アメリカ/エイルネペ
+
+原文：Amazonas (west)
+筆者訳：アマゾナス (西部)
+Google翻訳：アマゾナス（西）
+
+原文：America/Rio_Branco
+筆者訳：アメリカ/リオブランコ
+Google翻訳：アメリカ/ Rio_Branco
+
+原文：Acre
+筆者訳：アクレ
+Google翻訳：エーカー
+
+原文：America/Nassau
+筆者訳：アメリカ/ナッソー
+Google翻訳：アメリカ/ナッソー
+
+原文：Asia/Thimphu
+筆者訳：アジア/ティンプー
+Google翻訳：アジア/ティンプー
+
+原文：Africa/Gaborone
+筆者訳：アフリカ/ハボローネ
+Google翻訳：アフリカ/ハボローネ
+
+原文：Europe/Minsk
+筆者訳：ヨーロッパ/ミンスク
+Google翻訳：ヨーロッパ/ミンスク
+
+原文：America/Belize
+筆者訳：アメリカ/ベリーズ
+Google翻訳：アメリカ/ベリーズ
+
+原文：America/St_Johns
+筆者訳：アメリカ/セントジョーンズ
+Google翻訳：アメリカ/ St_Johns
+
+原文：Newfoundland; Labrador (southeast)
+筆者訳：ニューファンドランド; ラブラドール (南東部)
+Google翻訳：ニューファンドランド;ラブラドール（南東）
+
+原文：America/Halifax
+筆者訳：アメリカ/ハリファックス
+Google翻訳：アメリカ/ハリファックス
+
+原文：Atlantic - NS (most areas); PE
+筆者訳：大西洋 - ノバスコシア州 (ほとんどの地域); プリンスエドワードアイランド州
+Google翻訳：大西洋-NS（ほとんどの地域）; PE
+
+原文：America/Glace_Bay
+筆者訳：アメリカ/グレースベイ
+Google翻訳：アメリカ/ Glace_Bay
+
+原文：Atlantic - NS (Cape Breton)
+筆者訳：大西洋 - ノバスコシア州 (ケープブレトン)
+Google翻訳：大西洋-NS（ケープブレトン）
+
+原文：America/Moncton
+筆者訳：アメリカ/モンクトン
+Google翻訳：アメリカ/モンクトン
+
+原文：Atlantic - New Brunswick
+筆者訳：大西洋 - ニューブランズウィック州
+Google翻訳：大西洋-ニューブランズウィック
+
+原文：America/Goose_Bay
+筆者訳：アメリカ/グースベイ
+Google翻訳：アメリカ/ Goose_Bay
+
+原文：Atlantic - Labrador (most areas)
+筆者訳：大西洋 - ラブラドール (ほとんどの地域)
+Google翻訳：大西洋-ラブラドール（ほとんどの地域）
+
+原文：America/Blanc-Sablon
+筆者訳：アメリカ/ブラン・サブロン
+Google翻訳：アメリカ/ブランサブロン
+
+原文：AST - QC (Lower North Shore)
+筆者訳：大西洋標準時 - ケベック州 (ローワー・ノース・ショア)
+Google翻訳：AST-QC（ローワーノースショア）
+
+原文：America/Toronto
+筆者訳：アメリカ/トロント
+Google翻訳：アメリカ/トロント
+
+原文：Eastern - ON, QC (most areas)
+筆者訳：東部 - オンタリオ州、ケベック州 (ほとんどの地域)
+Google翻訳：東部-ON、QC（ほとんどの地域）
+
+原文：America/Nipigon
+筆者訳：アメリカ/ニピゴン
+Google翻訳：アメリカ/ニピゴン
+
+原文：Eastern - ON, QC (no DST 1967-73)
+筆者訳：東部 - オンタリオ州、ケベック州 (1967-1973 年に夏時間を採用しなかった地域)
+Google翻訳：東部-ON、QC（DST 1967-73なし）
+
+原文：America/Thunder_Bay
+筆者訳：アメリカ/サンダーベイ
+Google翻訳：アメリカ/サンダーベイ
+
+原文：Eastern - ON (Thunder Bay)
+筆者訳：東部 - オンタリオ州 (サンダーベイ)
+Google翻訳：イースタン-ON（サンダーベイ）
+
+原文：America/Iqaluit
+筆者訳：アメリカ/イカルイト
+Google翻訳：アメリカ/イカルイト
+
+原文：Eastern - NU (most east areas)
+筆者訳：東部 - ヌナブト準州 (ほとんどの東部地域)
+Google翻訳：東部-NU（最も東の地域）
+
+原文：America/Pangnirtung
+筆者訳：アメリカ/パングナータング
+Google翻訳：アメリカ/パングナータング
+
+原文：Eastern - NU (Pangnirtung)
+筆者訳：東部 - ヌナブト準州 (パングナータング)
+Google翻訳：東部-NU（パングナータング）
+
+原文：America/Atikokan
+筆者訳：アメリカ/アティコカン
+Google翻訳：アメリカ/アティコーカン
+
+原文：EST - ON (Atikokan); NU (Coral H)
+筆者訳：東部標準時 - オンタリオ州 (アティコーカン); ヌナブト準州 (コーラル・ハーバー)
+Google翻訳：EST-ON（アティコーカン）; NU（コーラルH）
+
+原文：America/Winnipeg
+筆者訳：アメリカ/ウィニペグ
+Google翻訳：アメリカ/ウィニペグ
+
+原文：Central - ON (west); Manitoba
+筆者訳：中部 - オンタリオ州 (西部); マニトバ州
+Google翻訳：中央-オン（西）;マニトバ
+
+原文：America/Rainy_River
+筆者訳：アメリカ/レイニーリバー
+Google翻訳：アメリカ/ Rainy_River
+
+原文：Central - ON (Rainy R, Ft Frances)
+筆者訳：中部 - オンタリオ州 (レイニー・リバー、フォートフランシス)
+Google翻訳：中央-オン（Rainy R、Ft Frances）
+
+原文：America/Resolute
+筆者訳：アメリカ/レゾリュート
+Google翻訳：アメリカ/毅然とした
+
+原文：Central - NU (Resolute)
+筆者訳：中部 - ヌナブト準州 (レゾリュート)
+Google翻訳：中央-NU（毅然とした）
+
+原文：America/Rankin_Inlet
+筆者訳：アメリカ/ランキンインレット
+Google翻訳：アメリカ/ Rankin_Inlet
+
+原文：Central - NU (central)
+筆者訳：中部 - ヌナブト準州 (中部)
+Google翻訳：中央-NU（中央）
+
+原文：America/Regina
+筆者訳：アメリカ/レジャイナ
+Google翻訳：アメリカ/レジーナ
+
+原文：CST - SK (most areas)
+筆者訳：中部標準時 - サスカチュワン州 (ほとんどの地域)
+Google翻訳：CST-SK（ほとんどの地域）
+
+原文：America/Swift_Current
+筆者訳：アメリカ/スウィフトカレント
+Google翻訳：アメリカ/スイフトカレント
+
+原文：CST - SK (midwest)
+筆者訳：中部標準時 - サスカチュワン州 (中西部)
+Google翻訳：CST-SK（中西部）
+
+原文：America/Edmonton
+筆者訳：アメリカ/エドモントン
+Google翻訳：アメリカ/エドモントン
+
+原文：Mountain - AB; BC (E); SK (W)
+筆者訳：山岳部標準時 - アルバータ州;ブリティッシュコロンビア州 (東部); サスカチュワン州 (西部)
+Google翻訳：山-AB;紀元前（E）; SK（W）
+
+原文：America/Cambridge_Bay
+筆者訳：アメリカ/ケンブリッジベイ
+Google翻訳：アメリカ/ Cambridge_Bay
+
+原文：Mountain - NU (west)
+筆者訳：山岳部標準時 - ヌナブト準州 (西部)
+Google翻訳：山-NU（西）
+
+原文：America/Yellowknife
+筆者訳：アメリカ/イエローナイフ
+Google翻訳：アメリカ/イエローナイフ
+
+原文：Mountain - NT (central)
+筆者訳：山岳部標準時 - ノースウエスト準州 (中部)
+Google翻訳：山-NT（中央）
+
+原文：America/Inuvik
+筆者訳：アメリカ/イヌヴィック
+Google翻訳：アメリカ/イヌビク
+
+原文：Mountain - NT (west)
+筆者訳：山岳部標準時 - ノースウエスト準州 (西部)
+Google翻訳：山-NT（西）
+
+原文：America/Creston
+筆者訳：アメリカ/クレストン
+Google翻訳：アメリカ/クレストン
+
+原文：MST - BC (Creston)
+筆者訳：山岳部標準時 - ブリティッシュコロンビア州 (クレストン)
+Google翻訳：MST-BC（クレストン）
+
+原文：America/Dawson_Creek
+筆者訳：アメリカ/ドーソンクリーク
+Google翻訳：アメリカ/ドーソンクリーク
+
+原文：MST - BC (Dawson Cr, Ft St John)
+筆者訳：山岳部標準時 - ブリティッシュコロンビア州 (ドーソン・クリーク、フォート・セント・ジョン)
+Google翻訳：MST-BC（Dawson Cr、Ft St John）
+
+原文：America/Fort_Nelson
+筆者訳：アメリカ/フォート・ネルソン
+Google翻訳：アメリカ/フォートネルソン
+
+原文：MST - BC (Ft Nelson)
+筆者訳：山岳部標準時 - ブリティッシュコロンビア州 (フォート・ネルソン)
+Google翻訳：MST-BC（フォートネルソン）
+
+原文：America/Vancouver
+筆者訳：アメリカ/バンクーバー
+Google翻訳：アメリカ/バンクーバー
+
+原文：Pacific - BC (most areas)
+筆者訳：太平洋 - ブリティッシュコロンビア州 (ほとんどの地域)
+Google翻訳：太平洋-紀元前（ほとんどの地域）
+
+原文：America/Whitehorse
+筆者訳：アメリカ/ホワイトホース
+Google翻訳：アメリカ/ホワイトホース
+
+原文：Pacific - Yukon (south)
+筆者訳：太平洋 - ユーコン (南部)
+Google翻訳：太平洋-ユーコン（南）
+
+原文：America/Dawson
+筆者訳：アメリカ/ドーソン
+Google翻訳：アメリカ/ドーソン
+
+原文：Pacific - Yukon (north)
+筆者訳：太平洋 - ユーコン (北部)
+Google翻訳：太平洋-ユーコン（北）
+
+原文：Indian/Cocos
+筆者訳：インド/ココス諸島
+Google翻訳：インド/ココス
+
+原文：Africa/Kinshasa
+筆者訳：アフリカ/キンシャサ
+Google翻訳：アフリカ/キンシャサ
+
+原文：Dem. Rep. of Congo (west)
+筆者訳：コンゴ民主共和国 (西部)
+Google翻訳：デム。コンゴ議員（西）
+
+原文：Africa/Lubumbashi
+筆者訳：アフリカ/ルブンバシ
+Google翻訳：アフリカ/ルブンバシ
+
+原文：Dem. Rep. of Congo (east)
+筆者訳：コンゴ民主共和国 (東部)
+Google翻訳：デム。コンゴ議員（東）
+
+原文：Africa/Bangui
+筆者訳：アフリカ/バンギ
+Google翻訳：アフリカ/バンギ
+
+原文：Africa/Brazzaville
+筆者訳：アフリカ/ブラザビル
+Google翻訳：アフリカ/ブラザビル
+
+原文：Europe/Zurich
+筆者訳：ヨーロッパ/チューリッヒ
+Google翻訳：ヨーロッパ/チューリッヒ
+
+原文：Africa/Abidjan
+筆者訳：アフリカ/アビジャン
+Google翻訳：アフリカ/アビジャン
+
+原文：Pacific/Rarotonga
+筆者訳：太平洋/ラロトンガ
+Google翻訳：パシフィック/ラロトンガ
+
+原文：America/Santiago
+筆者訳：アメリカ/サンティエゴ
+Google翻訳：アメリカ/サンティアゴ
+
+原文：Chile (most areas)
+筆者訳：チリ (ほとんどの地域)
+Google翻訳：チリ（ほとんどの地域）
+
+原文：America/Punta_Arenas
+筆者訳：アメリカ/プンタ・アレーナス
+Google翻訳：アメリカ/プンタアレナス
+
+原文：Region of Magallanes
+筆者訳：マガジャネス地域
+Google翻訳：マガラネス地方
+
+原文：Pacific/Easter
+筆者訳：太平洋/イースター
+Google翻訳：太平洋/東
+
+原文：Easter Island
+筆者訳：イースター島
+Google翻訳：イースター島
+
+原文：Africa/Douala
+筆者訳：アフリカ/ドゥアラ
+Google翻訳：アフリカ/ドゥアラ
+
+原文：Asia/Shanghai
+筆者訳：アジア/上海
+Google翻訳：アジア/上海
+
+原文：Beijing Time
+筆者訳：北京時間
+Google翻訳：北京時間
+
+原文：Asia/Urumqi
+筆者訳：アジア/ウルムチ
+Google翻訳：アジア/ウルムチ
+
+原文：Xinjiang Time
+筆者訳：新彊時間
+Google翻訳：新疆時間
+
+原文：America/Bogota
+筆者訳：アメリカ/ボゴタ
+Google翻訳：アメリカ/ボゴタ
+
+原文：America/Costa_Rica
+筆者訳：アメリカ/コスタリカ
+Google翻訳：アメリカ/コスタリカ
+
+原文：America/Havana
+筆者訳：アメリカ/ハバナ
+Google翻訳：アメリカ/ハバナ
+
+原文：Atlantic/Cape_Verde
+筆者訳：大西洋/カーボベルデ
+Google翻訳：大西洋/カーボベルデ
+
+原文：America/Curacao
+筆者訳：アメリカ/キュラーソ
+Google翻訳：アメリカ/キュラソー
+
+原文：Indian/Christmas
+筆者訳：インド/クリスマス
+Google翻訳：インド/クリスマス
+
+原文：Asia/Nicosia
+筆者訳：アジア/ニコシア
+Google翻訳：アジア/ニコシア
+
+原文：Cyprus (most areas)
+筆者訳：キプロス (ほとんどの地域)
+Google翻訳：キプロス（ほとんどの地域）
+
+原文：Asia/Famagusta
+筆者訳：アジア/ファマグスタ
+Google翻訳：アジア/ファマグスタ
+
+原文：Northern Cyprus
+筆者訳：北キプロス
+Google翻訳：北キプロス
+
+原文：Europe/Prague
+筆者訳：ヨーロッパ/プラハ
+Google翻訳：ヨーロッパ/プラハ
+
+原文：Europe/Berlin
+筆者訳：ヨーロッパ/ベルリン
+Google翻訳：ヨーロッパ/ベルリン
+
+原文：Germany (most areas)
+筆者訳：ドイツ (ほとんどの地域)
+Google翻訳：ドイツ（ほとんどの地域）
+
+原文：Europe/Busingen
+筆者訳：ヨーロッパ/ビュージンゲン
+Google翻訳：ヨーロッパ/ビュージンゲン
+
+原文：Busingen
+筆者訳：ビュージンゲン
+Google翻訳：ビュージンゲン
+
+原文：Africa/Djibouti
+筆者訳：アフリカ/ジブチ
+Google翻訳：アフリカ/ジブチ
+
+原文：Europe/Copenhagen
+筆者訳：ヨーロッパ/コペンハーゲン
+Google翻訳：ヨーロッパ/コペンハーゲン
+
+原文：America/Dominica
+筆者訳：アメリカ/ドミニカ
+Google翻訳：アメリカ/ドミニカ
+
+原文：America/Santo_Domingo
+筆者訳：アメリカ/サントドミンゴ
+Google翻訳：アメリカ/サントドミンゴ
+
+原文：Africa/Algiers
+筆者訳：アフリカ/アルジェ
+Google翻訳：アフリカ/アルジェ
+
+原文：America/Guayaquil
+筆者訳：アメリカ/グアヤキル
+Google翻訳：アメリカ/グアヤキル
+
+原文：Ecuador (mainland)
+筆者訳：エクアドル (本土)
+Google翻訳：エクアドル（本土）
+
+原文：Pacific/Galapagos
+筆者訳：太平洋/ガラパゴス
+Google翻訳：太平洋/ガラパゴス
+
+原文：Galapagos Islands
+筆者訳：ガラパゴス諸島
+Google翻訳：ガラパゴス諸島
+
+原文：Europe/Tallinn
+筆者訳：ヨーロッパ/タリン
+Google翻訳：ヨーロッパ/タリン
+
+原文：Africa/Cairo
+筆者訳：アフリカ/カイロ
+Google翻訳：アフリカ/カイロ
+
+原文：Africa/El_Aaiun
+筆者訳：アフリカ/アイウン
+Google翻訳：アフリカ/ El_Aaiun
+
+原文：Africa/Asmara
+筆者訳：アフリカ/アスマラ
+Google翻訳：アフリカ/アスマラ
+
+原文：Europe/Madrid
+筆者訳：ヨーロッパ/マドリード
+Google翻訳：ヨーロッパ/マドリード
+
+原文：Spain (mainland)
+筆者訳：スペイン (本土)
+Google翻訳：スペイン（本土）
+
+原文：Africa/Ceuta
+筆者訳：アフリカ/セウタ
+Google翻訳：アフリカ/セウタ
+
+原文：Ceuta, Melilla
+筆者訳：セウタ、メリリャ
+Google翻訳：セウタ、メリリャ
+
+原文：Atlantic/Canary
+筆者訳：大西洋/カナリア
+Google翻訳：大西洋/カナリア
+
+原文：Canary Islands
+筆者訳：カナリア諸島
+Google翻訳：カナリア諸島
+
+原文：Africa/Addis_Ababa
+筆者訳：アフリカ/アディスアベバ
+Google翻訳：アフリカ/アディスアベバ
+
+原文：Europe/Helsinki
+筆者訳：ヨーロッパ/ヘルシンキ
+Google翻訳：ヨーロッパ/ヘルシンキ
+
+原文：Pacific/Fiji
+筆者訳：太平洋/フィジー
+Google翻訳：パシフィック/フィジー
+
+原文：Atlantic/Stanley
+筆者訳：大西洋/スタンリー
+Google翻訳：アトランティック/スタンリー
+
+原文：Pacific/Chuuk
+筆者訳：太平洋/チューク
+Google翻訳：パシフィック/チュウク
+
+原文：Chuuk/Truk, Yap
+筆者訳：チューク/トラック、ヤップ
+Google翻訳：チューク/トラック、ヤップ
+
+原文：Pacific/Pohnpei
+筆者訳：太平洋/ポンペイ
+Google翻訳：パシフィック/ポンペイ
+
+原文：Pohnpei/Ponape
+筆者訳：ポンペイ/ポナペ
+Google翻訳：ポンペイ/ポナペ
+
+原文：Pacific/Kosrae
+筆者訳：太平洋/コスラエ
+Google翻訳：パシフィック/コスラエ
+
+原文：Kosrae
+筆者訳：コスラエ
+Google翻訳：コスラエ
+
+原文：Atlantic/Faroe
+筆者訳：大西洋/フェロー
+Google翻訳：大西洋/フェロー
+
+原文：Europe/Paris
+筆者訳：ヨーロッパ/パリ
+Google翻訳：ヨーロッパ/パリ
+
+原文：Africa/Libreville
+筆者訳：アフリカ/リーブルビル
+Google翻訳：アフリカ/リーブルビル
+
+原文：Europe/London
+筆者訳：ヨーロッパ/ロンドン
+Google翻訳：ヨーロッパ/ロンドン
+
+原文：America/Grenada
+筆者訳：アメリカ/グレナダ
+Google翻訳：アメリカ/グレナダ
+
+原文：Asia/Tbilisi
+筆者訳：アジア/トビリシ
+Google翻訳：アジア/トビリシ
+
+原文：America/Cayenne
+筆者訳：アメリカ/カイエンヌ
+Google翻訳：アメリカ/カイエン
+
+原文：Europe/Guernsey
+筆者訳：ヨーロッパ/ガーンジー
+Google翻訳：ヨーロッパ/ガーンジー
+
+原文：Africa/Accra
+筆者訳：アフリカ/アクラ
+Google翻訳：アフリカ/アクラ
+
+原文：Europe/Gibraltar
+筆者訳：ヨーロッパ/ジブラルタル
+Google翻訳：ヨーロッパ/ジブラルタル
+
+原文：America/Godthab
+筆者訳：アメリカ/ゴットホープ
+Google翻訳：アメリカ/ゴッドタブ
+
+原文：Greenland (most areas)
+筆者訳：グリーンランド (ほとんどの地域)
+Google翻訳：グリーンランド（ほとんどの地域）
+
+原文：America/Danmarkshavn
+筆者訳：アメリカ/デンマークシャウン
+Google翻訳：アメリカ/デンマークシャウン
+
+原文：National Park (east coast)
+筆者訳：国立公園 (東海岸)
+Google翻訳：国立公園（東海岸）
+
+原文：America/Scoresbysund
+筆者訳：アメリカ/スコルズビスーン
+Google翻訳：アメリカ/ Scoresbysund
+
+原文：Scoresbysund/Ittoqqortoormiit
+筆者訳：スコアスビサンド/イトコルトルミット
+Google翻訳：スコアズビー湾/イットコルトールミート
+
+原文：America/Thule
+筆者訳：アメリカ/チューレ
+Google翻訳：アメリカ/ Thule
+
+原文：Thule/Pituffik
+筆者訳：トゥーレ/ピツフィク
+Google翻訳：Thule / Pituffik
+
+原文：Africa/Banjul
+筆者訳：アフリカ/バンジュール
+Google翻訳：アフリカ/バンジュル
+
+原文：Africa/Conakry
+筆者訳：アフリカ/コナクリ
+Google翻訳：アフリカ/コナクリ
+
+原文：America/Guadeloupe
+筆者訳：アメリカ/グアドループ
+Google翻訳：アメリカ/グアドループ
+
+原文：Africa/Malabo
+筆者訳：アフリカ/マラボ
+Google翻訳：アフリカ/マラボ
+
+原文：Europe/Athens
+筆者訳：ヨーロッパ/アテネ
+Google翻訳：ヨーロッパ/アテネ
+
+原文：Atlantic/South_Georgia
+筆者訳：大西洋/サウスジョージア
+Google翻訳：大西洋/南ジョージア
+
+原文：America/Guatemala
+筆者訳：アメリカ/グアテマラ
+Google翻訳：アメリカ/グアテマラ
+
+原文：Pacific/Guam
+筆者訳：太平洋/グアム
+Google翻訳：パシフィック/グアム
+
+原文：Africa/Bissau
+筆者訳：アフリカ/ビサウ
+Google翻訳：アフリカ/ビサウ
+
+原文：America/Guyana
+筆者訳：アメリカ/ガイアナ
+Google翻訳：アメリカ/ガイアナ
+
+原文：Asia/Hong_Kong
+筆者訳：アジア/香港
+Google翻訳：アジア/香港_Kong
+
+原文：America/Tegucigalpa
+筆者訳：アメリカ/テグシガルパ
+Google翻訳：アメリカ/テグシガルパ
+
+原文：Europe/Zagreb
+筆者訳：ヨーロッパ/ザグレブ
+Google翻訳：ヨーロッパ/ザグレブ
+
+原文：America/Port-au-Prince
+筆者訳：アメリカ/ポルトープランス
+Google翻訳：アメリカ/ポルトープランス
+
+原文：Europe/Budapest
+筆者訳：ヨーロッパ/ブダペスト
+Google翻訳：ヨーロッパ/ブダペスト
+
+原文：Asia/Jakarta
+筆者訳：アジア/ジャカルタ
+Google翻訳：アジア/ジャカルタ
+
+原文：Java, Sumatra
+筆者訳：ジャワ、スマトラ
+Google翻訳：ジャワ、スマトラ
+
+原文：Asia/Pontianak
+筆者訳：アジア/ポンティアナック
+Google翻訳：アジア/ポンティアナック
+
+原文：Borneo (west, central)
+筆者訳：ボルネオ (西部、中部)
+Google翻訳：ボルネオ（西、中央）
+
+原文：Asia/Makassar
+筆者訳：アジア/マカッサル
+Google翻訳：アジア/マカッサル
+
+原文：Borneo (east, south); Sulawesi/Celebes, Bali, Nusa Tengarra; Timor (west)
+筆者訳：ボルネオ (東部、南部); スラウェシ/セレベス、バリ、ヌサトゥンガラ ; ティモール (西部)
+Google翻訳：ボルネオ（東、南）;スラウェシ/セレベス、バリ、ヌサテンガラ;ティモール（西）
+
+原文：Asia/Jayapura
+筆者訳：アジア/ジャヤプラ
+Google翻訳：アジア/ジャヤプラ
+
+原文：New Guinea (West Papua / Irian Jaya); Malukus/Moluccas
+筆者訳：ニューギニア (西パプア/イリアンジャヤ); モルッカ諸島
+Google翻訳：ニューギニア（西パプア/イリアンジャヤ）;マルクス/モルッカ
+
+原文：Europe/Dublin
+筆者訳：ヨーロッパ/ダブリン
+Google翻訳：ヨーロッパ/ダブリン
+
+原文：Asia/Jerusalem
+筆者訳：アジア/エルサレム
+Google翻訳：アジア/エルサレム
+
+原文：Europe/Isle_of_Man
+筆者訳：ヨーロッパ/マン島
+Google翻訳：ヨーロッパ/ Isle_of_Man
+
+原文：Asia/Kolkata
+筆者訳：アジア/コルカタ
+Google翻訳：アジア/コルカタ
+
+原文：Indian/Chagos
+筆者訳：インド/チャゴス
+Google翻訳：インド/チャゴス
+
+原文：Asia/Baghdad
+筆者訳：アジア/バグダード
+Google翻訳：アジア/バグダッド
+
+原文：Asia/Tehran
+筆者訳：アジア/テヘラン
+Google翻訳：アジア/テヘラン
+
+原文：Atlantic/Reykjavik
+筆者訳：大西洋/レイキャビク
+Google翻訳：大西洋/レイキャビク
+
+原文：Europe/Rome
+筆者訳：ヨーロッパ/ローマ
+Google翻訳：ヨーロッパ/ローマ
+
+原文：Europe/Jersey
+筆者訳：ヨーロッパ/ジャージー
+Google翻訳：ヨーロッパ/ジャージー
+
+原文：America/Jamaica
+筆者訳：アメリカ/ジャマイカ
+Google翻訳：アメリカ/ジャマイカ
+
+原文：Asia/Amman
+筆者訳：アジア/アンマン
+Google翻訳：アジア/アンマン
+
+原文：Asia/Tokyo
+筆者訳：アジア/東京
+Google翻訳：アジア/東京
+
+原文：Africa/Nairobi
+筆者訳：アフリカ/ナイロビ
+Google翻訳：アフリカ/ナイロビ
+
+原文：Asia/Bishkek
+筆者訳：アジア/ビシュケク
+Google翻訳：アジア/ビシュケク
+
+原文：Asia/Phnom_Penh
+筆者訳：アジア/プノンペン
+Google翻訳：アジア/プノンペン
+
+原文：Pacific/Tarawa
+筆者訳：太平洋/タラワ
+Google翻訳：パシフィック/タラワ
+
+原文：Gilbert Islands
+筆者訳：ギルバート諸島
+Google翻訳：ギルバート諸島
+
+原文：Pacific/Enderbury
+筆者訳：太平洋/エンダーベリー島
+Google翻訳：パシフィック/エンダーベリー
+
+原文：Phoenix Islands
+筆者訳：フェニックス諸島
+Google翻訳：フェニックス諸島
+
+原文：Pacific/Kiritimati
+筆者訳：太平洋/クリスマス
+Google翻訳：パシフィック/キリスィマスィ
+
+原文：Line Islands
+筆者訳：ライン諸島
+Google翻訳：ライン諸島
+
+原文：Indian/Comoro
+筆者訳：インド/コモロ
+Google翻訳：インド/コモロ
+
+原文：America/St_Kitts
+筆者訳：アメリカ/セントクリストファー島
+Google翻訳：アメリカ/ St_Kitts
+
+原文：Asia/Pyongyang
+筆者訳：アジア/平壌
+Google翻訳：アジア/平壌
+
+原文：Asia/Seoul
+筆者訳：アジア/ソウル
+Google翻訳：アジア/ソウル
+
+原文：Asia/Kuwait
+筆者訳：アジア/クウェート
+Google翻訳：アジア/クウェート
+
+原文：America/Cayman
+筆者訳：アメリカ/ケイマン
+Google翻訳：アメリカ/ケイマン
+
+原文：Asia/Almaty
+筆者訳：アジア/アルマトイ
+Google翻訳：アジア/アルマトイ
+
+原文：Kazakhstan (most areas)
+筆者訳：カザフスタン (ほとんどの地域)
+Google翻訳：カザフスタン（ほとんどの地域）
+
+原文：Asia/Qyzylorda
+筆者訳：アジア/クズロルダ
+Google翻訳：アジア/クズロルダ
+
+原文：Qyzylorda/Kyzylorda/Kzyl-Orda
+筆者訳：クズロルダ/
+Google翻訳：Qyzylorda / Kyzylorda / Kzyl-Orda
+
+原文：Asia/Aqtobe
+筆者訳：アジア/アクトベ
+Google翻訳：アジア/アクトベ
+
+原文：Aqtobe/Aktobe
+筆者訳：アクトベ
+Google翻訳：アクトベ/アクトベ
+
+原文：Asia/Aqtau
+筆者訳：アジア/アクタウ
+Google翻訳：アジア/アクタウ
+
+原文：Mangghystau/Mankistau
+筆者訳：マンギスタウ
+Google翻訳：マンギスタウ/マンギスタウ
+
+原文：Asia/Atyrau
+筆者訳：アジア/アティラウ
+Google翻訳：アジア/アティラウ
+
+原文：Atyrau/Atirau/Gur'yev
+筆者訳：アティラウ/グーリエフ
+Google翻訳：Atyrau / Atirau / Gur'yev
+
+原文：Asia/Oral
+筆者訳：アジア/オラル
+Google翻訳：アジア/オーラル
+
+原文：West Kazakhstan
+筆者訳：カザフスタン西部
+Google翻訳：西カザフスタン
+
+原文：Asia/Vientiane
+筆者訳：アジア/ヴィエンチャン
+Google翻訳：アジア/ビエンチャン
+
+原文：Asia/Beirut
+筆者訳：アジア/ベイルート
+Google翻訳：アジア/ベイルート
+
+原文：America/St_Lucia
+筆者訳：アメリカ/セントルシア
+Google翻訳：アメリカ/セントルシア
+
+原文：Europe/Vaduz
+筆者訳：ヨーロッパ/ファドゥーツ
+Google翻訳：ヨーロッパ/ファドゥーツ
+
+原文：Asia/Colombo
+筆者訳：アジア/コロンボ
+Google翻訳：アジア/コロンボ
+
+原文：Africa/Monrovia
+筆者訳：アフリカ/モンロビア
+Google翻訳：アフリカ/モンロビア
+
+原文：Africa/Maseru
+筆者訳：アフリカ/マセル
+Google翻訳：アフリカ/マセル
+
+原文：Europe/Vilnius
+筆者訳：ヨーロッパ/ビリニュス
+Google翻訳：ヨーロッパ/ビリニュス
+
+原文：Europe/Luxembourg
+筆者訳：ヨーロッパ/ルクセンブルク
+Google翻訳：ヨーロッパ/ルクセンブルグ
+
+原文：Europe/Riga
+筆者訳：ヨーロッパ/リガ
+Google翻訳：ヨーロッパ/リガ
+
+原文：Africa/Tripoli
+筆者訳：アフリカ/トリポリ
+Google翻訳：アフリカ/トリポリ
+
+原文：Africa/Casablanca
+筆者訳：アフリカ/カサブランカ
+Google翻訳：アフリカ/カサブランカ
+
+原文：Europe/Monaco
+筆者訳：ヨーロッパ/モナコ
+Google翻訳：ヨーロッパ/モナコ
+
+原文：Europe/Chisinau
+筆者訳：ヨーロッパ/キシナウ
+Google翻訳：ヨーロッパ/キシナウ
+
+原文：Europe/Podgorica
+筆者訳：ヨーロッパ/ポドゴリツァ
+Google翻訳：ヨーロッパ/ポドゴリツァ
+
+原文：America/Marigot
+筆者訳：アメリカ/マリゴ
+Google翻訳：アメリカ/マリゴット
+
+原文：Indian/Antananarivo
+筆者訳：インド/アンタナナリボ
+Google翻訳：インド/アンタナナリボ
+
+原文：Pacific/Majuro
+筆者訳：太平洋/マジュロ
+Google翻訳：パシフィック/マジュロ
+
+原文：Marshall Islands (most areas)
+筆者訳：マーシャル諸島 (ほとんどの地域)
+Google翻訳：マーシャル諸島（ほとんどの地域）
+
+原文：Pacific/Kwajalein
+筆者訳：太平洋/クエジェリン
+Google翻訳：パシフィック/クェゼリン
+
+原文：Kwajalein
+筆者訳：クエジェリン
+Google翻訳：クェゼリン
+
+原文：Europe/Skopje
+筆者訳：ヨーロッパ/スコピエ
+Google翻訳：ヨーロッパ/スコピエ
+
+原文：Africa/Bamako
+筆者訳：アフリカ/バマコ
+Google翻訳：アフリカ/バマコ
+
+原文：Asia/Yangon
+筆者訳：アジア/ヤンゴン
+Google翻訳：アジア/ヤンゴン
+
+原文：Asia/Ulaanbaatar
+筆者訳：アジア/ウランバートル
+Google翻訳：アジア/ウランバートル
+
+原文：Mongolia (most areas)
+筆者訳：モンゴル (ほとんどの地域)
+Google翻訳：モンゴル（ほとんどの地域）
+
+原文：Asia/Hovd
+筆者訳：アジア/ホブド
+Google翻訳：アジア/ホブド
+
+原文：Bayan-Olgiy, Govi-Altai, Hovd, Uvs, Zavkhan
+筆者訳：バヤン・ウルギー、ゴビ・アルタイ、ホブド、オブス、ザブハン
+Google翻訳：バヤンウルギー、ゴビアルタイ、ホブド、ウブス、ザブハン
+
+原文：Asia/Choibalsan
+筆者訳：アジア/チョイバルサン
+Google翻訳：アジア/チョイバルサン
+
+原文：Dornod, Sukhbaatar
+筆者訳：ドルノド、スフバータル
+Google翻訳：ドルノド、Sukhbaatar
+
+原文：Asia/Macau
+筆者訳：アジア/マカオ
+Google翻訳：アジア/マカオ
+
+原文：Pacific/Saipan
+筆者訳：太平洋/サイパン
+Google翻訳：パシフィック/サイパン
+
+原文：America/Martinique
+筆者訳：アメリカ/マルティニーク
+Google翻訳：アメリカ/マルティニーク
+
+原文：Africa/Nouakchott
+筆者訳：アフリカ/ヌアクショット
+Google翻訳：アフリカ/ヌアクショット
+
+原文：America/Montserrat
+筆者訳：アメリカ/モントセラト
+Google翻訳：アメリカ/モントセラト
+
+原文：Europe/Malta
+筆者訳：ヨーロッパ/マルタ
+Google翻訳：ヨーロッパ/マルタ
+
+原文：Indian/Mauritius
+筆者訳：インド/モーリシャス
+Google翻訳：インド/モーリシャス
+
+原文：Indian/Maldives
+筆者訳：インド/モルディブ
+Google翻訳：インド/モルディブ
+
+原文：Africa/Blantyre
+筆者訳：アフリカ/ブランタイヤ
+Google翻訳：アフリカ/ブランタイア
+
+原文：America/Mexico_City
+筆者訳：アメリカ/メキシコシティ
+Google翻訳：アメリカ/メキシコシティ
+
+原文：Central Time
+筆者訳：中部標準時
+Google翻訳：中部標準時
+
+原文：America/Cancun
+筆者訳：アメリカ/カンクン
+Google翻訳：アメリカ/カンクン
+
+原文：Eastern Standard Time - Quintana Roo
+筆者訳：東部標準時 - キンタナロー州
+Google翻訳：東部標準時-キンタナロー州
+
+原文：America/Merida
+筆者訳：アメリカ/メリダ
+Google翻訳：アメリカ/メリダ
+
+原文：Central Time - Campeche, Yucatan
+筆者訳：中央部標準時 - カンペチェ、ユカタン
+Google翻訳：中部標準時-カンペチェ、ユカタン
+
+原文：America/Monterrey
+筆者訳：アメリカ/モンテレイ
+Google翻訳：アメリカ/モンテレイ
+
+原文：Central Time - Durango; Coahuila, Nuevo Leon, Tamaulipas (most areas)
+筆者訳：中部標準時 - ドゥランゴ; コアウイラ、ヌエボレオン、タマウリパス (ほとんどの地域)
+Google翻訳：中部標準時-デュランゴ;コアウイラ、ヌエボレオン、タマウリパス（ほとんどの地域）
+
+原文：America/Matamoros
+筆者訳：アメリカ/マタモロス
+Google翻訳：アメリカ/マタモロス
+
+原文：Central Time US - Coahuila, Nuevo Leon, Tamaulipas (US border)
+筆者訳：アメリア中部標準時 - コアウイラ、ヌエボレオン、タマウリパス (アメリカ国境)
+Google翻訳：米国中部標準時-コアウイラ、ヌエボレオン、タマウリパス（米国国境）
+
+原文：America/Mazatlan
+筆者訳：アメリカ/マサトラン
+Google翻訳：アメリカ/マサトラン
+
+原文：Mountain Time - Baja California Sur, Nayarit, Sinaloa
+筆者訳：山岳部時間 - バハカリフォルニアスル、ナヤリット、シナロア
+Google翻訳：山岳部標準時-バハカリフォルニアスル、ナヤリト、シナロア
+
+原文：America/Chihuahua
+筆者訳：アメリカ/チワワ
+Google翻訳：アメリカ/チワワ
+
+原文：Mountain Time - Chihuahua (most areas)
+筆者訳：山岳部時間 - チワワ (ほとんどの地域)
+Google翻訳：山岳部標準時-チワワ（ほとんどの地域）
+
+原文：America/Ojinaga
+筆者訳：アメリカ/オヒナガ
+Google翻訳：アメリカ/オヒナガ
+
+原文：Mountain Time US - Chihuahua (US border)
+筆者訳：アメリカ山地標準時 - チワワ (アメリカ国境)
+Google翻訳：山岳部標準時-チワワ（米国国境）
+
+原文：America/Hermosillo
+筆者訳：アメリカ/エルモシージョ
+Google翻訳：アメリカ/エルモシヨ
+
+原文：Mountain Standard Time - Sonora
+筆者訳：山岳部標準時 - ソノラ
+Google翻訳：山岳部標準時-ソノラ
+
+原文：America/Tijuana
+筆者訳：アメリカ/ティファナ
+Google翻訳：アメリカ/ティファナ
+
+原文：Pacific Time US - Baja California
+筆者訳：アメリカ太平洋標準時 - バハカリフォルニア
+Google翻訳：米国太平洋標準時-バハカリフォルニア
+
+原文：America/Bahia_Banderas
+筆者訳：アメリカ/バイーアデバンデラス
+Google翻訳：アメリカ/バイア_バンデラス
+
+原文：Central Time - Bahia de Banderas
+筆者訳：中部標準時 - バイーアデバンデラス
+Google翻訳：中部標準時-バイーアデバンデラス
+
+原文：Asia/Kuala_Lumpur
+筆者訳：アジア/クアラルンプール
+Google翻訳：アジア/クアラルンプール
+
+原文：Malaysia (peninsula)
+筆者訳：マレーシア (半島)
+Google翻訳：マレーシア（半島）
+
+原文：Asia/Kuching
+筆者訳：アジア/クチン
+Google翻訳：アジア/クチン
+
+原文：Sabah, Sarawak
+筆者訳：サバ、サラワク
+Google翻訳：サバ州、サラワク州
+
+原文：Africa/Maputo
+筆者訳：アフリカ/マプト
+Google翻訳：アフリカ/マプト
+
+原文：Africa/Windhoek
+筆者訳：アフリカ/ウィントフック
+Google翻訳：アフリカ/ウィントフック
+
+原文：Pacific/Noumea
+筆者訳：太平洋/ヌメア
+Google翻訳：パシフィック/ヌメア
+
+原文：Africa/Niamey
+筆者訳：アフリカ/ニアメ
+Google翻訳：アフリカ/ニアメ
+
+原文：Pacific/Norfolk
+筆者訳：太平洋/ノーフォーク
+Google翻訳：パシフィック/ノーフォーク
+
+原文：Africa/Lagos
+筆者訳：アフリカ/ラゴス
+Google翻訳：アフリカ/ラゴス
+
+原文：America/Managua
+筆者訳：アメリカ/マナグア
+Google翻訳：アメリカ/マナグア
+
+原文：Europe/Amsterdam
+筆者訳：ヨーロッパ/アムステルダム
+Google翻訳：ヨーロッパ/アムステルダム
+
+原文：Europe/Oslo
+筆者訳：ヨーロッパ/オスロ
+Google翻訳：ヨーロッパ/オスロ
+
+原文：Asia/Kathmandu
+筆者訳：アジア/カトマンズ
+Google翻訳：アジア/カトマンズ
+
+原文：Pacific/Nauru
+筆者訳：太平洋/ナウル
+Google翻訳：パシフィック/ナウル
+
+原文：Pacific/Niue
+筆者訳：太平洋/ニウエ
+Google翻訳：パシフィック/ニウエ
+
+原文：Pacific/Auckland
+筆者訳：太平洋/オークランド
+Google翻訳：パシフィック/オークランド
+
+原文：New Zealand (most areas)
+筆者訳：ニュージーランド (ほとんどの地域)
+Google翻訳：ニュージーランド（ほとんどの地域）
+
+原文：Pacific/Chatham
+筆者訳：太平洋/チャタム
+Google翻訳：パシフィック/チャタム
+
+原文：Chatham Islands
+筆者訳：チャタム諸島
+Google翻訳：チャタム諸島
+
+原文：Asia/Muscat
+筆者訳：アジア/マスカット
+Google翻訳：アジア/マスカット
+
+原文：America/Panama
+筆者訳：アメリカ/パナマ
+Google翻訳：アメリカ/パナマ
+
+原文：America/Lima
+筆者訳：アメリカ/リマ
+Google翻訳：アメリカ/リマ
+
+原文：Pacific/Tahiti
+筆者訳：太平洋/タヒチ
+Google翻訳：パシフィック/タヒチ
+
+原文：Society Islands
+筆者訳：ソシエテ諸島
+Google翻訳：ソシエテ諸島
+
+原文：Pacific/Marquesas
+筆者訳：太平洋/マルキーズ
+Google翻訳：パシフィック/マルケサス
+
+原文：Marquesas Islands
+筆者訳：マルキーズ諸島
+Google翻訳：マルケサス諸島
+
+原文：Pacific/Gambier
+筆者訳：太平洋/ガンビア
+Google翻訳：パシフィック/ガンビア
+
+原文：Gambier Islands
+筆者訳：ガンビア諸島
+Google翻訳：ガンビエ諸島
+
+原文：Pacific/Port_Moresby
+筆者訳：太平洋/ポートモレスビー
+Google翻訳：パシフィック/ポートモレスビー
+
+原文：Papua New Guinea (most areas)
+筆者訳：パプアニューギニア (ほとんどの地域)
+Google翻訳：パプアニューギニア（ほとんどの地域）
+
+原文：Pacific/Bougainville
+筆者訳：太平洋/ブーゲンビル
+Google翻訳：パシフィック/ブーゲンビル
+
+原文：Bougainville
+筆者訳：ブーゲンビル
+Google翻訳：ブーゲンビル
+
+原文：Asia/Manila
+筆者訳：アジア/マニラ
+Google翻訳：アジア/マニラ
+
+原文：Asia/Karachi
+筆者訳：アジア/カラチ
+Google翻訳：アジア/カラチ
+
+原文：Europe/Warsaw
+筆者訳：ヨーロッパ/ワルシャワ
+Google翻訳：ヨーロッパ/ワルシャワ
+
+原文：America/Miquelon
+筆者訳：アメリカ/ミクロン
+Google翻訳：アメリカ/ミクロン島
+
+原文：Pacific/Pitcairn
+筆者訳：太平洋/ピトケアン
+Google翻訳：パシフィック/ピトケアン
+
+原文：America/Puerto_Rico
+筆者訳：アメリカ/プエルトリコ
+Google翻訳：アメリカ/プエルトリコ
+
+原文：Asia/Gaza
+筆者訳：アジア/ガザ
+Google翻訳：アジア/ガザ
+
+原文：Gaza Strip
+筆者訳：ガザ
+Google翻訳：ガザ地区
+
+原文：Asia/Hebron
+筆者訳：アジア/ヘブロン
+Google翻訳：アジア/ヘブロン
+
+原文：West Bank
+筆者訳：ヨルダン川西岸地区
+Google翻訳：西岸
+
+原文：Europe/Lisbon
+筆者訳：ヨーロッパ/リスボン
+Google翻訳：ヨーロッパ/リスボン
+
+原文：Portugal (mainland)
+筆者訳：ポルトガル (本土)
+Google翻訳：ポルトガル（本土）
+
+原文：Atlantic/Madeira
+筆者訳：大西洋/マデイラ
+Google翻訳：大西洋/マデイラ
+
+原文：Madeira Islands
+筆者訳：マデイラ諸島
+Google翻訳：マデイラ諸島
+
+原文：Atlantic/Azores
+筆者訳：大西洋/アゾレス
+Google翻訳：大西洋/アゾレス
+
+原文：Azores
+筆者訳：アゾレス
+Google翻訳：アゾレス諸島
+
+原文：Pacific/Palau
+筆者訳：太平洋/パラオ
+Google翻訳：パシフィック/パラオ
+
+原文：America/Asuncion
+筆者訳：アメリカ/アスンシオン
+Google翻訳：アメリカ/アスンシオン
+
+原文：Asia/Qatar
+筆者訳：アジア/カタール
+Google翻訳：アジア/カタール
+
+原文：Indian/Reunion
+筆者訳：インド/レユニオン
+Google翻訳：インド/レユニオン
+
+原文：Europe/Bucharest
+筆者訳：ヨーロッパ/ブカレスト
+Google翻訳：ヨーロッパ/ブカレスト
+
+原文：Europe/Belgrade
+筆者訳：ヨーロッパ/ベオグラード
+Google翻訳：ヨーロッパ/ベオグラード
+
+原文：Europe/Kaliningrad
+筆者訳：ヨーロッパ/カリーニングラード
+Google翻訳：ヨーロッパ/カリーニングラード
+
+原文：MSK-01 - Kaliningrad
+筆者訳：MSK-01 - カリーニングラード
+Google翻訳：MSK-01-カリーニングラード
+
+原文：Europe/Moscow
+筆者訳：ヨーロッパ/モスクワ
+Google翻訳：ヨーロッパ/モスクワ
+
+原文：MSK+00 - Moscow area
+筆者訳：MSK+00 - モスクワエリア
+Google翻訳：MSK + 00-モスクワエリア
+
+原文：Europe/Simferopol
+筆者訳：ヨーロッパ/シンフェロポリ
+Google翻訳：ヨーロッパ/シンフェロポリ
+
+原文：MSK+00 - Crimea
+筆者訳：MSK+00 - クリミア
+Google翻訳：MSK + 00-クリミア
+
+原文：Europe/Volgograd
+筆者訳：ヨーロッパ/ボルゴグラード
+Google翻訳：ヨーロッパ/ヴォルゴグラード
+
+原文：MSK+00 - Volgograd
+筆者訳：MSK+00 - ヴォルゴグラード
+Google翻訳：MSK + 00-ヴォルゴグラード
+
+原文：Europe/Kirov
+筆者訳：ヨーロッパ/キーロフ
+Google翻訳：ヨーロッパ/キロフ
+
+原文：MSK+00 - Kirov
+筆者訳：MSK+00 - キーロフ
+Google翻訳：MSK + 00-キロフ
+
+原文：Europe/Astrakhan
+筆者訳：ヨーロッパ/アストラハン
+Google翻訳：ヨーロッパ/アストラハン
+
+原文：MSK+01 - Astrakhan
+筆者訳：MSK+01 - アストラハン
+Google翻訳：MSK + 01-アストラハン
+
+原文：Europe/Saratov
+筆者訳：ヨーロッパ/サラトフ
+Google翻訳：ヨーロッパ/サラトフ
+
+原文：MSK+01 - Saratov
+筆者訳：MSK+01 - サラトフ
+Google翻訳：MSK + 01-サラトフ
+
+原文：Europe/Ulyanovsk
+筆者訳：ヨーロッパ/ウリヤノフスク
+Google翻訳：ヨーロッパ/ウリヤノフスク
+
+原文：MSK+01 - Ulyanovsk
+筆者訳：MSK+01 - ウリヤノフスク
+Google翻訳：MSK + 01-ウリヤノフスク
+
+原文：Europe/Samara
+筆者訳：ヨーロッパ/サマーラ
+Google翻訳：ヨーロッパ/サマラ
+
+原文：MSK+01 - Samara, Udmurtia
+筆者訳：MSK+01 - サマラ、ウドムルト
+Google翻訳：MSK + 01-サマラ、ウドムルト
+
+原文：Asia/Yekaterinburg
+筆者訳：アジア/エカテリンブルク
+Google翻訳：アジア/エカテリンブルク
+
+原文：MSK+02 - Urals
+筆者訳：MSK+02 - ウラル
+Google翻訳：MSK + 02-ウラル
+
+原文：Asia/Omsk
+筆者訳：アジア/オムスク
+Google翻訳：アジア/オムスク
+
+原文：MSK+03 - Omsk
+筆者訳：MSK+03 - オムスク
+Google翻訳：MSK + 03-オムスク
+
+原文：Asia/Novosibirsk
+筆者訳：アジア/ノボシビルスク
+Google翻訳：アジア/ノボシビルスク
+
+原文：MSK+04 - Novosibirsk
+筆者訳：MSK+04 - ノヴォシビルスク
+Google翻訳：MSK + 04-ノボシビルスク
+
+原文：Asia/Barnaul
+筆者訳：アジア/バルナウル
+Google翻訳：アジア/バルナウル
+
+原文：MSK+04 - Altai
+筆者訳：MSK+04 - アルタイ
+Google翻訳：MSK + 04-アルタイ
+
+原文：Asia/Tomsk
+筆者訳：アジア/トムスク
+Google翻訳：アジア/トムスク
+
+原文：MSK+04 - Tomsk
+筆者訳：MSK+04 - トムスク
+Google翻訳：MSK + 04-トムスク
+
+原文：Asia/Novokuznetsk
+筆者訳：アジア/ノボクズネツク
+Google翻訳：アジア/ノボクズネツク
+
+原文：MSK+04 - Kemerovo
+筆者訳：MSK+04 - ケメロヴォ
+Google翻訳：MSK + 04-ケメロヴォ
+
+原文：Asia/Krasnoyarsk
+筆者訳：アジア/クラスノヤルスク
+Google翻訳：アジア/クラスノヤルスク
+
+原文：MSK+04 - Krasnoyarsk area
+筆者訳：MSK+04 - クラスノヤルスクエリア
+Google翻訳：MSK + 04-クラスノヤルスクエリア
+
+原文：Asia/Irkutsk
+筆者訳：アジア/イルクーツク
+Google翻訳：アジア/イルクーツク
+
+原文：MSK+05 - Irkutsk, Buryatia
+筆者訳：MSK+05 - イルクーツク、ブリヤート
+Google翻訳：MSK + 05-イルクーツク、ブリヤート共和国
+
+原文：Asia/Chita
+筆者訳：アジア/チタ
+Google翻訳：アジア/チタ
+
+原文：MSK+06 - Zabaykalsky
+筆者訳：MSK+06 - ザバイカリエ
+Google翻訳：MSK + 06-ザバイカリエ地方
+
+原文：Asia/Yakutsk
+筆者訳：アジア/ヤクーツク
+Google翻訳：アジア/ヤクーツク
+
+原文：MSK+06 - Lena River
+筆者訳：MSK+06 - レナ川
+Google翻訳：MSK + 06-レナ川
+
+原文：Asia/Khandyga
+筆者訳：アジア/ハンドゥイガ
+Google翻訳：アジア/ハンドゥイガ
+
+原文：MSK+06 - Tomponsky, Ust-Maysky
+筆者訳：MSK+06 - トムポンスキー、ウスチ＝マヤ
+Google翻訳：MSK + 06-トムポンスキー、ウスチマイスキー
+
+原文：Asia/Vladivostok
+筆者訳：アジア/ウラジオストク
+Google翻訳：アジア/ウラジオストク
+
+原文：MSK+07 - Amur River
+筆者訳：MSK+07 - アムール川
+Google翻訳：MSK + 07-アムール川
+
+原文：Asia/Ust-Nera
+筆者訳：アジア/ウスチ=ネラ
+Google翻訳：アジア/ウスチネラ
+
+原文：MSK+07 - Oymyakonsky
+筆者訳：MSK+07 - オイミャコン
+Google翻訳：MSK + 07-オイミャコンスキー
+
+原文：Asia/Magadan
+筆者訳：アジア/マガダン
+Google翻訳：アジア/マガダン
+
+原文：MSK+08 - Magadan
+筆者訳：MSK+08 - マガダン
+Google翻訳：MSK + 08-マガダン
+
+原文：Asia/Sakhalin
+筆者訳：アジア/サハリン
+Google翻訳：アジア/サハリン
+
+原文：MSK+08 - Sakhalin Island
+筆者訳：MSK+08 - 樺太
+Google翻訳：MSK + 08-サハリン島
+
+原文：Asia/Srednekolymsk
+筆者訳：アジア/スレドネコリムスク
+Google翻訳：アジア/スレドネコリムスク
+
+原文：MSK+08 - Sakha (E); North Kuril Is
+筆者訳：MSK+08 - サハ共和国 (東部); 北クリル列島
+Google翻訳：MSK + 08-サハ（E）;ノースクリルは
+
+原文：Asia/Kamchatka
+筆者訳：アジア/カムチャツカ
+Google翻訳：アジア/カムチャッカ
+
+原文：MSK+09 - Kamchatka
+筆者訳：MSK+09 - カムチャツカ半島
+Google翻訳：MSK + 09-カムチャッカ
+
+原文：Asia/Anadyr
+筆者訳：アジア/アナディリ
+Google翻訳：アジア/アナディル
+
+原文：MSK+09 - Bering Sea
+筆者訳：MSK+09 - ベーリング海
+Google翻訳：MSK + 09-ベーリング海
+
+原文：Africa/Kigali
+筆者訳：アフリカ/キガリ
+Google翻訳：アフリカ/キガリ
+
+原文：Asia/Riyadh
+筆者訳：アジア/リヤド
+Google翻訳：アジア/リヤド
+
+原文：Pacific/Guadalcanal
+筆者訳：太平洋/ガダルカナル島
+Google翻訳：太平洋/ガダルカナル
+
+原文：Indian/Mahe
+筆者訳：インド/マヘ島
+Google翻訳：インド/マヘ
+
+原文：Africa/Khartoum
+筆者訳：アフリカ/ハルツーム
+Google翻訳：アフリカ/ハルツーム
+
+原文：Europe/Stockholm
+筆者訳：ヨーロッパ/ストックホルム
+Google翻訳：ヨーロッパ/ストックホルム
+
+原文：Asia/Singapore
+筆者訳：アジア/シンガポール
+Google翻訳：アジア/シンガポール
+
+原文：Atlantic/St_Helena
+筆者訳：大西洋/セントヘレナ
+Google翻訳：大西洋/セントヘレナ
+
+原文：Europe/Ljubljana
+筆者訳：ヨーロッパ/リュブリャナ
+Google翻訳：ヨーロッパ/リュブリャナ
+
+原文：Arctic/Longyearbyen
+筆者訳：北極圏/ロングイェールビーン
+Google翻訳：北極/ロングイェールビーン
+
+原文：Europe/Bratislava
+筆者訳：ヨーロッパ/ブラチスラバ
+Google翻訳：ヨーロッパ/ブラチスラバ
+
+原文：Africa/Freetown
+筆者訳：アフリカ/フリータウン
+Google翻訳：アフリカ/フリータウン
+
+原文：Europe/San_Marino
+筆者訳：ヨーロッパ/サンマリノ
+Google翻訳：ヨーロッパ/サンマリノ
+
+原文：Africa/Dakar
+筆者訳：アフリカ/ダカール
+Google翻訳：アフリカ/ダカール
+
+原文：Africa/Mogadishu
+筆者訳：アフリカ/モガディシュ
+Google翻訳：アフリカ/モガディシュ
+
+原文：America/Paramaribo
+筆者訳：アメリカ/パラマリボ
+Google翻訳：アメリカ/パラマリボ
+
+原文：Africa/Juba
+筆者訳：アフリカ/ジュバ
+Google翻訳：アフリカ/ジュバ
+
+原文：Africa/Sao_Tome
+筆者訳：アフリカ/サントメ
+Google翻訳：アフリカ/ Sao_Tome
+
+原文：America/El_Salvador
+筆者訳：アメリカ/エルサルバドル
+Google翻訳：アメリカ/エルサルバドル
+
+原文：America/Lower_Princes
+筆者訳：アメリカ / ローワー・プリンシズ・クォーター
+Google翻訳：アメリカ/ Lower_Princes
+
+原文：Asia/Damascus
+筆者訳：アジア/ダマスカス
+Google翻訳：アジア/ダマスカス
+
+原文：Africa/Mbabane
+筆者訳：アフリカ/ムババーネ
+Google翻訳：アフリカ/ムババネ
+
+原文：America/Grand_Turk
+筆者訳：アメリカ/グランドターク島
+Google翻訳：アメリカ/グランドターク
+
+原文：Africa/Ndjamena
+筆者訳：アフリカ/ンジャメナ
+Google翻訳：アフリカ/ンジャメナ
+
+原文：Indian/Kerguelen
+筆者訳：インド/ケルゲレン諸島
+Google翻訳：インド/ケルゲレン
+
+原文：Africa/Lome
+筆者訳：アフリカ/ロメ
+Google翻訳：アフリカ/ロメ
+
+原文：Asia/Bangkok
+筆者訳：アジア/バンコク
+Google翻訳：アジア/バンコク
+
+原文：Asia/Dushanbe
+筆者訳：アジア/ドゥシャンベ
+Google翻訳：アジア/ドゥシャンベ
+
+原文：Pacific/Fakaofo
+筆者訳：太平洋/ファカオフォ島
+Google翻訳：パシフィック/ファカオフォ
+
+原文：Asia/Dili
+筆者訳：アジア/ディリ
+Google翻訳：アジア/ディリ
+
+原文：Asia/Ashgabat
+筆者訳：アジア/アシガバート
+Google翻訳：アジア/アシガバート
+
+原文：Africa/Tunis
+筆者訳：アフリカ/チュニス
+Google翻訳：アフリカ/チュニス
+
+原文：Pacific/Tongatapu
+筆者訳：太平洋/トンガタプ島
+Google翻訳：パシフィック/トンガタプ
+
+原文：Europe/Istanbul
+筆者訳：ヨーロッパ/イスタンブル
+Google翻訳：ヨーロッパ/イスタンブール
+
+原文：America/Port_of_Spain
+筆者訳：アメリカ/ポートオブスペイン
+Google翻訳：アメリカ/ポートオブスペイン
+
+原文：Pacific/Funafuti
+筆者訳：太平洋/フナフティ島
+Google翻訳：パシフィック/フナフティ
+
+原文：Asia/Taipei
+筆者訳：アジア/台北
+Google翻訳：アジア/台北
+
+原文：Africa/Dar_es_Salaam
+筆者訳：アフリカ/ダルエスサラーム
+Google翻訳：アフリカ/ダルエスサラーム
+
+原文：Europe/Kiev
+筆者訳：ヨーロッパ/キエフ
+Google翻訳：ヨーロッパ/キエフ
+
+原文：Ukraine (most areas)
+筆者訳：ウクライナ (ほとんどの地域)
+Google翻訳：ウクライナ（ほとんどの地域）
+
+原文：Europe/Uzhgorod
+筆者訳：ヨーロッパ/ウージュホロド
+Google翻訳：ヨーロッパ/ウジゴロド
+
+原文：Ruthenia
+筆者訳：ルーシ
+Google翻訳：ルテニア
+
+原文：Europe/Zaporozhye
+筆者訳：ヨーロッパ/ザポリージャ
+Google翻訳：ヨーロッパ/ザポリージャ
+
+原文：Zaporozh'ye/Zaporizhia; Lugansk/Luhansk (east)
+筆者訳：ザポリージャ; ルハーンシク
+Google翻訳：Zaporozh'ye / Zaporizhia;ルガンスク/ルハンシク（東）
+
+原文：Africa/Kampala
+筆者訳：アフリカ/カンパラ
+Google翻訳：アフリカ/カンパラ
+
+原文：Pacific/Midway
+筆者訳：太平洋/ミッドウェー
+Google翻訳：パシフィック/ミッドウェイ
+
+原文：Midway Islands
+筆者訳：ミッドウェー島
+Google翻訳：ミッドウェー島
+
+原文：Pacific/Wake
+筆者訳：太平洋/ウェーク
+Google翻訳：パシフィック/ウェイク
+
+原文：Wake Island
+筆者訳：ウェーク島
+Google翻訳：ウェーク島
+
+原文：America/New_York
+筆者訳：アメリカ/ニューヨーク
+Google翻訳：アメリカ/ニューヨーク
+
+原文：Eastern (most areas)
+筆者訳：東部 (ほとんどの地域)
+Google翻訳：東部（ほとんどの地域）
+
+原文：America/Detroit
+筆者訳：アメリカ/デトロイト
+Google翻訳：アメリカ/デトロイト
+
+原文：Eastern - MI (most areas)
+筆者訳：東部 - ミシガン州 (ほとんどの地域)
+Google翻訳：東部-MI（ほとんどの地域）
+
+原文：America/Kentucky/Louisville
+筆者訳：アメリカ/ケンタッキー/ルイスビル
+Google翻訳：アメリカ/ケンタッキー/ルイビル
+
+原文：Eastern - KY (Louisville area)
+筆者訳：東部 - ケンタッキー州 (ルイビル地域)
+Google翻訳：東部-ケンタッキー州（ルイビル地域）
+
+原文：America/Kentucky/Monticello
+筆者訳：アメリカ/ケンタッキー/モンティチェロ
+Google翻訳：アメリカ/ケンタッキー/モンティセロ
+
+原文：Eastern - KY (Wayne)
+筆者訳：東部 - ケンタッキー州 (ウェイン)
+Google翻訳：イースタン-ケンタッキー（ウェイン）
+
+原文：America/Indiana/Indianapolis
+筆者訳：アメリカ/インディアナ/インディアナポリス
+Google翻訳：アメリカ/インディアナ/インディアナポリス
+
+原文：Eastern - IN (most areas)
+筆者訳：東部 - インディアナ州 (ほとんどの地域)
+Google翻訳：東部-IN（ほとんどの地域）
+
+原文：America/Indiana/Vincennes
+筆者訳：アメリカ/インディアナ/ビンセンズ
+Google翻訳：アメリカ/インディアナ/ビンセンズ
+
+原文：Eastern - IN (Da, Du, K, Mn)
+筆者訳：東部 - インディアナ州 (デイビース、デュボイス、ノックス、マーティン)
+Google翻訳：東部-IN（Da、Du、K、Mn）
+
+原文：America/Indiana/Winamac
+筆者訳：アメリカ/インディアナ/ウィナマク
+Google翻訳：アメリカ/インディアナ/ウィナマク
+
+原文：Eastern - IN (Pulaski)
+筆者訳：東部 - インディアナ州 (プラスキ)
+Google翻訳：東部-IN（プラスキー）
+
+原文：America/Indiana/Marengo
+筆者訳：アメリカ/インディアナ/マレンゴ
+Google翻訳：アメリカ/インディアナ/マレンゴ
+
+原文：Eastern - IN (Crawford)
+筆者訳：東部 - インディアナ (クロウフォード)
+Google翻訳：東部-IN（クロフォード）
+
+原文：America/Indiana/Petersburg
+筆者訳：アメリカ/インディアナ/ピーターズバーグ
+Google翻訳：アメリカ/インディアナ/ピーターズバーグ
+
+原文：Eastern - IN (Pike)
+筆者訳：東部 - インディアナ州 (パイク)
+Google翻訳：東部-IN（パイク）
+
+原文：America/Indiana/Vevay
+筆者訳：アメリカ/インディアナ/ベベイ
+Google翻訳：アメリカ/インディアナ/ベベイ
+
+原文：Eastern - IN (Switzerland)
+筆者訳：東部 - インディアナ州 (スウィッツァランド)
+Google翻訳：東部-IN（スイス）
+
+原文：America/Chicago
+筆者訳：アメリカ/シカゴ
+Google翻訳：アメリカ/シカゴ
+
+原文：Central (most areas)
+筆者訳：中部 (ほとんどの地域)
+Google翻訳：中央（ほとんどの地域）
+
+原文：America/Indiana/Tell_City
+筆者訳：アメリカ/インディアナ/テルシティ
+Google翻訳：アメリカ/インディアナ/ Tell_City
+
+原文：Central - IN (Perry)
+筆者訳：中部 - インディアナ州 (ペリー)
+Google翻訳：中央-IN（ペリー）
+
+原文：America/Indiana/Knox
+筆者訳：アメリカ/インディアナ/ノックス
+Google翻訳：アメリカ/インディアナ/ノックス
+
+原文：Central - IN (Starke)
+筆者訳：中部 - インディアナ州 (スターク)
+Google翻訳：中央-IN（スターク）
+
+原文：America/Menominee
+筆者訳：アメリカ/メノミニー
+Google翻訳：アメリカ/メノミニー
+
+原文：Central - MI (Wisconsin border)
+筆者訳：中部 - ミシガン州 (ウィスコンシン州界)
+Google翻訳：中央-MI（ウィスコンシン国境）
+
+原文：America/North_Dakota/Center
+筆者訳：アメリカ/ノースダコタ/センター
+Google翻訳：アメリカ/ノースダコタ/センター
+
+原文：Central - ND (Oliver)
+筆者訳：中部 - ノースダコタ州 (オリバー)
+Google翻訳：中央-ND（オリバー）
+
+原文：America/North_Dakota/New_Salem
+筆者訳：アメリカ/ノースダコタ/ニュー・セーラム
+Google翻訳：アメリカ/ノースダコタ/ニューセーラム
+
+原文：Central - ND (Morton rural)
+筆者訳：中部 - ノースダコタ州 (モートン)
+Google翻訳：中央-ND（モートン地方）
+
+原文：America/North_Dakota/Beulah
+筆者訳：アメリカ / ノースダコタ / ビューラー
+Google翻訳：アメリカ/ノースダコタ/ビューラー
+
+原文：Central - ND (Mercer)
+筆者訳：中部 - ノースダコタ州 (マーサー)
+Google翻訳：中央-ND（マーサー）
+
+原文：America/Denver
+筆者訳：アメリカ/デンバー
+Google翻訳：アメリカ/デンバー
+
+原文：Mountain (most areas)
+筆者訳：山岳部標準時 (ほとんどの地域)
+Google翻訳：山（ほとんどの地域）
+
+原文：America/Boise
+筆者訳：アメリカ/ボイシ
+Google翻訳：アメリカ/ボイジー
+
+原文：Mountain - ID (south); OR (east)
+筆者訳：山岳部標準時 - アイダホ州 (南部); オレゴン州 (東部)
+Google翻訳：山-ID（南）;または（東）
+
+原文：America/Phoenix
+筆者訳：アメリカ/フェニックス
+Google翻訳：アメリカ/フェニックス
+
+原文：MST - Arizona (except Navajo)
+筆者訳：山岳部標準時 - アリゾナ州 (ナバホ・ネイションを除く)
+Google翻訳：MST-アリゾナ（ナバホを除く）
+
+原文：America/Los_Angeles
+筆者訳：アメリカ/ロサンゼルス
+Google翻訳：アメリカ/ Los_Angeles
+
+原文：Pacific
+筆者訳：太平洋
+Google翻訳：パシフィック
+
+原文：America/Anchorage
+筆者訳：アメリカ/アンカレッジ
+Google翻訳：アメリカ/アンカレッジ
+
+原文：Alaska (most areas)
+筆者訳：アラスカ (ほとんどの地域)
+Google翻訳：アラスカ（ほとんどの地域）
+
+原文：America/Juneau
+筆者訳：アメリカ/ジュノー
+Google翻訳：アメリカ/ジュノー
+
+原文：Alaska - Juneau area
+筆者訳：アラスカ - ジュノーエリア
+Google翻訳：アラスカ-ジュノーエリア
+
+原文：America/Sitka
+筆者訳：アメリカ / シトカ
+Google翻訳：アメリカ/シトカ
+
+原文：Alaska - Sitka area
+筆者訳：アラスカ - シトカエリア
+Google翻訳：アラスカ-シトカエリア
+
+原文：America/Metlakatla
+筆者訳：アメリカ/メトラカットラ
+Google翻訳：アメリカ/メトラカットラ
+
+原文：Alaska - Annette Island
+筆者訳：アラスカ - アネット島
+Google翻訳：アラスカ-アネット島
+
+原文：America/Yakutat
+筆者訳：アメリカ/ヤクタット
+Google翻訳：アメリカ/ヤクタット
+
+原文：Alaska - Yakutat
+筆者訳：アラスカ - ヤクタット
+Google翻訳：アラスカ-ヤクタット
+
+原文：America/Nome
+筆者訳：アメリカ/ノーム
+Google翻訳：アメリカ/ノーム
+
+原文：Alaska (west)
+筆者訳：アラスカ (西部)
+Google翻訳：アラスカ（西）
+
+原文：America/Adak
+筆者訳：アメリカ/アダック島
+Google翻訳：アメリカ/アダック
+
+原文：Aleutian Islands
+筆者訳：アリューシャン列島
+Google翻訳：アリューシャン列島
+
+原文：Pacific/Honolulu
+筆者訳：太平洋/ホノルル
+Google翻訳：パシフィック/ホノルル
+
+原文：Hawaii
+筆者訳：ハワイ島
+Google翻訳：ハワイ
+
+原文：America/Montevideo
+筆者訳：アメリカ/モンテビデオ
+Google翻訳：アメリカ/モンテビデオ
+
+原文：Asia/Samarkand
+筆者訳：アジア/サマルカンド
+Google翻訳：アジア/サマルカンド
+
+原文：Uzbekistan (west)
+筆者訳：ウズベキスタン (西部)
+Google翻訳：ウズベキスタン（西）
+
+原文：Asia/Tashkent
+筆者訳：アジア/タシュケント
+Google翻訳：アジア/タシケント
+
+原文：Uzbekistan (east)
+筆者訳：ウズベキスタン (東部)
+Google翻訳：ウズベキスタン（東）
+
+原文：Europe/Vatican
+筆者訳：ヨーロッパ/バチカン
+Google翻訳：ヨーロッパ/バチカン
+
+原文：America/St_Vincent
+筆者訳：アメリカ/セントビンセント
+Google翻訳：アメリカ/ St_Vincent
+
+原文：America/Caracas
+筆者訳：アメリカ/カラカス
+Google翻訳：アメリカ/カラカス
+
+原文：America/Tortola
+筆者訳：アメリカ/トルトラ島
+Google翻訳：アメリカ/トルトラ
+
+原文：America/St_Thomas
+筆者訳：アメリカ/セントトーマス
+Google翻訳：アメリカ/ St_Thomas
+
+原文：Asia/Ho_Chi_Minh
+筆者訳：アジア/ホーチミン
+Google翻訳：アジア/ホーチミン
+
+原文：Pacific/Efate
+筆者訳：太平洋/エファテ島
+Google翻訳：パシフィック/エファテ
+
+原文：Pacific/Wallis
+筆者訳：太平洋/ウォリス諸島
+Google翻訳：パシフィック/ウォリス
+
+原文：Pacific/Apia
+筆者訳：太平洋/アピア
+Google翻訳：パシフィック/アピア
+
+原文：Asia/Aden
+筆者訳：アジア/アデン
+Google翻訳：アジア/アデン
+
+原文：Indian/Mayotte
+筆者訳：インド/マヨット
+Google翻訳：インド/マヨット
+
+原文：Africa/Johannesburg
+筆者訳：アフリカ/ヨハネスブルク
+Google翻訳：アフリカ/ヨハネスブルグ
+
+原文：Africa/Lusaka
+筆者訳：アフリカ/ルサカ
+Google翻訳：アフリカ/ルサカ
+
+原文：Africa/Harare
+筆者訳：アフリカ/ハラレ
+Google翻訳：アフリカ/ハラレ
+
+原文：Africa
+筆者訳：アフリカ
+Google翻訳：アフリカ
+
+原文：America
+筆者訳：アメリカ
+Google翻訳：アメリカ
+
+原文：Antarctica
+筆者訳：南極大陸
+Google翻訳：南極大陸
+
+原文：Asia
+筆者訳：アジア
+Google翻訳：アジア
+
+原文：Atlantic
+筆者訳：大西洋
+Google翻訳：大西洋
+
+原文：Australia
+筆者訳：オーストラリア
+Google翻訳：オーストラリア
+
+原文：Europe
+筆者訳：ヨーロッパ
+Google翻訳：ヨーロッパ
+
+原文：Indian
+筆者訳：インド
+Google翻訳：インド人
+

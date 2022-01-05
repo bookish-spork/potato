@@ -1,0 +1,96 @@
+原文：Date &amp; Time Indicator
+筆者訳：日付と時刻インジケーター
+Google翻訳：日付と日付時間インジケーター
+
+原文：The date and time indicator
+筆者訳：日付と時刻のインジケーター
+Google翻訳：日付と時刻のインジケーター
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Open Calendar on middle-click
+筆者訳：中クリックで“カレンダー”を開く機能を追加
+Google翻訳：ミドルクリックでカレンダーを開く
+
+原文：Show due Tasks for the selected day
+筆者訳：選択した日に期日を迎えるタスクを表示する機能を追加
+Google翻訳：選択した日の期限のあるタスクを表示する
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Update current day when opening
+筆者訳：ポップオーバーを開いた際に“今日”の日付を更新するようにするように修正
+Google翻訳：開店時に当日更新
+
+原文：Fix potential memory leak
+筆者訳：メモリーリークの可能性がある不具合を修正
+Google翻訳：潜在的なメモリリークを修正
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fix disappearing dates when changing between dark and light styles
+筆者訳：スタイルをダークやライトに切り替えると日付が消える不具合を修正
+Google翻訳：暗いスタイルと明るいスタイルを切り替えるときに消える日付を修正
+
+原文：Add multitouch gestures
+筆者訳：マルチタッチジェスチャーを追加
+Google翻訳：マルチタッチジェスチャを追加する
+
+原文：Improve time zone handling
+筆者訳：タイムゾーンの処理を改善
+Google翻訳：タイムゾーンの処理を改善する
+
+原文：Fix issues with time zones not being recognized
+筆者訳：タイムゾーンを認識しない不具合を修正
+Google翻訳：タイムゾーンが認識されない問題を修正します
+
+原文：Improved performance when switching months
+筆者訳：表示する月の切り替え時のパフォーマンスを改善
+Google翻訳：月を切り替えるときのパフォーマンスの向上
+
+原文：Fix missing event dots in the calendar view
+筆者訳：カレンダー表示で予定を示す点が表示されなくなった不具合を修正
+Google翻訳：カレンダービューで欠落しているイベントドットを修正
+
+原文：Fix event appearance with dark style
+筆者訳：ダークスタイルで予定が見にくくなる不具合を修正
+Google翻訳：ダークスタイルでイベントの外観を修正
+
+原文：Fix potential crash when loading events with no start or end time
+筆者訳：開始時刻または終了時刻が指定されていない予定を読み込んだ際に、アプリがクラッシュすることがある不具合を修正
+Google翻訳：開始時間または終了時間のないイベントをロードするときに発生する可能性のあるクラッシュを修正
+
+原文：Redesigned the way upcoming events are displayed
+筆者訳：直近の予定の表示方法のデザインを変更
+Google翻訳：今後のイベントの表示方法を再設計
+
+原文：Fixed issues with large text size
+筆者訳：大きいテキストサイズで生じる不具合を修正
+Google翻訳：大きなテキストサイズの問題を修正しました
+
+原文：Show dots on days with events
+筆者訳：予定のある日に点を表示
+Google翻訳：イベントのある日にドットを表示する
+
+原文：Better handling of recurring events
+筆者訳：定期的に行われる予定の管理の改善
+Google翻訳：定期的なイベントの処理の改善
+
+原文：Display an error dialog if Calendar fails to open
+筆者訳：カレンダーアプリの起動に失敗した際にエラーダイアログを表示
+Google翻訳：カレンダーが開かない場合は、エラーダイアログを表示します
+

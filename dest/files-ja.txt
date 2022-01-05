@@ -1,0 +1,1717 @@
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Open Files as Read Only
+筆者訳：ファイルを読み取り専用で開く
+Google翻訳：読み取り専用としてファイルを開く
+
+原文：Open File as Read Only
+筆者訳：ファイルを読み取り専用で開く
+Google翻訳：読み取り専用としてファイルを開く
+
+原文：Select
+筆者訳：選択
+Google翻訳：選択する
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+
+原文：Public FTP
+筆者訳：パブリック FTP
+Google翻訳：パブリックFTP
+
+原文：FTP (with login)
+筆者訳：FTP (認証付き)
+Google翻訳：FTP（ログインあり）
+
+原文：Windows share
+筆者訳：Windows 共有
+Google翻訳：Windows共有
+
+原文：Secure WebDAV (HTTPS)
+筆者訳：セキュア WebDAV (HTTPS)
+Google翻訳：安全なWebDAV（HTTPS）
+
+原文：Server Details
+筆者訳：サーバー情報
+Google翻訳：サーバーの詳細
+
+原文：Server name or IP address
+筆者訳：サーバー名または IP アドレス
+Google翻訳：サーバー名またはIPアドレス
+
+原文：Server:
+筆者訳：サーバー:
+Google翻訳：サーバ：
+
+原文：Port:
+筆者訳：ポート番号:
+Google翻訳：ポート：
+
+原文：Type:
+筆者訳：種類:
+Google翻訳：タイプ：
+
+原文：Name of share on server (Optional)
+筆者訳：サーバー上の共有する場所の名前 (任意)
+Google翻訳：サーバー上の共有の名前（オプション）
+
+原文：Share:
+筆者訳：共有する場所:
+Google翻訳：シェア：
+
+原文：Path of shared folder on server (Optional)
+筆者訳：サーバー上の共有フォルダーのパス (任意)
+Google翻訳：サーバー上の共有フォルダーのパス（オプション）
+
+原文：Folder:
+筆者訳：フォルダー:
+Google翻訳：フォルダ：
+
+原文：User Details
+筆者訳：ユーザー情報
+Google翻訳：ユーザーの詳細
+
+原文：Name of Windows domain
+筆者訳：Windows ドメイン名
+Google翻訳：Windowsドメインの名前
+
+原文：Domain name:
+筆者訳：ドメイン名:
+Google翻訳：ドメイン名：
+
+原文：Name of user on server
+筆者訳：サーバー上のユーザー名
+Google翻訳：サーバー上のユーザーの名前
+
+原文：User name:
+筆者訳：ユーザー名:
+Google翻訳：ユーザー名：
+
+原文：Password:
+筆者訳：パスワード:
+Google翻訳：パスワード：
+
+原文：Remember this password
+筆者訳：このパスワードを記憶
+Google翻訳：このパスワードを覚えておいてください
+
+原文：Connect
+筆者訳：接続
+Google翻訳：接続
+
+原文：Continue
+筆者訳：続行
+Google翻訳：継続する
+
+原文：Connecting…
+筆者訳：接続しています…
+Google翻訳：接続中…
+
+原文：Please verify your user details.
+筆者訳：ユーザー情報が正しいか確認してください。
+Google翻訳：ユーザーの詳細を確認してください。
+
+原文：Server did not respond within time limit
+筆者訳：サーバーは制限時間内に応答しませんでした
+Google翻訳：サーバーが制限時間内に応答しませんでした
+
+原文：Failed to execute "%s"
+筆者訳："%s" を実行できませんでした
+Google翻訳：「％s」の実行に失敗しました
+
+原文：Move Here
+筆者訳：ここへ移動
+Google翻訳：ここに移動
+
+原文：Copy Here
+筆者訳：ここへコピー
+Google翻訳：ここにコピー
+
+原文：Link Here
+筆者訳：ここへリンク
+Google翻訳：ここにリンク
+
+原文：Inaccessible
+筆者訳：アクセスできません
+Google翻訳：アクセスできない
+
+原文：Failed to parse the desktop file
+筆者訳：デスクトップファイルを解析できませんでした
+Google翻訳：デスクトップファイルの解析に失敗しました
+
+原文：Failed to parse the desktop file: 
+筆者訳：デスクトップファイルを解析できませんでした: 
+Google翻訳：デスクトップファイルの解析に失敗しました：
+
+原文：Failed to create command from file: 
+筆者訳：ファイルからコマンドを作成できませんでした: 
+Google翻訳：ファイルからコマンドを作成できませんでした：
+
+原文：Unable to Launch Desktop File: 
+筆者訳：デスクトップファイルを実行できませんでした: 
+Google翻訳：デスクトップファイルを起動できません：
+
+原文：Empty
+筆者訳：空
+Google翻訳：空の
+
+原文（単数形）：%i item
+原文（複数形）：%i items
+筆者訳：%i項目
+Google翻訳：％iアイテム
+
+原文：link to %s
+筆者訳：%s へのリンク
+Google翻訳：％sへのリンク
+
+原文：File conflict
+筆者訳：ファイルの重複
+Google翻訳：ファイルの競合
+
+原文：Original file
+筆者訳：元のファイル
+Google翻訳：元のファイル
+
+原文：Size:
+筆者訳：サイズ:
+Google翻訳：サイズ：
+
+原文：Last modified:
+筆者訳：最終更新日時:
+Google翻訳：最終更新日：
+
+原文：Replace with
+筆者訳：以下のファイルで置き換え
+Google翻訳：と置換する
+
+原文：Reset
+筆者訳：リセット
+Google翻訳：リセット
+
+原文：_Select a new name for the destination
+筆者訳：置き換え先の新しい名前を選択(_S)
+Google翻訳：_宛先の新しい名前を選択します
+
+原文：Apply this action to all files
+筆者訳：この操作をすべてのファイルに適用
+Google翻訳：このアクションをすべてのファイルに適用します
+
+原文：_Skip
+筆者訳：スキップ(_S)
+Google翻訳：_スキップ
+
+原文：Re_name
+筆者訳：名前の変更(_N)
+Google翻訳：Re_name
+
+原文：Keep Newest
+筆者訳：最新のものを保持
+Google翻訳：最新に保つ
+
+原文：Skip if original was modified more recently
+筆者訳：元のファイルがより最近に変更されていた場合コピーをスキップします
+Google翻訳：オリジナルが最近変更された場合はスキップ
+
+原文：Replace
+筆者訳：置き換え
+Google翻訳：交換
+
+原文：Merge folder "%s"?
+筆者訳：フォルダー "%s" を統合しますか？
+Google翻訳：フォルダ「％s」をマージしますか？
+
+原文：Merging will ask for confirmation before replacing any files in the folder that conflict with the files being copied.
+筆者訳：マージをする時に、重複するファイルを転送元のファイルで置き換えるか確認がなされます。
+Google翻訳：マージすると、コピーされるファイルと競合するフォルダー内のファイルを置き換える前に、確認を求められます。
+
+原文：An older folder with the same name already exists in "%s".
+筆者訳："%s" 内に同じ名前のより古いフォルダーがすでに存在しています。
+Google翻訳：同じ名前の古いフォルダが「％s」にすでに存在します。
+
+原文：A newer folder with the same name already exists in "%s".
+筆者訳："%s" 内に同じ名前のより新しいフォルダーがすでに存在しています。
+Google翻訳：同じ名前の新しいフォルダが「％s」にすでに存在します。
+
+原文：Another folder with the same name already exists in "%s".
+筆者訳："%s" 内に同じ名前のフォルダーがすでに存在しています。
+Google翻訳：同じ名前の別のフォルダが「％s」にすでに存在します。
+
+原文：Replace folder "%s"?
+筆者訳：フォルダー "%s" を置き換えますか？
+Google翻訳：フォルダ「％s」を置き換えますか？
+
+原文：Replacing it will remove all files in the folder.
+筆者訳：置き換えることでフォルダー内のファイルがすべて削除されます。
+Google翻訳：交換すると、フォルダ内のすべてのファイルが削除されます。
+
+原文：A folder with the same name already exists in "%s".
+筆者訳："%s" 内に同じ名前のフォルダーがすでに存在しています。
+Google翻訳：同じ名前のフォルダが「％s」にすでに存在します。
+
+原文：Replace file "%s"?
+筆者訳：ファイル "%s" を置き換えますか？
+Google翻訳：ファイル "％s"を置き換えますか？
+
+原文：Replacing it will overwrite its content.
+筆者訳：置き換えることで内容が上書きされます。
+Google翻訳：交換すると内容が上書きされます。
+
+原文：An older file with the same name already exists in "%s".
+筆者訳："%s" 内に同じ名前のより古いファイルがすでに存在しています。
+Google翻訳：同じ名前の古いファイルが「％s」にすでに存在します。
+
+原文：A newer file with the same name already exists in "%s".
+筆者訳："%s" 内に同じ名前のより新しいファイルがすでに存在しています。
+Google翻訳：同じ名前の新しいファイルがすでに「％s」に存在します。
+
+原文：Another file with the same name already exists in "%s".
+筆者訳："%s" 内に同じ名前のファイルがすでに存在しています。
+Google翻訳：同じ名前の別のファイルが「％s」にすでに存在します。
+
+原文：Merge
+筆者訳：統合
+Google翻訳：マージ
+
+原文：Could not determine original location of "%s"
+筆者訳："%s" があった元の場所を特定できませんでした
+Google翻訳：「％s」の元の場所を特定できませんでした
+
+原文：The item cannot be restored from trash
+筆者訳：ゴミ箱から項目を復元できません
+Google翻訳：アイテムをゴミ箱から復元することはできません
+
+原文：The original folder %s no longer exists
+筆者訳：元のフォルダー %s はすでに存在しません
+Google翻訳：元のフォルダ％sはもう存在しません
+
+原文：Would you like to recreate it?
+筆者訳：再作成しますか？
+Google翻訳：再現しますか？
+
+原文：Ignore
+筆者訳：無視する
+Google翻訳：無視
+
+原文：No files that were in this folder will be restored
+筆者訳：このフォルダー内にあったファイルは復元されません
+Google翻訳：このフォルダにあったファイルは復元されません
+
+原文：Recreate
+筆者訳：再作成
+Google翻訳：再作成
+
+原文：The folder will be recreated and selected files that were originally there will be restored to it
+筆者訳：フォルダーは再作成され、選択中のファイルは元々あったそのフォルダー内に復元されます
+Google翻訳：フォルダが再作成され、元々そこにあった選択されたファイルがそのフォルダに復元されます
+
+原文：Could not recreate folder %s. Will ignore all files in this folder
+筆者訳：フォルダー %s を再作成できませんでした。このフォルダー内のすべてのファイルを無視します
+Google翻訳：フォルダ％sを再作成できませんでした。このフォルダ内のすべてのファイルを無視します
+
+原文：Could not rename to '%s'
+筆者訳：'%s' へ名前を変更できません
+Google翻訳：'％s'に名前を変更できませんでした
+
+原文：Today at %s
+筆者訳：今日の%s
+Google翻訳：今日％sで
+
+原文：Yesterday at %s
+筆者訳：昨日の%s
+Google翻訳：昨日％sで
+
+原文：%%A at %s
+筆者訳：%%Aの%s
+Google翻訳：%% A at％s
+
+原文（単数形）：%'d second
+原文（複数形）：%'d seconds
+筆者訳：%'d秒
+Google翻訳：％ 'd秒
+
+原文（単数形）：%'d minute
+原文（複数形）：%'d minutes
+筆者訳：%'d分
+Google翻訳：％ 'd分
+
+原文：%s, %s
+筆者訳：%s、%s
+Google翻訳：％s、％s
+
+原文（単数形）：%'d hour
+原文（複数形）：%'d hours
+筆者訳：%'d時間
+Google翻訳：％ 'd時間
+
+原文（単数形）：approximately %'d hour
+原文（複数形）：approximately %'d hours
+筆者訳：約%'d時間
+Google翻訳：約％ 'd時間
+
+原文：copy
+筆者訳：コピー
+Google翻訳：コピー
+
+原文：link
+筆者訳：リンク
+Google翻訳：リンク
+
+原文：Are you sure you want to permanently delete "%s" from the trash?
+筆者訳：ゴミ箱から "%s" を完全に削除してもよろしいですか？
+Google翻訳：ゴミ箱から「％s」を完全に削除してもよろしいですか？
+
+原文（単数形）：Are you sure you want to permanently delete the %'d selected item from the trash?
+原文（複数形）：Are you sure you want to permanently delete the %'d selected items from the trash?
+筆者訳：選択中の%'d個の項目をゴミ箱から完全に削除してもよろしいですか？
+Google翻訳：％ 'dで選択したアイテムをゴミ箱から完全に削除してもよろしいですか？
+
+原文：If you delete an item, it will be permanently lost.
+筆者訳：項目を完全に削除すると、元に戻すことはできません。
+Google翻訳：アイテムを削除すると、そのアイテムは完全に失われます。
+
+原文：Permanently delete “%s”?
+筆者訳：“%s” を完全に削除しますか？
+Google翻訳：「％s」を完全に削除しますか？
+
+原文（単数形）：Are you sure you want to permanently delete the %'d selected item?
+原文（複数形）：Are you sure you want to permanently delete the %'d selected items?
+筆者訳：選択中の%'d個の項目を完全に削除してもよろしいですか？
+Google翻訳：％ 'd選択したアイテムを完全に削除してもよろしいですか？
+
+原文：Deleted items are not sent to Trash and are not recoverable.
+筆者訳：項目はゴミ箱に移動されないため、元に戻せません。
+Google翻訳：削除されたアイテムはゴミ箱に送信されず、復元できません。
+
+原文（単数形）：%'d file left to delete
+原文（複数形）：%'d files left to delete
+筆者訳：残り%'d個のファイルを削除しています
+Google翻訳：％ 'dファイルを削除するために残しました
+
+原文：Deleting files
+筆者訳：ファイルを削除しています
+Google翻訳：ファイルの削除
+
+原文（単数形）：%s left
+原文（複数形）：%s left
+筆者訳：残り %s
+Google翻訳：残り％s
+
+原文：Error while deleting.
+筆者訳：削除中にエラーが発生しました。
+Google翻訳：削除中にエラーが発生しました。
+
+原文：Files in the folder "%s" cannot be deleted because you do not have permissions to see them.
+筆者訳：フォルダー "%s" 内のファイルを読み込む権限がないため削除できません。
+Google翻訳：「％s」フォルダ内のファイルは、表示する権限がないため削除できません。
+
+原文：There was an error getting information about the files in the folder "%s".
+筆者訳：フォルダー "%s" 内のファイルに関する情報の取得中にエラーが発生しました。
+Google翻訳：フォルダ「％s」内のファイルに関する情報の取得中にエラーが発生しました。
+
+原文：_Skip files
+筆者訳：ファイルをスキップ(_S)
+Google翻訳：_ファイルをスキップ
+
+原文：The folder "%s" cannot be deleted because you do not have permissions to read it.
+筆者訳：フォルダー "%s" を読み込む権限がないため削除できません。
+Google翻訳：フォルダ「％s」は、読み取り権限がないため削除できません。
+
+原文：There was an error reading the folder "%s".
+筆者訳：フォルダー "%s" の読み込み中にエラーが発生しました。
+Google翻訳：フォルダ「％s」の読み取り中にエラーが発生しました。
+
+原文：Could not remove the folder %s.
+筆者訳：フォルダー "%s" を削除できませんでした。
+Google翻訳：フォルダ％sを削除できませんでした。
+
+原文：There was an error deleting %s.
+筆者訳："%s" の削除中にエラーが発生しました。
+Google翻訳：％sの削除中にエラーが発生しました。
+
+原文：Moving files to trash
+筆者訳：ファイルをゴミ箱に移動しています
+Google翻訳：ファイルをゴミ箱に移動する
+
+原文（単数形）：%'d file left to trash
+原文（複数形）：%'d files left to trash
+筆者訳：残り%'d個のファイルをゴミ箱に移動しています
+Google翻訳：％ 'dファイルをゴミ箱に残しました
+
+原文：Cannot move file to trash or delete it
+筆者訳：ファイルをゴミ箱に移動または削除できませんでした
+Google翻訳：ファイルをゴミ箱に移動したり削除したりすることはできません
+
+原文：It is not permitted to trash or delete files on a read only filesystem.
+筆者訳：読み取り専用ファイルシステムにあるファイルは、ゴミ箱に移動したり削除したりできません。
+Google翻訳：読み取り専用ファイルシステム上のファイルをゴミ箱に移動したり削除したりすることは許可されていません。
+
+原文：It is not permitted to trash or delete files inside folders for which you do not have write privileges.
+筆者訳：書き込み権限を持っていないフォルダーにあるファイルは、ゴミ箱に移動したり削除したりできません。
+Google翻訳：書き込み権限のないフォルダ内のファイルをゴミ箱に移動したり削除したりすることはできません。
+
+原文：It is not permitted to trash or delete folders for which you do not have write privileges.
+筆者訳：書き込み権限を持っていないフォルダーは、ゴミ箱に移動したり削除したりできません。
+Google翻訳：書き込み権限のないフォルダをゴミ箱や削除することはできません。
+
+原文：Cannot move file to trash. Try to delete it immediately?
+筆者訳：ファイルをゴミ箱に移動できません。すぐに削除してみますか？
+Google翻訳：ファイルをゴミ箱に移動できません。すぐに削除してみますか？
+
+原文：This file could not be moved to trash. See details below for further information.
+筆者訳：このファイルをゴミ箱に移動させることができませんでした。詳細は、以下を参照してください。
+Google翻訳：このファイルをゴミ箱に移動できませんでした。詳細については、以下の詳細を参照してください。
+
+原文：Cannot move file to trash.  Try to delete it?
+筆者訳：ファイルをゴミ箱に移動できません。削除をしてみますか？
+Google翻訳：ファイルをゴミ箱に移動できません。削除してみますか？
+
+原文：This file could not be moved to trash. You may not be able to delete it either.
+筆者訳：このファイルをゴミ箱に移動できませんでした。削除もできない可能性があります。
+Google翻訳：このファイルをゴミ箱に移動できませんでした。削除できない場合もあります。
+
+原文：
+ Deleting a file removes it permanently
+筆者訳：
+ ファイルを削除すると完全に削除します
+Google翻訳：
+ ファイルを削除すると、ファイルが完全に削除されます
+
+原文：Trashing Files
+筆者訳：ファイルをゴミ箱に移動しています
+Google翻訳：ファイルのゴミ箱
+
+原文：Deleting Files
+筆者訳：ファイルを削除しています
+Google翻訳：ファイルの削除
+
+原文（単数形）：Preparing to copy %'d file (%s)
+原文（複数形）：Preparing to copy %'d files (%s)
+筆者訳：%'d個のファイル (%s) をコピーする準備をしています
+Google翻訳：％ 'dファイル（％s）をコピーする準備をしています
+
+原文（単数形）：Preparing to move %'d file (%s)
+原文（複数形）：Preparing to move %'d files (%s)
+筆者訳：%'d個のファイル (%s) を移動する準備をしています
+Google翻訳：％ 'dファイル（％s）を移動する準備をしています
+
+原文（単数形）：Preparing to delete %'d file (%s)
+原文（複数形）：Preparing to delete %'d files (%s)
+筆者訳：%'d個のファイル (%s) を削除する準備をしています
+Google翻訳：％ 'dファイル（％s）を削除する準備をしています
+
+原文（単数形）：Preparing to trash %'d file
+原文（複数形）：Preparing to trash %'d files
+筆者訳：%'d個のファイルをゴミ箱に移動する準備をしています
+Google翻訳：％ 'dファイルをゴミ箱に移動する準備をしています
+
+原文：Error while copying.
+筆者訳：コピー中にエラーが発生しました。
+Google翻訳：コピー中にエラーが発生しました。
+
+原文：Error while moving.
+筆者訳：移動中にエラーが発生しました。
+Google翻訳：移動中にエラーが発生しました。
+
+原文：Error while moving files to trash.
+筆者訳：ファイルをゴミ箱に移動中にエラーが発生しました。
+Google翻訳：ファイルをごみ箱に移動中にエラーが発生しました。
+
+原文：Files in the folder "%s" cannot be handled because you do not have permissions to see them.
+筆者訳：フォルダー "%s" 内のファイルを読み込む権限がないため操作できません。
+Google翻訳：フォルダ「％s」内のファイルは、それらを表示する権限がないため、処理できません。
+
+原文：The folder "%s" cannot be handled because you do not have permissions to read it.
+筆者訳：フォルダー "%s" を読み込む権限がないため操作できません。
+Google翻訳：フォルダ「％s」は、読み取り権限がないため処理できません。
+
+原文：The file "%s" cannot be handled because you do not have permissions to read it.
+筆者訳：ファイル "%s" を読み込む権限がないため操作できません。
+Google翻訳：ファイル "％s"は、読み取り権限がないため処理できません。
+
+原文：There was an error getting information about "%s".
+筆者訳："%s" に関する情報の取得中にエラーが発生しました。
+Google翻訳：「％s」に関する情報の取得中にエラーが発生しました。
+
+原文：Error while copying to "%s".
+筆者訳："%s" へのコピー中にエラーが発生しました。
+Google翻訳：「％s」へのコピー中にエラーが発生しました。
+
+原文：You do not have permissions to access the destination folder.
+筆者訳：転送先のフォルダーにアクセスする権限がありません。
+Google翻訳：宛先フォルダーにアクセスするためのアクセス許可がありません。
+
+原文：There was an error getting information about the destination.
+筆者訳：転送先の情報の取得中にエラーが発生しました。
+Google翻訳：宛先に関する情報の取得中にエラーが発生しました。
+
+原文：The destination is not a folder.
+筆者訳：転送先はフォルダーではありません。
+Google翻訳：宛先はフォルダではありません。
+
+原文：There is not enough space on the destination. Try to remove files to make space.
+筆者訳：転送先の空き容量が不足しています。容量を増やすためにはファイルを削除してみてください。
+Google翻訳：目的地に十分なスペースがありません。スペースを空けるためにファイルを削除してみてください。
+
+原文：There is %s available, but %s is required.
+筆者訳：利用可能な容量は %s ありますが、%s が必要です。
+Google翻訳：利用可能な％sがありますが、％sは必須です。
+
+原文：The destination is read-only.
+筆者訳：転送先は読み込み専用です。
+Google翻訳：宛先は読み取り専用です。
+
+原文：Moving "%s" to "%s"
+筆者訳："%s" を "%s" へ移動しています
+Google翻訳：「％s」を「％s」に移動
+
+原文：Copying "%s" to "%s"
+筆者訳："%s" を "%s" へコピーしています
+Google翻訳：「％s」を「％s」にコピーしています
+
+原文：Duplicating "%s"
+筆者訳："%s" を複製しています
+Google翻訳：「％s」の複製
+
+原文（単数形）：Moving %'d file (in "%s") to "%s"
+原文（複数形）：Moving %'d files (in "%s") to "%s"
+筆者訳：%'d個のファイルを "%s" から "%s" へ移動しています
+Google翻訳：％ 'dファイル（ "％s"内）を "％s"に移動
+
+原文（単数形）：Copying %'d file (in "%s") to "%s"
+原文（複数形）：Copying %'d files (in "%s") to "%s"
+筆者訳：%'d個のファイルを "%s" から "%s" へコピーしています
+Google翻訳：％ 'dファイル（ "％s"内）を "％s"にコピーしています
+
+原文（単数形）：Duplicating %'d file (in "%s")
+原文（複数形）：Duplicating %'d files (in "%s")
+筆者訳：%'d個のファイルを "%s" 内で複製しています
+Google翻訳：％ 'dファイルの複製（ "％s"内）
+
+原文（単数形）：Moving %'d file to "%s"
+原文（複数形）：Moving %'d files to "%s"
+筆者訳：%'d個のファイルを "%s" へ移動しています
+Google翻訳：％ 'dファイルを "％s"に移動
+
+原文（単数形）：Copying %'d file to "%s"
+原文（複数形）：Copying %'d files to "%s"
+筆者訳：%'d個のファイルを "%s" へコピーしています
+Google翻訳：％ 'dファイルを "％s"にコピーしています
+
+原文（単数形）：Duplicating %'d file
+原文（複数形）：Duplicating %'d files
+筆者訳：%'d 個のファイルを複製しています
+Google翻訳：％ 'dファイルを複製しています
+
+原文：%s of %s
+筆者訳：%s / %s
+Google翻訳：％sの％s
+
+原文（単数形）：%s of %s — %s left (%s/sec)
+原文（複数形）：%s of %s — %s left (%s/sec)
+筆者訳：%s / %s — 残り %s (%s/秒)
+Google翻訳：％sの％s —残りの％s（％s /秒）
+
+原文：The folder "%s" cannot be copied because you do not have permissions to create it in the destination.
+筆者訳：フォルダー "%s" をコピー先に作成する権限がないためコピーできません。
+Google翻訳：フォルダ「％s」は、宛先に作成する権限がないため、コピーできません。
+
+原文：There was an error creating the folder "%s".
+筆者訳：フォルダー "%s" の作成中にエラーが発生しました。
+Google翻訳：フォルダ「％s」の作成中にエラーが発生しました。
+
+原文：Files in the folder "%s" cannot be copied because you do not have permissions to see them.
+筆者訳：フォルダー "%s" 内のファイルを読み込む権限がないためコピーできません。
+Google翻訳：フォルダ「％s」内のファイルは、それらを表示する権限がないため、コピーできません。
+
+原文：The folder "%s" cannot be copied because you do not have permissions to read it.
+筆者訳：フォルダー "%s" を読み込む権限がないためコピーできません。
+Google翻訳：フォルダ「％s」は、読み取り権限がないためコピーできません。
+
+原文：Error while moving "%s".
+筆者訳："%s" の移動中にエラーが発生しました。
+Google翻訳：「％s」の移動中にエラーが発生しました。
+
+原文：Could not remove the source folder.
+筆者訳：転送元のフォルダーを削除できませんでした。
+Google翻訳：ソースフォルダを削除できませんでした。
+
+原文：Error while copying "%s".
+筆者訳："%s" のコピー中にエラーが発生しました。
+Google翻訳：「％s」のコピー中にエラーが発生しました。
+
+原文：Could not remove files from the already existing folder %s.
+筆者訳：すでに存在しているフォルダー "%s" からファイルを削除できませんでした。
+Google翻訳：既存のフォルダ％sからファイルを削除できませんでした。
+
+原文：Could not remove the already existing file %s.
+筆者訳：すでに存在しているファイル "%s" を削除できませんでした。
+Google翻訳：既存のファイル％sを削除できませんでした。
+
+原文：You cannot move a folder into itself.
+筆者訳：フォルダーをそれ自身の中に移動することはできません。
+Google翻訳：フォルダをそれ自体に移動することはできません。
+
+原文：You cannot copy a folder into itself.
+筆者訳：フォルダーをそれ自身の中にコピーすることはできません。
+Google翻訳：フォルダをそれ自体にコピーすることはできません。
+
+原文：The destination folder is inside the source folder.
+筆者訳：転送先のフォルダーが転送元のフォルダーの中にあります。
+Google翻訳：宛先フォルダーはソースフォルダー内にあります。
+
+原文：You cannot move a file over itself.
+筆者訳：ファイルをそれ自身に移動することはできません。
+Google翻訳：ファイルをそれ自体の上に移動することはできません。
+
+原文：You cannot copy a file over itself.
+筆者訳：ファイルをそれ自身にコピーすることはできません。
+Google翻訳：ファイルをそれ自体にコピーすることはできません。
+
+原文：The source file would be overwritten by the destination.
+筆者訳：転送元のファイルは転送先によって上書きされます。
+Google翻訳：ソースファイルは宛先によって上書きされます。
+
+原文：Could not remove the already existing file with the same name in %s.
+筆者訳：%s の中に存在する同名のファイルを削除できませんでした。
+Google翻訳：％sに同じ名前の既存のファイルを削除できませんでした。
+
+原文：Cannot copy "%s" here.
+筆者訳：ここには "%s" をコピーできません。
+Google翻訳：ここに「％s」をコピーすることはできません。
+
+原文：There was an error copying the file into %s.
+筆者訳：%s へのファイルのコピー中にエラーが発生しました。
+Google翻訳：ファイルを％sにコピーするときにエラーが発生しました。
+
+原文：Copying Files
+筆者訳：ファイルをコピーしています
+Google翻訳：ファイルのコピー
+
+原文：Preparing to move to "%s"
+筆者訳："%s" へ移動する準備をしています
+Google翻訳：「％s」に移動する準備をしています
+
+原文（単数形）：Preparing to move %'d file
+原文（複数形）：Preparing to move %'d files
+筆者訳：%'d 個のファイルを移動する準備をしています
+Google翻訳：％ 'dファイルを移動する準備をしています
+
+原文：There was an error moving the file into %s.
+筆者訳：%s 内へのファイルの移動中にエラーが発生しました。
+Google翻訳：ファイルを％sに移動するときにエラーが発生しました。
+
+原文：Moving Files
+筆者訳：ファイルを移動しています
+Google翻訳：ファイルの移動
+
+原文：Creating links in "%s"
+筆者訳："%s" 内でリンクを作成しています
+Google翻訳：「％s」でリンクを作成する
+
+原文（単数形）：Making link to %'d file
+原文（複数形）：Making links to %'d files
+筆者訳：%'d 個のファイルへのリンクを作成しています
+Google翻訳：％ 'dファイルへのリンクを作成する
+
+原文：Error while creating link to %s.
+筆者訳：%s へのリンクの作成中にエラーが発生しました。
+Google翻訳：％sへのリンクの作成中にエラーが発生しました。
+
+原文：Symbolic links only supported for local files
+筆者訳：シンボリックリンクはローカルファイルでのみサポートされています
+Google翻訳：ローカルファイルでのみサポートされるシンボリックリンク
+
+原文：The target doesn't support symbolic links.
+筆者訳：リンクの作成先はシンボリックリンクをサポートしていません。
+Google翻訳：ターゲットはシンボリックリンクをサポートしていません。
+
+原文：There was an error creating the symlink in %s.
+筆者訳：%s 内へのシンボリックリンクの作成中にエラーが発生しました。
+Google翻訳：％sでのシンボリックリンクの作成中にエラーが発生しました。
+
+原文：Setting permissions
+筆者訳：権限を設定しています
+Google翻訳：権限の設定
+
+原文：Zero files to process
+筆者訳：処理するファイルがありません
+Google翻訳：処理するファイルがゼロ
+
+原文：Cannot copy into trash.
+筆者訳：ゴミ箱にコピーできません。
+Google翻訳：ゴミ箱にコピーすることはできません。
+
+原文：It is not permitted to copy files into the trash
+筆者訳：ゴミ箱にファイルをコピーすることは許可されていません
+Google翻訳：ファイルをゴミ箱にコピーすることは許可されていません
+
+原文：untitled folder
+筆者訳：名称未設定フォルダー
+Google翻訳：無題のフォルダ
+
+原文：new file
+筆者訳：新しいファイル
+Google翻訳：新しいファイル
+
+原文：Error while creating directory %s.
+筆者訳：フォルダー %s の作成中にエラーが発生しました。
+Google翻訳：ディレクトリ％sの作成中にエラーが発生しました。
+
+原文：Error while creating file %s.
+筆者訳：ファイル %s の作成中にエラーが発生しました。
+Google翻訳：ファイル％sの作成中にエラーが発生しました。
+
+原文：There was an error creating the directory in %s.
+筆者訳：%s 内へのフォルダーの作成中にエラーが発生しました。
+Google翻訳：％sにディレクトリを作成するときにエラーが発生しました。
+
+原文：Open in New _Tab
+筆者訳：新しいタブで開く(_T)
+Google翻訳：新しい_Tabで開く
+
+原文：Open in New _Window
+筆者訳：新しいウィンドウで開く(_W)
+Google翻訳：新しいウィンドウで開きます
+
+原文：Remove
+筆者訳：削除
+Google翻訳：削除する
+
+原文：Rename
+筆者訳：名前を変更
+Google翻訳：名前を変更
+
+原文：_Mount
+筆者訳：マウント(_M)
+Google翻訳：_マウント
+
+原文：_Unmount
+筆者訳：アンマウント(_U)
+Google翻訳：_アンマウント
+
+原文：Properties
+筆者訳：プロパティ
+Google翻訳：プロパティ
+
+原文：Eject Media
+筆者訳：メディアを取り出す
+Google翻訳：メディアを排出する
+
+原文：Safely Remove
+筆者訳：安全に取り外す
+Google翻訳：安全に取り外します
+
+原文：Add to Bookmarks
+筆者訳：ブックマークに追加
+Google翻訳：ブックマークに追加
+
+原文：Permanently Delete All Trash
+筆者訳：すべてのゴミ箱から項目を完全に削除
+Google翻訳：すべてのゴミ箱を完全に削除する
+
+原文：Permanently Delete Trash
+筆者訳：ゴミ箱から項目を完全に削除
+Google翻訳：ごみ箱を完全に削除する
+
+原文：Permanently Delete Trash on this Mount
+筆者訳：このドライブのゴミ箱から項目を完全に削除
+Google翻訳：このマウントのゴミ箱を完全に削除する
+
+原文：Preparing
+筆者訳：準備しています
+Google翻訳：準備
+
+原文：Files
+筆者訳：ファイル
+Google翻訳：ファイル
+
+原文：Network
+筆者訳：ネットワーク
+Google翻訳：通信網
+
+原文：Trash
+筆者訳：ゴミ箱
+Google翻訳：ごみ
+
+原文：Recent
+筆者訳：最近使用した項目
+Google翻訳：最近
+
+原文：File System
+筆者訳：ファイルシステム
+Google翻訳：ファイルシステム
+
+原文：_Cancel
+筆者訳：キャンセル(_C)
+Google翻訳：_キャンセル
+
+原文：Delete
+筆者訳：削除
+Google翻訳：消去
+
+原文：S_kip All
+筆者訳：すべてスキップ(_K)
+Google翻訳：全部スキップ
+
+原文：_Retry
+筆者訳：再試行(_R)
+Google翻訳：_リトライ
+
+原文：Delete _All
+筆者訳：すべて削除(_A)
+Google翻訳：すべて削除
+
+原文：_Replace
+筆者訳：置き換え(_R)
+Google翻訳：_交換
+
+原文：Replace _All
+筆者訳：すべて置き換え(_A)
+Google翻訳：_Allを置き換えます
+
+原文：_Merge
+筆者訳：統合(_M)
+Google翻訳：_マージ
+
+原文：Merge _All
+筆者訳：すべて統合(_A)
+Google翻訳：マージ_すべて
+
+原文：Copy _Anyway
+筆者訳：強制的にコピー(_A)
+Google翻訳：コピー_とにかく
+
+原文：Empty _Trash
+筆者訳：ゴミ箱を空にする(_T)
+Google翻訳：空のごみ箱
+
+原文：Original location could not be determined
+筆者訳：元の場所が判別できませんでした
+Google翻訳：元の場所を特定できませんでした
+
+原文：Open trash folder and restore manually
+筆者訳：ゴミ箱フォルダーを開いて、手動で復元してください
+Google翻訳：ごみ箱フォルダを開き、手動で復元します
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：Permanently delete all items from Trash?
+筆者訳：ゴミ箱からすべての項目を完全に削除しますか？
+Google翻訳：ごみ箱からすべてのアイテムを完全に削除しますか？
+
+原文：All items in all trash directories, including those on any mounted external drives, will be permanently deleted.
+筆者訳：マウントされたすべての外付けドライブ上のものも含め、ゴミ箱にあるすべての項目は、完全に削除されます。
+Google翻訳：マウントされた外付けドライブ上のアイテムを含む、すべてのごみ箱ディレクトリ内のすべてのアイテムは完全に削除されます。
+
+原文：Permanently delete all items from Trash on this mount?
+筆者訳：このドライブのゴミ箱にあるすべての項目を完全に削除しますか？
+Google翻訳：このマウントのゴミ箱からすべてのアイテムを完全に削除しますか？
+
+原文：All items in the trash on this mount, will be permanently deleted.
+筆者訳：このドライブのゴミ箱にあるすべての項目は、完全に削除されます。
+Google翻訳：このマウントのゴミ箱にあるすべてのアイテムは完全に削除されます。
+
+原文：Emptying Trash
+筆者訳：ゴミ箱を空にしています
+Google翻訳：ゴミ箱を空にする
+
+原文：Unable to unmount '%s'
+筆者訳：'%s' をアンマウントできません
+Google翻訳：'％s'をアンマウントできません
+
+原文：Unable to eject '%s'
+筆者訳：'%s' を取り出せません
+Google翻訳：'％s'を排出できません
+
+原文：Unable to mount '%s'
+筆者訳：'%s' をマウントできません
+Google翻訳：'％s'をマウントできません
+
+原文：Navigate to %s
+筆者訳：%s へ移動
+Google翻訳：％sに移動します
+
+原文：Go to %s
+筆者訳：%s へ移動
+Google翻訳：％sに移動
+
+原文：Type Path
+筆者訳：パスを入力してください
+Google翻訳：タイプパス
+
+原文：Type a path
+筆者訳：パスを入力してください
+Google翻訳：パスを入力します
+
+原文：View as Grid
+筆者訳：グリッド表示
+Google翻訳：グリッドとして表示
+
+原文：View as List
+筆者訳：リスト表示
+Google翻訳：リストとして表示
+
+原文：View in Columns
+筆者訳：カラム表示
+Google翻訳：列で表示
+
+原文：Restore All
+筆者訳：すべて元に戻す
+Google翻訳：すべての復元
+
+原文：Empty the Trash
+筆者訳：ゴミ箱を空にする
+Google翻訳：ゴミ箱を空にする
+
+原文：Restore Selected
+筆者訳：選択項目を元に戻す
+Google翻訳：選択したものを復元
+
+原文：Delete Selected
+筆者訳：選択項目を削除
+Google翻訳：選択を削除します
+
+原文：Send by Email
+筆者訳：メールで送る
+Google翻訳：メールで送る
+
+原文：Show the version of the program
+筆者訳：プログラムのバージョンを表示します
+Google翻訳：プログラムのバージョンを表示する
+
+原文：Open one or more URIs, each in their own tab
+筆者訳：1 つ以上の URI を、それぞれ別のタブで開きます
+Google翻訳：それぞれ独自のタブで1つ以上のURIを開きます
+
+原文：New Window
+筆者訳：新しいウィンドウ
+Google翻訳：新しい窓
+
+原文：Quit Files
+筆者訳：ファイルを終了します
+Google翻訳：ファイルを終了する
+
+原文：Enable debug logging
+筆者訳：デバックログを有効にします
+Google翻訳：デバッグログを有効にする
+
+原文：
+
+Browse the file system with the file manager
+筆者訳：
+
+ファイルマネージャーでファイルシステムを閲覧します
+Google翻訳：
+
+ファイルマネージャでファイルシステムを参照する
+
+原文：--quit cannot be used with URIs.
+筆者訳：--quit オプションには URI を指定できません。
+Google翻訳：--quitはURIでは使用できません。
+
+原文：Browse your files
+筆者訳：ファイルを閲覧します
+Google翻訳：ファイルを閲覧する
+
+原文：File Manager
+筆者訳：ファイルマネージャー
+Google翻訳：ファイルマネージャー
+
+原文：New _Window
+筆者訳：新しいウィンドウ(_W)
+Google翻訳：新しい窓
+
+原文：New Window As _Administrator
+筆者訳：新しい管理者ウィンドウ(_A)
+Google翻訳：_Administratorとしての新しいウィンドウ
+
+原文：File Operations
+筆者訳：ファイル操作
+Google翻訳：ファイル操作
+
+原文：Completed %s
+筆者訳：%s を完了
+Google翻訳：完了した％s
+
+原文：All file operations have ended
+筆者訳：すべてのファイル操作が完了しました
+Google翻訳：すべてのファイル操作が終了しました
+
+原文：Info
+筆者訳：情報
+Google翻訳：情報
+
+原文：General
+筆者訳：一般
+Google翻訳：全般的
+
+原文：Device Usage
+筆者訳：デバイスの使用状況
+Google翻訳：デバイスの使用法
+
+原文：Capacity:
+筆者訳：容量:
+Google翻訳：容量：
+
+原文：Unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：Available:
+筆者訳：利用可能:
+Google翻訳：利用可能：
+
+原文：Used:
+筆者訳：使用済み:
+Google翻訳：使用済み：
+
+原文：Set as default
+筆者訳：デフォルトに設定
+Google翻訳：デフォルトとして設定
+
+原文：Unable to determine file ownership and permissions
+筆者訳：ファイルの所有者と権限を検出できません
+Google翻訳：ファイルの所有権とアクセス許可を判別できません
+
+原文：Permissions
+筆者訳：権限
+Google翻訳：権限
+
+原文（単数形）：%i file could not be read due to permissions or other errors.
+原文（複数形）：%i files could not be read due to permissions or other errors.
+筆者訳：%i個のファイルが権限またはそのほかのエラーにより読み込めません。
+Google翻訳：パーミッションまたはその他のエラーのため、％iファイルを読み取ることができませんでした。
+
+原文：Actual Size Could Be Larger
+筆者訳：実際のサイズはより大きい可能性があります
+Google翻訳：実際のサイズはもっと大きくなる可能性があります
+
+原文：unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：Loading…
+筆者訳：読み込んでいます…
+Google翻訳：読み込んでいます…
+
+原文：Could not be determined
+筆者訳：測定できませんでした
+Google翻訳：決定できませんでした
+
+原文：Contains:
+筆者訳：内容:
+Google翻訳：含まれています：
+
+原文：Created:
+筆者訳：作成日時:
+Google翻訳：作成した：
+
+原文：Modified:
+筆者訳：更新日時:
+Google翻訳：変更：
+
+原文：Deleted:
+筆者訳：削除日時:
+Google翻訳：削除：
+
+原文：Media type:
+筆者訳：メディアタイプ:
+Google翻訳：メディアタイプ：
+
+原文：Resolution:
+筆者訳：解像度:
+Google翻訳：解決：
+
+原文：Location:
+筆者訳：場所:
+Google翻訳：位置：
+
+原文：Target:
+筆者訳：ターゲット:
+Google翻訳：目標：
+
+原文：Original Location:
+筆者訳：元の場所:
+Google翻訳：元の場所：
+
+原文：Other Application…
+筆者訳：ほかのアプリケーション…
+Google翻訳：その他のアプリケーション…
+
+原文：Open with:
+筆者訳：このアプリケーションで開く:
+Google翻訳：で開く：
+
+原文：Owner:
+筆者訳：所有者:
+Google翻訳：オーナー：
+
+原文：Group:
+筆者訳：グループ:
+Google翻訳：グループ：
+
+原文：Everyone:
+筆者訳：全員:
+Google翻訳：みんな：
+
+原文（単数形）：%u subfolder
+原文（複数形）：%u subfolders
+筆者訳：%u個のサブフォルダー
+Google翻訳：％uサブフォルダー
+
+原文（単数形）：%u file
+原文（複数形）：%u files
+筆者訳：%u個のファイル
+Google翻訳：％uファイル
+
+原文（単数形）：%u folder
+原文（複数形）：%u folders
+筆者訳：%u個のフォルダー
+Google翻訳：％uフォルダー
+
+原文（単数形）：%u selected item
+原文（複数形）：%u selected items
+筆者訳：%u個の選択項目
+Google翻訳：％u選択したアイテム
+
+原文：%s (%s, %s)
+筆者訳：%s (%s、%s)
+Google翻訳：％s（％s、％s）
+
+原文：Disk Properties
+筆者訳：ディスクのプロパティ
+Google翻訳：ディスクのプロパティ
+
+原文：Format:
+筆者訳：フォーマット:
+Google翻訳：フォーマット：
+
+原文：Multiple file types selected
+筆者訳：複数のファイルタイプが選択されています
+Google翻訳：複数のファイルタイプが選択されました
+
+原文：No single app can open all these types of file
+筆者訳：これらすべてのファイルタイプを開くことができるアプリがありません
+Google翻訳：単一のアプリでこれらすべての種類のファイルを開くことはできません
+
+原文：Failed to open files
+筆者訳：ファイルを開けませんでした
+Google翻訳：ファイルを開くことができませんでした
+
+原文：Could not open URIs
+筆者訳：URI を開くことができませんでした
+Google翻訳：URIを開くことができませんでした
+
+原文：Could not open files or URIs with this app
+筆者訳：このアプリでファイルまたは URI を開けませんでした
+Google翻訳：このアプリでファイルまたはURIを開くことができませんでした
+
+原文：Cannot execute this file
+筆者訳：このファイルを実行できません
+Google翻訳：このファイルを実行できません
+
+原文：“%s” must be moved from Trash before opening
+筆者訳：“%s” を開くには、ゴミ箱から移動させる必要があります
+Google翻訳：「％s」は、開く前にゴミ箱から移動する必要があります
+
+原文：Files inside Trash cannot be opened. To open this file, it must be moved elsewhere.
+筆者訳：ゴミ箱にあるファイルは開けません。このファイルを開くには、別の場所に移動させる必要があります。
+Google翻訳：ごみ箱内のファイルを開くことができません。このファイルを開くには、別の場所に移動する必要があります。
+
+原文：Cannot open this file
+筆者訳：このファイルを開けません
+Google翻訳：このファイルを開くことができません
+
+原文：Cannot identify file type to open
+筆者訳：ファイルタイプを識別できません
+Google翻訳：開くファイルの種類を特定できません
+
+原文：Cannot drop this file
+筆者訳：このファイルを削除できません
+Google翻訳：このファイルを削除できません
+
+原文：Invalid file name provided
+筆者訳：不適切なファイル名が入力されました
+Google翻訳：無効なファイル名が指定されました
+
+原文：New Tab
+筆者訳：新しいタブ
+Google翻訳：新しいタブ
+
+原文：Run
+筆者訳：実行
+Google翻訳：走る
+
+原文：Open in %s
+筆者訳：%s で開く
+Google翻訳：％sで開く
+
+原文：Open in
+筆者訳：指定した方法で開く
+Google翻訳：で開く
+
+原文：Open with
+筆者訳：このアプリケーションで開く
+Google翻訳：で開く
+
+原文：Paste
+筆者訳：貼り付け
+Google翻訳：ペースト
+
+原文：Select All
+筆者訳：すべて選択
+Google翻訳：すべて選択
+
+原文：Invert Selection
+筆者訳：選択を反転
+Google翻訳：選択を反転
+
+原文：Deselect All
+筆者訳：選択をすべて解除
+Google翻訳：すべての選択を解除
+
+原文：Cut
+筆者訳：切り取り
+Google翻訳：切る
+
+原文：Copy
+筆者訳：コピー
+Google翻訳：コピー
+
+原文：Move to Trash
+筆者訳：ゴミ箱に移動
+Google翻訳：ゴミ箱に移動
+
+原文：Delete Permanently
+筆者訳：完全に削除
+Google翻訳：完全に削除する
+
+原文：Restore from Trash
+筆者訳：ゴミ箱から復元
+Google翻訳：ごみ箱から復元
+
+原文：Open Parent Folder
+筆者訳：親フォルダーを開く
+Google翻訳：親フォルダを開く
+
+原文：Remove from History
+筆者訳：履歴から削除
+Google翻訳：履歴から削除
+
+原文：Rename…
+筆者訳：名前を変更…
+Google翻訳：名前を変更…
+
+原文：Copy as Link
+筆者訳：リンクとしてコピー
+Google翻訳：リンクとしてコピー
+
+原文：Paste Link into Folder
+筆者訳：フォルダーの中にリンクを貼り付け
+Google翻訳：リンクをフォルダに貼り付けます
+
+原文：Paste into Folder
+筆者訳：フォルダーの中に貼り付け
+Google翻訳：フォルダにペースト
+
+原文：Show Hidden Files
+筆者訳：隠しファイルを表示
+Google翻訳：隠しファイルを表示する
+
+原文：Show Remote Thumbnails
+筆者訳：リモートのサムネイルを表示
+Google翻訳：リモートサムネイルを表示する
+
+原文：Hide Thumbnails
+筆者訳：サムネイルを非表示
+Google翻訳：サムネイルを非表示にする
+
+原文：Paste Link
+筆者訳：リンクを貼り付け
+Google翻訳：リンクをペーストする
+
+原文：Name
+筆者訳：ファイル名
+Google翻訳：名前
+
+原文：Size
+筆者訳：サイズ
+Google翻訳：サイズ
+
+原文：Type
+筆者訳：形式
+Google翻訳：タイプ
+
+原文：Date
+筆者訳：日付
+Google翻訳：日にち
+
+原文：Reversed Order
+筆者訳：逆順
+Google翻訳：逆順
+
+原文：Folders Before Files
+筆者訳：ファイルの前にフォルダーを表示
+Google翻訳：ファイルの前のフォルダ
+
+原文：Sort by
+筆者訳：並べ替え
+Google翻訳：並び替え
+
+原文：Folder
+筆者訳：フォルダー
+Google翻訳：フォルダ
+
+原文：Empty File
+筆者訳：空のファイル
+Google翻訳：空のファイル
+
+原文：New
+筆者訳：新規作成
+Google翻訳：新しい
+
+原文：Untitled %s
+筆者訳：名称未設定 %s
+Google翻訳：無題％s
+
+原文：Cannot remove files from here
+筆者訳：ここからファイルを移動できません
+Google翻訳：ここからファイルを削除できません
+
+原文：You do not have permission to change this location
+筆者訳：この場所を変更する権限がありません
+Google翻訳：この場所を変更する権限がありません
+
+原文：Cannot copy files that are in the trash
+筆者訳：ゴミ箱内のファイルをコピーできません
+Google翻訳：ゴミ箱にあるファイルをコピーできません
+
+原文：Cutting the selection instead
+筆者訳：代わりに選択項目を切り取る
+Google翻訳：代わりに選択をカット
+
+原文：Cannot paste files here
+筆者訳：ここにファイルを貼り付けできません
+Google翻訳：ここにファイルを貼り付けることはできません
+
+原文：This Folder Does Not Exist
+筆者訳：このフォルダーは存在しません
+Google翻訳：このフォルダは存在しません
+
+原文：The folder "%s" can't be found.
+筆者訳：フォルダー "%s" が見つかりません。
+Google翻訳：フォルダ「％s」が見つかりません。
+
+原文：Create
+筆者訳：作成
+Google翻訳：作成
+
+原文：Create the folder "%s"
+筆者訳：フォルダー "%s" を作成します
+Google翻訳：フォルダ「％s」を作成します
+
+原文：Failed to create the folder
+筆者訳：フォルダーを作成できませんでした
+Google翻訳：フォルダの作成に失敗しました
+
+原文：Filename
+筆者訳：ファイル名
+Google翻訳：ファイル名
+
+原文：Modified
+筆者訳：変更日時
+Google翻訳：変更
+
+原文：Privacy mode is on
+筆者訳：プライバシーモードが有効です
+Google翻訳：プライバシーモードがオンになっている
+
+原文：No recent files are remembered
+筆者訳：最近使用したファイルは記録されません
+Google翻訳：最近のファイルは記憶されません
+
+原文：Change security settings
+筆者訳：セキュリティー設定を変更
+Google翻訳：セキュリティ設定を変更する
+
+原文：Open the system security and privacy settings app
+筆者訳：システムのセキュリティーとプライバシー設定アプリを開きます
+Google翻訳：システムのセキュリティとプライバシーの設定アプリを開きます
+
+原文：This Folder Is Empty
+筆者訳：このフォルダーは空です
+Google翻訳：このフォルダーは空です
+
+原文：Trash Is Empty
+筆者訳：ゴミ箱は空です
+Google翻訳：ゴミ箱は空です
+
+原文：There Are No Recent Files
+筆者訳：最近使用したファイルはありません
+Google翻訳：最近のファイルはありません
+
+原文：Access Denied
+筆者訳：アクセスが拒否されました
+Google翻訳：アクセスが拒否されました
+
+原文：Home
+筆者訳：ホーム
+Google翻訳：家
+
+原文：You cannot create a folder here.
+筆者訳：ここにフォルダーを作成できません。
+Google翻訳：ここでフォルダを作成することはできません。
+
+原文：The network is unavailable
+筆者訳：ネットワークが利用できません
+Google翻訳：ネットワークが利用できません
+
+原文：A working network is needed to reach this folder
+筆者訳：このフォルダーに到達するためにはネットワークが必要です
+Google翻訳：このフォルダに到達するには、機能するネットワークが必要です
+
+原文：This Folder Does Not Belong to You
+筆者訳：このフォルダーはあなたのものではありません
+Google翻訳：このフォルダはあなたのものではありません
+
+原文：You don't have permission to view this folder.
+筆者訳：このフォルダーを読み込む権限がありません。
+Google翻訳：このフォルダを表示する権限がありません。
+
+原文：Unable to Mount Folder
+筆者訳：フォルダーのマウントができません
+Google翻訳：フォルダをマウントできません
+
+原文：Could not connect to the server for this folder.
+筆者訳：このフォルダーのサーバーに接続できませんでした。
+Google翻訳：このフォルダのサーバーに接続できませんでした。
+
+原文：Unable to Display Folder Contents
+筆者訳：フォルダーの内容を表示できません
+Google翻訳：フォルダの内容を表示できません
+
+原文：The operation timed out.
+筆者訳：処理がタイムアウトしました。
+Google翻訳：操作がタイムアウトしました。
+
+原文：Unable to Show Folder
+筆者訳：フォルダーを表示できません
+Google翻訳：フォルダを表示できません
+
+原文：The server for this folder could not be located.
+筆者訳：このフォルダーのサーバーが見つかりませんでした。
+Google翻訳：このフォルダのサーバーが見つかりませんでした。
+
+原文：File not Found
+筆者訳：ファイルが見つかりませんでした
+Google翻訳：ファイルが見つかりません
+
+原文：The file selected no longer exists.
+筆者訳：選択されたファイルは存在しません。
+Google翻訳：選択したファイルはもう存在しません。
+
+原文：Undo Close Tab
+筆者訳：閉じたタブを再度開く
+Google翻訳：タブを閉じるを元に戻す
+
+原文：Close Tab
+筆者訳：タブを閉じる
+Google翻訳：タブを閉じる
+
+原文：(as Administrator)
+筆者訳：(管理者)
+Google翻訳：（管理者として）
+
+原文：Eject '%s'
+筆者訳：'%s' を取り出し
+Google翻訳：'％s'を排出します
+
+原文：Unmount '%s'
+筆者訳：'%s' をアンマウント
+Google翻訳：'％s'をアンマウントします
+
+原文：%s free
+筆者訳：%s が利用可能
+Google翻訳：％s無料
+
+原文：%s used of %s
+筆者訳：%2$s のうち %1$s が使用済み
+Google翻訳：％sの使用％s
+
+原文：Not mounted
+筆者訳：マウントされていません
+Google翻訳：マウントされていません
+
+原文：View the home folder
+筆者訳：ホームフォルダーを表示します
+Google翻訳：ホームフォルダを表示する
+
+原文：View the list of recently used files
+筆者訳：最近使用したファイルの一覧を表示します
+Google翻訳：最近使用したファイルのリストを表示する
+
+原文：Open the Trash
+筆者訳：ゴミ箱を開きます
+Google翻訳：ゴミ箱を開く
+
+原文：View the root of the local filesystem
+筆者訳：ローカルファイルシステムのルートフォルダーを表示します
+Google翻訳：ローカルファイルシステムのルートを表示する
+
+原文：%s contains no accessible data.
+筆者訳：%s にはアクセス可能なデータがありません。
+Google翻訳：％sにはアクセス可能なデータが含まれていません。
+
+原文：To use this drive you may need to replug it, or insert media or format it.
+筆者訳：このドライブを使うには、再接続するか、メディアを挿入するか、フォーマットする必要があります。
+Google翻訳：このドライブを使用するには、ドライブを再接続するか、メディアを挿入するか、フォーマットする必要があります。
+
+原文：Unformatted or no media
+筆者訳：フォーマットされていないかメディアがありません
+Google翻訳：書式なしまたはメディアなし
+
+原文：Entire Network
+筆者訳：ネットワーク全体
+Google翻訳：ネットワーク全体
+
+原文：Browse the contents of the network
+筆者訳：ネットワークの内容を閲覧します
+Google翻訳：ネットワークのコンテンツを閲覧する
+
+原文：Bookmarks
+筆者訳：ブックマーク
+Google翻訳：ブックマーク
+
+原文：Common places plus saved folders and files
+筆者訳：一般的な場所およびピン留めされたフォルダーとファイル
+Google翻訳：一般的な場所に加えて、保存されたフォルダとファイル
+
+原文：Storage
+筆者訳：ストレージ
+Google翻訳：ストレージ
+
+原文：Internal and connected storage devices
+筆者訳：内部ストレージと接続済みのストレージ
+Google翻訳：内部および接続されたストレージデバイス
+
+原文：Devices and places available via a network
+筆者訳：ネットワーク経由で利用可能なデバイスと場所
+Google翻訳：ネットワーク経由で利用可能なデバイスと場所
+
+原文：Connect Server…
+筆者訳：サーバーを接続…
+Google翻訳：サーバーを接続…
+
+原文：Bind mount
+筆者訳：バインドマウント
+Google翻訳：バインドマウント
+
+原文：Search or Type Path
+筆者訳：検索するかパスを入力してください
+Google翻訳：検索または入力パス
+
+原文：Open in New Tab
+筆者訳：新しいタブで開く
+Google翻訳：新しいタブで開く
+
+原文：Open in New Window
+筆者訳：新しいウィンドウで開く
+Google翻訳：新しいウィンドウで開きます
+
+原文：Open in Other Application…
+筆者訳：ほかのアプリケーションで開く…
+Google翻訳：他のアプリケーションで開く…
+
+原文：Previous
+筆者訳：前へ戻る
+Google翻訳：前
+
+原文：Next
+筆者訳：次へ進む
+Google翻訳：次
+
+原文：Reload this folder
+筆者訳：このフォルダーを再読み込みします
+Google翻訳：このフォルダをリロードします
+
+原文：Searching…
+筆者訳：検索しています…
+Google翻訳：検索中…
+
+原文：%u folders
+筆者訳：%u個のフォルダー
+Google翻訳：％uフォルダー
+
+原文（単数形）： and %u other item (%s) selected
+原文（複数形）： and %u other items (%s) selected
+筆者訳： と%u個のほかの項目を選択 (%s)
+Google翻訳： および％uその他のアイテム（％s）が選択されました
+
+原文： selected
+筆者訳： を選択
+Google翻訳： 選択
+
+原文：%u items selected (%s)
+筆者訳：%u個の項目を選択 (%s)
+Google翻訳：選択された％uアイテム（％s）
+
+原文（単数形）：%u sub-folder, 
+原文（複数形）：%u sub-folders, 
+筆者訳：%u個のサブフォルダー、 
+Google翻訳：％uサブフォルダー、
+
+原文（単数形）：%u file, 
+原文（複数形）：%u files, 
+筆者訳：%u個のファイル、 
+Google翻訳：％uファイル、
+
+原文：%s approx.
+筆者訳：約 %s
+Google翻訳：％s約
+
+原文：unknown size
+筆者訳：不明なサイズ
+Google翻訳：サイズ不明
+
+原文（単数形）：%u file not readable
+原文（複数形）：%u files not readable
+筆者訳：%u個のファイルが読み込めません
+Google翻訳：％uファイルが読み取れません
+
+原文：Read
+筆者訳：読み込み
+Google翻訳：読む
+
+原文：Write
+筆者訳：書き込み
+Google翻訳：書く
+
+原文：Execute
+筆者訳：実行
+Google翻訳：実行する
+
+原文：More Results …
+筆者訳：検索結果をさらに表示…
+Google翻訳：より多くの結果 …
+
+原文：In This Folder
+筆者訳：このフォルダー内
+Google翻訳：このフォルダ内
+
+原文：Below This Folder
+筆者訳：このフォルダー以下
+Google翻訳：このフォルダの下
+
+原文：Recently Used
+筆者訳：最近使用した項目
+Google翻訳：最近使用された
+

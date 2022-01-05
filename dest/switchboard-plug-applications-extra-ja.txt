@@ -1,0 +1,40 @@
+原文：Applications Settings
+筆者訳：アプリケーションの設定
+Google翻訳：アプリケーション設定
+
+原文：Manage default and startup applications
+筆者訳：デフォルトのアプリケーションと起動時に実行するアプリケーションを管理します
+Google翻訳：デフォルトおよびスタートアップアプリケーションを管理する
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Fix an issue with setting the incorrect app for certain files types
+筆者訳：特定の種類のファイルが意図しないアプリで開くように設定されてしまう不具合を修正
+Google翻訳：特定のファイルタイプに対して誤ったアプリを設定する際の問題を修正します
+
+原文：Don't overwrite custom overrides when unnecessary
+筆者訳：必要のないときはカスタマイズされたアクセス許可を上書きしないように修正
+Google翻訳：不要な場合はカスタムオーバーライドを上書きしないでください
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Manage permissions for Flatpak apps
+筆者訳：Flatpak アプリのパーミッションを管理できる機能を追加
+Google翻訳：Flatpakアプリの権限を管理する
+
+原文：Show custom launcher files
+筆者訳：ユーザーが作成した起動ファイルを表示するように修正
+Google翻訳：カスタムランチャーファイルを表示する
+
+原文：Fix issues with OnlyShowIn and Snap apps
+筆者訳：OnlyShowIn プロパティーと Snap アプリに関する不具合を修正
+Google翻訳：OnlyShowInおよびSnapアプリの問題を修正します
+

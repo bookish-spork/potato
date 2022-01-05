@@ -1,0 +1,40 @@
+原文：Sound Settings
+筆者訳：サウンドの設定
+Google翻訳：サウンド設定
+
+原文：Change sound and microphone volume
+筆者訳：サウンドとマイクのボリュームを変更します
+Google翻訳：サウンドとマイクの音量を変更する
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Show device icons
+筆者訳：デバイスのアイコンを表示するように変更
+Google翻訳：デバイスアイコンを表示する
+
+原文：Switch to enable the screen reader
+筆者訳：スクリーンリーダーを有効化できるスイッチを追加
+Google翻訳：スクリーンリーダーを有効にするように切り替えます
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Smoother transition when navigating away from this view
+筆者訳：このプラグからほかのプラグに移動する際、スムーズに画面遷移が行われるように修正
+Google翻訳：このビューから離れるときのスムーズな移行
+
+原文：Fix crash with PulseAudio's echo cancellation plugin
+筆者訳：PulseAudio エコーキャンセルプラグインによって生じるクラッシュを修正
+Google翻訳：PulseAudioのエコーキャンセレーションプラグインでクラッシュを修正
+
+原文：Add volume slider event sound
+筆者訳：音量スライダーにイベントサウンドを追加
+Google翻訳：ボリュームスライダーイベントサウンドを追加
+

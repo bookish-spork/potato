@@ -1,0 +1,120 @@
+原文：Applications Menu
+筆者訳：アプリケーションメニュー
+Google翻訳：アプリケーションメニュー
+
+原文：Open and search for apps
+筆者訳：アプリを開いたり検索したりします
+Google翻訳：アプリを開いて検索する
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Searching settings always searches the full title
+筆者訳：“システム設定”の項目のフルタイトルを検索できるように修正
+Google翻訳：設定を検索すると、常に完全なタイトルが検索されます
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Fix a regression with settings search
+筆者訳：“システム設定”の項目を検索できないリグレッションを修正
+Google翻訳：設定検索でリグレッションを修正する
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Show search results for bookmarked folders
+筆者訳：ブックマークされたフォルダーの検索結果を表示
+Google翻訳：ブックマークしたフォルダの検索結果を表示する
+
+原文：Prevent a potential crash on startup
+筆者訳：起動時にクラッシュすることがある不具合を修正
+Google翻訳：起動時に発生する可能性のあるクラッシュを防ぐ
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Show secondary click menu for search results
+筆者訳：検索結果の項目にも副クリックメニューを表示するように修正
+Google翻訳：検索結果のセカンダリクリックメニューを表示する
+
+原文：Launch apps selectively on integrated or dedicated graphics for systems with hybrid graphics
+筆者訳：ハイブリッドグラフィックスを利用可能なシステムでは、統合グラフィックスと単体グラフィックスのどちらを使用してアプリを起動するか選択できる機能を追加
+Google翻訳：ハイブリッドグラフィックスを備えたシステムの統合グラフィックスまたは専用グラフィックスで選択的にアプリを起動する
+
+原文：Show apps with no category under "Other"
+筆者訳：カテゴリーが設定されていないアプリを"そのほか"に表示するように修正
+Google翻訳：「その他」の下にカテゴリのないアプリを表示する
+
+原文：Fix an issue where Flatpak apps wouldn't show until after a restart
+筆者訳：Flatpak アプリのインストール後、デバイスを再起動するまでアプリのアイコンが表示されない不具合を修正
+Google翻訳：再起動するまでFlatpakアプリが表示されない問題を修正します
+
+原文：Sort app actions above AppCenter search
+筆者訳：アプリのアクションを AppCenter の検索結果よりも上に表示するように変更
+Google翻訳：AppCenter検索の上にアプリアクションを並べ替える
+
+原文：Always hide Terminal-based programs
+筆者訳：CUI アプリを常に表示しないように修正
+Google翻訳：ターミナルベースのプログラムを常に非表示にする
+
+原文：Remove document viewer from block list
+筆者訳：ドキュメントビューアーを非表示リストから除外
+Google翻訳：ブロックリストからドキュメントビューアを削除します
+
+原文：Support fractions without leading number in calculator
+筆者訳：.5 などの、整数部分を省略した小数に対応
+Google翻訳：電卓で先頭の数字のない分数をサポートする
+
+原文：Show overlay key in tooltip when set
+筆者訳：⌘ キーでアプリケーションメニューを開くように設定されている場合に、ツールチップに表示するように修正
+Google翻訳：設定時にツールチップにオーバーレイキーを表示する
+
+原文：Performance improvements
+筆者訳：パフォーマンスの改善
+Google翻訳：パフォーマンスの向上
+
+原文：Smoother navigation gesture in grid view and touchscreen gesture support
+筆者訳：グリッド表示でのよりスムーズなジェスチャーと、タッチスクリーンでのジェスチャーに対応
+Google翻訳：グリッドビューでのよりスムーズなナビゲーションジェスチャとタッチスクリーンジェスチャのサポート
+
+原文：Focus search when navigating up from the category view
+筆者訳：カテゴリー表示で上キーを押した際に検索欄にフォーカスするように修正
+Google翻訳：カテゴリビューから上に移動するときにフォーカス検索
+
+原文：Don't focus search when pressing modifier keys
+筆者訳：修飾キーを押すと検索欄にフォーカスが移動する不具合を修正
+Google翻訳：修飾キーを押すときに検索に焦点を合わせないでください
+
+原文：Ensure categories are sorted alphabetically
+筆者訳：カテゴリー表示でも正しくアルファベット順に表示されるように修正
+Google翻訳：カテゴリがアルファベット順にソートされていることを確認します
+
+原文：Category view is now a list
+筆者訳：カテゴリー表示のリスト化
+Google翻訳：カテゴリビューがリストになりました
+
+原文：Improved keyboard navigation
+筆者訳：キーボード操作を改善
+Google翻訳：キーボードナビゲーションの改善
+
+原文：Improved keyboard navigation, including new tooltips and menu key support
+筆者訳：新しいツールチップの追加とメニューキーへの対応などの、キーボード操作の改善
+Google翻訳：新しいツールチップとメニューキーのサポートを含む、キーボードナビゲーションの改善
+
+原文：Highlight action matches in the search view
+筆者訳：検索ビューの一致する操作をハイライトするように修正
+Google翻訳：検索ビューで一致するアクションを強調表示する
+
+原文：Add a "View in AppCenter" menu item
+筆者訳："AppCenter で表示"メニュー項目を追加
+Google翻訳：「AppCenterで表示」メニュー項目を追加します
+

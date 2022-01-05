@@ -1,0 +1,36 @@
+原文：Universal Access Settings
+筆者訳：ユニバーサルアクセスの設定
+Google翻訳：ユニバーサルアクセス設定
+
+原文：Configure accessibility features
+筆者訳：アクセシビリティー機能を設定します
+Google翻訳：アクセシビリティ機能を構成する
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Ensure screen reader shortcut keys are shown
+筆者訳：スクリーンリーダーのショートカットキーが表示されるように修正
+Google翻訳：スクリーンリーダーのショートカットキーが表示されていることを確認します
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Add a switch to show the indicator in the Panel
+筆者訳：パネルインジケーターの表示状態を切り替えるスイッチを追加
+Google翻訳：パネルにインジケーターを表示するスイッチを追加します
+
+原文：Point out how to find other accessibility features in System Settings
+筆者訳：システム設定にあるそのほかのアクセシビリティー機能への誘導テキストを追加
+Google翻訳：システム設定で他のユーザー補助機能を見つける方法を指摘する
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Remove panes whose settings now live somewhere else
+筆者訳：別のペインに移動した設定項目があったペインを削除
+Google翻訳：設定が別の場所にあるペインを削除します
+

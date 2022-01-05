@@ -1,0 +1,208 @@
+原文：Manage default apps, startup apps, and app permissions
+筆者訳：デフォルトのアプリと、起動時に実行するアプリ、アプリのパーミッションを管理します
+Google翻訳：デフォルトのアプリ、スタートアップアプリ、アプリの権限を管理する
+
+原文：Applications
+筆者訳：アプリケーション
+Google翻訳：アプリケーション
+
+原文：Defaults
+筆者訳：デフォルト
+Google翻訳：デフォルト
+
+原文：Startup
+筆者訳：起動時に実行
+Google翻訳：起動
+
+原文：Permissions
+筆者訳：パーミッション
+Google翻訳：権限
+
+原文：Default Apps
+筆者訳：デフォルトのアプリ
+Google翻訳：デフォルトのアプリ
+
+原文：Sandboxing
+筆者訳：サンドボックス
+Google翻訳：サンドボックス
+
+原文：Confinement
+筆者訳：制限
+Google翻訳：閉じ込め
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+
+原文：Web Browser
+筆者訳：Web ブラウザー
+Google翻訳：ウェブブラウザ
+
+原文：Email Client
+筆者訳：メールクライアント
+Google翻訳：メールクライアント
+
+原文：Calendar
+筆者訳：カレンダー
+Google翻訳：カレンダー
+
+原文：Video Player
+筆者訳：ビデオプレーヤー
+Google翻訳：ビデオプレーヤー
+
+原文：Music Player
+筆者訳：ミュージックプレーヤー
+Google翻訳：ミュージックプレーヤー
+
+原文：Text Editor
+筆者訳：テキストエディター
+Google翻訳：テキストエディタ
+
+原文：Image Viewer
+筆者訳：画像ビューアー
+Google翻訳：画像ビューア
+
+原文：File Browser
+筆者訳：ファイルブラウザー
+Google翻訳：ファイルブラウザ
+
+原文：Home Folder
+筆者訳：ホームフォルダー
+Google翻訳：ホームフォルダ
+
+原文：System Folders
+筆者訳：システムフォルダー
+Google翻訳：システムフォルダ
+
+原文：Devices
+筆者訳：デバイス
+Google翻訳：デバイス
+
+原文：Network
+筆者訳：ネットワーク
+Google翻訳：通信網
+
+原文：Printing
+筆者訳：印刷
+Google翻訳：印刷
+
+原文：Secure Shell Agent
+筆者訳：セキュアシェルエージェント
+Google翻訳：セキュアシェルエージェント
+
+原文：GPU Acceleration
+筆者訳：GPU アクセラレーション
+Google翻訳：GPUアクセラレーション
+
+原文：No Flatpak apps installed
+筆者訳：Flatpak アプリがインストールされていません
+Google翻訳：Flatpakアプリがインストールされていません
+
+原文：Apps whose permissions can be adjusted will automatically appear here when installed
+筆者訳：パーミッションの変更が可能なアプリをインストールすると、自動的にここに表示されます
+Google翻訳：権限を調整できるアプリは、インストール時に自動的にここに表示されます
+
+原文：Access your entire Home folder, including any hidden folders.
+筆者訳：隠しフォルダーを含む、ホームフォルダー全体へのアクセスを許可します。
+Google翻訳：非表示のフォルダを含む、ホームフォルダ全体にアクセスします。
+
+原文：Access system folders, not including the operating system or system internals. This includes users' Home folders.
+筆者訳：オペレーティングシステムやシステム内部のフォルダー以外のシステムフォルダーへのアクセスを許可します。ユーザーのホームフォルダーも含まれます。
+Google翻訳：オペレーティングシステムやシステム内部を含まないシステムフォルダにアクセスします。これには、ユーザーのホームフォルダーが含まれます。
+
+原文：Access all devices, such as webcams, microphones, and connected USB devices.
+筆者訳：Web カメラやマイク、接続済みの USB デバイスなどの、すべてのデバイスへのアクセスを許可します。
+Google翻訳：Webカメラ、マイク、接続されたUSBデバイスなどのすべてのデバイスにアクセスします。
+
+原文：Access the Internet and local networks.
+筆者訳：インターネットとローカルネットワークへのアクセスを許可します。
+Google翻訳：インターネットとローカルネットワークにアクセスします。
+
+原文：Manage Bluetooth devices including pairing, unpairing, and discovery.
+筆者訳：ペアリング、ペアリング解除、デバイスの検索を含む、Bluetooth デバイスの管理を許可します。
+Google翻訳：ペアリング、ペアリング解除、検出などのBluetoothデバイスを管理します。
+
+原文：Access printers.
+筆者訳：プリンターへのアクセスを許可します。
+Google翻訳：プリンタにアクセスします。
+
+原文：Access other devices on the network via SSH.
+筆者訳：SSH を使用したネットワーク上のほかのデバイスへのアクセスを許可します。
+Google翻訳：SSH経由でネットワーク上の他のデバイスにアクセスします。
+
+原文：Accelerate graphical output.
+筆者訳：グラフィック出力のアクセラレーションを許可します。
+Google翻訳：グラフィック出力を高速化します。
+
+原文：Reset to Defaults
+筆者訳：デフォルトにリセット
+Google翻訳：既定値にリセット
+
+原文：, 
+筆者訳：、 
+Google翻訳：、
+
+原文：Launch Apps on Startup
+筆者訳：起動時にアプリを起動
+Google翻訳：起動時にアプリを起動する
+
+原文：Add apps to the Startup list by clicking the icon in the toolbar below.
+筆者訳：下のツールバーのアイコンをクリックして起動時のリストにアプリを追加します。
+Google翻訳：下のツールバーのアイコンをクリックして、スタートアップリストにアプリを追加します。
+
+原文：Add Startup App…
+筆者訳：起動時のアプリを追加…
+Google翻訳：スタートアップアプリを追加…
+
+原文：Remove Selected Startup App
+筆者訳：選択された起動時のアプリを削除
+Google翻訳：選択したスタートアップアプリを削除する
+
+原文：Custom Command
+筆者訳：カスタムコマンド
+Google翻訳：カスタムコマンド
+
+原文：Launch %s on startup
+筆者訳：起動時に %s を起動します
+Google翻訳：起動時に％sを起動します
+
+原文：Search Applications
+筆者訳：アプリケーションを検索
+Google翻訳：アプリケーションの検索
+
+原文：Type in a custom command
+筆者訳：カスタムコマンドを入力
+Google翻訳：カスタムコマンドを入力します
+
+原文：Web Browser:
+筆者訳：Web ブラウザー:
+Google翻訳：ウェブブラウザ：
+
+原文：Email Client:
+筆者訳：メールクライアント:
+Google翻訳：メールクライアント：
+
+原文：Calendar:
+筆者訳：カレンダー:
+Google翻訳：カレンダー：
+
+原文：Video Player:
+筆者訳：ビデオプレーヤー:
+Google翻訳：ビデオプレーヤー：
+
+原文：Music Player:
+筆者訳：ミュージックプレーヤー:
+Google翻訳：音楽プレーヤー：
+
+原文：Image Viewer:
+筆者訳：画像ビューアー:
+Google翻訳：画像ビューア：
+
+原文：Text Editor:
+筆者訳：テキストエディター:
+Google翻訳：テキストエディタ：
+
+原文：File Browser:
+筆者訳：ファイルブラウザー:
+Google翻訳：ファイルブラウザ：
+

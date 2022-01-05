@@ -1,0 +1,401 @@
+原文：Install %s
+筆者訳：%s をインストール
+Google翻訳：％sをインストールします
+
+原文：Test mode shutdown
+筆者訳：テストモードのシャットダウン
+Google翻訳：テストモードのシャットダウン
+
+原文：Test mode reboot
+筆者訳：テストモードの再起動
+Google翻訳：テストモードの再起動
+
+原文：Test mode switch user
+筆者訳：テストモードのユーザー切り替え
+Google翻訳：テストモード切り替えユーザー
+
+原文：Cancel Installation
+筆者訳：インストールをキャンセル
+Google翻訳：インストールをキャンセルする
+
+原文：Test Mode
+筆者訳：テストモード
+Google翻訳：テストモード
+
+原文：Ignore
+筆者訳：無視
+Google翻訳：無視
+
+原文：Not Enough Space
+筆者訳：空き容量が不足しています
+Google翻訳：十分なスペースがありません
+
+原文：There is not enough room on your device to install %s. We recommend a minimum of %s of storage.
+筆者訳：お使いのデバイスには %s をインストールするための十分な空き容量がありません。最低でも %s のストレージを推奨します。
+Google翻訳：％sをインストールするための十分なスペースがデバイスにありません。少なくとも％sのストレージをお勧めします。
+
+原文：Your Device May Be Too Slow
+筆者訳：お使いのデバイスは遅すぎる可能性があります
+Google翻訳：デバイスが遅すぎる可能性があります
+
+原文：Your device doesn't meet the recommended hardware requirements. This may cause it to run slowly or freeze.
+筆者訳：お使いのデバイスはハードウェアの推奨要件を満たしていません。これにより処理が遅くなったりフリーズすることがあります。
+Google翻訳：お使いのデバイスが推奨ハードウェア要件を満たしていません。これにより、実行が遅くなったり、フリーズしたりする可能性があります。
+
+原文：Virtual Machine
+筆者訳：仮想マシン
+Google翻訳：仮想マシン
+
+原文：You appear to be installing in a virtual machine. Some parts of %s may run slowly, freeze, or not function properly in a virtual machine. It's recommended to install on real hardware.
+筆者訳：仮想マシンにインストールしようとしているようです。仮想マシンでは、%s の一部の機能が遅くなったり、フリーズしたり、適切に動作しなかったりする恐れがあります。実機へのインストールを推奨します。
+Google翻訳：仮想マシンにインストールしているようです。 ％sの一部は、実行速度が遅い、フリーズする、または仮想マシンで正しく機能しない場合があります。実際のハードウェアにインストールすることをお勧めします。
+
+原文：Connect to a Power Source
+筆者訳：電源に接続してください
+Google翻訳：電源に接続する
+
+原文：Your device is running on battery power. It's recommended to be plugged in while installing.
+筆者訳：お使いのデバイスはバッテリーの電力で動作しています。インストール中は電源に接続することを推奨します。
+Google翻訳：お使いのデバイスはバッテリー電源で動作しています。インストール中にプラグを差し込むことをお勧めします。
+
+原文：Recommended:
+筆者訳：推奨要件:
+Google翻訳：おすすめされた：
+
+原文：Your Device:
+筆者訳：お使いのデバイス:
+Google翻訳：お使いのデバイス：
+
+原文：Processor:
+筆者訳：プロセッサー:
+Google翻訳：プロセッサー：
+
+原文：Memory:
+筆者訳：メモリー:
+Google翻訳：メモリー：
+
+原文：Select a Drive
+筆者訳：ドライブを選択してください
+Google翻訳：ドライブを選択
+
+原文：This will erase all data on the selected drive. If you have not backed your data up, you can cancel the installation and use Demo Mode.
+筆者訳：続行すると、選択されたドライブ上のすべてのデータを削除します。データをバックアップしていない場合は、インストールをキャンセルしてデモモードを使うことで、データをバックアップできます。
+Google翻訳：これにより、選択したドライブ上のすべてのデータが消去されます。データをバックアップしていない場合は、インストールをキャンセルしてデモモードを使用できます。
+
+原文：Getting the current configuration…
+筆者訳：現在の設定を取得しています…
+Google翻訳：現在の構成を取得しています…
+
+原文：Erase and Install
+筆者訳：削除してインストール
+Google翻訳：消去してインストール
+
+原文：Don’t Encrypt
+筆者訳：暗号化しない
+Google翻訳：暗号化しないでください
+
+原文：Enable Drive Encryption
+筆者訳：ドライブの暗号化を有効にする
+Google翻訳：ドライブ暗号化を有効にする
+
+原文：Encrypt this device's drive if required for added protection, but be sure you understand:
+筆者訳：必要であれば、ドライブを暗号化してデバイスの保護を強化できます。ただし、以下の点に注意してください。
+Google翻訳：保護を強化するために必要な場合は、このデバイスのドライブを暗号化しますが、次のことを必ず理解してください。
+
+原文：Data will only be protected from others with physical access to this device when it is shut down.
+筆者訳：データの保護は、電源がオフの場合に、デバイスに物理的にアクセス可能な他人に対してのみ有効です。
+Google翻訳：データは、シャットダウン時にこのデバイスに物理的にアクセスできる他のユーザーからのみ保護されます。
+
+原文：The encryption password will be required each time this device is turned on. Store it somewhere safe.
+筆者訳：このデバイスを起動する度に、暗号化パスワードが要求されます。安全な場所に保管してください。
+Google翻訳：このデバイスの電源を入れるたびに、暗号化パスワードが必要になります。安全な場所に保管してください。
+
+原文：A built-in or USB keyboard will be required to type the encryption password each time this device is turned on.
+筆者訳：このデバイスを起動する度に、暗号化パスワードを入力するための内蔵または USB キーボードが必要になります。
+Google翻訳：このデバイスの電源を入れるたびに暗号化パスワードを入力するには、内蔵キーボードまたはUSBキーボードが必要です。
+
+原文：If you forget the encryption password, <b>you will not be able to recover data.</b> This is a unique password for this device, not the password for your user account.
+筆者訳：暗号化パスワードを忘れた場合、<b>データは回復できません。</b>これはこのデバイス専用のパスワードであり、ユーザーアカウント用のパスワードではありません。
+Google翻訳：暗号化パスワードを忘れると、<b>データを復元できなくなります。</ b>これはこのデバイスの一意のパスワードであり、ユーザーアカウントのパスワードではありません。
+
+原文：Choose Encryption Password
+筆者訳：暗号化パスワードを選択
+Google翻訳：暗号化パスワードを選択
+
+原文：Confirm Password
+筆者訳：パスワードを確認
+Google翻訳：パスワードを認証する
+
+原文：Back
+筆者訳：戻る
+Google翻訳：戻る
+
+原文：Choose Password
+筆者訳：パスワードを選択
+Google翻訳：パスワードを選ぶ
+
+原文：Set Encryption Password
+筆者訳：暗号化パスワードを設定
+Google翻訳：暗号化パスワードの設定
+
+原文：Passwords do not match
+筆者訳：パスワードが一致しません
+Google翻訳：パスワードが一致していません
+
+原文：Could Not Install
+筆者訳：インストールできませんでした
+Google翻訳：インストールできませんでした
+
+原文：Installing %s failed, possibly due to a hardware error. The device may not restart properly. You can try the following:
+筆者訳：%s のインストールに失敗しました。ハードウェアのエラーが原因と思われます。デバイスが正しく再起動しない可能性があります。以下の操作を試すことができます。
+Google翻訳：おそらくハードウェアエラーが原因で、％sのインストールに失敗しました。デバイスが正しく再起動しない場合があります。次のことを試すことができます。
+
+原文：Try the installation again
+筆者訳：インストールを再度試す
+Google翻訳：インストールを再試行してください
+
+原文：Use Demo Mode and try to manually recover
+筆者訳：デモモードを使用して手動で回復してみる
+Google翻訳：デモモードを使用して、手動で回復してみてください
+
+原文：Restart the device and boot from another drive
+筆者訳：デバイスを再起動して別のドライブから起動
+Google翻訳：デバイスを再起動し、別のドライブから起動します
+
+原文：Details
+筆者訳：詳細
+Google翻訳：詳細
+
+原文：Restart Device
+筆者訳：デバイスを再起動
+Google翻訳：デバイスを再起動します
+
+原文：Try Demo Mode
+筆者訳：デモモードを試す
+Google翻訳：デモモードを試す
+
+原文：Try Installing Again
+筆者訳：もう一度インストールしてみる
+Google翻訳：もう一度インストールしてみてください
+
+原文：Select Keyboard Layout
+筆者訳：キーボードレイアウトを選択
+Google翻訳：キーボードレイアウトを選択
+
+原文：Type to test your layout
+筆者訳：入力してレイアウトを試してください
+Google翻訳：レイアウトをテストするために入力します
+
+原文：Show keyboard layout
+筆者訳：キーボードレイアウトを表示
+Google翻訳：キーボードレイアウトを表示する
+
+原文：Select
+筆者訳：選択
+Google翻訳：選択する
+
+原文：Default
+筆者訳：デフォルト
+Google翻訳：ディフォルト
+
+原文：Input Language
+筆者訳：入力言語
+Google翻訳：入力言語
+
+原文：Languages
+筆者訳：言語
+Google翻訳：言語
+
+原文：Select a Language
+筆者訳：言語を選択してください
+Google翻訳：言語を選択してください
+
+原文：Currently active language
+筆者訳：現在使用可能な言語
+Google翻訳：現在アクティブな言語
+
+原文：Select which partitions to use across all drives. <b>Selecting "Format" will erase ALL data on the selected partition.</b>
+筆者訳：すべてのドライブで使用するパーティションを選択してください。<b>"フォーマット"を選択することで、選択されたパーティション上のすべてのデータは削除されます。</b>
+Google翻訳：すべてのドライブで使用するパーティションを選択します。 <b> [フォーマット]を選択すると、選択したパーティションのすべてのデータが消去されます。</ b>
+
+原文：You must at least select a <b>Root (/)</b> partition.
+筆者訳：少なくとも<b>ルート (/)</b>パーティションを選択する必要があります。
+Google翻訳：少なくとも<b>ルート（/）</ b>パーティションを選択する必要があります。
+
+原文：You must at least select a <b>Root (/)</b> partition and a <b>Boot (/boot/efi)</b> partition.
+筆者訳：少なくとも<b>ルート (/)</b>パーティションと<b>ブート (/boot/efi)</b>パーティションを選択する必要があります。
+Google翻訳：少なくとも<b>ルート（/）</ b>パーティションと<b>ブート（/ boot / efi）</ b>パーティションを選択する必要があります。
+
+原文：It is also recommended to select a <b>Swap</b> partition.
+筆者訳：<b>スワップ</b>パーティションも選択することを推奨します。
+Google翻訳：<b>スワップ</ b>パーティションを選択することもお勧めします。
+
+原文：Modify Partitions…
+筆者訳：パーティションを修正…
+Google翻訳：パーティションの変更…
+
+原文：EFI partition has the wrong file system
+筆者訳：EFI パーティションのファイルシステムが不適切です
+Google翻訳：EFIパーティションのファイルシステムが間違っています
+
+原文：EFI partition is too small
+筆者訳：EFI パーティションが小さすぎます
+Google翻訳：EFIパーティションが小さすぎます
+
+原文：Invalid file system for root
+筆者訳：ルートディレクトリのファイルシステムが不適切です
+Google翻訳：ルートのファイルシステムが無効です
+
+原文：Invalid file system for home
+筆者訳：ホームディレクトリのファイルシステムが不適切です
+Google翻訳：ホームのファイルシステムが無効です
+
+原文：Show log
+筆者訳：ログを表示
+Google翻訳：ログを表示
+
+原文：Hide log
+筆者訳：ログを非表示
+Google翻訳：ログを非表示
+
+原文：Partitioning Drive
+筆者訳：ドライブのパーティションを作成しています
+Google翻訳：パーティションドライブ
+
+原文：Extracting Files
+筆者訳：ファイルを展開しています
+Google翻訳：ファイルの抽出
+
+原文：Configuring the System
+筆者訳：システムを設定しています
+Google翻訳：システムの構成
+
+原文：Finishing the Installation
+筆者訳：インストールを終了しています
+Google翻訳：インストールの終了
+
+原文：Try or Install
+筆者訳：試用またはインストール
+Google翻訳：試してみるかインストールする
+
+原文：Changes will not be saved, and data from your previous OS will be unchanged. Performance and features may not reflect the installed experience.
+筆者訳：変更は保存されず、インストール済みの OS のデータは変更されません。お使いのシステムのパフォーマンスと機能を十分に活用できない可能性があります。
+Google翻訳：変更は保存されず、以前のOSのデータは変更されません。パフォーマンスと機能は、インストールされたエクスペリエンスを反映していない場合があります。
+
+原文：Erase Disk and Install
+筆者訳：ディスクを削除してインストール
+Google翻訳：ディスクを消去してインストールする
+
+原文：Erase everything and install a fresh copy of %s.
+筆者訳：すべてを消去して %s をクリーンインストールします。
+Google翻訳：すべてを消去し、％sの新しいコピーをインストールします。
+
+原文：Custom Install (Advanced)
+筆者訳：カスタムインストール (高度)
+Google翻訳：カスタムインストール（詳細）
+
+原文：Create, resize, or otherwise manage partitions manually. This method may lead to data loss.
+筆者訳：手動でパーティションの作成やサイズ変更、管理を行います。この方法はデータの損失につながることがあります。
+Google翻訳：パーティションを手動で作成、サイズ変更、またはその他の方法で管理します。この方法では、データが失われる可能性があります。
+
+原文：Next
+筆者訳：次へ
+Google翻訳：次
+
+原文：Custom Install
+筆者訳：カスタムインストール
+Google翻訳：カスタムインストール
+
+原文：Continue Setting Up
+筆者訳：セットアップを続行
+Google翻訳：設定を続ける
+
+原文：%s has been installed
+筆者訳：%s をインストールしました
+Google翻訳：％sがインストールされました
+
+原文：Shut Down
+筆者訳：シャットダウン
+Google翻訳：シャットダウン
+
+原文（単数形）：Your device will automatically restart in %i second.
+原文（複数形）：Your device will automatically restart in %i seconds.
+筆者訳：お使いのデバイスは%i秒後に自動的に再起動します。
+Google翻訳：デバイスは％i秒で自動的に再起動します。
+
+原文：After restarting you can set up a new user, or you can shut down now and set up a new user later.
+筆者訳：再起動後は新しいユーザーをセットアップすることができます。あるいは、今はシャットダウンして、後でユーザーをセットアップすることもできます。
+Google翻訳：再起動後、新しいユーザーを設定するか、今すぐシャットダウンして後で新しいユーザーを設定することができます。
+
+原文：Decrypt This Partition
+筆者訳：このパーティションを復号化
+Google翻訳：このパーティションを復号化する
+
+原文：Enter the partition's encryption password and set a device name for the decrypted partition.
+筆者訳：パーティションの暗号化パスワードを入力し、復号化するパーティションのデバイス名を選択してください。
+Google翻訳：パーティションの暗号化パスワードを入力し、復号化されたパーティションのデバイス名を設定します。
+
+原文：Password:
+筆者訳：パスワード:
+Google翻訳：パスワード：
+
+原文：Device name:
+筆者訳：デバイス名:
+Google翻訳：装置名：
+
+原文：Decrypt
+筆者訳：復号化
+Google翻訳：復号化
+
+原文：LUKS volume was decrypted
+筆者訳：LUKS ボリュームが復号化されました
+Google翻訳：LUKSボリュームが復号化されました
+
+原文：Use Partition
+筆者訳：パーティションを使う
+Google翻訳：パーティションを使用する
+
+原文：Format
+筆者訳：フォーマット
+Google翻訳：フォーマット
+
+原文：Delete all data and set up a new file system
+筆者訳：すべてのデータを削除し、ファイルシステムを新しくセットアップします
+Google翻訳：すべてのデータを削除し、新しいファイルシステムをセットアップします
+
+原文：Use as:
+筆者訳：使用方法:
+Google翻訳：使用：
+
+原文：Root (/)
+筆者訳：ルート (/)
+Google翻訳：根 （/）
+
+原文：Home (/home)
+筆者訳：ホーム (/home)
+Google翻訳：ホーム（/ホーム）
+
+原文：Boot (%s)
+筆者訳：ブート (%s)
+Google翻訳：ブート（％s）
+
+原文：Swap
+筆者訳：スワップ
+Google翻訳：スワップ
+
+原文：Custom
+筆者訳：カスタム
+Google翻訳：カスタム
+
+原文：Custom:
+筆者訳：カスタム:
+Google翻訳：カスタム：
+
+原文：Filesystem:
+筆者訳：ファイルシステム:
+Google翻訳：ファイルシステム：
+
+原文：Default (ext4)
+筆者訳：デフォルト (ext4)
+Google翻訳：デフォルト（ext4）
+

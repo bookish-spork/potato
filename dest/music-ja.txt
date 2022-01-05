@@ -1,0 +1,1198 @@
+原文：Importing <b>$NAME</b> by <b>$ARTIST</b> to library…
+筆者訳：<b>$NAME</b> - <b>$ARTIST</b> をライブラリにインポートしています…
+Google翻訳：<b> $ ARTIST </ b>による<b> $ NAME </ b>のライブラリへのインポート…
+
+原文：Unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：$NAME on $ALBUM
+筆者訳：$NAME - $ALBUM
+Google翻訳：$ ALBUMの$ NAME
+
+原文：$NAME by $ARTIST
+筆者訳：$NAME - $ARTIST
+Google翻訳：$ ARTISTによる$ NAME
+
+原文：$NAME by $ARTIST on $ALBUM
+筆者訳：$NAME - $ARTIST - $ALBUM
+Google翻訳：$ ALBUMの$ ARTISTによる$ NAME
+
+原文：Flat
+筆者訳：フラット
+Google翻訳：平らな
+
+原文：Classical
+筆者訳：クラッシック
+Google翻訳：クラシック
+
+原文：Club
+筆者訳：クラブ
+Google翻訳：クラブ
+
+原文：Dance
+筆者訳：ダンス
+Google翻訳：ダンス
+
+原文：Full Bass
+筆者訳：フルベース
+Google翻訳：フルベース
+
+原文：Full Treble
+筆者訳：フルトレブル
+Google翻訳：フルトレブル
+
+原文：Full Bass + Treble
+筆者訳：フルベース+トレブル
+Google翻訳：フルベース+トレブル
+
+原文：Headphones
+筆者訳：ヘッドフォン
+Google翻訳：ヘッドホン
+
+原文：Large Hall
+筆者訳：大ホール
+Google翻訳：大ホール
+
+原文：Live
+筆者訳：ライブ
+Google翻訳：住む
+
+原文：Party
+筆者訳：パーティー
+Google翻訳：パーティ
+
+原文：Pop
+筆者訳：ポップ
+Google翻訳：ポップ
+
+原文：Reggae
+筆者訳：レゲエ
+Google翻訳：レゲエ
+
+原文：Rock
+筆者訳：ロック
+Google翻訳：岩
+
+原文：Soft
+筆者訳：ソフト
+Google翻訳：柔らかい
+
+原文：Ska
+筆者訳：スカ
+Google翻訳：スカ
+
+原文：Soft Rock
+筆者訳：ソフトロック
+Google翻訳：ソフトロック
+
+原文：Techno
+筆者訳：テクノ
+Google翻訳：テクノ
+
+原文：New playlist
+筆者訳：新しいプレイリスト
+Google翻訳：新規プレイリスト
+
+原文：MPEG Version 3.0 Extended (*.m3u)
+筆者訳：MPEG バージョン 3.0 拡張 (*.m3u)
+Google翻訳：MPEGバージョン3.0拡張（* .m3u）
+
+原文：Shoutcast Playlist Version 2.0 (*.pls)
+筆者訳：Shoutcast プレイリストバージョン 2.0 (*.pls)
+Google翻訳：Shoutcastプレイリストバージョン2.0（* .pls）
+
+原文：Export Playlist
+筆者訳：プレイリストのエクスポート
+Google翻訳：プレイリストのエクスポート
+
+原文：Save
+筆者訳：保存
+Google翻訳：保存する
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Playlist
+筆者訳：プレイリスト
+Google翻訳：プレイリスト
+
+原文：Import %s
+筆者訳：%s のインポート
+Google翻訳：％sをインポート
+
+原文：Open
+筆者訳：開く
+Google翻訳：開ける
+
+原文：Unrecognized playlist file. Import failed.
+筆者訳：認識できないプレイリストファイルです。インポートに失敗しました。
+Google翻訳：認識されないプレイリストファイル。インポートに失敗しました。
+
+原文：%m/%e/%Y %l:%M %p
+筆者訳：%Y/%m/%d %p %l:%M
+Google翻訳：％m /％e /％Y％l：％M％p
+
+原文：Empty device!
+筆者訳：デバイスが空です！
+Google翻訳：空のデバイス！
+
+原文：This device does not contain any music.
+筆者訳：このデバイスには曲がありません。
+Google翻訳：このデバイスには音楽が含まれていません。
+
+原文：Android Phone
+筆者訳：Android フォン
+Google翻訳：Androidフォン
+
+原文：Audio Player
+筆者訳：オーディオプレイヤー
+Google翻訳：オーディオプレイヤー
+
+原文：Adding <b>$NAME</b> by <b>$ARTIST</b> to $DEVICE
+筆者訳：<b>$ARTIST</b> の <b>$NAME</b> を $DEVICE に追加しています
+Google翻訳：<b> $ ARTIST </ b>による<b> $ NAME </ b>の$ DEVICEへの追加
+
+原文：Syncing <b>%s</b>…
+筆者訳：<b>%s</b> を同期しています…
+Google翻訳：<b>％s </ b>を同期しています…
+
+原文：Removing <b>$NAME</b> by <b>$ARTIST</b> from $DEVICE
+筆者訳：<b>$ARTIST</b> の <b>$NAME</b> を $DEVICE から削除しています
+Google翻訳：$ DEVICEから<b> $ ARTIST </ b>による<b> $ NAME </ b>の削除
+
+原文：Removing from <b>%s</b>…
+筆者訳：<b>%s</b> から削除しています…
+Google翻訳：<b>％s </ b>から削除しています…
+
+原文：Finishing sync process…
+筆者訳：同期プロセスを終了しています…
+Google翻訳：同期プロセスを終了しています…
+
+原文：Cancelling Sync…
+筆者訳：同期を取り消しています…
+Google翻訳：同期をキャンセルしています…
+
+原文：Import Complete
+筆者訳：インポート完了
+Google翻訳：インポート完了
+
+原文：Your Library Has Been Imported.
+筆者訳：ライブラリにインポートされました。
+Google翻訳：ライブラリがインポートされました。
+
+原文：<b>Copying</b> files to <b>Music Folder</b>…
+筆者訳：ファイルを<b>ミュージックフォルダー</b>に<b>コピー</b>しています…
+Google翻訳：<b>ファイルを<b>ミュージックフォルダ</ b>にコピーしています…
+
+原文：Music
+筆者訳：ミュージック
+Google翻訳：音楽
+
+原文：Import to Library…
+筆者訳：ライブラリにインポート…
+Google翻訳：ライブラリにインポート…
+
+原文：Preferences
+筆者訳：設定
+Google翻訳：環境設定
+
+原文：Previous
+筆者訳：前へ
+Google翻訳：前
+
+原文：Play
+筆者訳：再生
+Google翻訳：演奏する
+
+原文：Next
+筆者訳：次へ
+Google翻訳：次
+
+原文：Search Music
+筆者訳：曲を検索
+Google翻訳：音楽を検索
+
+原文：Pause
+筆者訳：一時停止
+Google翻訳：一時停止
+
+原文：No songs in Queue
+筆者訳：キューに曲がありません
+Google翻訳：キューに曲がありません
+
+原文：To add songs to the queue, use the <b>secondary click</b> on an item and choose <b>Queue</b>. When a song finishes, the queued songs will be played first before the next song in the currently playing list.
+筆者訳：キューに曲を追加するには、項目上で<b>副ボタンをクリック</b>して<b>キュー</b>を選択します。曲が終わると、現在のプレイリストの次の曲の前にキューの曲が先に再生されます。
+Google翻訳：キューに曲を追加するには、アイテムの<b>セカンダリクリック</ b>を使用して、<b>キュー</ b>を選択します。曲が終了すると、キューに入れられた曲が最初に再生されてから、現在再生中のリストの次の曲が再生されます。
+
+原文：No songs in History
+筆者訳：履歴に曲がありません
+Google翻訳：履歴に曲がありません
+
+原文：After a part of a song has been played, it is added to the history list.
+You can use this list to see all the songs you have played during the current session.
+筆者訳：曲の一部が再生された後、その曲は履歴リストに追加されます。
+このリストを使用して、現在のセッションで再生したすべての曲を表示できます。
+Google翻訳：曲の一部が再生されると、履歴リストに追加されます。
+このリストを使用して、現在のセッション中に再生したすべての曲を表示できます。
+
+原文：Import Music
+筆者訳：曲をインポート
+Google翻訳：音楽をインポートする
+
+原文：Queue
+筆者訳：キュー
+Google翻訳：列
+
+原文：File not found
+筆者訳：ファイルが見つかりませんでした
+Google翻訳：ファイルが見つかりません
+
+原文：The music file for <b>%s</b> by <b>%s</b> could not be found.
+筆者訳：音楽ファイル <b>%s</b> / <b>%s</b> を見つけられませんでした。
+Google翻訳：<b>％s </ b>による<b>％s </ b>の音楽ファイルが見つかりませんでした。
+
+原文：%i music files could not be found.
+筆者訳：%i個の音楽ファイルを見つけられませんでした。
+Google翻訳：％i音楽ファイルが見つかりませんでした。
+
+原文：Rescan Library
+筆者訳：ライブラリを再スキャン
+Google翻訳：ライブラリの再スキャン
+
+原文：Remove Song
+筆者訳：曲を削除
+Google翻訳：曲を削除
+
+原文：Find Song
+筆者訳：曲を検索
+Google翻訳：曲を探す
+
+原文：Choose Music Folder
+筆者訳：ミュージックフォルダーを選択
+Google翻訳：ミュージックフォルダを選択
+
+原文：Would you like to install the %s plugin?
+筆者訳：プラグイン %s をインストールしてもよろしいですか？
+Google翻訳：％sプラグインをインストールしますか？
+
+原文：This song cannot be played. The %s plugin is required to play the song.
+筆者訳：この曲は再生できません。再生するには %s プラグインが必要です。
+Google翻訳：この曲は再生できません。曲を再生するには、％sプラグインが必要です。
+
+原文：Install Plugin
+筆者訳：プラグインをインストール
+Google翻訳：プラグインをインストールします
+
+原文：Title:
+筆者訳：タイトル:
+Google翻訳：タイトル：
+
+原文：Artist:
+筆者訳：アーティスト:
+Google翻訳：アーティスト：
+
+原文：Album:
+筆者訳：アルバム:
+Google翻訳：アルバム：
+
+原文：Album Artist:
+筆者訳：アルバムアーティスト:
+Google翻訳：アルバムアーティスト：
+
+原文：Composer:
+筆者訳：作曲者:
+Google翻訳：作曲：
+
+原文：Grouping:
+筆者訳：グループ:
+Google翻訳：グループ化：
+
+原文：Genre:
+筆者訳：ジャンル:
+Google翻訳：ジャンル：
+
+原文：Year:
+筆者訳：年:
+Google翻訳：年：
+
+原文：Track:
+筆者訳：トラック:
+Google翻訳：追跡：
+
+原文：Disc:
+筆者訳：ディスク:
+Google翻訳：ディスク：
+
+原文：Rating:
+筆者訳：評価:
+Google翻訳：評価：
+
+原文：Comment:
+筆者訳：コメント:
+Google翻訳：コメント：
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：Issues while importing from %s
+筆者訳：%s からのインポート中に不具合が発生しました
+Google翻訳：％sからインポートする際の問題
+
+原文（単数形）：Unable to import %d item. The file may be damaged.
+原文（複数形）：Unable to import %d items. The files may be damaged.
+筆者訳：%d個の項目をインポートできませんでした。ファイルが壊れている可能性があります。
+Google翻訳：％dアイテムをインポートできません。ファイルが破損している可能性があります。
+
+原文：Move all corrupted files to trash
+筆者訳：すべての破損したファイルをゴミ箱に移動
+Google翻訳：破損したファイルをすべてゴミ箱に移動します
+
+原文：del
+筆者訳：削除
+Google翻訳：デル
+
+原文：File Location
+筆者訳：ファイルの場所
+Google翻訳：ファイルの場所
+
+原文：Select individual files to move to trash:
+筆者訳：ゴミ箱に移動するファイルを個別に選択:
+Google翻訳：ごみ箱に移動する個々のファイルを選択します。
+
+原文：Move to Trash
+筆者訳：ゴミ箱に移動
+Google翻訳：ゴミ箱に移動
+
+原文：Ignore
+筆者訳：無視
+Google翻訳：無視
+
+原文：Select Music Folder…
+筆者訳：ミュージックフォルダーを選択…
+Google翻訳：ミュージックフォルダを選択…
+
+原文：Music Folder Location
+筆者訳：ミュージックフォルダーの場所
+Google翻訳：ミュージックフォルダの場所
+
+原文：Library Management
+筆者訳：ライブラリの管理
+Google翻訳：ライブラリ管理
+
+原文：Keep Music folder organized:
+筆者訳：ミュージックフォルダーを整理しておく:
+Google翻訳：音楽フォルダを整理しておく：
+
+原文：Write metadata to file:
+筆者訳：ファイルにメタデータを書き込む:
+Google翻訳：メタデータをファイルに書き込む：
+
+原文：Copy imported files to Library:
+筆者訳：インポートされたファイルをライブラリにコピー:
+Google翻訳：インポートしたファイルをライブラリにコピーします。
+
+原文：Desktop Integration
+筆者訳：デスクトップとの統合
+Google翻訳：デスクトップ統合
+
+原文：Continue playback when closed:
+筆者訳：閉じたときに再生を続ける:
+Google翻訳：閉じても再生を続行します。
+
+原文（単数形）：Remove %d Song From Library?
+原文（複数形）：Remove %d Songs From Library?
+筆者訳：ライブラリから%d曲を削除しますか？
+Google翻訳：ライブラリから％dの曲を削除しますか？
+
+原文：Remove "%s" From Library?
+筆者訳：ライブラリから "%s" を削除しますか？
+Google翻訳：ライブラリから「％s」を削除しますか？
+
+原文（単数形）：This will remove the song from your library and from any device synced automatically.
+原文（複数形）：This will remove the songs from your library and from any device synced automatically.
+筆者訳：この操作はライブラリと自動的に同期されたすべてのデバイスから曲を削除します。
+Google翻訳：これにより、ライブラリと自動的に同期されたデバイスから曲が削除されます。
+
+原文：Remove from Library
+筆者訳：ライブラリから削除
+Google翻訳：ライブラリから削除
+
+原文：Set Music Folder?
+筆者訳：ミュージックフォルダーを設定しますか？
+Google翻訳：ミュージックフォルダを設定しますか？
+
+原文：Are you sure you want to set the music folder to %s? This will reset your library and remove your playlists.
+筆者訳：ミュージックフォルダーを %s に設定してもよろしいですか？　この操作はライブラリを初期化し、プレイリストを削除します。
+Google翻訳：音楽フォルダを％sに設定してもよろしいですか？これにより、ライブラリがリセットされ、プレイリストが削除されます。
+
+原文：Export Playlists
+筆者訳：プレイリストをエクスポート
+Google翻訳：プレイリストのエクスポート
+
+原文：Set Music Folder
+筆者訳：ミュージックフォルダーを設定
+Google翻訳：ミュージックフォルダを設定する
+
+原文：Playlist Title
+筆者訳：プレイリストのタイトル
+Google翻訳：プレイリストのタイトル
+
+原文：any
+筆者訳：いずれか
+Google翻訳：どれか
+
+原文：all
+筆者訳：すべて
+Google翻訳：全て
+
+原文：Match
+筆者訳：次の
+Google翻訳：マッチ
+
+原文：of the following:
+筆者訳：が一致:
+Google翻訳：次の：
+
+原文：Add
+筆者訳：追加
+Google翻訳：追加
+
+原文：Limit to
+筆者訳：上限
+Google翻訳：に制限する
+
+原文：items
+筆者訳：項目
+Google翻訳：アイテム
+
+原文：Name of Playlist
+筆者訳：プレイリストの名前
+Google翻訳：プレイリストの名前
+
+原文：Rules
+筆者訳：ルール
+Google翻訳：ルール
+
+原文：Options
+筆者訳：オプション
+Google翻訳：オプション
+
+原文：Smart Playlist Editor
+筆者訳：スマートプレイリストエディター
+Google翻訳：スマートプレイリストエディター
+
+原文：Remove
+筆者訳：削除
+Google翻訳：削除する
+
+原文：Album
+筆者訳：アルバム
+Google翻訳：アルバム
+
+原文：Artist
+筆者訳：アーティスト
+Google翻訳：アーティスト
+
+原文：Bitrate
+筆者訳：ビットレート
+Google翻訳：ビットレート
+
+原文：Comment
+筆者訳：コメント
+Google翻訳：コメント
+
+原文：Composer
+筆者訳：作曲者
+Google翻訳：作曲
+
+原文：Date Added
+筆者訳：追加日時
+Google翻訳：追加された日付
+
+原文：Genre
+筆者訳：ジャンル
+Google翻訳：ジャンル
+
+原文：Grouping
+筆者訳：グループ
+Google翻訳：グループ化
+
+原文：Last Played
+筆者訳：最終再生日時
+Google翻訳：最後に再生した
+
+原文：Length
+筆者訳：時間
+Google翻訳：長さ
+
+原文：Playcount
+筆者訳：再生回数
+Google翻訳：再生回数
+
+原文：Rating
+筆者訳：評価
+Google翻訳：評価
+
+原文：Skipcount
+筆者訳：スキップ数
+Google翻訳：スキップカウント
+
+原文：Title
+筆者訳：タイトル
+Google翻訳：タイトル
+
+原文：Year
+筆者訳：発売年
+Google翻訳：年
+
+原文：is
+筆者訳：が次である
+Google翻訳：は
+
+原文：contains
+筆者訳：が次を含む
+Google翻訳：含む
+
+原文：does not contain
+筆者訳：が次を含まない
+Google翻訳：含まれていません
+
+原文：is exactly
+筆者訳：が完全に一致
+Google翻訳：正確に
+
+原文：is at most
+筆者訳：が多くても
+Google翻訳：せいぜい
+
+原文：is at least
+筆者訳：が少なくとも
+Google翻訳：少なくとも
+
+原文：is within
+筆者訳：の中に
+Google翻訳：内にあります
+
+原文：is before
+筆者訳：が次より前
+Google翻訳：前です
+
+原文：seconds
+筆者訳：秒
+Google翻訳：秒
+
+原文：days ago
+筆者訳：日前
+Google翻訳：数日前
+
+原文（単数形）：Sync will remove %i item from %s
+原文（複数形）：Sync will remove %i items from %s
+筆者訳：同期によって%i個の項目が %s から削除されます
+Google翻訳：同期により、％sから％iアイテムが削除されます
+
+原文：If you continue to sync, media will be removed from %s since they are not on the sync list. Would you like to import them to your library first?
+筆者訳：同期を続行すると、メディアが同期リストにないので %s から削除されます。ライブラリにまずメディアをインポートしますか？
+Google翻訳：同期を続行すると、メディアは同期リストにないため、％sから削除されます。最初にそれらをライブラリにインポートしますか？
+
+原文：Continue Syncing
+筆者訳：同期を続行
+Google翻訳：同期を続行
+
+原文：Import
+筆者訳：インポート
+Google翻訳：輸入
+
+原文：Importing music from %s…
+筆者訳：%s から曲をインポートしています…
+Google翻訳：％sから音楽をインポートしています…
+
+原文：Adding files to library…
+筆者訳：ファイルをライブラリに追加しています…
+Google翻訳：ライブラリにファイルを追加しています…
+
+原文：<b>Importing</b> music to library…
+筆者訳：曲をライブラリに<b>インポートしています</b>…
+Google翻訳：<b>ライブラリへの音楽のインポート</ b>…
+
+原文：All music files are already in your library
+筆者訳：すべての音楽ファイルがすでにライブラリにあります
+Google翻訳：すべての音楽ファイルはすでにライブラリにあります
+
+原文：No files were imported.
+筆者訳：ファイルはインポートされませんでした。
+Google翻訳：ファイルはインポートされませんでした。
+
+原文：Rescanning music for changes. This may take a while…
+筆者訳：変更があった曲を再スキャンしています。これには少し時間がかかります…
+Google翻訳：変更のために音楽を再スキャンします。これは時間がかかる場合があります…
+
+原文：Added to your queue:
+筆者訳：キューに追加しました:
+Google翻訳：キューに追加：
+
+原文（単数形）：%d Track
+原文（複数形）：%d Tracks
+筆者訳：%dトラック
+Google翻訳：％dトラック
+
+原文：Favorite Songs
+筆者訳：お気に入りの曲
+Google翻訳：好きな曲
+
+原文：Recently Added
+筆者訳：最近追加された項目
+Google翻訳：最近追加された
+
+原文：Recent Favorites
+筆者訳：最近のお気に入り
+Google翻訳：最近のお気に入り
+
+原文：Never Played
+筆者訳：再生していない曲
+Google翻訳：プレイしたことがない
+
+原文：Over Played
+筆者訳：よく再生する曲
+Google翻訳：オーバープレイ
+
+原文：Not Recently Played
+筆者訳：最近再生されていない曲
+Google翻訳：最近プレイされていない
+
+原文：History
+筆者訳：再生履歴
+Google翻訳：歴史
+
+原文：Playlists
+筆者訳：プレイリスト
+Google翻訳：プレイリスト
+
+原文：Device Name:
+筆者訳：デバイス名:
+Google翻訳：装置名：
+
+原文：Device Name
+筆者訳：デバイス名
+Google翻訳：装置名
+
+原文：Automatically sync when plugged in:
+筆者訳：接続時に自動的に同期:
+Google翻訳：プラグを差し込むと自動的に同期します。
+
+原文：Sync:
+筆者訳：同期:
+Google翻訳：同期：
+
+原文：Sync
+筆者訳：同期
+Google翻訳：同期
+
+原文：All Music
+筆者訳：すべての曲
+Google翻訳：全ての音楽
+
+原文：Sync Failed
+筆者訳：同期に失敗しました
+Google翻訳：同期に失敗しました
+
+原文：The playlist named %s is used to sync device %s, but could not be found.
+筆者訳：%s というプレイリストがデバイス %s との同期に使われますが、見つかりませんでした。
+Google翻訳：％sという名前のプレイリストはデバイス％sの同期に使用されていますが、見つかりませんでした。
+
+原文：Cannot Sync
+筆者訳：同期できません
+Google翻訳：同期できません
+
+原文：Cannot sync device with selected sync settings. Not enough space on disk
+筆者訳：ディスク容量が不足しているため、選択された設定ではデバイスと同期できません
+Google翻訳：選択した同期設定でデバイスを同期できません。ディスクに十分なスペースがありません
+
+原文：Device is already doing an operation.
+筆者訳：デバイスはすでに操作を行っています。
+Google翻訳：デバイスはすでに操作を行っています。
+
+原文：Cancelling…
+筆者訳：キャンセルしています…
+Google翻訳：キャンセル…
+
+原文：Device operation has been cancelled and will stop after this media.
+筆者訳：デバイスの操作は中止され、このメディア以降は停止されます。
+Google翻訳：デバイスの動作はキャンセルされ、このメディアの後で停止します。
+
+原文：No Results
+筆者訳：検索結果はありません
+Google翻訳：結果がありません
+
+原文：Try another search
+筆者訳：ほかの検索用語を試してみてください
+Google翻訳：別の検索を試してください
+
+原文：Genres
+筆者訳：ジャンル
+Google翻訳：ジャンル
+
+原文：Artists
+筆者訳：アーティスト
+Google翻訳：アーティスト
+
+原文：Albums
+筆者訳：アルバム
+Google翻訳：アルバム
+
+原文：Years
+筆者訳：年
+Google翻訳：年
+
+原文：Ratings
+筆者訳：評価
+Google翻訳：評価
+
+原文：Composers
+筆者訳：作曲者
+Google翻訳：作曲家
+
+原文：Groupings
+筆者訳：グループ
+Google翻訳：グループ化
+
+原文：All Genres
+筆者訳：すべてのジャンル
+Google翻訳：すべてのジャンル
+
+原文：All %i Genres
+筆者訳：全%iジャンル
+Google翻訳：すべての％iジャンル
+
+原文：No Genres
+筆者訳：ジャンルなし
+Google翻訳：ジャンルなし
+
+原文：All Artists
+筆者訳：すべてのアーティスト
+Google翻訳：すべてのアーティスト
+
+原文：All %i Artists
+筆者訳：全%iアーティスト
+Google翻訳：すべての％iアーティスト
+
+原文：No Artists
+筆者訳：アーティストなし
+Google翻訳：アーティストなし
+
+原文：All Albums
+筆者訳：すべてのアルバム
+Google翻訳：すべてのアルバム
+
+原文：All %i Albums
+筆者訳：全%iアルバム
+Google翻訳：すべての％iアルバム
+
+原文：No Albums
+筆者訳：アルバムなし
+Google翻訳：アルバムなし
+
+原文：All Years
+筆者訳：すべての年
+Google翻訳：すべての年
+
+原文：All %i Years
+筆者訳：全%i年
+Google翻訳：すべての％i年
+
+原文：No Years
+筆者訳：年なし
+Google翻訳：年なし
+
+原文：All Ratings
+筆者訳：すべての評価
+Google翻訳：すべての評価
+
+原文：No Ratings
+筆者訳：評価なし
+Google翻訳：評価なし
+
+原文：All Groupings
+筆者訳：すべてのグループ
+Google翻訳：すべてのグループ化
+
+原文：All %i Groupings
+筆者訳：全%iグループ
+Google翻訳：すべての％iグループ
+
+原文：No Groupings
+筆者訳：グループなし
+Google翻訳：グループ化なし
+
+原文：All Composers
+筆者訳：すべての作曲者
+Google翻訳：すべての作曲家
+
+原文：All %i Composers
+筆者訳：全%i作曲者
+Google翻訳：すべての％i作曲家
+
+原文：No Composers
+筆者訳：作曲者なし
+Google翻訳：作曲家なし
+
+原文：Automatic
+筆者訳：自動
+Google翻訳：自動
+
+原文：On Left
+筆者訳：左へ表示
+Google翻訳：左側
+
+原文：On Top
+筆者訳：上へ表示
+Google翻訳：上に
+
+原文：Unrated
+筆者訳：評価なし
+Google翻訳：未評価
+
+原文（単数形）：%u Star
+原文（複数形）：%u Stars
+筆者訳：スター%u個
+Google翻訳：％uスター
+
+原文：Never
+筆者訳：なし
+Google翻訳：一度もない
+
+原文：Track
+筆者訳：トラック
+Google翻訳：追跡
+
+原文：Title
+筆者訳：タイトル
+Google翻訳：タイトル
+
+原文：Length
+筆者訳：再生時間
+Google翻訳：長さ
+
+原文：Artist
+筆者訳：アーティスト
+Google翻訳：アーティスト
+
+原文：Album
+筆者訳：アルバム
+Google翻訳：アルバム
+
+原文：Album Artist
+筆者訳：アルバムアーティスト
+Google翻訳：アルバムアーティスト
+
+原文：Composer
+筆者訳：作曲者
+Google翻訳：作曲
+
+原文：Genre
+筆者訳：ジャンル
+Google翻訳：ジャンル
+
+原文：Year
+筆者訳：発売年
+Google翻訳：年
+
+原文：Grouping
+筆者訳：グループ
+Google翻訳：グループ化
+
+原文：Bitrate
+筆者訳：ビットレート
+Google翻訳：ビットレート
+
+原文：Rating
+筆者訳：評価
+Google翻訳：評価
+
+原文：Plays
+筆者訳：再生回数
+Google翻訳：演劇
+
+原文：Skips
+筆者訳：スキップ回数
+Google翻訳：スキップ
+
+原文：Date Added
+筆者訳：追加日時
+Google翻訳：追加された日付
+
+原文：Last Played
+筆者訳：最終再生日時
+Google翻訳：最後に再生した
+
+原文：BPM
+筆者訳：拍/分
+Google翻訳：BPM
+
+原文：Location
+筆者訳：場所
+Google翻訳：位置
+
+原文：File Size
+筆者訳：ファイルサイズ
+Google翻訳：ファイルサイズ
+
+原文：Autosize Columns
+筆者訳：カラムを自動調整
+Google翻訳：列の自動サイズ設定
+
+原文：Sample List String
+筆者訳：一覧の幅設定のための文字列
+Google翻訳：サンプルリスト文字列
+
+原文：Get Some Tunes
+筆者訳：曲を追加しましょう
+Google翻訳：いくつかの曲を入手
+
+原文：Add music to your library.
+筆者訳：曲をライブラリに追加してください。
+Google翻訳：ライブラリに音楽を追加します。
+
+原文：Import music from a source into your library.
+筆者訳：曲をソースからライブラリにインポートします。
+Google翻訳：ソースからライブラリに音楽をインポートします。
+
+原文：Change Music Folder
+筆者訳：ミュージックフォルダーを変更
+Google翻訳：音楽フォルダを変更する
+
+原文：Load music from a folder, a network or an external disk.
+筆者訳：フォルダー、ネットワークや外部ディスクから曲を読み込みます。
+Google翻訳：フォルダ、ネットワーク、または外部ディスクから音楽をロードします。
+
+原文：Import your Music
+筆者訳：曲をインポート
+Google翻訳：音楽をインポートする
+
+原文：Import all your Music from %s into your library.
+筆者訳：すべての曲を %s からライブラリにインポートします。
+Google翻訳：すべての音楽を％sからライブラリにインポートします。
+
+原文：Select Music Folder
+筆者訳：ミュージックフォルダーを選択
+Google翻訳：ミュージックフォルダを選択
+
+原文：No Songs
+筆者訳：曲がありません
+Google翻訳：曲なし
+
+原文：Updating playlist. Please wait.
+筆者訳：プレイリストを更新しています。お待ちください。
+Google翻訳：プレイリストを更新しています。お待ちください。
+
+原文：To add songs to this playlist, use the <b>secondary click</b> on an item and choose <b>Add to Playlist</b>.
+筆者訳：プレイリストに曲を追加するには、項目上で<b>副ボタンをクリック</b>して<b>プレイリストに追加</b>を選択します。
+Google翻訳：このプレイリストに曲を追加するには、アイテムの<b>セカンダリクリック</ b>を使用して、<b>プレイリストに追加</ b>を選択します。
+
+原文：Edit Smart Playlist
+筆者訳：スマートプレイリストを編集
+Google翻訳：スマートプレイリストを編集する
+
+原文：This playlist will be automatically populated with songs that match its rules. To modify these rules, use the <b>secondary click</b> on it in the sidebar and click on <b>Edit</b>. Optionally, you can click on the button below.
+筆者訳：プレイリストの規則に一致する曲が自動的にここに移動されます。規則を変更するには、サイドバー上で<b>副ボタンをクリック</b>して、<b>編集</b>をクリックします。必要に応じて、以下のボタンをクリックすることができます。
+Google翻訳：このプレイリストには、ルールに一致する曲が自動的に入力されます。これらのルールを変更するには、サイドバーの<b>セカンダリクリック</ b>を使用して、<b>編集</ b>をクリックします。オプションで、下のボタンをクリックできます。
+
+原文：No media
+筆者訳：メディアがありません
+Google翻訳：メディアなし
+
+原文：Set new album cover
+筆者訳：新しいアルバムカバーを設定
+Google翻訳：新しいアルバムカバーを設定する
+
+原文：Image files
+筆者訳：画像ファイル
+Google翻訳：画像ファイル
+
+原文：_Open
+筆者訳：開く(_O)
+Google翻訳：_開ける
+
+原文：_Cancel
+筆者訳：キャンセル(_C)
+Google翻訳：_キャンセル
+
+原文：Save preset
+筆者訳：プリセットの保存
+Google翻訳：プリセットを保存
+
+原文：Off
+筆者訳：オフ
+Google翻訳：オフ
+
+原文：%s (Custom)
+筆者訳：%s (カスタム)
+Google翻訳：％s（カスタム）
+
+原文：%s (Custom %i)
+筆者訳：%s (カスタム %i)
+Google翻訳：％s（カスタム％i）
+
+原文：Custom Preset
+筆者訳：カスタムプリセット
+Google翻訳：カスタムプリセット
+
+原文：Custom Preset %i
+筆者訳：カスタムプリセット%i
+Google翻訳：カスタムプリセット％i
+
+原文：Scroll to Current Song
+筆者訳：現在の曲へスクロール
+Google翻訳：現在の曲までスクロール
+
+原文：Show in File Browser…
+筆者訳：ファイルブラウザーで表示…
+Google翻訳：ファイルブラウザに表示…
+
+原文：Edit Song Info…
+筆者訳：曲情報を編集…
+Google翻訳：曲情報を編集…
+
+原文：Other Actions
+筆者訳：ほかの操作
+Google翻訳：その他のアクション
+
+原文：Queue
+筆者訳：キュー
+Google翻訳：列
+
+原文：Add to Playlist
+筆者訳：プレイリストに追加
+Google翻訳：プレイリストに追加する
+
+原文：Remove Song…
+筆者訳：曲を削除…
+Google翻訳：曲を削除…
+
+原文：Import to Library
+筆者訳：ライブラリにインポート
+Google翻訳：ライブラリにインポート
+
+原文：Remove from Library…
+筆者訳：ライブラリから削除…
+Google翻訳：ライブラリから削除…
+
+原文：Remove from Device
+筆者訳：デバイスから削除
+Google翻訳：デバイスから削除
+
+原文：Remove from Queue
+筆者訳：キューから削除
+Google翻訳：キューから削除
+
+原文：New Playlist…
+筆者訳：新しいプレイリスト…
+Google翻訳：新規プレイリスト…
+
+原文：Import %i of %i selected songs
+筆者訳：選択された%i / %i曲をインポート
+Google翻訳：選択した％i曲の％iをインポート
+
+原文（単数形）：Import %i song
+原文（複数形）：Import %i songs
+筆者訳：%i曲をインポート
+Google翻訳：％iの曲をインポートする
+
+原文：Delete Current
+筆者訳：現在の曲を削除
+Google翻訳：現在の削除
+
+原文：Rename
+筆者訳：名前を変更
+Google翻訳：名前を変更
+
+原文：Edit…
+筆者訳：編集…
+Google翻訳：編集…
+
+原文：Save as Playlist
+筆者訳：プレイリストとして保存
+Google翻訳：プレイリストとして保存
+
+原文：Export…
+筆者訳：エクスポート…
+Google翻訳：輸出…
+
+原文：Eject
+筆者訳：取り出す
+Google翻訳：イジェクト
+
+原文：New Playlist
+筆者訳：新しいプレイリスト
+Google翻訳：新規プレイリスト
+
+原文：New Smart Playlist
+筆者訳：新しいスマートプレイリスト
+Google翻訳：新しいスマートプレイリスト
+
+原文：Import Playlists
+筆者訳：プレイリストをインポート
+Google翻訳：プレイリストをインポートする
+
+原文：Library
+筆者訳：ライブラリ
+Google翻訳：としょうかん
+
+原文：Devices
+筆者訳：デバイス
+Google翻訳：デバイス
+
+原文：Network
+筆者訳：ネットワーク
+Google翻訳：通信網
+
+原文：Add Playlist
+筆者訳：プレイリストを追加
+Google翻訳：プレイリストを追加
+
+原文：Add Smart Playlist
+筆者訳：スマートプレイリストを追加
+Google翻訳：スマートプレイリストを追加する
+
+原文：Add Playlist…
+筆者訳：プレイリストを追加…
+Google翻訳：プレイリストを追加…
+
+原文：Equalizer: %s
+筆者訳：イコライザー: %s
+Google翻訳：イコライザー：％s
+
+原文：Enable Repeat
+筆者訳：リピートを有効にする
+Google翻訳：リピートを有効にする
+
+原文：Repeat Song
+筆者訳：一曲リピート
+Google翻訳：リピートソング
+
+原文：Disable Repeat
+筆者訳：リピートを無効にする
+Google翻訳：リピートを無効にする
+
+原文：Enable Shuffle
+筆者訳：シャッフルを有効にする
+Google翻訳：シャッフルを有効にする
+
+原文：Disable Shuffle
+筆者訳：シャッフルを無効にする
+Google翻訳：シャッフルを無効にする
+
+原文：View as albums
+筆者訳：アルバム表示
+Google翻訳：アルバムとして表示
+
+原文：View as list
+筆者訳：リスト表示
+Google翻訳：リストとして表示
+
+原文：View in columns
+筆者訳：カラム表示
+Google翻訳：列で表示
+

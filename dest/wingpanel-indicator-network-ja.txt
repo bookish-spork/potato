@@ -1,0 +1,108 @@
+原文：Wired
+筆者訳：有線接続
+Google翻訳：有線
+
+原文：Connecting to wired network
+筆者訳：有線ネットワークに接続試行中
+Google翻訳：有線ネットワークへの接続
+
+原文：Connecting to “%s”
+筆者訳：“%s” に接続試行中
+Google翻訳：「％s」に接続しています
+
+原文：Connected to wired network
+筆者訳：有線ネットワークに接続済み
+Google翻訳：有線ネットワークに接続
+
+原文：Connected to “%s”
+筆者訳：“%s” に接続済み
+Google翻訳：「％s」に接続
+
+原文：Failed to connect
+筆者訳：接続に失敗
+Google翻訳：接続に失敗した
+
+原文：Disconnected
+筆者訳：未接続
+Google翻訳：切断されました
+
+原文：Not connected
+筆者訳：接続していません
+Google翻訳：接続されていません
+
+原文：unknown network
+筆者訳：不明なネットワーク
+Google翻訳：不明なネットワーク
+
+原文：This Virtual Private Network could not be connected to.
+筆者訳：この仮想プライベートネットワークに接続できませんでした。
+Google翻訳：この仮想プライベートネットワークに接続できませんでした。
+
+原文：Unknown device
+筆者訳：不明なデバイス
+Google翻訳：未知のディバイス
+
+原文：Unknown type: %s 
+筆者訳：不明な種類: %s 
+Google翻訳：不明なタイプ：％s
+
+原文：Unable to connect
+筆者訳：接続できません
+Google翻訳：接続することができません
+
+原文：40/64-bit WEP encrypted
+筆者訳：40/64 ビット WEP 暗号化
+Google翻訳：暗号化された40/64ビットWEP
+
+原文：104/128-bit WEP encrypted
+筆者訳：104/128 ビット WEP 暗号化
+Google翻訳：104/128ビットWEP暗号化
+
+原文：WPA encrypted
+筆者訳：WPA 暗号化
+Google翻訳：WPA暗号化
+
+原文：Encrypted
+筆者訳：暗号化
+Google翻訳：暗号化
+
+原文：Unsecured
+筆者訳：安全ではありません
+Google翻訳：保護されていない
+
+原文：Virtual network: %s
+筆者訳：仮想ネットワーク: %s
+Google翻訳：仮想ネットワーク：％s
+
+原文：Mobile Broadband: %s
+筆者訳：モバイルブロードバンド: %s
+Google翻訳：モバイルブロードバンド：％s
+
+原文：Mobile Broadband
+筆者訳：モバイルブロードバンド
+Google翻訳：モバイルブロードバンド
+
+原文：Modem
+筆者訳：モデム
+Google翻訳：モデム
+
+原文：No Access Points Available
+筆者訳：利用できるアクセスポイントがありません
+Google翻訳：利用可能なアクセスポイントがありません
+
+原文：Scanning for Access Points…
+筆者訳：アクセスポイントを探しています…
+Google翻訳：アクセスポイントのスキャン…
+
+原文：Wireless
+筆者訳：無線接続
+Google翻訳：無線
+
+原文：Connect to Hidden Network…
+筆者訳：非公開のネットワークに接続…
+Google翻訳：隠しネットワークに接続…
+
+原文：Network Settings…
+筆者訳：ネットワークの設定…
+Google翻訳：ネットワーク設定…
+

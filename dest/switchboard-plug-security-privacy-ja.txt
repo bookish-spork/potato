@@ -1,0 +1,366 @@
+原文：Security & Privacy
+筆者訳：セキュリティーとプライバシー
+Google翻訳：セキュリティとプライバシー
+
+原文：Configure firewall, screen lock, and activity information
+筆者訳：ファイアウォール、スクリーンロックとアクティビティ情報を設定します
+Google翻訳：ファイアウォール、画面ロック、およびアクティビティ情報を構成します
+
+原文：Some settings require administrator rights to be changed
+筆者訳：一部の設定変更には管理者権限が必要です
+Google翻訳：一部の設定では、管理者権限を変更する必要があります
+
+原文：Privacy
+筆者訳：プライバシー
+Google翻訳：プライバシー
+
+原文：Locking
+筆者訳：ロック
+Google翻訳：ロック
+
+原文：Firewall
+筆者訳：ファイアウォール
+Google翻訳：ファイアウォール
+
+原文：Housekeeping
+筆者訳：自動削除
+Google翻訳：ハウスキーピング
+
+原文：Location Services
+筆者訳：位置情報サービス
+Google翻訳：位置情報サービス
+
+原文：History
+筆者訳：履歴
+Google翻訳：歴史
+
+原文：Clear History
+筆者訳：履歴を削除
+Google翻訳：履歴をクリア
+
+原文：Lock on sleep
+筆者訳：スリープ時にロック
+Google翻訳：睡眠をロックする
+
+原文：Lock after sceen turns off
+筆者訳：画面の電源がオフのときにロック
+Google翻訳：シーンがオフになった後にロックする
+
+原文：Automatically delete old temporary files
+筆者訳：古い一時ファイルを自動的に削除
+Google翻訳：古い一時ファイルを自動的に削除する
+
+原文：Automatically delete old trashed files
+筆者訳：ゴミ箱に移動した古いファイルを自動的に削除
+Google翻訳：古いゴミ箱のファイルを自動的に削除します
+
+原文：Number of days to keep trashed and temporary files
+筆者訳：ゴミ箱に移動したファイルと一時ファイルを維持する日数
+Google翻訳：ゴミ箱や一時ファイルを保持する日数
+
+原文：Authentication is required to run the Firewall Configuration
+筆者訳：ファイアウォールの設定を実行するには認証が必要です
+Google翻訳：ファイアウォール構成を実行するには認証が必要です
+
+原文：Enabled
+筆者訳：有効
+Google翻訳：有効
+
+原文：Disabled
+筆者訳：無効
+Google翻訳：無効
+
+原文：Unknown
+筆者訳：不明
+Google翻訳：わからない
+
+原文：Allow
+筆者訳：許可
+Google翻訳：許可する
+
+原文：Deny
+筆者訳：拒否
+Google翻訳：拒否
+
+原文：Reject
+筆者訳：却下
+Google翻訳：拒絶
+
+原文：Limit
+筆者訳：制限
+Google翻訳：制限
+
+原文：In
+筆者訳：入力
+Google翻訳：の
+
+原文：Out
+筆者訳：出力
+Google翻訳：外
+
+原文：%s Ports %s
+筆者訳：%s ポート %s
+Google翻訳：％sポート％s
+
+原文：%s Port %s
+筆者訳：%s ポート %s
+Google翻訳：％sポート％s
+
+原文：Version
+筆者訳：バージョン
+Google翻訳：バージョン
+
+原文：Action
+筆者訳：動作
+Google翻訳：アクション
+
+原文：Protocol
+筆者訳：プロトコル
+Google翻訳：プロトコル
+
+原文：Direction
+筆者訳：方向
+Google翻訳：方向
+
+原文：To
+筆者訳：宛先
+Google翻訳：に
+
+原文：From
+筆者訳：送信元
+Google翻訳：から
+
+原文：Action:
+筆者訳：操作:
+Google翻訳：アクション：
+
+原文：Protocol:
+筆者訳：プロトコル:
+Google翻訳：プロトコル：
+
+原文：Version:
+筆者訳：バージョン:
+Google翻訳：バージョン：
+
+原文：Both
+筆者訳：両方
+Google翻訳：両方
+
+原文：Direction:
+筆者訳：方向:
+Google翻訳：方向：
+
+原文：Ports:
+筆者訳：ポート:
+Google翻訳：ポート：
+
+原文：%d or %d-%d
+筆者訳：%d または %d-%d
+Google翻訳：％dまたは％d-％d
+
+原文：Add Rule
+筆者訳：ルールを追加
+Google翻訳：ルールを追加
+
+原文：Automatically Delete:
+筆者訳：以下のファイルを自動的に削除:
+Google翻訳：自動的に削除：
+
+原文：Old temporary files
+筆者訳：不要な一時ファイル
+Google翻訳：古い一時ファイル
+
+原文：Downloaded files
+筆者訳：ダウンロードしたファイル
+Google翻訳：ダウンロードしたファイル
+
+原文：Trashed files
+筆者訳：ゴミ箱の中のファイル
+Google翻訳：ゴミ箱に入れられたファイル
+
+原文：Delete Old Files After:
+筆者訳：以下の期間が過ぎたファイルを削除:
+Google翻訳：後に古いファイルを削除：
+
+原文：Open Trash…
+筆者訳：ゴミ箱を開く…
+Google翻訳：ゴミ箱を開く…
+
+原文（単数形）：Old files can be automatically deleted after %u day to save space and help protect your privacy.
+原文（複数形）：Old files can be automatically deleted after %u days to save space and help protect your privacy.
+筆者訳：古いファイルは%u日後に自動的に削除されます。これにより、空き領域を確保でき、プライバシーの保護に役立ちます。
+Google翻訳：スペースを節約し、プライバシーを保護するために、％u日後に古いファイルを自動的に削除できます。
+
+原文（単数形）：Day
+原文（複数形）：Days
+筆者訳：日
+Google翻訳：日
+
+原文：Lock on suspend:
+筆者訳：サスペンド時にロック:
+Google翻訳：サスペンドのロック：
+
+原文：Lock after screen turns off:
+筆者訳：画面の電源がオフのときにロック:
+Google翻訳：画面がオフになった後にロックする：
+
+原文：%s can store local usage data to provide extra functionality like offering recently-used files and more relevant local search. Regardless of this setting, usage data is never transmitted off of this device or to third parties.
+筆者訳：%s は、最近使用したファイルやそのほかの関連するローカル検索の提案といった追加機能を提供するために、ローカルの使用状況データを保存できます。この設定が有効であっても、使用状況データがこのデバイスから転送されたり、サードパーティーに転送されたりすることはありません。
+Google翻訳：％sはローカル使用状況データを保存して、最近使用したファイルの提供やより関連性の高いローカル検索などの追加機能を提供できます。この設定に関係なく、使用状況データがこのデバイスから第三者に送信されることはありません。
+
+原文：%s won't retain any further usage data.
+筆者訳：%s はこれ以上の使用状況データを保持しません。
+Google翻訳：％sはそれ以上の使用状況データを保持しません。
+
+原文：The additional functionality that this data provides will be affected.
+筆者訳：このデータが提供する追加の機能が影響を受けます。
+Google翻訳：このデータが提供する追加機能が影響を受けます。
+
+原文：This may not prevent apps from recording their own usage data, such as browser history.
+筆者訳：これは、ブラウザの履歴など、アプリ独自の使用状況データが記録されることを防げない可能性があります。
+Google翻訳：これにより、アプリがブラウザの履歴などの独自の使用状況データを記録できなくなることはありません。
+
+原文：History Is Disabled
+筆者訳：履歴は無効になっています
+Google翻訳：履歴が無効になっています
+
+原文：Clear History…
+筆者訳：履歴を削除…
+Google翻訳：履歴をクリア…
+
+原文：Your system
+筆者訳：お使いのシステム
+Google翻訳：あなたのシステム
+
+原文：Allow the apps below to determine your location
+筆者訳：以下のアプリに現在地の特定を許可します
+Google翻訳：以下のアプリがあなたの場所を特定できるようにします
+
+原文：No Apps Are Using Location Services
+筆者訳：位置情報サービスを使用しているアプリはありません
+Google翻訳：位置情報サービスを使用しているアプリはありません
+
+原文：When apps are installed that use location services they will automatically appear here.
+筆者訳：位置情報サービスを使用するアプリがインストールされると、自動的にここに表示されます。
+Google翻訳：位置情報サービスを使用するアプリがインストールされると、それらは自動的にここに表示されます。
+
+原文：Location Services Are Disabled
+筆者訳：位置情報サービスは無効になっています
+Google翻訳：位置情報サービスが無効になっている
+
+原文：While location services are disabled, location requests from apps will be automatically rejected.
+筆者訳：位置情報サービスが無効になっている間、アプリからの位置情報の要求は自動的に拒否されます。
+Google翻訳：位置情報サービスが無効になっている間、アプリからの位置情報リクエストは自動的に拒否されます。
+
+原文：The additional functionality that location access provides in those apps will be affected.
+筆者訳：これらのアプリで位置情報アクセスが提供する追加の機能が影響を受けます。
+Google翻訳：これらのアプリで位置情報アクセスが提供する追加機能が影響を受けます。
+
+原文：This will not prevent apps from trying to determine your location based on IP address.
+筆者訳：アプリが IP アドレスに基づいて現在地を特定しようとするのを妨ぐことはできません。
+Google翻訳：これにより、アプリがIPアドレスに基づいて現在地を特定しようとするのを防ぐことはできません。
+
+原文：Allow %s to use location services
+筆者訳：%s が位置情報サービスを使用することを許可
+Google翻訳：％sに位置情報サービスの使用を許可する
+
+原文：Search Application
+筆者訳：アプリケーションを検索
+Google翻訳：検索アプリケーション
+
+原文：Remove system-collected file and application usage data from:
+筆者訳：システム収集ファイルとアプリケーションの使用状況データを削除:
+Google翻訳：システムで収集されたファイルとアプリケーションの使用状況データを以下から削除します。
+
+原文：The past hour
+筆者訳：過去1時間
+Google翻訳：過去1時間
+
+原文：The past day
+筆者訳：過去1日
+Google翻訳：過去の日
+
+原文：The past week
+筆者訳：過去1週間
+Google翻訳：先週
+
+原文：From:
+筆者訳：開始:
+Google翻訳：から：
+
+原文：All time
+筆者訳：全期間
+Google翻訳：いつも
+
+原文：To:
+筆者訳：終了:
+Google翻訳：に：
+
+原文：Clear Data
+筆者訳：データを削除
+Google翻訳：クリアデータ
+
+原文：Add Application…
+筆者訳：アプリケーションを追加…
+Google翻訳：アプリケーションを追加…
+
+原文：Add Folder…
+筆者訳：フォルダーを追加…
+Google翻訳：フォルダーを追加…
+
+原文：Select a folder to blacklist
+筆者訳：除外リストに追加するフォルダーを選択
+Google翻訳：ブラックリストに登録するフォルダを選択してください
+
+原文：Add
+筆者訳：追加
+Google翻訳：追加
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Delete
+筆者訳：削除
+Google翻訳：消去
+
+原文：Do not collect data from the following:
+筆者訳：以下からデータを収集しない:
+Google翻訳：以下からデータを収集しないでください。
+
+原文：Data Sources:
+筆者訳：データソース:
+Google翻訳：データソース：
+
+原文：Chat Logs
+筆者訳：チャットログ
+Google翻訳：チャットログ
+
+原文：Documents
+筆者訳：ドキュメント
+Google翻訳：ドキュメント
+
+原文：Music
+筆者訳：音楽
+Google翻訳：音楽
+
+原文：Pictures
+筆者訳：写真
+Google翻訳：ピクチャー
+
+原文：Presentations
+筆者訳：プレゼンテーション
+Google翻訳：プレゼンテーション
+
+原文：Spreadsheets
+筆者訳：スプレッドシート
+Google翻訳：スプレッドシート
+
+原文：Videos
+筆者訳：動画
+Google翻訳：ビデオ
+
+原文：Partially Enabled
+筆者訳：部分的に有効
+Google翻訳：部分的に有効
+

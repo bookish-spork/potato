@@ -1,0 +1,28 @@
+原文：Sound Settings…
+筆者訳：サウンドの設定…
+Google翻訳：サウンド設定…
+
+原文：Volume: %.0f%%
+筆者訳：音量: %.0f%%
+Google翻訳：ボリューム：％。0f %%
+
+原文：Middle-click to unmute
+筆者訳：ミュートを解除するには中クリックしてください
+Google翻訳：中クリックしてミュートを解除します
+
+原文：Middle-click to mute
+筆者訳：ミュートにするには中クリックしてください
+Google翻訳：中クリックしてミュートします
+
+原文：Not playing
+筆者訳：何も再生していません
+Google翻訳：遊んでいない
+
+原文：Music player
+筆者訳：ミュージックプレーヤー
+Google翻訳：音楽プレーヤー
+
+原文：Unknown Artist
+筆者訳：不明なアーティスト
+Google翻訳：無名の画家
+

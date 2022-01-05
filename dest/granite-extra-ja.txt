@@ -1,0 +1,216 @@
+原文：Build consistent and usable apps more quickly and easily
+筆者訳：一貫性のある実用的なアプリをより速く簡単に作成します
+Google翻訳：一貫性のある使いやすいアプリをより迅速かつ簡単に構築する
+
+原文：A companion library for GTK and GLib that provides complex widgets and convenience methods designed for use in apps built for elementary OS.
+筆者訳：elementary OS 向けのアプリでの利用のためにデザインされた複雑なウィジェットや便利なメソッドを提供する、GTK と GLib の共有ライブラリです。
+Google翻訳：エレメンタリーOS用に構築されたアプリで使用するために設計された複雑なウィジェットと便利なメソッドを提供するGTKとGLibのコンパニオンライブラリ。
+
+原文：New Features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：min_length property for Granite.ValidatedEntry
+筆者訳：Granite.ValidatedEntry ウィジェットに min_length プロパティを追加
+Google翻訳：Granite.ValidatedEntryのmin_lengthプロパティ
+
+原文：Granite.HyperTextView for navigatable URLs in text views
+筆者訳：クリック可能な URL をテキストビューに表示できる、Granite.HyperTextView を追加
+Google翻訳：テキストビューでナビゲート可能なURLのGranite.HyperTextView
+
+原文：Improvements:
+筆者訳：改善点:
+Google翻訳：改善点：
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Prevent crashing on environments without dark style preference support
+筆者訳：ダークスタイルの設定に対応していない環境でクラッシュする不具合を修正
+Google翻訳：ダークスタイル設定がサポートされていない環境でのクラッシュを防ぐ
+
+原文：Use values from the Settings Portal when possible
+筆者訳：可能であれば設定ポータルから取得した値を使用するように修正
+Google翻訳：可能な場合は、設定ポータルの値を使用してください
+
+原文：Disable horizontal scrolling by default in SettingsPage
+筆者訳：SettingsPage ウィジェットの水平方向のスクロールをデフォルトで無効化
+Google翻訳：SettingsPageでデフォルトで水平スクロールを無効にする
+
+原文：Ensure accel_to_string works with multiple modifiers
+筆者訳：複数の修飾キーが使われている場合も accel_to_string が動作するように修正
+Google翻訳：accel_to_stringが複数の修飾子で機能することを確認します
+
+原文：Fix locale issues in Flatpaks
+筆者訳：Flatpak アプリでのロケールに関する不具合を修正
+Google翻訳：Flatpaksのロケールの問題を修正
+
+原文：Additions:
+筆者訳：追加項目:
+Google翻訳：追加：
+
+原文：TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations
+筆者訳：一貫性のある適切なウィジェットの遷移を実現するための TRANSITION_DURATION_IN_PLACE
+Google翻訳：一貫したインプレースウィジェット変換のためのTRANSITION_DURATION_IN_PLACE
+
+原文：Other Changes:
+筆者訳：そのほかの変更点:
+Google翻訳：その他の変更：
+
+原文：accel_to_string handles accel markup without modifiers or that are only modifiers
+筆者訳：accel_to_string が修飾キーが含まれない文字列や修飾キーのみが含まれる文字列を処理できるように修正
+Google翻訳：accel_to_stringは、修飾子なしまたは修飾子のみのaccelマークアップを処理します
+
+原文：Granite.Dialog replaces Gtk.Dialog for consistent styling
+筆者訳：Gtk.Dialog を置き換え、一貫性のあるスタイルを実現する Granite.Dialog
+Google翻訳：Granite.Dialogは、一貫したスタイリングのためにGtk.Dialogを置き換えます
+
+原文：Granite.SwitchModelButton for use in Gtk.Popover menus
+筆者訳：Gtk.Popover を使用したメニューでの利用を想定した Granite.SwitchModelButton
+Google翻訳：Gtk.Popoverメニューで使用するGranite.SwitchModelButton
+
+原文：Granite.ValidatedEntry for client-side verification in forms
+筆者訳：入力フォームでクライアントサイドの認証に利用できる Granite.ValidatedEntry
+Google翻訳：フォームでのクライアント側の検証のためのGranite.ValidatedEntry
+
+原文：New Constants:
+筆者訳：新しい定数:
+Google翻訳：新しい定数：
+
+原文：TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips
+筆者訳：Gtk.Tooltips 内で説明用のテキスト表示に利用可能な TOOLTIP_SECONDARY_TEXT_MARKUP
+Google翻訳：Gtk.Tooltipsの小さい2行目のテキストのTOOLTIP_SECONDARY_TEXT_MARKUP
+
+原文：SMALL_LABEL for smaller Gtk.Labels without Pango
+筆者訳：Pango を使用せずに文字サイズが小さい Gtk.Label を作成できる SMALL_LABEL
+Google翻訳：Pangoなしの小さいGtk.Labelsの場合はSMALL_LABEL
+
+原文：STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales
+筆者訳：スケールでの使用を想定した STYLE_CLASS_WARMTH と STYLE_CLASS_TEMPERATURE
+Google翻訳：スケールのSTYLE_CLASS_WARMTHおよびSTYLE_CLASS_TEMPERATURE
+
+原文：STYLE_CLASS_DEFAULT_DECORATION for slim headerbars
+筆者訳：細めのヘッダーバーでの使用を想定した STYLE_CLASS_DEFAULT_DECORATION
+Google翻訳：スリムヘッダーバーのSTYLE_CLASS_DEFAULT_DECORATION
+
+原文：TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations
+筆者訳：一貫性のあるアニメーションを実現するための TRANSITION_DURATION_OPEN と TRANSITION_DURATION_CLOSE
+Google翻訳：一貫性のあるアニメーションのTRANSITION_DURATION_OPENおよびTRANSITION_DURATION_CLOSE
+
+原文：Removals:
+筆者訳：削除された項目:
+Google翻訳：削除：
+
+原文：Granite.Widgets.AboutDialog. Provide AppStream metadata instead.
+筆者訳：Granite.Widgets.AboutDialog。今後は AppStream メタデータを使用してください。
+Google翻訳：Granite.Widgets.AboutDialog。代わりにAppStreamメタデータを提供してください。
+
+原文：Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.
+筆者訳：Granite.Widgets.AppMenu。今後は Gtk.MenuButton を使用してください。
+Google翻訳：Granite.Widgets.AppMenu。代わりにGtk.MenuButtonを使用してください。
+
+原文：Deprecations:
+筆者訳：非推奨の機能:
+Google翻訳：非推奨：
+
+原文：Granite.Widgets.Avatar. Use Hdy.Avatar instead
+筆者訳：Granite.Widgets.Avatar。今後は Hdy.Avatar を使用してください
+Google翻訳：Granite.Widgets.Avatar。代わりにHdy.Avatarを使用してください
+
+原文：Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering
+筆者訳：通知トーストが消えるまでの時間を、新しい通知があった場合にリセットし、マウスホバーで停止するように変更
+Google翻訳：トーストは、新しい通知を送信するときにタイムアウトをリセットし、ホバリング中にタイムアウトが停止するようになりました
+
+原文：Backslash, Right Control, and Left Control are now handled by accel_to_string
+筆者訳：accel_to_string メソッドがバックスラッシュ、右コントロール、左コントロールキーを適切に処理するように修正
+Google翻訳：バックスラッシュ、右コントロール、および左コントロールがaccel_to_stringによって処理されるようになりました
+
+原文：Make tab tooltips of DynamicNotebook settable
+筆者訳：DynamicNotebook のタブに表示されるツールチップのテキストを設定できるように変更
+Google翻訳：DynamicNotebookのタブツールチップを設定可能にする
+
+原文：Timepicker corrrectly fires time_changed when AM and PM buttons are selected
+筆者訳：タイムピッカー: 午前／午後ボタンが選択された場合にも、time_changed シグナルが発生するように修正
+Google翻訳：AMボタンとPMボタンが選択されている場合、Timepickerはtime_changedを正しく起動します
+
+原文：Granite.MessageDialog now uses the messagedialog CSS name
+筆者訳：Granite.MessageDialog の CSS 名を messagedialog に変更
+Google翻訳：Granite.MessageDialogは、messagedialogCSS名を使用するようになりました
+
+原文：Visible child name is now properly synced in Granite.SettingsSidebar
+筆者訳：Granite.SettingsSidebar で表示中の子ウィジェットが適切に同期されるように修正
+Google翻訳：表示される子の名前がGranite.SettingsSidebarで正しく同期されるようになりました
+
+原文：Status can be set in Granite.AbstractSettingsPage on construct
+筆者訳：Granite.AbstractSettingsPage クラスの生成時に status プロパティを設定できるように修正
+Google翻訳：ステータスは、構成のGranite.AbstractSettingsPageで設定できます
+
+原文：New Style Constants:
+筆者訳：スタイル用の新しい定数:
+Google翻訳：新しいスタイル定数：
+
+原文：Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead
+筆者訳：テーマ設定に関する複数のユーティリティー。今後は、Gtk.CssProvider と Gtk.StyleContext を使用してください
+Google翻訳：いくつかのテーマユーティリティ。代わりにGtk.CssProviderとGtk.StyleContextを使用してください
+
+原文：Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead
+筆者訳：Granite.Services.SimpleCommand。今後は、GLib.AppInfo.create_from_commandline を使用してください
+Google翻訳：Granite.Services.SimpleCommand。代わりにGLib.AppInfo.create_from_commandlineを使用してください
+
+原文：Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths
+筆者訳：get_button_layout_schema、get_default_close_button_position、Granite.Services.Paths などの、不使用のユーティリティー
+Google翻訳：get_button_layout_schema、get_default_close_button_position、Granite.Services.Pathsなどの古い未使用のユーティリティ
+
+原文：Old unused widgets like CollapsiblePaned and CompositedWindow
+筆者訳：CollapsiblePaned、CompositedWindow などの、不使用のウィジェット
+Google翻訳：CollapsiblePanedやCompositedWindowなどの古い未使用のウィジェット
+
+原文：Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default
+筆者訳：Granite.SourceList にデフォルトで Gtk.STYLE_CLASS_SIDEBAR を適用されるように変更
+Google翻訳：Granite.SourceListは、デフォルトでGtk.STYLE_CLASS_SIDEBARを取得するようになりました
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：New Settings class to share Pantheon desktop settings with apps
+筆者訳：Pantheon デスクトップの設定をアプリと共有できる、新しい Settings クラスを追加
+Google翻訳：Pantheonデスクトップ設定をアプリと共有するための新しい設定クラス
+
+原文：Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style
+筆者訳：ダークスタイルなどの用途を想定した、ユーザーの配色設定を取得できる Settings.prefers_color_scheme を追加
+Google翻訳：Settings.prefers_color_schemeを導入して、ユーザーの配色設定を取得します。つまり、暗いスタイルにします。
+
+原文：It is now recommended to use GLib.Settings instead of Granite.Services.Settings
+筆者訳：Granite.Services.Settings の代替として GLib.Settings を推奨します
+Google翻訳：Granite.Services.Settingsの代わりにGLib.Settingsを使用することをお勧めします
+
+原文：Better align labels in settings sidebars
+筆者訳：設定サイドバーに表示されるラベルの配置を改善
+Google翻訳：設定サイドバーのラベルをより適切に配置する
+
+原文：Make AccelLabel.label settable
+筆者訳：AccelLabel.label を書き込み可能に変更
+Google翻訳：AccelLabel.labelを設定可能にする
+
+原文：New features
+筆者訳：新機能
+Google翻訳：新機能
+
+原文：Add tooltips to source list items and their actions
+筆者訳：ソースリストの項目とアクションにツールチップを追加
+Google翻訳：ソースリストアイテムとそのアクションにツールチップを追加する
+
+原文：New AccelLabel widget for use in menus and popovers
+筆者訳：メニューとポップオーバーで利用できる AccelLabel ウィジェットを追加
+Google翻訳：メニューとポップオーバーで使用するための新しいAccelLabelウィジェット
+
+原文：Delay tab resizing when closing tabs
+筆者訳：タブを閉じる際に、タブサイズの復元を遅延させるように修正
+Google翻訳：タブを閉じるときにタブのサイズ変更を遅らせる
+

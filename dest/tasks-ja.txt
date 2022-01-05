@@ -1,0 +1,184 @@
+原文：Tasks
+筆者訳：タスク
+Google翻訳：タスク
+
+原文：Online Accounts Settings…
+筆者訳：オンラインアカウントの設定…
+Google翻訳：オンラインアカウント設定…
+
+原文：Add Task List…
+筆者訳：タスクリストを追加…
+Google翻訳：タスクリストを追加…
+
+原文：Creating a new task list failed
+筆者訳：新しいタスクリストを作成できませんでした
+Google翻訳：新しいタスクリストの作成に失敗しました
+
+原文：The task list registry may be unavailable or unable to be written to.
+筆者訳：タスクリストの登録ができないか、書き込みできない可能性があります。
+Google翻訳：タスクリストレジストリが使用できないか、書き込みできない可能性があります。
+
+原文：New list
+筆者訳：新しいリスト
+Google翻訳：新しいリスト
+
+原文：Delete “%s”?
+筆者訳：“%s”を削除しますか？
+Google翻訳：「％s」を削除しますか？
+
+原文：The list and all its tasks will be permanently deleted. If you've shared this list, other people will no longer have access.
+筆者訳：リストとそこに含まれるタスクは、完全に削除されます。このリストを共有している場合、共有相手はアクセスできなくなります。
+Google翻訳：リストとそのすべてのタスクは完全に削除されます。このリストを共有すると、他の人はアクセスできなくなります。
+
+原文：Delete Anyway
+筆者訳：了解して削除
+Google翻訳：とにかく削除
+
+原文：Deleting the task list failed
+筆者訳：タスクリストを削除できませんでした
+Google翻訳：タスクリストの削除に失敗しました
+
+原文：Today
+筆者訳：今日
+Google翻訳：今日
+
+原文：Yesterday
+筆者訳：昨日
+Google翻訳：昨日
+
+原文：Tomorrow
+筆者訳：明日
+Google翻訳：明日
+
+原文：Edit…
+筆者訳：編集…
+Google翻訳：編集…
+
+原文：Set Due
+筆者訳：期日を設定
+Google翻訳：期限を設定
+
+原文：Remove
+筆者訳：削除
+Google翻訳：削除する
+
+原文：Set Location
+筆者訳：場所を設定
+Google翻訳：場所を設定
+
+原文：Arriving
+筆者訳：目的地
+Google翻訳：到着
+
+原文：Leaving
+筆者訳：出発地
+Google翻訳：去る
+
+原文：John Smith OR Example St.
+筆者訳：場所を入力
+Google翻訳：ジョンスミスまたは例セント。
+
+原文：Show Completed
+筆者訳：完了したタスクを表示
+Google翻訳：完了したショー
+
+原文：Delete List…
+筆者訳：リストを削除…
+Google翻訳：リストを削除…
+
+原文：Could not change the task list color
+筆者訳：タスクリストの色を変更できませんでした
+Google翻訳：タスクリストの色を変更できませんでした
+
+原文：The task list registry may be unavailable or write-protected.
+筆者訳：タスクリストの登録が無効であるか、書き込み禁止に設定されている可能性があります。
+Google翻訳：タスクリストレジストリが使用できないか、書き込み保護されている可能性があります。
+
+原文：Scheduled
+筆者訳：繰り返し設定のあるタスク
+Google翻訳：予定
+
+原文：Connecting…
+筆者訳：接続試行中です…
+Google翻訳：接続中…
+
+原文：Moving task failed
+筆者訳：タスクを移動できませんでした
+Google翻訳：移動タスクが失敗しました
+
+原文：There was an error while moving the task to the desired list.
+筆者訳：指定したリストにタスクを移動する間にエラーが発生しました。
+Google翻訳：タスクを目的のリストに移動中にエラーが発生しました。
+
+原文：Waiting for login credentials
+筆者訳：ログイン情報を待機しています
+Google翻訳：ログイン資格情報を待っています
+
+原文：Currently disconnected from the (possibly remote) data store
+筆者訳：(リモートの) データストアから切断されています
+Google翻訳：現在（おそらくリモートの）データストアから切断されています
+
+原文：SSL certificate trust was rejected for the connection
+筆者訳：SSL 証明書が拒否されました
+Google翻訳：接続に対してSSL証明書の信頼が拒否されました
+
+原文：No Tasks
+筆者訳：タスクがありません
+Google翻訳：タスクなし
+
+原文：Completing task failed
+筆者訳：タスクを完了済みとしてマークできませんでした
+Google翻訳：タスクの完了に失敗しました
+
+原文：The task registry may be unavailable or unable to be written to.
+筆者訳：タスクを登録できないか、書き込みできない可能性があります。
+Google翻訳：タスクレジストリが使用できないか、書き込みできない可能性があります。
+
+原文：Updating task failed
+筆者訳：タスクを更新できませんでした
+Google翻訳：タスクの更新に失敗しました
+
+原文：Removing task failed
+筆者訳：タスクを削除できませんでした
+Google翻訳：タスクの削除に失敗しました
+
+原文：Edit Name and Appearance
+筆者訳：名前や外観を変更します
+Google翻訳：名前と外観を編集する
+
+原文：Adding task failed
+筆者訳：タスクを追加できませんでした
+Google翻訳：タスクの追加に失敗しました
+
+原文：Renaming task list failed
+筆者訳：タスクリストの名前を変更できませんでした
+Google翻訳：タスクリストの名前変更に失敗しました
+
+原文：%s at %s
+筆者訳：%sの %s
+Google翻訳：％sで％s
+
+原文：Arriving: %s
+筆者訳：目的地: %s
+Google翻訳：到着：％s
+
+原文：Leaving: %s
+筆者訳：出発地: %s
+Google翻訳：離れる：％s
+
+原文：Cancel
+筆者訳：キャンセル
+Google翻訳：キャンセル
+
+原文：Save Changes
+筆者訳：変更を保存
+Google翻訳：変更内容を保存
+
+原文：Add Task
+筆者訳：タスクを追加
+Google翻訳：タスクを追加
+
+原文：Delete Task
+筆者訳：タスクを削除
+Google翻訳：タスクの削除
+

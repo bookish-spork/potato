@@ -1,0 +1,120 @@
+原文：Screenshot
+筆者訳：スクリーンショット
+Google翻訳：スクリーンショット
+
+原文：Save images of the screen
+筆者訳：画面の画像を保存します
+Google翻訳：画面の画像を保存する
+
+原文：A simple screenshot tool. Capture whole screen shots, selected area shots, current window shots, and timed shots.
+筆者訳：シンプルなスクリーンショットツールです。画面全体、選択した範囲、現在のウィンドウのほか、遅延させたスクリーンショットも取得できます。
+Google翻訳：シンプルなスクリーンショットツール。スクリーンショット全体、選択した領域のショット、現在のウィンドウショット、および時間指定のショットをキャプチャします。
+
+原文：Minor updates:
+筆者訳：軽微な更新:
+Google翻訳：マイナーアップデート：
+
+原文：Update elementary runtime to 6.1
+筆者訳：elementary ランタイムのバージョンを 6.1 にアップデート
+Google翻訳：基本ランタイムを6.1に更新します
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Translation updates
+筆者訳：翻訳の更新
+Google翻訳：翻訳の更新
+
+原文：New features:
+筆者訳：新機能:
+Google翻訳：新機能：
+
+原文：Support the dark style
+筆者訳：ダークスタイルに対応
+Google翻訳：ダークスタイルをサポート
+
+原文：Drag and Drop the preview image from the save dialog
+筆者訳：保存ダイアログからプレビュー画像をドラッグアンドドロップできる機能を追加
+Google翻訳：保存ダイアログからプレビュー画像をドラッグアンドドロップします
+
+原文：Drag to move the window from anywhere
+筆者訳：ウィンドウをドラッグして移動できるように修正
+Google翻訳：ドラッグしてウィンドウを任意の場所から移動します
+
+原文：Show details for errors if they occur
+筆者訳：エラーが発生した場合に詳細を表示するように修正
+Google翻訳：エラーが発生した場合は、エラーの詳細を表示します
+
+原文：Fix minor visual issues with selection items
+筆者訳：選択項目に関する軽微な視覚的な不具合を修正
+Google翻訳：選択項目に関する小さな視覚的な問題を修正します
+
+原文：Close when pressing the Escape key
+筆者訳：Esc キーの押下時にアプリを終了するように修正
+Google翻訳：エスケープキーを押すと閉じる
+
+原文：Revert from redacted font as soon as possible to avoid getting stuck in some situations
+筆者訳：特定の状況下においてアプリがフリーズするのを防ぐため、なるべく早くダミーフォントから復元するように修正
+Google翻訳：状況によっては行き詰まらないように、できるだけ早く編集済みフォントから元に戻してください
+
+原文：Always respect delay setting
+筆者訳：遅延の設定を常に反映するように修正
+Google翻訳：常に遅延設定を尊重する
+
+原文：Increase minimum timeout to 300
+筆者訳：タイムアウトの最小値を300ミリ秒に増加
+Google翻訳：最小タイムアウトを300に増やします
+
+原文：Fix Alt+F4 key behavior
+筆者訳：Alt+F4 キー押下時の挙動を修正
+Google翻訳：Alt + F4キーの動作を修正
+
+原文：Icons now represent the capture area options
+筆者訳：取得範囲を表すアイコンに変更
+Google翻訳：アイコンがキャプチャ領域のオプションを表すようになりました
+
+原文：Minor bug fixes
+筆者訳：軽微なバグの修正
+Google翻訳：マイナーなバグ修正
+
+原文：Fix ESC key behavior
+筆者訳：Esc キー押下時の挙動を修正
+Google翻訳：ESCキーの動作を修正
+
+原文：Append scaling factor to filename
+筆者訳：ファイル名にスケールファクターを追加するように変更
+Google翻訳：ファイル名に倍率を追加
+
+原文：New default folder to save screenshots
+筆者訳：スクリーンショットのデフォルトの保存先を変更
+Google翻訳：スクリーンショットを保存するための新しいデフォルトフォルダ
+
+原文：Remember main window position for reappearing window
+筆者訳：メインウィンドウの位置を記録し、再度表示されるウィンドウで復元するように変更
+Google翻訳：再表示ウィンドウのメインウィンドウの位置を覚えておいてください
+
+原文：Play shutter sound when a screenshot is taken
+筆者訳：スクリーンショットの取得時にシャッター音が鳴るように変更
+Google翻訳：スクリーンショットを撮ったときにシャッター音を鳴らす
+
+原文：Fix extra black area on HiDPI screenshots
+筆者訳：HiDPI スクリーンショットでの余分な黒い部分を修正
+Google翻訳：HiDPIスクリーンショットの余分な黒い領域を修正
+
+原文：Snapshot;Screenshot;
+筆者訳：Snapshot;Screenshot;スナップショット;スクリーンショット;
+Google翻訳：スナップショット;スクリーンショット;
+
+原文：Screenshot of the Whole Screen
+筆者訳：画面全体のスクリーンショット
+Google翻訳：画面全体のスクリーンショット
+
+原文：Screenshot of the Current Window
+筆者訳：現在のウィンドウのスクリーンショット
+Google翻訳：現在のウィンドウのスクリーンショット
+
+原文：Screenshot of a Selected Area
+筆者訳：選択範囲のスクリーンショット
+Google翻訳：選択したエリアのスクリーンショット
+

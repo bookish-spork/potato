@@ -1,0 +1,188 @@
+原文：Calculator
+筆者訳：電卓
+Google翻訳：電卓
+
+原文：Show extended functionality
+筆者訳：追加機能を表示
+Google翻訳：拡張機能を表示する
+
+原文：History
+筆者訳：履歴
+Google翻訳：歴史
+
+原文：Calculate Result
+筆者訳：計算結果
+Google翻訳：結果を計算する
+
+原文：Insert last result
+筆者訳：最後の結果を挿入
+Google翻訳：最後の結果を挿入
+
+原文：Backspace
+筆者訳：一桁削除
+Google翻訳：バックスペース
+
+原文：Clear entry
+筆者訳：エントリーを消去
+Google翻訳：クリアエントリ
+
+原文：Add
+筆者訳：足し算
+Google翻訳：追加
+
+原文：Subtract
+筆者訳：引き算
+Google翻訳：減算
+
+原文：Multiply
+筆者訳：掛け算
+Google翻訳：かける
+
+原文：Divide
+筆者訳：割り算
+Google翻訳：分ける
+
+原文：Percentage
+筆者訳：パーセント
+Google翻訳：パーセンテージ
+
+原文：Set memory value
+筆者訳：値をメモリーに記録します
+Google翻訳：メモリ値を設定する
+
+原文：Recall value from memory
+筆者訳：メモリーの値を復元します
+Google翻訳：メモリから値を呼び戻す
+
+原文：Add to stored value
+筆者訳：メモリーに値を加算します
+Google翻訳：保存された値に追加
+
+原文：Subtract from stored value
+筆者訳：メモリーから値を減算します
+Google翻訳：保存された値から減算する
+
+原文：Clear memory
+筆者訳：メモリーを消去します
+Google翻訳：メモリをクリアする
+
+原文：Grand Total
+筆者訳：グランドトータル
+Google翻訳：総計
+
+原文：Start Group
+筆者訳：括弧
+Google翻訳：グループを開始
+
+原文：End Group
+筆者訳：括弧閉じる
+Google翻訳：エンドグループ
+
+原文：Exponent
+筆者訳：指数
+Google翻訳：指数
+
+原文：Root
+筆者訳：平方根
+Google翻訳：根
+
+原文：Sine
+筆者訳：サイン
+Google翻訳：正弦
+
+原文：Hyperbolic Sine
+筆者訳：ハイパボリックサイン
+Google翻訳：双曲線正弦
+
+原文：Cosine
+筆者訳：コサイン
+Google翻訳：余弦
+
+原文：Hyperbolic Cosine
+筆者訳：ハイパボリックコサイン
+Google翻訳：双曲線コサイン
+
+原文：Tangent
+筆者訳：タンジェント
+Google翻訳：正接
+
+原文：Hyperbolic Tangent
+筆者訳：ハイパボリックタンジェント
+Google翻訳：双曲線タンジェント
+
+原文：Pi
+筆者訳：円周率
+Google翻訳：円周率
+
+原文：Euler's Number
+筆者訳：自然対数の底
+Google翻訳：オイラーの数
+
+原文：Logarithm Base 10
+筆者訳：常用対数
+Google翻訳：対数基数10
+
+原文：Natural Logarithm
+筆者訳：自然対数
+Google翻訳：自然対数
+
+原文：Inverse Sine
+筆者訳：アークサイン
+Google翻訳：インバースサイン
+
+原文：Inverse Cosine
+筆者訳：アークコサイン
+Google翻訳：逆正弦
+
+原文：Inverse Tangent
+筆者訳：アークタンジェント
+Google翻訳：インバースタンジェント
+
+原文：Reciprocal
+筆者訳：逆数
+Google翻訳：相互
+
+原文：Hide extended functionality
+筆者訳：追加機能を表示しない
+Google翻訳：拡張機能を非表示にする
+
+原文：Insert a previous expression or result into the current calculation.
+筆者訳：以前使用した式や結果を現在の計算に挿入します。
+Google翻訳：前の式または結果を現在の計算に挿入します。
+
+原文：Value to insert:
+筆者訳：挿入する値:
+Google翻訳：挿入する値：
+
+原文：Result
+筆者訳：結果
+Google翻訳：結果
+
+原文：Expression
+筆者訳：式
+Google翻訳：表現
+
+原文：Clear History
+筆者訳：履歴を消去
+Google翻訳：履歴をクリア
+
+原文：Close
+筆者訳：閉じる
+Google翻訳：選ぶ
+
+原文：Insert
+筆者訳：挿入
+Google翻訳：入れる
+
+原文：'%s' is invalid.
+筆者訳：'%s' は不適切です。
+Google翻訳：'％s'は無効です。
+
+原文：Mismatched parenthesis.
+筆者訳：括弧が一致しません。
+Google翻訳：括弧の不一致。
+
+原文：'%s' is unknown.
+筆者訳：'%s' は不明です。
+Google翻訳：'％s'は不明です。
+

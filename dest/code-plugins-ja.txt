@@ -1,0 +1,96 @@
+原文：Brackets Completion
+筆者訳：ブラケット補完
+Google翻訳：ブラケットの完成
+
+原文：Complete brackets while typing
+筆者訳：文字入力中にブラケットを補完します
+Google翻訳：入力中に角かっこを入力します
+
+原文：Detect Indent
+筆者訳：インデントを検知
+Google翻訳：インデントを検出
+
+原文：Heuristically detect tab or space settings
+筆者訳：タブやスペースの設定をヒューリスティックに検知します
+Google翻訳：タブまたはスペースの設定をヒューリスティックに検出する
+
+原文：Load settings from an EditorConfig file
+筆者訳：EditorConfig ファイルから設定を読み込みます
+Google翻訳：EditorConfigファイルから設定をロードします
+
+原文：Highlight Word Selection
+筆者訳：選択された単語をハイライト
+Google翻訳：単語の選択を強調表示
+
+原文：Highlights all occurrences of words that are selected
+筆者訳：選択された単語の出現をハイライトします
+Google翻訳：選択された単語のすべての出現箇所を強調表示します
+
+原文：Markdown Actions
+筆者訳：Markdown アクション
+Google翻訳：マークダウンアクション
+
+原文：Adds keyboard shortcuts for quick editing Markdown files
+筆者訳：Markdown ファイルをすばやく編集できるキーボードショートカットを追加します
+Google翻訳：マークダウンファイルをすばやく編集するためのキーボードショートカットを追加します
+
+原文：Outline
+筆者訳：アウトライン
+Google翻訳：概要
+
+原文：Outline symbols in your current file for Vala
+筆者訳：Vala 向けの現在のファイル内のアウトライン記号
+Google翻訳：Valaの現在のファイルのアウトライン記号
+
+原文：Share files with pastebin service
+筆者訳：Pastebin サービスを利用してファイルを共有します
+Google翻訳：Pastebinサービスでファイルを共有する
+
+原文：Preserve Indent
+筆者訳：インデントを保持
+Google翻訳：インデントを保持する
+
+原文：Maintains relative indent level of pasted text
+筆者訳：貼り付けされたテキストの相対的なインデントレベルを維持します
+Google翻訳：貼り付けたテキストの相対的なインデントレベルを維持します
+
+原文：Spell Checker
+筆者訳：スペルチェッカー
+Google翻訳：スペルチェッカー
+
+原文：Checks the spelling of your documents
+筆者訳：ドキュメントのスペルをチェックします
+Google翻訳：ドキュメントのスペルをチェックします
+
+原文：Strip trailing whitespace
+筆者訳：ファイル末尾の空白を削除
+Google翻訳：末尾の空白を削除する
+
+原文：Strip trailing whitespace on save
+筆者訳：保存時にファイル末尾の空白を削除します
+Google翻訳：保存時に末尾の空白を削除します
+
+原文：Terminal
+筆者訳：ターミナル
+Google翻訳：ターミナル
+
+原文：A terminal in your code editor
+筆者訳：コードエディター内のターミナル
+Google翻訳：コードエディタの端末
+
+原文：Vim Emulation
+筆者訳：Vim エミュレーション
+Google翻訳：Vimエミュレーション
+
+原文：Use Vim commands in Code
+筆者訳：“コード”で Vim コマンドを使用します
+Google翻訳：コードでVimコマンドを使用する
+
+原文：Words Completion
+筆者訳：単語補完
+Google翻訳：言葉の完成
+
+原文：Show a completion dialog with most used words from your files
+筆者訳：ファイル内で最も使用された単語を補完するダイアログを表示します
+Google翻訳：ファイルから最もよく使用される単語を含む完了ダイアログを表示する
+

@@ -1,0 +1,44 @@
+原文：Middle-click to open Calendar
+筆者訳：“カレンダー”を開くには中クリックしてください
+Google翻訳：中クリックしてカレンダーを開きます
+
+原文：Unable To Launch Calendar
+筆者訳：“カレンダー”を起動できません
+Google翻訳：カレンダーを起動できません
+
+原文：The program "io.elementary.calendar" may not be installed
+筆者訳：プログラム "io.elementary.calendar" がインストールされていない可能性があります
+Google翻訳：プログラム「io.elementary.calendar」がインストールされていない可能性があります
+
+原文：No events this day
+筆者訳：予定はありません
+Google翻訳：この日はイベントはありません
+
+原文：Date & Time Settings…
+筆者訳：日付と時刻の設定…
+Google翻訳：日付と時刻の設定…
+
+原文：Unable To launch Tasks
+筆者訳：“タスク”を起動できません
+Google翻訳：タスクを起動できません
+
+原文：The program "io.elementary.tasks" may not be installed
+筆者訳：プログラム "io.elementary.tasks" がインストールされていない可能性があります
+Google翻訳：プログラム「io.elementary.tasks」がインストールされていない可能性があります
+
+原文：During the Day
+筆者訳：日中
+Google翻訳：日中
+
+原文：All Day
+筆者訳：終日
+Google翻訳：一日中
+
+原文：%OB, %Y
+筆者訳：%Y年%OB
+Google翻訳：％OB、％Y
+
+原文：Go to today's date
+筆者訳：今日の日付に移動
+Google翻訳：今日の日付に移動します
+

@@ -1,0 +1,48 @@
+原文：All Settings
+筆者訳：すべての設定
+Google翻訳：すべての設定
+
+原文：Specified link '%s' does not exist, going back to the main panel
+筆者訳：指定されたリンク '%s' は存在しません。メインパネルに戻ります
+Google翻訳：指定されたリンク '％s'は存在せず、メインパネルに戻ります
+
+原文：Search Settings
+筆者訳：設定を検索
+Google翻訳：検索設定
+
+原文：System Settings
+筆者訳：システム設定
+Google翻訳：システム設定
+
+原文：No Settings Found
+筆者訳：設定が見つかりませんでした
+Google翻訳：設定が見つかりません
+
+原文：Install some and re-launch Switchboard.
+筆者訳：設定項目をインストールして、Switchboard を再起動してください。
+Google翻訳：いくつかをインストールして、Switchboardを再起動します。
+
+原文：Personal
+筆者訳：パーソナル
+Google翻訳：個人的
+
+原文：Hardware
+筆者訳：ハードウェア
+Google翻訳：ハードウェア
+
+原文：Network & Wireless
+筆者訳：ネットワークと無線
+Google翻訳：ネットワークとワイヤレス
+
+原文：Administration
+筆者訳：管理
+Google翻訳：管理
+
+原文：Try changing search terms.
+筆者訳：検索用語を変更してみてください。
+Google翻訳：検索語を変更してみてください。
+
+原文：No Results for “%s”
+筆者訳：“%s” という検索結果はありません
+Google翻訳：「％s」の結果はありません
+

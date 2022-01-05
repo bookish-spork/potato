@@ -1,0 +1,20 @@
+原文：Location Services Agent
+筆者訳：位置情報サービス エージェント
+Google翻訳：位置情報サービスエージェント
+
+原文：Approve or deny access to location services
+筆者訳：位置情報サービスへのアクセスを許可あるいは拒否します
+Google翻訳：位置情報サービスへのアクセスを承認または拒否する
+
+原文：The location services agent appears whenever an application wants to request permission to use location services. From this dialog, you can see what level of access the application is requesting and either approve or deny its access to your current location.
+筆者訳：アプリケーションが位置情報サービスの使用許可を要求する際に、位置情報サービス エージェントが表示されます。このダイアログでは、アプリケーションの要求する位置情報の精度を確認したり、アプリケーションの現在地へのアクセスを許可あるいは拒否したりできます。
+Google翻訳：位置情報サービスエージェントは、アプリケーションが位置情報サービスの使用許可を要求するたびに表示されます。このダイアログから、アプリケーションが要求しているアクセスのレベルを確認し、現在の場所へのアクセスを承認または拒否することができます。
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Location Dialog
+筆者訳：位置情報ダイアログ
+Google翻訳：ロケーションダイアログ
+

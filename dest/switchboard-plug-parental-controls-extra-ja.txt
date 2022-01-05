@@ -1,0 +1,72 @@
+原文：Screen Time &amp; Limits Settings
+筆者訳：スクリーンタイムと制限の設定
+Google翻訳：スクリーンタイム＆amp;制限設定
+
+原文：Configure time limits and restrict application usage
+筆者訳：時間制限を設定し、アプリケーションの使用を制限します
+Google翻訳：時間制限を構成し、アプリケーションの使用を制限する
+
+原文：Fixes:
+筆者訳：修正点:
+Google翻訳：修正：
+
+原文：Set default Screen Time from midnight to midnight to prevent accidental lockouts
+筆者訳：誤ってロックアウトされてしまわないように、デフォルトのスクリーンタイムを深夜から深夜に変更
+Google翻訳：偶発的なロックアウトを防ぐために、デフォルトの画面時間を深夜から深夜に設定します
+
+原文：Improve reliability of app blocking
+筆者訳：アプリ実行のブロックにおける信頼性を改善
+Google翻訳：アプリのブロックの信頼性を向上させる
+
+原文：Support blocking Flatpak apps
+筆者訳：Flatpak アプリの実行をブロックできるように変更
+Google翻訳：Flatpakアプリのブロックをサポート
+
+原文：Minor updates:
+筆者訳：軽微なアップデート:
+Google翻訳：マイナーアップデート：
+
+原文：Clarify how Screen Time limits work and when they take effect
+筆者訳：スクリーンタイムの制限の仕組みや制限時間を明確化
+Google翻訳：スクリーンタイム制限がどのように機能し、いつ有効になるかを明確にします
+
+原文：New colorful avatar fallback
+筆者訳：アバター画像未設定時に背景を色付きで表示するように変更
+Google翻訳：新しいカラフルなアバターのフォールバック
+
+原文：Updated translations
+筆者訳：翻訳の更新
+Google翻訳：更新された翻訳
+
+原文：Rename to Screen Time &amp; Limits
+筆者訳：スクリーンタイムと制限の設定に名称変更
+Google翻訳：Screen Time＆amp;に名前を変更します制限
+
+原文：Show your own account
+筆者訳：利用中のアカウントも表示するように修正
+Google翻訳：自分のアカウントを表示する
+
+原文：Redesign the app chooser
+筆者訳：アプリ選択画面のデザインを変更
+Google翻訳：アプリチューザーを再設計する
+
+原文：Redesign the Screen Time view
+筆者訳：スクリーンタイムビューのデザインを変更
+Google翻訳：スクリーンタイムビューを再設計する
+
+原文：Fix an issue with removing URLs from restricted websites
+筆者訳：制限された Web サイトから URL を削除する際の不具合を修正
+Google翻訳：制限されたWebサイトからURLを削除する際の問題を修正します
+
+原文：Reliably apply time restrictions
+筆者訳：時間制限が正しく適用されるように修正
+Google翻訳：時間制限を確実に適用する
+
+原文：Manage Screen Time and Limits
+筆者訳：スクリーンタイムと制限を管理
+Google翻訳：画面の時間と制限を管理する
+
+原文：Authentication is required to change Screen Time and Limits
+筆者訳：スクリーンタイムと制限を変更するには認証が必要です
+Google翻訳：画面時間と制限を変更するには認証が必要です
+

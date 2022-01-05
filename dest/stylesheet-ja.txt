@@ -1,0 +1,32 @@
+原文：The Gtk Stylesheet for elementary OS
+筆者訳：elementary OS の Gtk スタイルシート
+Google翻訳：エレメンタリーOS用のGtkスタイルシート
+
+原文：An original Gtk.CSS stylesheet designed specifically for elementary OS and its desktop environment: Pantheon.
+筆者訳：elementary OS とそのデスクトップ環境 (Pantheon) 用にデザインされた、オリジナルの Gtk.CSS スタイルシートです。
+Google翻訳：エレメンタリーOSとそのデスクトップ環境用に特別に設計されたオリジナルのGtk.CSSスタイルシート：Pantheon。
+
+原文：Use the accent color for highlighting in IBus candidate window
+筆者訳：IBus 変換候補ウィンドウのハイライトにアクセントカラーを使うように修正
+Google翻訳：IBus候補ウィンドウでの強調表示にアクセントカラーを使用する
+
+原文：Fix font style for title labels in headerbars
+筆者訳：ヘッダーバーのタイトルラベルのフォントスタイルを修正
+Google翻訳：ヘッダーバーのタイトルラベルのフォントスタイルを修正
+
+原文：Support for Hdy.Tabbar
+筆者訳：Hdy.Tabbar への対応
+Google翻訳：Hdy.Tabbarのサポート
+
+原文：Fix accent class for Gtk.Scale
+筆者訳：Gtk.Scale のアクセントクラスを修正
+Google翻訳：Gtk.Scaleのアクセントクラスを修正
+
+原文：Flat titlebars inherit background color for views and sidebars
+筆者訳：フラットなタイトルバーがビューとサイドバーの背景色を継承するように修正
+Google翻訳：フラットタイトルバーは、ビューとサイドバーの背景色を継承します
+
+原文：Complete redesign
+筆者訳：抜本的なデザイン変更
+Google翻訳：完全な再設計
+
